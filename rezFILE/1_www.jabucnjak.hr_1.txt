@@ -1,0 +1,2244 @@
+<html dir="ltr" lang="hr-hr" xml:lang="hr-hr" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <link href="/images/favicon.ico" rel="shortcut icon"/>
+  <link href="/Jabucnjak-Retina-ikona.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/templates/jabucnjak_2.0/css/template.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin-ext" rel="stylesheet" type="text/css"/>
+  <base href="http://www.jabucnjak.hr/"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="" name="keywords"/>
+  <meta content="Hrvatska zajednica Apple korisnika!" name="description"/>
+  <title>
+  </title>
+  <link href="/components/com_jcomments/tpl/jabucnjak/style.css?v=21" rel="stylesheet" type="text/css"/>
+  <link href="http://www.jabucnjak.hr/modules/mod_ijoomla_speed_check/mod_ijoomla_speed_check.css" rel="stylesheet" type="text/css"/>
+  <link href="/modules/mod_yasb/css/chatlist.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/jabucnjak_2.0/css/djmenu.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/jabucnjak_2.0/css/djmenu_fx.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+  </style>
+  <script src="/plugins/system/mtupgrade/mootools.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/caption.js" type="text/javascript">
+  </script>
+  <script src="/modules/mod_yasb/js/yasb.js" type="text/javascript">
+  </script>
+  <script src="/modules/mod_djmenu/assets/js/djmenu.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <style>
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&amp;subset=latin-ext" rel="stylesheet" type="text/css"/>
+  <script src="/templates/jabucnjak/js/SimpleTabs.js" type="text/javascript">
+  </script>
+  <script src="/templates/jabucnjak_2.0/js/jabucnjak20.js" type="text/javascript">
+  </script>
+  <script src="/templates/jabucnjak_2.0/js/FloatingTips.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="https://www.jabucnjak.hr/index2.php?option=com_rss&amp;no_html=1" rel="alternate" title="Jabučnjak" type="application/rss+xml"/>
+  <link href="https://www.jabucnjak.hr/index2.php?option=com_fireboard&amp;func=fb_rss&amp;no_html=1&amp;Itemid=152" rel="alternate" title="Jabučnjak Forum" type="application/rss+xml"/>
+ </head>
+ <body>
+  <script type="text/javascript">
+  </script>
+  <div id="sadrzaj">
+   <div id="logo">
+    <a href="/">
+     <img alt="Jabucnjak logo" border="0" height="67" src="/templates/jabucnjak/images/logo.png" width="292"/>
+    </a>
+   </div>
+   <div class="mainmenu">
+    <ul class="dj-main" id="dj-main41">
+     <li class="dj-up Itemid140 first active">
+      <a class="dj-up_a active" href="/">
+       <span>
+       </span>
+      </a>
+     </li>
+     <li class="dj-up Itemid218">
+      <a class="dj-up_a" href="/clanci/">
+       <span>
+       </span>
+      </a>
+     </li>
+     <li class="dj-up Itemid222">
+      <a class="dj-up_a" href="/forum/">
+       <span class="dj-drop">
+       </span>
+      </a>
+      <ul class="dj-submenu">
+       <li class="submenu_top" style="display: none">
+       </li>
+       <li class="first Itemid227 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid224">
+        <a class="" href="/forum/jabucnjak/">
+        </a>
+       </li>
+       <li class="Itemid225">
+        <a class="" href="/forum/ured-za-ukradene-stvari/">
+        </a>
+       </li>
+       <li class="Itemid226">
+        <a class="" href="/forum/razno/">
+        </a>
+       </li>
+       <li class="Itemid228 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid229">
+        <a class="" href="/forum/hardver/">
+        </a>
+       </li>
+       <li class="Itemid230">
+        <a class="" href="/forum/softver/">
+        </a>
+       </li>
+       <li class="Itemid231">
+        <a class="" href="/forum/mac-os-x/">
+        </a>
+       </li>
+       <li class="Itemid232">
+        <a class="" href="/forum/mac-os-classic/">
+        </a>
+       </li>
+       <li class="Itemid233">
+        <a class="" href="/forum/video/">
+        </a>
+       </li>
+       <li class="Itemid234">
+        <a class="" href="/forum/grafika/">
+        </a>
+       </li>
+       <li class="Itemid235">
+        <a class="" href="/forum/internet-i-mreze/">
+        </a>
+       </li>
+       <li class="Itemid236">
+        <a class="" href="/forum/audio/">
+        </a>
+       </li>
+       <li class="Itemid237">
+        <a class="" href="/forum/programiranje/">
+        </a>
+       </li>
+       <li class="Itemid238">
+        <a class="" href="/forum/igre/">
+        </a>
+       </li>
+       <li class="Itemid239">
+        <a class="" href="/forum/emulacija-i-virtualizacija/">
+        </a>
+       </li>
+       <li class="Itemid240">
+        <a class="" href="/forum/switch/">
+        </a>
+       </li>
+       <li class="Itemid241 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid242">
+        <a class="" href="/forum/ipod/">
+        </a>
+       </li>
+       <li class="Itemid243">
+        <a class="" href="/forum/iphone/">
+        </a>
+       </li>
+       <li class="Itemid244">
+        <a class="" href="/forum/ipad/">
+        </a>
+       </li>
+       <li class="Itemid245">
+        <a class="" href="/forum/apple-tv/">
+        </a>
+       </li>
+       <li class="Itemid267">
+        <a class="" href="/forum/apple-watch/">
+        </a>
+       </li>
+       <li class="last Itemid246">
+        <a class="" href="/forum/ios/">
+        </a>
+       </li>
+       <li class="submenu_bot" style="display: none">
+       </li>
+      </ul>
+     </li>
+     <li class="dj-up Itemid193">
+      <a class="dj-up_a" href="/ifaq/">
+       <span>
+       </span>
+      </a>
+     </li>
+     <li class="dj-up Itemid153">
+      <a class="dj-up_a" href="/oglasi/svi-oglasi.html">
+       <span class="dj-drop">
+       </span>
+      </a>
+      <ul class="dj-submenu">
+       <li class="submenu_top" style="display: none">
+       </li>
+       <li class="first Itemid248 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid249">
+        <a class="" href="/oglasi/hardver/ponuda.html">
+        </a>
+       </li>
+       <li class="Itemid250">
+        <a class="" href="/oglasi/hardver/potraznja.html">
+        </a>
+       </li>
+       <li class="Itemid251 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid252">
+        <a class="" href="/oglasi/softver/ponuda.html">
+        </a>
+       </li>
+       <li class="Itemid253">
+        <a class="" href="/oglasi/softver/potraznja.html">
+        </a>
+       </li>
+       <li class="Itemid254 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid255">
+        <a class="" href="/oglasi/iphone-ipod/ponuda.html">
+        </a>
+       </li>
+       <li class="Itemid256">
+        <a class="" href="/oglasi/iphone-ipod/potraznja.html">
+        </a>
+       </li>
+       <li class="Itemid257 separator">
+        <a class="">
+        </a>
+       </li>
+       <li class="Itemid258">
+        <a class="" href="/oglasi/usluge/ponuda.html">
+        </a>
+       </li>
+       <li class="last Itemid259">
+        <a class="" href="/oglasi/usluge/potraznja.html">
+        </a>
+       </li>
+       <li class="submenu_bot" style="display: none">
+       </li>
+      </ul>
+     </li>
+     <li class="dj-up Itemid149">
+      <a class="dj-up_a" href="/igre.html">
+       <span>
+       </span>
+      </a>
+     </li>
+     <li class="dj-up Itemid157">
+      <a class="dj-up_a" href="/linkovi/">
+       <span class="dj-drop">
+       </span>
+      </a>
+      <ul class="dj-submenu">
+       <li class="submenu_top" style="display: none">
+       </li>
+       <li class="first Itemid260">
+        <a class="" href="/linkovi/domaci-macintosh-linkovi/">
+        </a>
+       </li>
+       <li class="Itemid261">
+        <a class="" href="/linkovi/zanimljivosti/">
+        </a>
+       </li>
+       <li class="Itemid262">
+        <a class="" href="/linkovi/trikovi-i-savjeti/">
+        </a>
+       </li>
+       <li class="Itemid263">
+        <a class="" href="/linkovi/softver/">
+        </a>
+       </li>
+       <li class="Itemid264">
+        <a class="" href="/linkovi/prijatelji-jabucnjaka/">
+        </a>
+       </li>
+       <li class="Itemid265">
+        <a class="" href="/linkovi/on-line-trgovine/">
+        </a>
+       </li>
+       <li class="last Itemid266">
+        <a class="" href="/linkovi/novosti-i-glasine/">
+        </a>
+       </li>
+       <li class="submenu_bot" style="display: none">
+       </li>
+      </ul>
+     </li>
+     <li class="dj-up Itemid159 last">
+      <a class="dj-up_a" href="/o-nama.html">
+       <span class="dj-drop">
+       </span>
+      </a>
+      <ul class="dj-submenu">
+       <li class="submenu_top" style="display: none">
+       </li>
+       <li class="first Itemid186">
+        <a class="" href="/o-nama.html">
+        </a>
+       </li>
+       <li class="Itemid177">
+        <a class="" href="/nazdravimo-luacima.html">
+        </a>
+       </li>
+       <li class="last Itemid268">
+        <a class="" href="/oglaavanje-promocija-i-samopromocija-na-jabunjaku.html">
+        </a>
+       </li>
+       <li class="submenu_bot" style="display: none">
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </div>
+   <div id="sadrzaj2">
+    <div id="glavnisadrzaj2">
+     <div id="glavnisadrzaj">
+      <table cellpadding="0" cellspacing="0" class="blog">
+       <tr>
+        <td valign="top">
+         <table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+           <td class="article_column" valign="top" width="100%">
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat35">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html" title="WWDC 2021 - fokus na korisnike">
+                 </a>
+                 <a class="comments-link" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comments" title="21 komentar">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/hardver/negdje-iznad-duge-visoko-visoko.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat36">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/hardver/negdje-iznad-duge-visoko-visoko.html" title="Negdje iznad duge, visoko, visoko...">
+                 </a>
+                 <a class="comments-link" href="/novosti/hardver/negdje-iznad-duge-visoko-visoko.html#comments" title="34 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/clanci/audio/homepod-mini-malo-para-mnogo-muzike.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat65">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/clanci/audio/homepod-mini-malo-para-mnogo-muzike.html" title="HomePod mini - malo para, mnogo muzike!">
+                 </a>
+                 <a class="comments-link" href="/clanci/audio/homepod-mini-malo-para-mnogo-muzike.html#comments" title="15 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/hardver/apple-je-pobijedio-u-arm-wrestling-natjecanju.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat36">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/hardver/apple-je-pobijedio-u-arm-wrestling-natjecanju.html" title="Apple je pobijedio u ARM wrestling natjecanju!">
+                 </a>
+                 <a class="comments-link" href="/novosti/hardver/apple-je-pobijedio-u-arm-wrestling-natjecanju.html#comments" title="123 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/iphone/iphone-xii.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat58">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/iphone/iphone-xii.html" title="iPhone XII - dobri geni za izuzetan uređaj">
+                 </a>
+                 <a class="comments-link" href="/novosti/iphone/iphone-xii.html#comments" title="69 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/hardver/atomska-razina.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat36">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/hardver/atomska-razina.html" title="Atomska razina">
+                 </a>
+                 <a class="comments-link" href="/novosti/hardver/atomska-razina.html#comments" title="27 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/clanci/hardver/mac-pro-2019-obiteljsko-stablo-djed-otac-i-sin.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat12">
+                </div>
+                <p>
+                 <i>
+                 </i>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/clanci/hardver/mac-pro-2019-obiteljsko-stablo-djed-otac-i-sin.html" title="Mac Pro 2019 - obiteljsko stablo: djed, otac i sin">
+                 </a>
+                 <a class="comments-link" href="/clanci/hardver/mac-pro-2019-obiteljsko-stablo-djed-otac-i-sin.html#comments" title="67 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/mac-os-x/wwdc-2020-mac-revolucija-ponovno.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat32">
+                </div>
+                <p>
+                </p>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/mac-os-x/wwdc-2020-mac-revolucija-ponovno.html" title="WWDC 2020 - Mac revolucija, ponovno">
+                 </a>
+                 <a class="comments-link" href="/novosti/mac-os-x/wwdc-2020-mac-revolucija-ponovno.html#comments" title="20 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/clanci/audio/apple-homepod-obris-domova-budunosti.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat65">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/clanci/audio/apple-homepod-obris-domova-budunosti.html" title="Apple HomePod - obris domova budućnosti">
+                 </a>
+                 <a class="comments-link" href="/clanci/audio/apple-homepod-obris-domova-budunosti.html#comments" title="35 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/jabucnjak/iparty-2019-druenje.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat34">
+                </div>
+                <p>
+                 <a alt="" class="outer" href="http://www.peekpoke.hr">
+                 </a>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/jabucnjak/iparty-2019-druenje.html" title="iParty 2019 druženje">
+                 </a>
+                 <a class="comments-link" href="/novosti/jabucnjak/iparty-2019-druenje.html#comments" title="40 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/hardver/adio-macbook-pro-15q-dobrodoao-macbook-pro-16q.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat36">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/hardver/adio-macbook-pro-15q-dobrodoao-macbook-pro-16q.html" title='Adio MacBook Pro 15", dobrodošao MacBook Pro 16"!'>
+                 </a>
+                 <a class="comments-link" href="/novosti/hardver/adio-macbook-pro-15q-dobrodoao-macbook-pro-16q.html#comments" title="89 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+            <div class="contentpaneopen">
+             <div class="naslovlje">
+              <div class="createdate">
+               <span>
+               </span>
+              </div>
+              <div class="contentheading">
+               <a class="contentpagetitle" href="/novosti/iphone/nemamo-letee-automobile-ali.html">
+               </a>
+              </div>
+             </div>
+             <table class="contentpaneopen">
+              <tr>
+               <td colspan="2" valign="top">
+                <div class="naslovna_ikona cat58">
+                </div>
+                <p>
+                </p>
+                <div class="jcomments-links">
+                 <a class="readmore-link" href="/novosti/iphone/nemamo-letee-automobile-ali.html" title="Nemamo leteće automobile, ali...">
+                 </a>
+                 <a class="comments-link" href="/novosti/iphone/nemamo-letee-automobile-ali.html#comments" title="40 komentara">
+                 </a>
+                </div>
+               </td>
+              </tr>
+             </table>
+            </div>
+           </td>
+          </tr>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <td align="center" valign="top">
+         <div class="pagination_container">
+          <span class="pagination">
+           <span class="pagination_wide">
+            <span class="pagenav">
+            </span>
+           </span>
+           <span class="pagenav">
+           </span>
+           <span class="pagenav">
+           </span>
+           <a class="pagenav" href="/Stranica-2.html" title="2">
+           </a>
+           <a class="pagenav" href="/Stranica-3.html" title="3">
+           </a>
+           <a class="pagenav" href="/Stranica-4.html" title="4">
+           </a>
+           <a class="pagenav" href="/Stranica-5.html" title="5">
+           </a>
+           <a class="pagenav" href="/Stranica-6.html" title="6">
+           </a>
+           <a class="pagenav" href="/Stranica-7.html" title="7">
+           </a>
+           <a class="pagenav" href="/Stranica-8.html" title="8">
+           </a>
+           <a class="pagenav" href="/Stranica-9.html" title="9">
+           </a>
+           <a class="pagenav" href="/Stranica-10.html" title="10">
+           </a>
+           <a class="pagenav" href="/Stranica-2.html" title="»">
+           </a>
+           <span class="pagination_wide last">
+            <a class="pagenav" href="/Stranica-54.html" title="Kraj">
+            </a>
+           </span>
+          </span>
+         </div>
+         <br/>
+         <br/>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </div>
+    <div id="moduli">
+     <div id="spotlight">
+      <form action="/index.php" method="post">
+       <input class="spotlight" name="searchword" placeholder="Upiši izraz za pretragu..." size="12" type="text"/>
+       <input name="task" type="hidden" value="search"/>
+       <input name="option" type="hidden" value="com_search"/>
+      </form>
+     </div>
+     <div id="moduli2">
+      <link href="/modules/mod_modragulizer/css/mod_modragulizer.css" rel="stylesheet" type="text/css"/>
+      <script language="javascript" src="/modules/mod_modragulizer/js/mod_modragulizer.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+      </script>
+      <style type="text/css">
+      </style>
+      <div class="mdrglzrHolder" id="Mdgzlr1">
+       <div class="mdrglzr_box" id="Mdgzlr11" style="left: 0px; top: 0px; position: relative;">
+        <div class="mdrglzr_minimize initial_hide" title="Minimize">
+        </div>
+        <div class="mdrglzr_hdl initial_cursor" id="hdl_Mdgzlr11">
+         <h3>
+         </h3>
+        </div>
+        <div class="mdrglzr_body" id="bodyMdgzlr11">
+         <div id="yasb">
+          <div id="yasbChatOutput">
+           <div class="latestMsg">
+            <span class="latestMsg">
+            </span>
+            <em id="yasbLastPost">
+            </em>
+           </div>
+           <ul id="yasbShoutList">
+            <li>
+             <span class="floTip" title="30.08.21 | 18:32">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=10589">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="30.08.21 | 18:09">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=3471">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="26.08.21 | 15:49">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="26.08.21 | 10:50">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=17039">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="26.08.21 | 10:22">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=62">
+               </a>
+              </span>
+              <a href="//ram-servis.hr" target='\"_blank\"'>
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="26.08.21 | 10:22">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=62">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="26.08.21 | 10:06">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=17039">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="19.08.21 | 15:24">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=17706">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="19.08.21 | 15:24">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=17706">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 23:30">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=12947">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 23:29">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=12947">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 20:27">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 08:57">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=12947">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 08:56">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=12947">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="15.08.21 | 06:14">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 20:50">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=8904">
+               </a>
+              </span>
+              <a href="//plaviured.hr/vodici/ishoditi-pdv-id-broj/" target='\"_blank\"'>
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 20:49">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=8904">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 17:53">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=3471">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 10:44">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=8904">
+               </a>
+              </span>
+              <a href="//www.cimerfraj.hr/propisi-i-zakoni/pdv-id-broj-iznajmljivaci" target='\"_blank\"'>
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 10:41">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=8904">
+               </a>
+              </span>
+              <a href="//partner.booking.com/en-gb/community/guest-payments-finances/vat-number-request" target='\"_blank\"'>
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 09:18">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=12947">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="14.08.21 | 08:57">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=3471">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="12.08.21 | 11:52">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5664">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="12.08.21 | 10:01">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="12.08.21 | 10:00">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="12.08.21 | 10:00">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+              <a href="//www.usinflationcalculator.com/" target='\"_blank\"'>
+              </a>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="12.08.21 | 08:02">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5664">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 22:51">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=516">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 19:20">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 19:19">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 19:14">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 17:50">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=516">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 17:49">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=516">
+               </a>
+              </span>
+              <img alt=":)" src="http://www.jabucnjak.hr/images/smilies/smile.gif" style="vertical-align: middle;border:0px;"/>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 04:58">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="11.08.21 | 04:56">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="10.08.21 | 17:39">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=17039">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="10.08.21 | 07:48">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=26714">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 11:08">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 11:07">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=20245">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 09:10">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 09:06">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:50">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:48">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:47">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:46">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:43">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:42">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:42">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:42">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5741">
+               </a>
+              </span>
+             </span>
+            </li>
+            <li>
+             <span class="floTip" title="09.08.21 | 08:22">
+              <span class="uname">
+               <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=5664">
+               </a>
+              </span>
+             </span>
+            </li>
+           </ul>
+          </div>
+          <div id="yasbMessage" style="display:none;">
+          </div>
+          <form id="yasbChatForm" method="post" name="yasbChatForm">
+           <p>
+           </p>
+           <div style="text-align:right;">
+           </div>
+           <input id="yasbID" name="yasbID" type="hidden" value="28708"/>
+           <input id="yasbTime" name="yasbPost" type="hidden" value="1630348342"/>
+          </form>
+         </div>
+         <script type="text/javascript">
+         </script>
+        </div>
+       </div>
+       <div class="mdrglzr_box" id="Mdgzlr12" style="left: 0px; top: 0px; position: relative;">
+        <div class="mdrglzr_minimize initial_hide" title="Minimize">
+        </div>
+        <div class="mdrglzr_hdl initial_cursor" id="hdl_Mdgzlr12">
+         <h3>
+         </h3>
+        </div>
+        <div class="mdrglzr_body" id="bodyMdgzlr12">
+         <form action="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=login" class="cbLoginForm" id="mod_loginform" method="post" style="margin:0px;">
+          <div class="mod_login">
+           <div id="form_login_username">
+            <label for="mod_login_username">
+            </label>
+            <br/>
+            <input class="inputbox" id="mod_login_username" name="username" size="14" type="text"/>
+           </div>
+           <div id="form_login_password">
+            <label for="mod_login_password">
+            </label>
+            <br/>
+            <input class="inputbox" id="mod_login_password" name="passwd" size="14" type="password"/>
+           </div>
+           <span class="cbLoginButtonSpan">
+            <input class="button" name="Submit" type="submit" value="Prijavi se"/>
+           </span>
+           <input checked="checked" id="mod_login_remember" name="remember" type="checkbox" value="yes"/>
+           <span id="mod_login_remembermetext">
+            <label for="mod_login_remember">
+            </label>
+           </span>
+           <input name="op2" type="hidden" value="login"/>
+           <input name="lang" type="hidden" value="hrvatski"/>
+           <input name="force_session" type="hidden" value="1"/>
+           <input name="return" type="hidden" value="B:aHR0cDovL3d3dy5qYWJ1Y25qYWsuaHIvaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZhbXA7dmlldz1mcm9udHBhZ2UmYW1wO0l0ZW1pZD0xNDA="/>
+           <input name="message" type="hidden" value="0"/>
+           <input name="loginfrom" type="hidden" value="loginmodule"/>
+           <input name="cbsecuritym3" type="hidden" value="cbm_24dc3fbe_114bada3_08c770bf5c2a29af33533dc441e950c1"/>
+           <div class="cbLoginbuttons">
+            <a class="mod_login_register" href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=registers">
+            </a>
+            <a class="mod_login_lostpw" href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=lostpassword">
+            </a>
+           </div>
+          </div>
+         </form>
+        </div>
+       </div>
+       <div class="mdrglzr_box" id="Mdgzlr13" style="left: 0px; top: 0px; position: relative;">
+        <div class="mdrglzr_minimize initial_hide" title="Minimize">
+        </div>
+        <div class="mdrglzr_hdl initial_cursor" id="hdl_Mdgzlr13">
+         <h3>
+         </h3>
+        </div>
+        <div class="mdrglzr_body" id="bodyMdgzlr13">
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=5105" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=5038" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=186" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=24493" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=11620" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=5741" title="Tko je?">
+         </a>
+         <a href="http://www.jabucnjak.hr/index.php?option=com_comprofiler&amp;task=userprofile&amp;user=62" title="Tko je?">
+         </a>
+        </div>
+       </div>
+       <div class="mdrglzr_box" id="Mdgzlr14" style="left: 0px; top: 0px; position: relative;">
+        <div class="mdrglzr_minimize initial_hide" title="Minimize">
+        </div>
+        <div class="mdrglzr_hdl initial_cursor" id="hdl_Mdgzlr14">
+         <h3>
+         </h3>
+        </div>
+        <div class="mdrglzr_body" id="bodyMdgzlr14">
+         <div id="jabnovo">
+          <div class="tabbertab">
+           <h4>
+           </h4>
+           <ul class="klatest-items" id="Teme">
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195180" title="Moonlike:  dario15 
+ Pa drugi svjetski rat su praktički oni dobili (+Sovjetsko topovsko meso). Proizvodili su oružje, municiju, vozila, avione, brodo">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/188823-playstation-5/Stranica-16.html#195179" title="Razlika između novog i strog pasivnog ventilatora:">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/195151-macbook-m1-dual-monitor.html#195172" title="jura22: Samo da javim, HUB s HDMI u koji je uštekan kabel a na drugoj strani je DVI, ne radi. Pali-gasi mponitor kao da ne dozvoljava digitalni sadrža">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/iphone/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/iphone/195158-iphone-13.html#195159" title="Nisam previše gledao predviđanja, mene to sve više zanima na nekoj općenitoj tehnološkoj razini, nego li kao potencijalnog kupca. Ja sam još na Sedmic">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/183241-coronavirus-covid-19/Stranica-55.html#195155" title="Bez komentara:
+https://www.index.hr/vijesti/clanak/kriticari-ismijavaju-novozelandski-zero-covid-pristup-pandemiji/2300259.aspx?fbclid=IwAR2tUlwD18qI">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/195100-airport-time-capsule-2tb.html#195149" title="Oni nešto službeno podržavaju sedam godina. To svi znamo. Ako je ovaj model izbačen 2013., lani mu je istekla mogućnost popravka za novce  u  ovlašte">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/iphone/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/iphone/195098-americki-iphone.html#195146" title="Mislav2222: Ako je iphone inlocked i sim free ( dakle kupljen u apple
+Store u USA ) radit ce svugdje i na svakoj mrezi.
+Da li postoje neke oznake mode">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/194430-mba-m1-ili-mbp-m1.html#195132" title="Dok god postoji napomena &amp;quot;Designed for iPad. Not verified for macOS&amp;quot; program ne radi na M1 MAC-u. 
+Vjerojatno nema nekih tehničkih ">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/softver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/softver/195048-air-m1-povezivanje-na-canon-printer-pixma-serije.html#195096" title="A printeri su općenito drek od svih strana... mislim evo ovaj siroti primjer, u 2021. godini postoji &amp;quot;WINDOWS ONLY&amp;quot; printer... a ima">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/softver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/softver/194739-adobe-plan.html#195033" title="Fakat svaka preporuka affinity programe">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/194934-macbook-pro-m1-gdje-kupiti-u-hrvatskoj.html#195016" title="99,9% vjerojatnosti je za nigdje :/ 
+I sam sam u toj nedoumici bio za 16gb ram model i odustao sam od toga te na kraju uzeo Air sa 8gb ram i 512ssd j">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194308-kucna-fotonaponska-elektrana.html#195014" title="Daddo: @smayoo: za bilo kakav oblik turizma danas
+
+Osim ilegalnog turizma, naravno.  
+
+ Da ne pričam o tome da EES na 3,68 ti nitko ne bi smio izd">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+           </ul>
+          </div>
+          <div class="tabbertab">
+           <h4>
+           </h4>
+           <ul class="klatest-items" id="Poruke">
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195180" title="Moonlike:  dario15 
+ Pa drugi svjetski rat su praktički oni dobili (+Sovjetsko topovsko meso). Proizvodili su oružje, municiju, vozila, avione, brodo">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/188823-playstation-5/Stranica-16.html#195179" title="Razlika između novog i strog pasivnog ventilatora:">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/188823-playstation-5/Stranica-16.html#195178" title="Ma. Naravno da jesu.
+Nikako da postam te slike, jednostavno mi ne da.
+Jer poanta Austina Evansa čiji sam video clip linkao je da je prvoj generaciji">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195177" title="dario15 
+ Pa drugi svjetski rat su praktički oni dobili (+Sovjetsko topovsko meso). Proizvodili su oružje, municiju, vozila, avione, brodove za prakt">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195176" title="Moonlike: drlovric
+ Pricao sam nekolicinom kolega Amera, sto vojnika sto civila, svi do jednog se slazu da je ovo traljavo i nespretno izvedeno povla">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/188823-playstation-5/Stranica-16.html#195175" title="Ako su performanse iste - za ostalo me nije briga! :)">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195174" title="drlovric
+ Pricao sam nekolicinom kolega Amera, sto vojnika sto civila, svi do jednog se slazu da je ovo traljavo i nespretno izvedeno povlacanje. I d">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/188823-playstation-5/Stranica-16.html#195173" title="Da se vratimo s offtopica:
+Upravo izašla 1. revizija PS5
+
+Kako je na svom YT kanalu predstavio u detalje Austin Evans - u Japanu i Australiji (vjer">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/195151-macbook-m1-dual-monitor.html#195172" title="jura22: Samo da javim, HUB s HDMI u koji je uštekan kabel a na drugoj strani je DVI, ne radi. Pali-gasi mponitor kao da ne dozvoljava digitalni sadrža">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/195151-macbook-m1-dual-monitor.html#195171" title="Samo da javim, HUB s HDMI u koji je uštekan kabel a na drugoj strani je DVI, ne radi. Pali-gasi mponitor kao da ne dozvoljava digitalni sadržaju pusti">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/hardver/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/hardver/195151-macbook-m1-dual-monitor.html#195170" title="drlovric: @Robert:
+
+Drago mi je cuti da je M1 necujan sa ultrawide monitorom. Ja imam 34&amp;quot; 1440. Planiram 49&amp;quot; uzeti uskoro, al me s">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a href="/forum/razno/" rel="follow" title="">
+             </a>
+             <a class="floTip strong" href="/forum/razno/194631-afganistan/Stranica-8.html#195169" title="@drlovric - apsolutno se slažem sa svakom riječi koju si napisao.
+Zato i kažem, sveukupno gledajući - ovo se ne može gledati kao američka pobjeda.
+I">
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+           </ul>
+          </div>
+          <div class="tabbertab">
+           <h4>
+           </h4>
+           <ul id="Clanci">
+            <li>
+             <a class="weblinks" href="/clanci/audio/homepod-mini-malo-para-mnogo-muzike.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/internet/privatno-cloud-rjeenje.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/hardver/retina-macbook-pro-13q-neprilagoeni-genije.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/ipad/dudlanje-na-koljenima.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/hardver/siri-prebaci-na-hrt.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/igre/ozaiko-radijalno-drugaija-slagalica.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/igre/elite-dangerous-osam-bita-na-kvadrat.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/programiranje/kvarcanje-usred-ljeta.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/hardver/retina-macbook-zlatni-delies.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/hardver/snaga-klade-valja-a-valjak-teraflopse.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/grafika/kog-nacrtam-bude-ziv.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+            <li>
+             <a class="weblinks" href="/clanci/hardver/petica-za-5k.html">
+              <strong>
+              </strong>
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="tabbertab">
+           <h4>
+           </h4>
+           <ul id="Oglasi">
+            <li>
+             <a class="weblinks floTip" href="/oglasi/macbook-pro-13-mid-2012-icore-i7-16-2-6702.html?Itemid=140" title="Prodajem Macbook Pro 13” Mid 2012 u odličnom stanju. 
+Slike u prilogu, manja oštećenja na zaštitnoj ovojnici kabela punjača. 
+
+Spec:
+- 2,9 Ghz Dual Core Intel Core i7
+- 16 GB Ram
+- 240 SSD
+- Adapteri: HDMI, VGA">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/apple-watch-se-40-mm-space-gray-6701.html?Itemid=140" title="Space Gray Aluminum Case with Sport Band
+Star 4 mjeseca - kupljen u iStyleu
+Stanje 10/10
+Račun, kutija, punjač
+Dodatni remen - Next One Apple Watch Sport Loop (šareni)">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a adresi="" ambalazu="" bi="" btc="" cijena:="" class="weblinks floTip" dalje="" dana="" dogovoru.="" dostupnost:="" ekvivalent="" eur="" godinama="" href="/oglasi/imac-pro-2017-5k-custom-konfigurac-6700.html?Itemid=140" hrk="" i="" ili="" ima="" inace="" instalaciju.="" je="" jos="" komplet="" koristi="" koristio="" laptop="" logitech="" master="" moguce="" mx="" na="" nije="" novu="" obzirom="" odraditi="" original="" osim="" ovo="" po="" pocistiti="" postom:="" potrebno="" preuzeti="" problem.="" se="" slanje="" snagu="" stoga="" sve="" title="**PRODAJE SE**
+
+iMac Pro (2017) - 5K - custom konfiguracija
+
+CPU: 3.2 GHz 8-core Intel Xeon W
+RAM: 64GB DDR 4 ECC
+GPU: Radeon Pro Vega 56 8GB
+SSD: 1TB NVMe-based
+OS: Big Sur (v. 11.5.1)
+
+
+DELL P2715Q - Ultra HD 4K monitor
+
+4K IPS panel i adapter sa mDP na USB-C
+(manufactured Nov 2015)
+
+
+Periferija:
+Apple Magic Keyboard 2 space grey w. numeric keypad (US EN) - originalno sa iMac Pro (koristena prva 2 dana, nakon toga stoji u foliji u kutiji)
+Apple Magic Mouse 2 space grey - originalno sa iMac Pro (koristen ukupno mjesec dana)
+
+Apple Magic Keyboard 2 white (US EN)
+Apple Magic Trackpad 2 white
+Logitech MX Master 2S
+
+_____________________
+
+Odlican setup za sve koji se bave video/photo/audio/modeliranjem/developmentom/etc.
+
+Prodaje se sve u paketu.
+
+Razlog prodaje:
+Nazalost, tesko je putovati sa ovim :)
+Prelazim na 13" u="" vidjeti="" za="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/prodajem-iphone-11-64gb-crni-sim-free-6699.html?Itemid=140" title="iPhone 11, 64GB,sim free
+Potpuno novi i nekorišteni, zapakiran, s računom i jamstvom, kupljen u HR.
+Za cash dogovorna cijena.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/p-apple-macbook-pro-13-mid-2012-6697.html?Itemid=140" title="2,5 GHz Dual-Core Intel Core i5
+10 GB 1600 MHz DDR3
+SSD Samsung 850 EVO 500GB
+Intel HD Graphics 4000
+
+macOS Catalina 10.15.7
+Baterija drži cca 4h 30m
+Zadnji MBP model koji se može nadograditi (SDD, RAM).
+Punjač i kutija.
+
+U odličnom stanju, zamjene isključene.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/apple-macbook-pro-15-retina-touch-bar-6696.html?Itemid=140" title="Kao nov, 10/10
+Broj ciklusa: 160
+Model: 2018
+Kupljen 2. polovica 2019.
+
+Originalna oprema, kutija, papiri...
+
+16GB RAM, i7 6-core....
+Specifikacije: https://support.apple.com/kb/SP776?locale=hr_HR">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a ako="" cijena="" class="weblinks floTip" ddr="" ddr-a="" dijelova.="" dijelove="" dodatno="" dogovoru="" drive-a="" dvd-rw="" gb="" grafi="" hd-a="" href="/oglasi/prodajem-apple-power-mac-g4-dual-867-mhz-6693.html?Itemid=140" i="" ili="" instaliran="" isti="" iz="" jo="" kontakt="" macosx="" mail.="" mb="" model.="" na="" napajanje="" ne="" netko="" nudim="" od="" osim="" pa="" pali="" pioneer="" po="" preporu="" prve="" sa="" sdram-a="" slika.="" slota="" te="" title="Prodajem navedeno računalo. Funkcionalno, ponekad " toga="" treba="" upit="" ventilator="" vi="" wd="" za="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/mac-pro-5.1-2010-komponente-6692.html?Itemid=140" title="Dijelovi Mac Pro 5.1, prodaja zbog krivo naručenog traya iz USA. Znaci problemi s kompatibilnošću,sve radi 100%, provjera u Virtus mreža  
+2x Xeon x5690 -  1500 - prodano van jabucnjaka
+Samsung 8x8 gb ECC 1333 - 1000
+Hynix 6x8 gb ECC 1333 - 750 - prodano kolegi
+Mac Pro 5.1 tray, dual CPU - 3500 (VAZNO, tray za 2010-2012)
+Sapphire Pulse Radeon RX560 4GB DDR5 - 1100 - prodano van jabucnjaka
+PSU - 1200
+Cijene nisu fix, za bundle popust
+
+fotke: https://bit.ly/2T1d1io
+
+whatsapp">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a :="" baterija="" big="" class="weblinks floTip" core="" ddr3="" do="" dr="" dual-core="" early="" ghz="" graphics="" href="/oglasi/macbook-pro-retina-2.9-500gb-13inch-e-6691.html?Itemid=140" i="" i5="" intel="" intenzivnijih="" iris="" jakom="" je="" ko="" laptop="" lo="" macos="" na="" oguljena="" osim="" pa="" potro="" praksi="" radi="" reduced="" retina="" sata="" specs:="" storage="" suncu="" sur="" title="Prodajem korišteni MacBook Pro 13-inch, 2015. Kupljen 2016. u Finderu i korišten 90% vremena kao desktop računalo. 
+Sve radi odlično, jedini problemi su: " toga="" u="" vidljivost="" zmaj.="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/bcm94360cs2-wifi-bt-kartica-6690.html?Itemid=140" title="Kupujem wifi bluetooth karticu BCM94360CS2.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a baterija="" bez="" big="" boja="" bootcamp="" ciklusa="" class="weblinks floTip" dajem="" estetski="" funkcionalnos="" gb="" gold.="" gornjoj="" href="/oglasi/macbook-12-2018.-5500kn-odlicno-stanje-6689.html?Itemid=140" i="" instaliran="" ispod="" istyleu="" je="" kn="" kori="" kra="" kupljen="" laptop="" m3="" na="" neoprenski="" njega="" o="" odli="" originalno="" osim="" pakiranje.="" potpuno="" procesor="" punja="" punjenja="" ram="" rose="" savr="" sitne="" sleeve.="" slike="" ssd="" stanju="" stanju.="" strani="" sur="" sve="" tako="" title="Za 5500Kn prodajem Macbook 12" u="" udubine="" uz="" vrijeme.="" vrlo="" windows="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/macbook-pro-13-inch-mid-2012-6688.html?Itemid=140" title="MacBook Pro (13-inch, Mid 2012)
+Processor 2,5 GHz Dual-Core Intel Core i5
+Memory 8GB 1600 MHz DDR3
+Graphics Intel HD Graphics 4000 1536 MB
+
+macOS Catalina
+
+120GB SSD naknadno ugrađen
+
+Cijena po dogovoru.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/p-iphone-12-256gb-6687.html?Itemid=140" title="Prodajem iPhone 12 256gb, crni, kutija, 10/10 stanje bez tragova korištenja/ogrebotina. Staklo na ekranu od prvog dana. Bez zamjena.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" crucial="" ddr4="" disk:="" gb="" ghz="" godine="" grafika:="" grafike.="" hr="" href="/oglasi/imac-27-5k-35ghz-32gb-ram-2tb-ssd-6686.html?Itemid=140" i="" i5="" ide="" intel="" ispravno.="" keyboard="" kori="" kupljeno="" layoutom.="" magic="" memorija:="" nepu="" obrade="" okru="" poslove="" potpunosti="" pro="" procesor:="" px="" quad-core="" ra="" radeon="" retina="" s="" ssd="" staro="" title="iMac 27" u="" uz="" x="" za="" zagrebu="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a barom="" baterije.="" bez="" ciklusa="" class="weblinks floTip" href="/oglasi/mb-pro-13-late-2016-touch-bar-space-gra-6685.html?Itemid=140" i="" i5="" intel="" isklju="" kao="" late="" nov="" ogrebotine="" porta="" punjenja="" s="" title="Prodajem MacBook Pro 13" touch="" zamjene="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/prodajem-iphone-x-6684.html?Itemid=140" title="Prodaje se iPhone X 256 GB. Bez ijedne ogrebotine i tragova korištenja.
+Zdravlje baterije na 87%.
+Cijena fiksna">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/ableconn-2-port-sata-iii-6g-pcie-kartica-6683.html?Itemid=140" title="Ableconn PEXSA115A 2-Port SATA 6G PCI Express x2 Host Adapter Card - AHCI 6Gbps SATA III Port-Multiplier PCIe 2.0 Low Profile Controller Card (ASMedia ASM1062)
+
+Novo, nekorišteno, original zapakirano.
+
+http://ableconn.com/products_2.php?gid=152
+
+MacPro 1,1 &amp; 2,1 (PCIe 1.0): 190 MB/s
+MacPro 3,1 (PCIe 1.0 / 2.0): 190 / 750 MB/s
+MacPro 4,1 &amp; 5,1 (PCIe 2.0): 750 MB/s
+
+Add two SATA 6G ports with up to 6 Gbps data rate to your computer /// 2 x SATA (7 pin; DATA) Plug /// PCIe 2.0 x2 Lanes; Up to 6 Gbps (SATA III) /// Chipset: ASMedia ASM1062 /// No driver installation is required on Windows, Mac, and Linux systems. The AHCI drivers are natively built-in on most Operating Systems /// Supports SATA III transfer speeds up to 6.0Gbps; backward compatible with SATA I/II at 1.5/3.0Gbps">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/a1289-mac-pro-41-early-2009-dual-cpu-tr-6682.html?Itemid=140" title="Prodajem Dual CPU Tray 2 x Quad Xeon
+za A1289 Mac Pro 4,1 (early 2009)
+
+RAM po dogovoru">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/iphone-11-pro-max-256-gb-5-mj.-garancij-6681.html?Itemid=140" title="Prodajem 11 Pro Max u Midnight Green boji, sa 256 gigabajta memorije. U super je stanju, koristen u silikonskoj masci cijelo vrijeme. Kupljen u Store Zagreb ducanu gdje je jos pod produzenom garancijom 5 mjeseci (do 16.10.21). Zdravlje baterije je na 87 posto. 
+
+Dolazi sa racunom, pakiranjem, i brzim punjacem.
+
+Iskljucivo prodaja, bez zamjena, doplata, itd.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/lenovo-thinkpad-l14-6679.html?Itemid=140" m2="" pohrana:="" rezolucija:="" ssd="" sustav:="" title="Mjenjam Lenovo Thinkpad L14 za Macbook. Laptop kupljen pred 3 tjedna, no zbog potrebe posla mi treba Mac. Moguća zamjena uz moju ili vašu doplatu.
+
+SPECS:
+
+RAM: 16 GB ram
+CPU tip: Core i5
+CPU model: 10210U
+Zaslon: 14" windows="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/macbook-pro-15-512-ssd-space-gray-20-6678.html?Itemid=140" title="Kupljen krajem 2018. godine u iStyle-u (posjedujem račun)
+Serijski broj: C02X62TGJG5J
+
+U savršenom je stanju.
+Navedeni Macbook Pro je iz serije koja je imala problema sa tipkovnicom. Iako nije bilo problema na ovom laptopu, preventivno je zamijenjena tipkovnica zajedno sa gornjim panelom, te je stavljena nova baterija. (Apple pokriva van garancije). Tako da je praktički kao nov, sa 0 ciklusa baterije.
+
+https://www.njuskalo.hr/apple-macbook/macbook-pro-15-512-ssd-space-gray-2018-oglas-34261331">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/dijelovi-macbook-pro-a1286-6677.html?Itemid=140" title="Prodajem dijelove za MacBook A1286
+Od dijelova mi je ostao Display, baterija, memorija, trackpad, utor za punjenje, tipkovnica
+Svi dijelovi su ispravni i testirani!
+Display kompletan sa zadnjim kucistem i antenama - 400kn
+Trackpad - 100kn
+Utor za punjenje - 50kn
+Tipkovnica za donjim dijelom kucista ispravna - 100kn
+Cijena za sve 550kn">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/macbook-pro-13-retina-2015-6676.html?Itemid=140" kori="" layout="" malo="" o="" retina="" title="Prodajem Macbook Pro 13" uk="">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/oglasi/otvaranje-i-kopiranje-starih-mac-filea-6675.html?Itemid=140" title="imam dva vanjska diska i stotinjak starih CD-a s arhivom fotki spremljenih na starom Power Mac G5 iz 2005 godine-od 2014 neispravnom. molim uslugu otvaranja, pregleda i kopiranja na čitljivi format zbog ponovne upotrebe na PC.
+plaćam utrošene radne sate. Trebam biti prisutan kod pregleda i odabira što kopirati a što ne. U Zagrebu. Hvala!">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+            </li>
+           </ul>
+          </div>
+          <div class="tabbertab">
+           <h4>
+           </h4>
+           <ul id="Komentari">
+            <li>
+             <a class="weblinks floTip" href="/clanci/hardver/mac-pro-2019-obiteljsko-stablo-djed-otac-i-sin.html#comment-45418" title="Hvala, drago mi je da je članak koristan, ne pišem u nekom zadanom roku niti za novac, nego s ciljem da pomognem drugima, a i iz ljubavi prema tehnologiji i Macovima, valjda zato to ispadne toliko zanimljivo! :)">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/clanci/interview/syd-mead-it-is-going-to-be-a-swell-ride-folks-narode-bit-e-to-opaka-vonja.html#comment-45417" title="Arte je ponudio odličan dokumentarac o Blade Runneru, pa pogledajte:https://www.arte.tv/en/videos/089086-000-A/the-blade-runner-phenomenon/">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45416" title="Ja budem mijenjao kada dođe M3 ili treća generacija. Naučio sam kako Apple uvijek nešto zezne u početku, a kasnije to popegla.Realno mi se ne sviđaju ova česta promjena sustava koja, naravno, ima za posljedicu i crkavanje nekih programa (komercijalnih), koje bi opet trebao platit (neki si ne mogu dozvoliti mjesečnu pretplatu, već iskorištavaju Apple da uvale novu vrtziju programa po novoj cijeni).Za sada kramp iz 2015. radi zadovoljavajuće i ma sve one konektore koji su izbačeni u nasljedniku.Čitam da se razmišlja vraćanje na staro (živi bili pa vidjeli).">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45415" title='stigo mi je i Air M1, za razliku od PRo 13 ima dosta manji punjac. identican je "starom" 12W, samo sto je ovaj 30W. Te je USB-C....'>
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45414" title="Takoder i ja gledam taj M1 Air, samo evo već sad san prozivia koliko mjeseci ne kupeći ga tako da mislim da se moze još izdraz i do devetog mjeseca kad bi triba novi bit predstavljen s nadajmo se redizajnom. jer isto kad stvari poslozim samo mi treba za konzumaciju multimedije i eventualno dokumenti. Naravno i iPad je opcija, ali ispadne preskupo ne znam uopće je li vridno toga. M1 Air je 256 gb entry lvl, recimo iPad pro 12.9' starta u cijeni isto s manje memorije bez tipkovnice niti casea, to mi je za sada još uvijek skup sport. Jedino zasto me privlaci taj veći iPad je zbog micro LED, takoder spominju da će i MacBook Pro ove godine preć na Micro LED, to ću morat vidit oće mis e 'samo' zbog ekrana isplatit updejtat jer pretpostavljam da Air bar u ovoj generaciji neće doć s Micro LED već će to bit rezervirano samo za Pro model zasada.Ali kad bi se iPad speca kao i M! Air s tipkovnicom to ispadne realno 400-500 eura u grubo skuplje, nema mi osobno smisla.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45413" title="@dpasaric - nisam taj problem spominjao samo ja i ne, problem nema veze s jeftinim HDMI monitorima (isprobano na više Minija i monitora, direktno spajanje HDMI kabel iz minija u monitor, ista stvar i s adapterima TB2 na HDMI), no to je relativno lako rješivo sa miniDP na DP kabelom. No ok, sad kad si spomenuo BT, (moj) mini 2014 je u startu s El Capitanom s kojim je došao imao issue oko prepoznavanja Apple Magic 2 seta tipkovnice i miša. Prisutan je i na Big Suru samo puno rijeđe (1/1000 nakon buđenja iz sleepa). Unatoč i usprkos svemu navedenom i dalje ne vidim što bi “običan kućni korisnik” mogao kupiti kao najbolji omjer dobiveno/uloženo a da to nije Appleov MB Air ili mini. U zadnjih nekoliko mjeseci dvoje kolega je odabralo nove MB Air M1 modele upravo zahvaljujući tome što su me pitali i još uvijek nisu požalili, a vjerujem da i neće. To dakako ne znači da su novi modeli bez mušica. Recimo TB3 na USB adapter kupljen kod Apple authorized resellera je neupotrebljiv za čitanje/pisanje podataka sa USB 3.0 sticka jer je brzina prijenosa očajna. Isti stick direktno u USB portu Minija sa istim OS-om radi kako treba. Drugi stickovi - isto ponašanje. Na dva različita stroja kupljena u različitim dućanima i s različitim adapterima. Nisu to stvari koje bi trebale biti deal breaker ili stvari koje su neočekivane kod prvih generacija nečega, ali su iritantne.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45412" title="@Daddo - Nisi li ti i prije spominjao taj problem i zaključili smo da ako ispravni kolor profil ne pomaže (što je recimo kod nas bio slučaj i sredilo problem, više se nikada nije ponovilo), da je onda u pitanju neka nekompatibilnost s određenim tipom monitora ili TV-a? Jer velika većina vlasnika Minija upravo koristi jeftine HDMI monitore i da je to toliko učestalo, ne bi li bilo više galame oko toga? Meni se više čini da je to neka vrlo specifična anomalija koja se pojavljuje rijetko i samo u nekim kombinacijama.Mene više zanima kada napraviti reviziju novog M1 Minija, pa da srede Bluetooth probleme.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45411" title="Od minija 2012 preko 2014 pa do zadnjeg pogonjenog Intel CPU-om Apple nije adresirao problem s HDMI-jem i ljubičastim ekranom. Onda su rekli ok, nećemo više Intel idemo s vlastitim CPU/GPU rješenjem. I sad imamo novije i skuplje i “bolje” modele Minija, aira, MB-a. Modele koji imaju sasvim nove probleme. Mogu na WWDC-u predstavljati hrpu novih in-house rješenja no “jedino što” Apple M1 računala čini još uvijek daleko boljim izborom od PC konkurencije je katastrofalno loš Microsoftov aktualni OS odnosno nedostatak aplikacija za ne-Microsoft OS-ove koji se vrte na Intelu/AMD-u. Običan kućni korisnik (web,mail, office paket) će svoje potrebe zadovoljiti ulaznim modelom minija ili aira. Ostali će, ovisno o onom što rade još čekati za migraciju. Apple napokon nije skup i nedostižan ni egzotičan na našem tržištu i “vrijedi novce koje košta” više no ikad prije, ali to je više zbog tog što je alternativa još gora, nego što je to zasluga samog Applea. Air M1 je za moje potrebe više nego dovoljno snažan i bit će jednog dana moj prvi Apple prijenosnik. Dotad i dalje trošim minija 2014 (novi MacOS ide i na njega!) i aktualni iPhone i iPad mini prve generacije.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45410" title='@Smayoo:100% si u pravu. Ja sam prodao svoj MBP 2012 za 500-600 eura i kupio 2018. tada aktualni model. Kupio sam u USA pa nije me izasao skupo, ali pozalio sam iz puno razloga. Drugi put evo moram tipkovnicu mijenjati. Zvizdi ko mutav sa spojenim vanjskim monitorom. Glavu mi probi, po cijele dane ventilatori na 80-103%.Nisam trebao uopce stari prodavati, imao je i7/16gb/256ssd sve isto ko i ovaj 6 godina mladji koji mi samo probleme pravi :)Bas se radujem MBP sa M chip, ali trebam 16" model, pa cekam.'>
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45409" title='@ales_1717 - Niti najjači M1 još nije po sirovoj procesorskoj snazi dorastao tom starom Mac Pro stroju s 12 jezgri. M1 je usporediv s jačim i5 i slabijim i7 procesorima, on jest brži u single thread zadacima, ali to većini korisnika nije bitno jer danas se toliko toga vrti istovremeno da je brz mulithreading CPU ključan. I ok, priznajem da je daleko štedljiviji, ali niti to me ne zanima jer je razlika u potrošnji oko 50 kn godišnje. Mac Pro ima multi-core score od oko 11.000, a M1 oko 7400. Znači niti blizu da ga "pojede za doručak", nego još mora papati da ga sustigne. A to je samo benchmark, a znamo da M1 ima u boljem slučaju 16 GB memorije, a Mac Pro 128 GB i zasebnu grafičku sa svojom memorijom. I ovo sve govorimo zapravo teoretski jer izuzev Appleovog softvera gotovo ništa nije optimizirano za M1, znači to što on native napisanom u benchmarku ima dobar rezultat ne znači da će ga imati u praksi sa softverima koji postoje i koji će se tako vući još godinama. Treba na njemu zavrtiti stari Intel benchmark, pa bi se vidjela real-life situacija.Da ne bude zabune, mene veseli što je M1 toliko napredan, ali ne može niti najnovija ulazna consumer tehnologija tek tako preskočiti stari top-of-line profesionalni stroj. Doći ćemo i do toga, nadam se možda još ove godine, ali nemojmo raditi ražanj dok je zec u šumi.'>
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45408" title='BigSur i M1 rade, veliš, "praktički savršeno", a meni su potpuno neupotrebljivi, na primjer. Ne radi digitalno potpisivanje, CAD radi na emulaciji, kilavi užasno. Tako da, hm, možda ipak ovisi o tome što točno radiš, zar ne?'>
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+            <li>
+             <a class="weblinks floTip" href="/novosti/softver/wwdc-2021-fokus-na-korisnike.html#comment-45407" title="Možda je blažen ali bilo koji M1 Mac pojede za doručak tu kantu iz prošlosti koja treba mini-elektranu da bi radila.Ko god da želi migrirati nema se čega bojati, Big Sur i M1 rade praktički savršeno.Kužim old-school priče ali tim strojevima je sad stvarno odzvonilo osim u nekim ekstremno rjetkim slučajevima koji zahtjevaju tolku količinu RAM-a. Kaj radiš sa 16TB? :) Sva moja arhiva unazad 10 godina zauzima cca. 3TB. To su pročišćeni finali, obično napravim paket finalnih rješenja i prateće dokumentacije dok ostalo brišem. Jel imaš to u nekom RAIDu? Ako nemaš kud ćeš s tolkim podacima ako nekaj krepa? To me podsjeća na jednog bivšeg kolegu koji je doma imal cca. 100 HDD-ova raznih kapaciteta ali računali smo da sigurno ima više od 200 TB samo on je hordal sve živo i neživo, praktički je pola IMDB-a, što filmova, što serija bilo na tim diskovima. I nikad nije brisal samo beskrajno skupljanje digitalnog smeća.">
+              <strong>
+              </strong>
+             </a>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+             <span class="vseparator">
+             </span>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="mdrglzr_box" id="Mdgzlr15" style="left: 0px; top: 0px; position: relative;">
+        <div class="mdrglzr_minimize initial_hide" title="Minimize">
+        </div>
+        <div class="mdrglzr_hdl initial_cursor" id="hdl_Mdgzlr15">
+         <h3>
+         </h3>
+        </div>
+        <div class="mdrglzr_body" id="bodyMdgzlr15">
+         <div id="applenovo">
+          <div>
+          </div>
+          <div>
+          </div>
+         </div>
+         <div class="poll" style="border:none; padding:1px;">
+          <h4>
+          </h4>
+          <div id="polldiv_7">
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 48.5%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 0.7%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 2%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 11.8%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 2.9%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 5.9%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 7.4%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 3.7%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 10.3%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div style="padding:3px;">
+            </div>
+            <div style="height:10px; padding:1px; background-color: #C1E4B6;">
+             <div style="width: 8.8%; height:10px;background:#287700;">
+             </div>
+            </div>
+           </div>
+           <br/>
+           <b>
+           </b>
+           <div id="mod_poll_messages_7" style="margin:5px;">
+           </div>
+          </div>
+          <div id="poll_links" style="padding-top:5px; ">
+           <a class="poll_result_link" href="/poll/7-kupujete-li-profesionalni-mac.html">
+           </a>
+           <br/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div style="clear: both;">
+  </div>
+  <div id="ijoomla_pageload" style="background-color: #TRANSPARENT; border-left: 2px solid #TRANSPARENT; border-right: 2px solid #TRANSPARENT;">
+   <span class="ij_pspeed" style="background-color: #TRANSPARENT; color: #287700;">
+   </span>
+   <span class="ij_units" style="color: #287700">
+   </span>
+   <span class="ij_time" style="color: #287700">
+   </span>
+   <p class="provided_content" style="background-color: #TRANSPARENT;">
+    <span class="ij_provided" style="background-color: #TRANSPARENT;">
+    </span>
+    <a href="http://seo.ijoomla.com/" style="color: #TRANSPARENT;" target="_blank">
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

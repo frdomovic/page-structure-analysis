@@ -1,0 +1,971 @@
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+  </title>
+  <meta content="turizam-bilogorabjelovar.com.hr" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="http://turizam-bilogorabjelovar.com.hr/" property="og:url"/>
+  <meta content="http://turizam-bilogorabjelovar.com.hr/slike/og-poc.jpg" property="og:image"/>
+  <meta content="Turistička zajednica Bilogora-Bjelovar" property="og:site_name"/>
+  <meta content="Saznajte više informacija o Bilogorskoj regiji ili gradu Bjelovaru smještenom na južnom dijelu Bilogore i njegovoj višestoljetnoj tradiciji proizvodnje mlijeka i sireva ili rukometnoj povijesti. Područje Turističke zajednice Bilogora-Bjelovar čini grad Bjelovar i sljedeće općine: Veliki Grđevac, Velika Pisanica, Severin, Nova Rača, Šandrovac, Veliko Trojstvo, Kapela, Zrinski Topolovac, Rovišće" property="og:description"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+  <link href="http://turizam-bilogorabjelovar.com.hr/systemxtr/expressionengine/cache/005f13b3a80512e80f11350e873566f2c497b0da.1455871050.css" rel="stylesheet"/>
+  <link href="http://turizam-bilogorabjelovar.com.hr/systemxtr/expressionengine/cache/bebec7baeb131c3a8f2ddc65f6dc485d03af1527.1470254509.css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://turizam-bilogorabjelovar.com.hr/vendor/jquery/jquery.js">
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js">
+  </script>
+  <script src="http://turizam-bilogorabjelovar.com.hr/vendor/modernizr/modernizr.min.js">
+  </script>
+  <meta content="QNhQbm8A8CHaowKc2X5CiepnIk8FtPpCxdxy4slRJU4" name="google-site-verification"/>
+ </head>
+ <body>
+  <div class="body">
+   <header class="header-mobile-nav-only" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 90, "stickySetTop": "-90px", "stickyChangeLogo": true}' id="header">
+    <div class="header-body">
+     <div class="header-top">
+      <div class="container">
+       <div class="naslovtophead pull-left">
+        <h1 class="naslovtophead">
+         <a class="bijeli" href="http://turizam-bilogorabjelovar.com.hr/" title="Turistička zajednica Bilogora - Bjelovar">
+         </a>
+        </h1>
+       </div>
+       <div class="social-icons pull-right hidden-xs">
+        <ul class="social-icons">
+         <li class="social-icons-facebook">
+          <a href="https://www.facebook.com/Turisti%C4%8Dka-zajednica-Bilogora-Bjelovar-679208452202057/" target="_blank">
+           <i class="fa fa-facebook">
+           </i>
+          </a>
+         </li>
+         <li class="social-icons-instagram">
+          <a href="https://www.instagram.com/tzbilogorabjelovar/" target="_blank">
+           <i class="fa fa-instagram">
+           </i>
+          </a>
+         </li>
+         <li class="social-icons-youtube">
+          <a href="https://www.youtube.com/channel/UC6DacHSfbLdpv82tvC45ZTA" target="_blank">
+           <i class="fa fa-youtube">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <nav class="header-nav-top mr-xl pull-right hidden-sm hidden-xs">
+        <ul class="nav nav-pills nav-top ml-none">
+         <li>
+          <a class="bijelitophead" href="http://turizam-bilogorabjelovar.com.hr/bjelovar-hrvatska/" title="Kontaktirajte nas - Turistička zajednica Bilogora-Bjelovar">
+           <i class="fa fa-phone">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="bijelitophead" href="mailto:info.tzbb@gmail.com" title="Kontaktirajte nas - Turistička zajednica Bilogora-Bjelovar">
+           <i class="fa fa-envelope">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+     <div class="header-container container">
+      <div class="header-row">
+       <div class="header-column">
+        <div class="header-logo">
+         <a href="http://turizam-bilogorabjelovar.com.hr/" title="Turistička zajednica Bilogora-Bjelovar">
+          <img alt="Turistička zajednica Bilogora-Bjelovar" data-sticky-height="90" data-sticky-top="29" data-sticky-width="71" height="121" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/tzbb-logo.png" title="Turistička zajednica Bilogora-Bjelovar" width="95"/>
+         </a>
+        </div>
+       </div>
+       <div class="header-column">
+        <div class="header-row">
+         <div class="header-nav header-nav-stripe">
+          <button class="btn header-btn-collapse-nav" data-target=".header-nav-main" data-toggle="collapse">
+           <i class="fa fa-bars">
+           </i>
+          </button>
+          <div class="header-nav-main header-nav-main-square header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+           <nav>
+            <ul class="nav nav-pills" id="mainNav">
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/" title="TZBB">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/turizam/o-nama" title="O nama">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/turizam/bjelovar" title="Bjelovar">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/turizam/bilogora" title="Bilogora">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/" title="MANIFESTACIJE">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/manifestacije/turizam/dogadanja" title="Događanja">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/manifestacije/turizam/manifestacije" title="Manifestacije">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/manifestacije/turizam/sajmovi" title="Sajmovi">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/" title="SMJEŠTAJ I IZLETIŠTA">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/smjestaj" title="Smještaj">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/izletista" title="Izletišta">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/vinarije" title="Vinarije">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/kampovi" title="Kampovi">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/" title="PLANIRANJE PUTOVANJA">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/dolazak" title="Dolazak">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/agencije-vodici" title="Agencije i vodiči">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/muzeji-galerije" title="Muzeji i galerije">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/suvenirnice" title="Suvenirnice">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/crkve" title="Crkve">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/bazeni" title="Bazeni">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/restorani" title="Restorani">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/nocni-zivot" title="Noćni život">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/korisne-informacije" title="Korisne informacije">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/" title="ISTRAŽI BILOGORU I BJELOVAR">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/pjesice" title="Pješice">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/biciklom" title="Biciklom">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/jasuci" title="Jašući">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/opg" title="OPG">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/povijesni-spomenici" title="Povijesni spomenici">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/kulturna-bastina" title="Kulturna baština">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/promo-materijali" title="Promo materijali">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/dan-bilogora-bjelovar" title="Dan na području TZBB">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="dropdown">
+              <a class="dropdown-toggle" href="http://turizam-bilogorabjelovar.com.hr/business/" title="BUSINESS">
+              </a>
+              <ul class="dropdown-menu">
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/business/turizam/dokumenti" title="Dokumenti">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/business/turizam/korisni-linkovi" title="Korisni linkovi">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/business/turizam/natjecaji" title="Natječaji">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/business/turizam/propisi-iz-turizma" title="Propisi iz turizma">
+                </a>
+               </li>
+               <li>
+                <a href="http://turizam-bilogorabjelovar.com.hr/business/informacije-zastita-podataka" title="Informacije i zaštita podataka">
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="http://turizam-bilogorabjelovar.com.hr/bjelovar-hrvatska/" title="KONTAKT">
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="main" role="main">
+    <div class="trakasadrzaja">
+     <div class="trakasadrzaja-slider">
+      <div class="owl-carousel" data-plugin-options='{"responsive": {"0": {"items": 1}, "479": {"items": 1}, "768": {"items": 1}, "979": {"items": 1}, "1199": {"items": 1}}, "margin": 0, "loop": true, "nav": false, "dots": false, "autoplay":true}'>
+       <div>
+        <img alt="Bjelovar" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/467/rotator-bjelovar-01-tiny__rotator.jpg" title="Bjelovar"/>
+       </div>
+       <div>
+        <img alt="Bjelovar" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/467/rotator-bjelovar-02-tiny__rotator.jpg" title="Bjelovar"/>
+       </div>
+       <div>
+        <img alt="Bjelovar" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/467/rotator-bjelovar-03-tiny__rotator.jpg" title="Bjelovar"/>
+       </div>
+       <div>
+        <img alt="Bjelovar" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/467/rotator-bjelovar-04-tiny__rotator.jpg" title="Bjelovar"/>
+       </div>
+       <div>
+        <img alt="Bjelovar" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/467/rotator-bjelovar-05-tiny__rotator.jpg" title="Bjelovar"/>
+       </div>
+      </div>
+     </div>
+     <div class="trakasadrzaja-boxevi">
+      <div class="trakasadrzaja-box1">
+       <a href="http://turizam-bilogorabjelovar.com.hr/manifestacije/turizam/dogadanja" title="Događanja u Bjelovaru">
+        <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+         <span class="thumb-info-wrapper">
+          <img alt="Događanja u Bjelovaru" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/slike/dogadjanja-02.png" title="Događanja u Bjelovaru"/>
+         </span>
+        </span>
+       </a>
+      </div>
+      <div class="trakasadrzaja-box2">
+       <a href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/priroda/biciklisticke-rute-bilogore">
+        <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+         <span class="thumb-info-wrapper">
+          <img alt="Biciklističke rute" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/slike/biciklisticke-staze.png" title="Biciklističke rute"/>
+         </span>
+        </span>
+       </a>
+      </div>
+      <div class="trakasadrzaja-box-zaowl">
+       <div class="owl-carousel owl-theme show-nav-title" data-plugin-options='{"responsive": {"0": {"items": 1}, "479": {"items": 1}, "768": {"items": 1}, "979": {"items": 1}, "1199": {"items": 1}}, "margin": 0, "loop": true, "nav": false, "dots": false, "autoplay":true}'>
+        <div>
+         <a alt="OPG Stara kuća" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/opg-stara-kuca" title="OPG Stara kuća">
+          <div class="trakasadrzaja-box3">
+           <div class="trakasadrzaja-box3content">
+            <div class="naslovsmjestajveliki">
+            </div>
+            <div class="naslovsmjestajentry">
+            </div>
+            <div class="smjestajpodacibox">
+             <br/>
+            </div>
+           </div>
+          </div>
+         </a>
+         <div class="trakasadrzaja-box4">
+          <a alt="OPG Stara kuća" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/opg-stara-kuca" title="OPG Stara kuća">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="OPG Stara kuća" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/565/stara-kuca-11__izdvojeno.jpg" title="OPG Stara kuća"/>
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <a alt="Izletište Vrata Bilogore" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/izletiste-vrata-bilogore" title="Izletište Vrata Bilogore">
+          <div class="trakasadrzaja-box3">
+           <div class="trakasadrzaja-box3content">
+            <div class="naslovsmjestajveliki">
+            </div>
+            <div class="naslovsmjestajentry">
+            </div>
+            <div class="smjestajpodacibox">
+             <br/>
+             <br/>
+            </div>
+           </div>
+          </div>
+         </a>
+         <div class="trakasadrzaja-box4">
+          <a alt="Izletište Vrata Bilogore" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/izletiste-vrata-bilogore" title="Izletište Vrata Bilogore">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Izletište Vrata Bilogore" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/564/opg-mihoci-03__izdvojeno.jpg" title="Izletište Vrata Bilogore"/>
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <a alt="Agroturizam “Na malenom brijegu”" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/agroturizam-na-malenom-brijegu" title="Agroturizam “Na malenom brijegu”">
+          <div class="trakasadrzaja-box3">
+           <div class="trakasadrzaja-box3content">
+            <div class="naslovsmjestajveliki">
+            </div>
+            <div class="naslovsmjestajentry">
+            </div>
+            <div class="smjestajpodacibox">
+             <br/>
+            </div>
+           </div>
+          </div>
+         </a>
+         <div class="trakasadrzaja-box4">
+          <a alt="Agroturizam “Na malenom brijegu”" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/agroturizam-na-malenom-brijegu" title="Agroturizam “Na malenom brijegu”">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Agroturizam “Na malenom brijegu”" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/563/nmb-jesen__izdvojeno.jpg" title="Agroturizam “Na malenom brijegu”"/>
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <a alt="Vinarija Coner" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/vinarija-coner-bjelovar" title="Vinarija Coner">
+          <div class="trakasadrzaja-box3">
+           <div class="trakasadrzaja-box3content">
+            <div class="naslovsmjestajveliki">
+            </div>
+            <div class="naslovsmjestajentry">
+            </div>
+            <div class="smjestajpodacibox">
+             <br/>
+             <br/>
+            </div>
+           </div>
+          </div>
+         </a>
+         <div class="trakasadrzaja-box4">
+          <a alt="Vinarija Coner" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/vinarija-coner-bjelovar" title="Vinarija Coner">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Vinarija Coner" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/561/izvana-02__izdvojeno.jpg" title="Vinarija Coner"/>
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+        <div>
+         <a alt="Izletište i vinotočje Vinia - OPG Šapić" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/izletiste-i-vinotocje-vinia-opg-sapic" title="Izletište i vinotočje Vinia - OPG Šapić">
+          <div class="trakasadrzaja-box3">
+           <div class="trakasadrzaja-box3content">
+            <div class="naslovsmjestajveliki">
+            </div>
+            <div class="naslovsmjestajentry">
+            </div>
+            <div class="smjestajpodacibox">
+             <br/>
+             <br/>
+            </div>
+           </div>
+          </div>
+         </a>
+         <div class="trakasadrzaja-box4">
+          <a alt="Izletište i vinotočje Vinia - OPG Šapić" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/nocenje/izletiste-i-vinotocje-vinia-opg-sapic" title="Izletište i vinotočje Vinia - OPG Šapić">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Izletište i vinotočje Vinia - OPG Šapić" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/images/uploads/560/vinia-izletiste-17__izdvojeno.jpg" title="Izletište i vinotočje Vinia - OPG Šapić"/>
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <h2 class="pocetna">
+       </h2>
+       <div class="crtanaslovpocetna">
+       </div>
+       <p class="center crni">
+       </p>
+       <div class="clear20">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="trakasadrzaja">
+     <div class="trakasadrzaja-slider">
+      <a alt="Advent u Bjelovaru 2021." href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/advent-u-bjelovaru-2021" title="Advent u Bjelovaru 2021.">
+       <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+        <span class="thumb-info-wrapper">
+         <img alt="Advent u Bjelovaru 2021." class="img-responsive" height="750" src="/images/uploads/poc-advent-2021.jpg" title="Advent u Bjelovaru 2021." width="1500"/>
+        </span>
+       </span>
+      </a>
+     </div>
+     <div class="trakasadrzaja-boxevi2">
+      <a alt="Advent u Bjelovaru 2021." href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/advent-u-bjelovaru-2021" title="Advent u Bjelovaru 2021.">
+       <div class="trakasadrzaja-boxaktualnostiopis">
+        <div class="trakasadrzaja-boxaktualnostiopiscontent">
+         <div class="naslovaktualnoentry">
+         </div>
+         <div class="aktualnopodacibox">
+         </div>
+        </div>
+       </div>
+      </a>
+      <a alt="Bjelovar - Grad manifestacija" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/" title="Bjelovar - Grad manifestacija">
+       <div class="trakasadrzaja-boxaktualnostilogo">
+        <div class="trakasadrzaja-boxaktualnostilogocontent">
+         <img alt="Bjelovar - Grad manifestacija" class="img-responsive" src="http://turizam-bilogorabjelovar.com.hr/slike/bjelovar-grad-manifestacija-logo.png" title="Bjelovar - Grad manifestacija"/>
+        </div>
+       </div>
+      </a>
+     </div>
+    </div>
+    <div class="clear30">
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12 paddingstrane15">
+       <div class="owl-carousel owl-theme show-nav-title" data-plugin-options='{"responsive": {"0": {"items": 1}, "479": {"items": 1}, "768": {"items": 2}, "979": {"items": 3}, "1199": {"items": 3}}, "margin": 30, "loop": true, "nav": false, "dots": false, "autoplay":true}'>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/od-ideje-do-prvog-gosta" title="Od ideje do prvog gosta">
+          <img alt="Od ideje do prvog gosta" class="img-responsive" height="333" src="/images/made/images/uploads/866/odideje_doprvoggosta_trojstvo_500_333_s_c1.png" title="Od ideje do prvog gosta" width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/predavanje-od-ideje-do-prvog-gosta" title="Predavanje “Od ideje do prvog gosta”">
+          <img alt="Predavanje “Od ideje do prvog gosta”" class="img-responsive" height="333" src="/images/made/images/uploads/863/predavanjeood-ideje-do-gosta_500_333_s_c1.jpg" title="Predavanje “Od ideje do prvog gosta”" width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/advent-u-bjelovaru-2021" title="Advent u Bjelovaru 2021.">
+          <img alt="Advent u Bjelovaru 2021." class="img-responsive" height="333" src="/images/made/images/uploads/861/advent_2021_program_01_500_333_s_c1.jpg" title="Advent u Bjelovaru 2021." width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/4.-jesen-na-bilogori-i-6.-biloklik-2021" title="4. Jesen na Bilogori i 6. Biloklik 2021">
+          <img alt="4. Jesen na Bilogori i 6. Biloklik 2021" class="img-responsive" height="333" src="/images/made/images/uploads/859/jesen-na-bilogori-fcbk_objava_500_333_s_c1.jpg" title="4. Jesen na Bilogori i 6. Biloklik 2021" width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/1.-jesenska-biciklijada-2021" title="1. Jesenska biciklijada 2021">
+          <img alt="1. Jesenska biciklijada 2021" class="img-responsive" height="333" src="/images/made/images/uploads/858/i_jesenska_biciklijada-fcbk-objava_500_333_s_c1.jpg" title="1. Jesenska biciklijada 2021" width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/izlet-ucimo-o-jeseni" title="IZLET - Učimo o jeseni">
+          <img alt="IZLET - Učimo o jeseni" class="img-responsive" height="333" src="/images/made/images/uploads/857/mali-olimpijac-jesen_fcbk-objava_500_333_s_c1.jpg" title="IZLET - Učimo o jeseni" width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+        <div>
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/manifestacije/bjelovar/terezijana-2021" title="Terezijana 2021.">
+          <img alt="Terezijana 2021." class="img-responsive" height="333" src="/images/made/images/uploads/854/terezijana2021_fcbk_oopasnost_500_333_s_c1.png" title="Terezijana 2021." width="500"/>
+          <div class="pocetnaizdvojenemanifestacije">
+          </div>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <div class="clear30">
+       </div>
+       <h2 class="pocetna">
+       </h2>
+       <div class="crtanaslovpocetna">
+       </div>
+       <p class="center crni">
+       </p>
+       <div class="clear20">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <ul class="team-list">
+        <li class="col-md-4 col-sm-12 col-xs-12">
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/smjestaj" title="Smještaj">
+          <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+           <span class="thumb-info-wrapper">
+            <img alt="Smještaj" class="img-responsive" height="530" src="/images/uploads/smjestaj.jpg" title="Smještaj" width="800"/>
+           </span>
+          </span>
+          <div class="boxsmjestaj">
+           <h3 class="smjestajpocetnah3">
+           </h3>
+           <p>
+           </p>
+          </div>
+         </a>
+        </li>
+        <li class="col-md-4 col-sm-12 col-xs-12">
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/izletista" title="Izletišta">
+          <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+           <span class="thumb-info-wrapper">
+            <img alt="Izletišta" class="img-responsive" height="530" src="/images/uploads/izletiste.jpg" title="Izletišta" width="800"/>
+           </span>
+          </span>
+          <div class="boxsmjestaj">
+           <h3 class="smjestajpocetnah3">
+           </h3>
+           <p>
+           </p>
+          </div>
+         </a>
+        </li>
+        <li class="col-md-4 col-sm-12 col-xs-12">
+         <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/smjestaj/turizam/vinarije" title="Vinarije">
+          <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+           <span class="thumb-info-wrapper">
+            <img alt="Vinarije" class="img-responsive" height="530" src="/images/uploads/vinarije.jpg" title="Vinarije" width="800"/>
+           </span>
+          </span>
+          <div class="boxsmjestaj">
+           <h3 class="smjestajpocetnah3">
+           </h3>
+           <p>
+           </p>
+          </div>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="clear90">
+     </div>
+    </div>
+    <section class="parallax section section-text-dark section-parallax section-center paralaxpodloga" data-stellar-background-ratio="0.5" style="background-image: url(http://turizam-bilogorabjelovar.com.hr/slike/istrazi-podloga.jpg);">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-12">
+        <h2 class="pocetna">
+        </h2>
+        <div class="crtanaslovpocetnabijela">
+        </div>
+        <p class="center crni">
+        </p>
+        <div class="clear20">
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-md-12">
+        <ul class="team-list">
+         <li class="col-md-4 col-sm-12 col-xs-12">
+          <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/pjesice" title="Pješice">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Pješice" class="img-responsive" height="529" src="/images/uploads/istrazi-bilogoru-pjesice.jpg" title="Pješice" width="800"/>
+            </span>
+           </span>
+           <div class="boxistrazi">
+            <h3 class="smjestajpocetnah3">
+            </h3>
+            <p>
+            </p>
+           </div>
+          </a>
+         </li>
+         <li class="col-md-4 col-sm-12 col-xs-12">
+          <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/biciklom" title="Biciklom">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Biciklom" class="img-responsive" height="530" src="/images/uploads/istrazi-bilogoru-biciklom.jpg" title="Biciklom" width="800"/>
+            </span>
+           </span>
+           <div class="boxistrazi">
+            <h3 class="smjestajpocetnah3">
+            </h3>
+            <p>
+            </p>
+           </div>
+          </a>
+         </li>
+         <li class="col-md-4 col-sm-12 col-xs-12">
+          <a class="crni" href="http://turizam-bilogorabjelovar.com.hr/istrazi-bilogoru-bjelovar/turizam/jasuci" title="Jašući">
+           <span class="thumb-info thumb-info-lighten thumb-info-no-zoom thumb-info-no-borders">
+            <span class="thumb-info-wrapper">
+             <img alt="Jašući" class="img-responsive" height="533" src="/images/uploads/istrazi-bilogoru-jasuci.jpg" title="Jašući" width="800"/>
+            </span>
+           </span>
+           <div class="boxistrazi">
+            <h3 class="smjestajpocetnah3">
+            </h3>
+            <p>
+            </p>
+           </div>
+          </a>
+         </li>
+        </ul>
+        <div class="clear30">
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <div class="clear40">
+       </div>
+       <div class="owl-carousel owl-theme" data-plugin-options='{"responsive": {"0": {"items": 1}, "479": {"items": 1}, "768": {"items": 2}, "979": {"items": 4}, "1199": {"items": 5}}, "margin": 5, "loop": true, "nav": false, "dots": true, "autoplay" : true, "autoplayTimeout": 3000}'>
+        <div>
+         <a alt="Hrvatska puna života" href="http://croatia.hr/" target="_blank" title="Hrvatska puna života">
+          <img alt="Hrvatska puna života" class="img-responsive m-auto" height="150" src="/images/uploads/logo-hrvatska-punazivota.png" title="Hrvatska puna života" width="234"/>
+         </a>
+        </div>
+        <div>
+         <a alt="Hrvatska 365 - Doživi Hrvatsku tijekom cijele godine" href="http://croatia.hr/hr-HR/Sezone/Jesen" target="_blank" title="Hrvatska 365 - Doživi Hrvatsku tijekom cijele godine">
+          <img alt="Hrvatska 365 - Doživi Hrvatsku tijekom cijele godine" class="img-responsive m-auto" height="150" src="/images/made/images/uploads/logo-hrvatska-365_233_150.png" title="Hrvatska 365 - Doživi Hrvatsku tijekom cijele godine" width="233"/>
+         </a>
+        </div>
+        <div>
+         <a alt="eVisitor - Informacijski sustav za prijavu i odjavu turista" href="https://www.evisitor.hr/" target="_blank" title="eVisitor - Informacijski sustav za prijavu i odjavu turista">
+          <img alt="eVisitor - Informacijski sustav za prijavu i odjavu turista" class="img-responsive m-auto" height="150" src="/images/uploads/logo-evisitor.png" title="eVisitor - Informacijski sustav za prijavu i odjavu turista" width="240"/>
+         </a>
+        </div>
+        <div>
+         <a alt="Turistička zajednica Bjelovarsko-bilogorske županije" href="http://www.tzbbz.hr/" target="_blank" title="Turistička zajednica Bjelovarsko-bilogorske županije">
+          <img alt="Turistička zajednica Bjelovarsko-bilogorske županije" class="img-responsive m-auto" height="150" src="/images/uploads/logo-tzbbz.jpg" title="Turistička zajednica Bjelovarsko-bilogorske županije" width="120"/>
+         </a>
+        </div>
+        <div>
+         <a alt="Kulturni i multimedijski centar Bjelovar" href="http://www.kmcbj.hr/" target="_blank" title="Kulturni i multimedijski centar Bjelovar">
+          <img alt="Kulturni i multimedijski centar Bjelovar" class="img-responsive m-auto" height="150" src="/images/uploads/logo-kmcb.png" title="Kulturni i multimedijski centar Bjelovar" width="270"/>
+         </a>
+        </div>
+        <div>
+         <a alt="Virtualni grad Bjelovar" href="http://www.virtuoz.org/virtualnibjelovar/" target="_blank" title="Virtualni grad Bjelovar">
+          <img alt="Virtualni grad Bjelovar" class="img-responsive m-auto" height="150" src="/images/uploads/logo-virtualni-bjelovar-02.png" title="Virtualni grad Bjelovar" width="270"/>
+         </a>
+        </div>
+       </div>
+       <div class="clear40">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container-fluid">
+     <div class="row">
+      <link href="http://turizam-bilogorabjelovar.com.hr/themes/third_party/gmap/css/infobox.css" media="screen, projection" rel="stylesheet"/>
+      <script src="https://maps.google.com/maps/api/js?sensor=true&amp;key=AIzaSyD6d7YwWJH8HVuhuNBJqGny_1KU_GsFsfY&amp;language=en" type="text/javascript">
+      </script>
+      <script src="http://turizam-bilogorabjelovar.com.hr/themes/third_party/gmap/javascript/infobox.js" type="text/javascript">
+      </script>
+      <script src="http://turizam-bilogorabjelovar.com.hr/themes/third_party/gmap/javascript/markerclusterer.js" type="text/javascript">
+      </script>
+      <div class="" id="map" style="">
+      </div>
+      <script type="text/javascript">
+      </script>
+      <div class="pockontaktkarta">
+       <div class="google-map mb-xl">
+        <div class="google-map mt-none mb-none" id="googlemaps494" style="">
+        </div>
+        <script type="text/javascript">
+        </script>
+        <script type="text/javascript">
+        </script>
+       </div>
+      </div>
+      <div class="pockontaktkpodaci">
+       <a class="bijeli" href="http://turizam-bilogorabjelovar.com.hr/bjelovar-hrvatska/">
+        <div class="kontaktpocbox">
+         <img alt="&gt;Turistička zajednica Bilogora – Bjelovar" class="img-responsive pull-right hidden-xs" src="http://turizam-bilogorabjelovar.com.hr/slike/logobijelikontakt.png" title="&gt;Turistička zajednica Bilogora – Bjelovar"/>
+         <h4>
+          <br/>
+         </h4>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer id="footer">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-3">
+       <h4 class="heading-primary">
+        <a alt="TZBBŽ" href="http://www.tzbbz.hr/" target="_blank" title="TZBBŽ">
+        </a>
+       </h4>
+       <img src="http://turizam-bilogorabjelovar.com.hr/slike/under.jpg"/>
+       <div class="clear10">
+       </div>
+       <ul class="simple-post-list">
+        <li>
+        </li>
+        <li>
+        </li>
+        <li>
+        </li>
+        <li>
+        </li>
+        <li>
+         <a alt="TZBBŽ" class="sivifoot" href="http://www.tzbbz.hr/" target="_blank" title="TZBBŽ">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3">
+       <h4 class="heading-primary">
+        <a alt="Bjelovar i Bilogora" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/" title="Bjelovar i Bilogora">
+        </a>
+       </h4>
+       <img src="http://turizam-bilogorabjelovar.com.hr/slike/under.jpg"/>
+       <div class="clear10">
+       </div>
+       <ul class="simple-post-list">
+        <li>
+         <a alt="Općina Veliki Grđevac" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-veliki-grdevac" title="Općina Veliki Grđevac">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Velika Pisanica" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-velika-pisanica" title="Općina Velika Pisanica">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Nova Rača" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-nova-raca" title="Općina Nova Rača">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Severin" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-severin" title="Općina Severin">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Šandrovac" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-sandrovac" title="Općina Šandrovac">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Veliko Trojstvo" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-veliko-trojstvo" title="Općina Veliko Trojstvo">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Zrinski Topolovac" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-zrinski-topolovac" title="Općina Zrinski Topolovac">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Kapela" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-kapela" title="Općina Kapela">
+         </a>
+        </li>
+        <li>
+         <a alt="Općina Rovišće" class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/bilogora-bjelovar/hrvatska/opcina-rovisce" title="Općina Rovišće">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3">
+       <h4 class="heading-primary">
+        <a alt="Planiranje putovanja" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/" title="Planiranje putovanja">
+        </a>
+       </h4>
+       <img src="http://turizam-bilogorabjelovar.com.hr/slike/under.jpg"/>
+       <div class="clear10">
+       </div>
+       <ul class="simple-post-list">
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/dolazak" title="Dolazak">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/agencije-vodici" title="Agencije i vodiči">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/muzeji-galerije" title="Muzeji i galerije">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/suvenirnice" title="Suvenirnice">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/crkve" title="Crkve">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/bazeni" title="Bazeni">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/restorani" title="Restorani">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/nocni-zivot" title="Noćni život">
+         </a>
+        </li>
+        <li>
+         <a class="sivifoot" href="http://turizam-bilogorabjelovar.com.hr/planiranje-putovanja/turizam/korisne-informacije" title="Korisne informacije">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3">
+       <h4 class="heading-primary">
+        <a alt="Croatia - Full of Life" href="http://croatia.hr/hr-HR" target="_blank" title="Croatia - Full of Life">
+        </a>
+       </h4>
+       <img src="http://turizam-bilogorabjelovar.com.hr/slike/under.jpg"/>
+       <div class="clear10">
+       </div>
+       <a href="http://croatia.hr/hr-HR" target="_blank" title="Hrvatska turistička zajednica">
+        <img src="http://turizam-bilogorabjelovar.com.hr/slike/logo-hrv-tz-hr-300-250.jpg" title="Hrvatska turistička zajednica"/>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="footer-copyright">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-8">
+        <p>
+        </p>
+       </div>
+       <div class="col-md-4 righttoleft m-none">
+        <nav id="sub-menu">
+         <ul>
+          <li>
+           <a href="http://wmd.hr/izrada-web-stranica-cms/" target="_blank" title="WMD - Izrada web stranica">
+           </a>
+          </li>
+          <li>
+           <a href="http://wmd.hr/cms-sistemi/" target="_blank" title="WMD - CMS">
+           </a>
+          </li>
+          <li>
+           <a href="http://wmd.hr/web-hosting/" target="_blank" title="WMD Web Hosting">
+           </a>
+          </li>
+          <li>
+           <a href="http://wmd.hr/promocija-web-stranica/" target="_blank" title="WMD - SEO Marketing">
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script src="http://turizam-bilogorabjelovar.com.hr/systemxtr/expressionengine/cache/c4cf4b4c3d51110d81b5965748a2be07b7f57a45.1455022265.js">
+  </script>
+  <script src="http://turizam-bilogorabjelovar.com.hr/js/custom.js">
+  </script>
+  <script src="http://turizam-bilogorabjelovar.com.hr/js/theme.init.js">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="http://turizam-bilogorabjelovar.com.hr/customjs/css/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://turizam-bilogorabjelovar.com.hr/customjs/css/jquery.fancybox-buttons.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://turizam-bilogorabjelovar.com.hr/customjs/css/jquery.fancybox-thumbs.css" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="http://turizam-bilogorabjelovar.com.hr/systemxtr/expressionengine/cache/95e752005253f0b3514054f3e609b181b8f115d4.1437651526.js" type="text/javascript">
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script src="http://turizam-bilogorabjelovar.com.hr/customjs/jquery.cookiecuttr.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script>
+  </script>
+ </body>
+</html>

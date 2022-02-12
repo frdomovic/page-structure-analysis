@@ -1,0 +1,3670 @@
+<html>
+ <body>
+  <p>
+  </p>
+  <title>
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Službene internet stranice Nastavnog Zavoda za javno zdravstvo Primorsko-goranske županije" name="Description"/>
+  <meta content="javno zdravstvo, zdravstvo, zdravlje, prevencija, pgz, ispitivanja, voda, zrak, more, pelud, cjepljenje, haccp, higijenski minimum, zdravstveni list, promocija zdravlja, rano otkrivanje raka, gripa, sanitarna knjižica" name="Keywords"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <style media="screen" type="text/css">
+  </style>
+  <style media="print" type="text/css">
+  </style>
+  <style>
+  </style>
+  <script language="JavaScript" type="text/javascript">
+  </script>
+  <div id="frame">
+   <div id="mainheader">
+    <img border="0" id="logo" name="logo" src="http://www.zzjzpgz.hr/images/logo.png?ss" style="margin-top: 20px" usemap="#logoMap"/>
+    <map id="logoMap" name="logoMap">
+     <area coords="13,-1,183,109" href="index.php" shape="rect"/>
+    </map>
+    <div style="position: relative;left: 690px; top: -160px">
+     <a href="https://certificatechecker.dnv.com/" target="_blank">
+      <img src="http://www.zzjzpgz.hr/images/ISO_9001_2015_COL.png" width="130"/>
+     </a>
+    </div>
+   </div>
+   <div class="navbar">
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/index.php?show=orgStruktura">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=povijest">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=kajetanblecic">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=radna_tijela">
+      </a>
+     </div>
+    </div>
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=socmed">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=zeko">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=epidem">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=mikrob">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=prevovis">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=kvalit">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=skolska">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=opce">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=pravne">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=odsjeci&amp;odjel=kontrol">
+      </a>
+     </div>
+    </div>
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=cres">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=crikvenica">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=opatija">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=krk">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=delnice">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=mlosinj">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=ispostave&amp;ispostava=rab">
+      </a>
+     </div>
+    </div>
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/more/index.php">
+      </a>
+      <a href="https://zzjzpgz.hr/vode/index.php">
+      </a>
+      <a href="https://zzjzpgz.hr/zrak/index.php">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=pelud">
+      </a>
+     </div>
+    </div>
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/index.php?show=epidemioloskeUsluge">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=mikrobioloskeUsluge">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=uzeo">
+      </a>
+     </div>
+    </div>
+    <div class="dropdown">
+     <button class="dropbtn">
+      <i class="fa fa-caret-down">
+      </i>
+     </button>
+     <div class="dropdown-content">
+      <a href="https://zzjzpgz.hr/index.php?show=informacije&amp;subPage=radnovrijeme">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=informacije&amp;subPage=kako-do-nas">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=informacije&amp;subPage=kontakt">
+      </a>
+      <a href="https://zzjzpgz.hr/index.php?show=informacije&amp;subPage=kontakt-obrazac">
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="contentleft">
+    <div id="covid_1">
+     <div id="covid_2" style="border:1px solid #000;margin:4px;margin-top:0px">
+      <div id="covid_3" style="background-color:#bb3939;color:#fff;¸text-align:center;font-size:14px">
+       <div id="covid_4" style="padding:6px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <br/>
+      <div style="color:#000;text-align:center;font-size:18px">
+       <strong>
+       </strong>
+      </div>
+      <div id="covid_5" style="padding:6px">
+       <br/>
+       <div style="color:#bb3939;text-align:center;font-size:24px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:15px;padding-top:6px">
+       <div style="color:#000;text-align:center;font-size:14px">
+       </div>
+      </div>
+      <div id="covid_5" style="padding:6px">
+       <div style="color:#15702f;text-align:center;font-size:24px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:15px;padding-top:6px">
+       <div style="color:#000;text-align:center;font-size:14px">
+       </div>
+      </div>
+      <div id="covid_5" style="padding:6px">
+       <div style="color:#000;text-align:center;font-size:24px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:20px;padding-top:6px">
+       <div style="color:#000;text-align:center;font-size:14px">
+       </div>
+      </div>
+      <br/>
+      <div style="color:#000;text-align:center;font-size:18px">
+       <strong>
+       </strong>
+      </div>
+      <div id="covid_5" style="padding:6px">
+       <br/>
+       <div style="color:#bb3939;text-align:center;font-size:24px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:20px;padding-top:6px">
+       <div style="color:#000;text-align:center;font-size:14px">
+       </div>
+      </div>
+      <div id="covid_5" style="padding:6px">
+       <div style="color:#15702f;text-align:center;font-size:24px">
+        <strong>
+        </strong>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:20px;padding-top:6px">
+       <div style="color:#000;text-align:center;font-size:14px">
+        <br/>
+        <br/>
+        <br/>
+        <div id="covid_5" style="padding:6px">
+         <div style="color:#000;text-align:center;font-size:24px">
+          <strong>
+          </strong>
+         </div>
+        </div>
+        <div id="covid_5" style="padding:20px;padding-top:6px">
+         <div style="color:#000;text-align:center;font-size:14px">
+          <br/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="covid_5" style="padding:4px;padding-top:6px">
+       <div style="color:#56565e;text-align:center;font-size:12px">
+       </div>
+       <br/>
+      </div>
+     </div>
+    </div>
+    <div id="uslugeMenu">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <ul class="sideMenu">
+       <li>
+        <a href="index.php?show=uzeo">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=haccp">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=haccap-edukacija">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=higMin">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=higMin2">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=sanitarna">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=cjepljenja">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=pesticidi">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=pozar">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=rad">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=okolis">
+        </a>
+       </li>
+      </ul>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="ProgramiMenu">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <ul class="sideMenu">
+       <li>
+        <a href="index.php?show=protectas">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=promocija_zdravlja">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=ipa">
+        </a>
+       </li>
+       <li>
+        <a href="/programi/brosura_web.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=oralno">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=zekoprog">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=srce">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=tzv">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/unapredjenje-prehrane.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="http://skolica-prehrane.rijeka.hr/" target="_blank">
+        </a>
+       </li>
+      </ul>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="PublikacijeMenu">
+     <span class="panelHead">
+      <div class="naslovi_2">
+      </div>
+     </span>
+     <span class="panelBody">
+      <ul class="sideMenu">
+       <li>
+        <a href="index.php?show=nacionalni_programi">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=zupanijski_programi">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=zzjzpgz_programi">
+        </a>
+       </li>
+      </ul>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="StudentiMenu">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <ul class="sideMenu">
+       <li>
+        <a href="http://www.medri.uniri.hr/hr/fakultet/katedre/socijalna-medicina-i-epidemiologija.html" target="_blank">
+        </a>
+       </li>
+       <li>
+        <a href="http://www.medri.uniri.hr/hr/fakultet/katedre/zdravstvena-ekologija.html" target="_blank">
+        </a>
+       </li>
+      </ul>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="PublikacijeMenu">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <ul class="sideMenu">
+       <li>
+        <a href="/publikacije/Rizična ponašanja i mentalno zdravlje srednjoškolaca PGŽ 2019.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/Rizik-22.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="index.php?show=statistika">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/kakvoca-zraka-na-podrucju-PGZ-objedinjeni-izvjestaj-za-2019.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/Eko liburnija, brošura.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/ODRZIVO GOSPODARENJE OTPADOM.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/izvjestaj-more-2021.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/vode_izvjestaj_2019.pdf">
+        </a>
+       </li>
+       <li>
+        <a href="/publikacije/50_Savjeta_za_zdravlje.pdf">
+        </a>
+       </li>
+      </ul>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div class="centerFlash">
+     <a href="index.php?show=prevencija_raka">
+      <img src="programi/prevencija_raka_banner.png"/>
+     </a>
+    </div>
+    <div class="centerFlash">
+     <a href="index.php?show=gluten_free">
+      <img src="programi/gluten_free/gluten_free.png"/>
+     </a>
+    </div>
+   </div>
+   <div id="contentcenter">
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="narucivanje.poslovni@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.rijeka@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.rijeka@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="senka.stojanovic@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.losinj@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="epid.cres@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.losinj@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="epidemiologija.rab@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.rab@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="epidemiologija.krk@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.krk@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="epidemiologija.crikvenica@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.crikvenica@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.opatija@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="https://www.thalassotherapia-opatija.hr/novi-termini-rada-covid-test-centra-od-ponedjeljka-29-11-21/">
+       </a>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.opatija@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="epidemiologija.delnice@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.delnice@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <hr/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="rapid.covid.delnice@domzdravlja-pgz.hr">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <strong>
+       <p>
+       </p>
+       <p>
+       </p>
+       <ul>
+        <li>
+        </li>
+        <li>
+         <font style="color:black">
+         </font>
+        </li>
+        <li>
+        </li>
+       </ul>
+      </strong>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <ul>
+       <li>
+        <a href="mailto:cijepljenje.poslovni@zzjzpgz.hr">
+        </a>
+       </li>
+       <li>
+        <strong>
+         <a href="odjeli/skolska/web_timovi.pdf">
+         </a>
+        </strong>
+       </li>
+       <li>
+       </li>
+       <li>
+       </li>
+      </ul>
+      <p>
+      </p>
+      <p>
+       <a href="https://www.hzjz.hr/wp-content/uploads/2021/11/Dobrovoljno-cijepljenje-djece-protiv-COVID-19-u-dobi-od-5-i-vi%C5%A1e-godina.pdf">
+       </a>
+      </p>
+      <br/>
+      <strong>
+       <p>
+       </p>
+       <ul>
+        <li>
+        </li>
+        <li>
+         <font style="color:red">
+          <br/>
+          <strong>
+          </strong>
+         </font>
+        </li>
+       </ul>
+       <p>
+        <strong>
+        </strong>
+       </p>
+       <ul>
+        <p>
+        </p>
+        <li>
+         <strong>
+          <br/>
+         </strong>
+        </li>
+       </ul>
+       <p>
+        <strong>
+        </strong>
+       </p>
+       <ul>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:senka.stojanovic@zzjzpgz.hr">
+          </a>
+          <br/>
+          <strong>
+          </strong>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epid.cres@zzjzpgz.hr">
+          </a>
+          <br/>
+          <strong>
+          </strong>
+          <br/>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epidemiologija.rab@zzjzpgz.hr">
+          </a>
+          <br/>
+          <strong>
+          </strong>
+          <br/>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epidemiologija.krk@zzjzpgz.hr">
+          </a>
+          <br/>
+          <strong>
+          </strong>
+          <br/>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epidemiologija.crikvenica@zzjzpgz.hr">
+          </a>
+          <strong>
+           <br/>
+          </strong>
+          <br/>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+          </a>
+          <strong>
+           <br/>
+          </strong>
+         </p>
+        </li>
+        <li>
+         <p>
+          <strong>
+          </strong>
+          <br/>
+          <a href="mailto:epidemiologija.delnice@zzjzpgz.hr">
+          </a>
+          <br/>
+          <strong>
+          </strong>
+         </p>
+        </li>
+       </ul>
+       <p>
+       </p>
+      </strong>
+      <ul>
+       <p>
+       </p>
+       <li>
+       </li>
+       <p>
+       </p>
+       <li>
+        <b>
+        </b>
+       </li>
+      </ul>
+      <br/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <ul>
+       <li>
+        <strong>
+        </strong>
+       </li>
+       <li>
+       </li>
+      </ul>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Prometne linije koje voze u blizini SRC Zamet.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <br/>
+      <p>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <br/>
+      <br/>
+      <img src="pictures/narancasta zona.png" style="margin-left:1px" width="395"/>
+      <br/>
+      <br/>
+      <big>
+       <strong>
+        <p>
+        </p>
+       </strong>
+       <br/>
+       <strong>
+        <p>
+        </p>
+       </strong>
+      </big>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <i>
+       </i>
+       <strong>
+        <u>
+        </u>
+       </strong>
+      </p>
+      <p>
+       <i>
+       </i>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+        <u>
+         <font style="background-color:#90EE90;">
+         </font>
+        </u>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Objava za WEB_Klenovica.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:senka.stojanovic@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epid.cres@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.rab@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.krk@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.crikvenica@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.delnice@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:senka.stojanovic@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epid.cres@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.rab@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.krk@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.crikvenica@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.delnice@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:senka.stojanovic@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epid.cres@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.rab@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.krk@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <a href="mailto:epidemiologija.crikvenica@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <a href="mailto:epidemiologija.delnice@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+      </p>
+      <ol>
+       <p>
+       </p>
+       <li>
+        <strong>
+        </strong>
+        <strong>
+        </strong>
+       </li>
+       <p>
+       </p>
+       <li>
+        <a href="mailto:cijepljenje.poslovni@zzjzpgz.hr">
+        </a>
+       </li>
+       <p>
+       </p>
+       <li>
+       </li>
+      </ol>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Informacija o cijepljenju protiv Sars Cov 2 za djecu stariju od 12 godina.pdf">
+       </a>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/INFORMIRANI PRISTANAK ZA CIJEPLJENJE MALOLJETNE OSOBE PROTIV COVID 19.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Cijepljenje protiv COVID 19_djeca.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+       <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Prijava zaposlenika na cijepljenje.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/obavijesti/2020/narudžbenica_odobrenje za COVID.pdf">
+        <i>
+         <u>
+         </u>
+        </i>
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/obavijesti/2020/narudžbenica_odobrenje za COVID.pdf">
+        <i>
+         <u>
+         </u>
+        </i>
+       </a>
+       <a href="mailto:narucivanje.poslovni@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <strong>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <br/>
+      <p>
+       <strong>
+        <big>
+        </big>
+        <br/>
+        <br/>
+       </strong>
+       <br/>
+       <a href='mailto:"nalazicorona@zzjzpgz.hr"'>
+       </a>
+       <strong>
+        <br/>
+       </strong>
+      </p>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:senka.stojanovic@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epid.cres@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.rab@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.krk@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.crikvenica@zzjzpgz.hr">
+       </a>
+       <strong>
+        <br/>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <b>
+       </b>
+       <br/>
+       <a href="mailto:epidemiologija.opatija@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <a href="mailto:epidemiologija.delnice@zzjzpgz.hr">
+       </a>
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2020/narudžbenica_odobrenje za COVID.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <br/>
+      <br/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <br/>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="mailto:narucivanje.poslovni@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/order form pcr rat.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p class="readMore">
+       <a href="https://www.mojevrijeme.hr/magazin/2021/11/pandemija-je-kod-starijih-osoba-potebcirala-osjecaj-izoliranosti-i-zabrinutosti-za-svoje-zdravlje-i-zdravlje-svojih-bliznjih/">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <strong>
+       <p>
+       </p>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <a href="mailto:lina.velcic@zzjzpgz.hr">
+       </a>
+      </p>
+      <p>
+      </p>
+      <br/>
+      <img height="100" src="pictures/slika.png" style="margin-left:5px" width="380"/>
+      <br/>
+      <br/>
+      <p>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/mlaka 13.11.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="https://www.rijeka.hr/najavljen-program-obiljezavanja-medunarodnog-dana-starijih-osoba">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/mlaka 2.10.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/18.9 Mlaka.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <b>
+       </b>
+       <b>
+        <i>
+        </i>
+       </b>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/zooplankton.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/park Mlaka joga.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Mlaka 5.6.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="https://csi.hr/registracija/html/unosregistracije.php">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Program.pdf">
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Poziv.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/Hodanjem do Zdravlja.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2021/mlaka10.5.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p class="readMore">
+       <a href="/obavijesti/2021/STRUCNA BAZA.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <b>
+       </b>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="/obavijesti/2020/Obavijest online predavanje PFRI.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+       <a href="https://cijepise.zdravlje.hr/">
+       </a>
+       <b>
+       </b>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="https://zdravlje.gov.hr/">
+       </a>
+       <a href="https://www.hzjz.hr/">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <b>
+       </b>
+       <strong>
+       </strong>
+       <br/>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <a href="https://www.youtube.com/watch?v=ErUFFHYLiFY&amp;feature=youtu.be">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="obavijesti/2020/INFORMATIVNI OBRAZAC O UPISU U PRVI RAZRED OSNOVNE ŠKOLE ZA ŠKOLSKU GODINU 2021-2022.pdf">
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/JAVNI POZIV ZA UPIS U PRVI RAZRED OSNOVNE ŠKOLE ZA ŠKOLSKU GODINU 2021-2022.pdf">
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/PLAN UPISA U PRVI RAZRED OSNOVNE ŠKOLE ZA ŠKOLSKU  GODINU  2021-2022.pdf">
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/ZAHTJEV ZA PRIJEVREMENI UPIS U PRVI RAZRED OSNOVNE ŠKOLE.docx">
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/ZAHTJEV ZA PRIVREMENO OSLOBAĐANJE OD UPISA U I. RAZRED OSNOVNE ŠKOLE.docx">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <b>
+      </b>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <br/>
+       <a href="https://forms.gle/92ePikKVm6uSYPxw5">
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="/obavijesti/2020/Poziv studentima.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p>
+       <b>
+       </b>
+      </p>
+      <p class="readMore">
+       <a href="/obavijesti/2020/Integracija numeričkog modela cirkulacije mora.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+       <a href="http://www.italy-croatia.eu/netformplastic">
+       </a>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <b>
+       </b>
+       <br/>
+      </p>
+      <p>
+       <a href="obavijesti/2020/NET4mPLASTIC_invitation_II webinar_DEFCNI.pdf">
+       </a>
+       <a href="obavijesti/2020/NET4mPLASTIC_invitation_II webinar_DEFCNI_ENG.pdf">
+        <br/>
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/NET4mPLASTIC_invitation_III webinar_DEFCNI.pdf">
+       </a>
+       <a href="obavijesti/2020/NET4mPLASTIC_invitation_III webinar_DEFCNI_ENG.pdf">
+        <br/>
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="http://www.italy-croatia.eu/netformplastic">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="https://www.hah.hr/poziv-za-sudjelovanje-u-prvom-nacionalnom-istrazivanju-prehrambenih-navika-dojencadi-i-djece-do-9-godina/obrazac-za-prijavu/">
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="https://www.hapih.hr/prijavite-dijete-na-prvo-nacionalno-istrazivanje-o-prehrambenim-navikama-djece-u-rh-i-saznajte-je-li-prehrana-vaseg-djeteta-u-skladu-s-preporukama-za-pravilnu-prehranu/">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+       <a href="https://domzdravlja-pgz.hr/">
+       </a>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/obavijest o cijepljenju.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="obavijesti/2020/samoizolacija upute.pdf">
+        <strong>
+        </strong>
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/Najčešća pitanja i odgovori za koronu.pdf">
+        <strong>
+        </strong>
+       </a>
+      </p>
+      <p>
+       <a href="obavijesti/2020/Upute za pravilno pranje ruku.pdf">
+        <strong>
+        </strong>
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+        <strong>
+        </strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+        <u>
+        </u>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <strong>
+       <p>
+       </p>
+      </strong>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <i>
+        <a href="https://www.novilist.hr">
+        </a>
+       </i>
+      </p>
+      <p class="readMore">
+       <a href="https://www.novilist.hr/rijeka-regija/rijeka/nastavni-zavod-za-javno-zdravstvo-i-pomorski-fakultet-razvijaju-sustav-kontrole-luka-od-stetnih-organizama/">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/obavijesti/2020/Priopćenje za javnost_Dubrovnik_ProtectAS.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <a href="obavijesti/2020/Izmjene i dopuna Provedbenog programa cijepljenja.pdf">
+       </a>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Letak-HPV.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Preporuka HDSSM za organizaciju rada 1-9-2020.pdf">
+       </a>
+      </p>
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="https://www.novilist.hr/rijeka-regija/rijeka/kako-lijecene-ovisnike-nauciti-da-dodu-do-posla-u-rijeci-se-sprema-konferencija-na-ovu-temu/">
+       </a>
+      </p>
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="https://www.pgz.hr/objave/priprema-skola-u-pgz-za-pocetak-nastave-pod-epidemioloskim-uvjetima-odrzan-sastanak-s-ravnateljima-osnovnih-i-srednjih-skola-te-ucenickih-domova-primorsko-goranske-zupanije/">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/index.php?show=hepatitis_clanak">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Ozon obavijest web.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="http://www.zzjzpgz.hr/index.php?show=alergije_clanak">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/4 ciklus 2020_Sv Martin_Mali Losinj.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Razvoj sustava kontrole i obrane luka.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Upis u srednje škole i državna matura.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="https://youtu.be/1rzsakIOn9o">
+       </a>
+      </p>
+      <p>
+       <a href="https://www.youtube.com/watch?v=jX3yzhUEgVI">
+       </a>
+      </p>
+      <p>
+       <a href="https://youtu.be/sUpGG-4BeCc">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/index.php?show=upute">
+       </a>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/index.php?show=osnovna">
+       </a>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/index.php?show=srednja">
+       </a>
+      </p>
+      <p>
+       <a href="http://www.zzjzpgz.hr/index.php?show=fax">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <a href="obavijesti/2020/Najnovije obavijesti o pocetku provedbe tecaja higijenskog minimuma.pdf">
+        <strong>
+        </strong>
+       </a>
+      </p>
+      <p>
+       <a href="usluge/usluge/Preporuke u provedbi mjera zdravstvene zaštite u radu zavoda za javno zdravstvo.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/OČUVANJE ZDRAVLJA ŠKOLSKE DJECE I MLADIH TIJEKOM EPIDEMIJE.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/Kad se veseliš buri.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/HZJZ_COVID 19_Voda za ljudsku potrosnju_web_v1.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p class="readMore">
+       <a href="obavijesti/2020/telefonske linije.pdf">
+       </a>
+      </p>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <img class="articlePic" src="pictures/article-picture-zzjz-logo.png"/>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <h2>
+       <a href="obavijesti/2020/Epidemiološki podaci na dan 17.3.2020.pdf">
+       </a>
+      </h2>
+      <h2>
+       <a href="obavijesti/2020/Popis rizičnih zemalja na dan 17.3.2020.pdf">
+       </a>
+      </h2>
+      <h2>
+       <a href="obavijesti/2020/Upute za pravilno pranje ruku.pdf">
+       </a>
+      </h2>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+    <div id="obavijesti">
+     <span class="panelHead">
+      <div class="naslovi">
+      </div>
+     </span>
+     <span class="panelBody">
+      <h2>
+       <a href="index.php?show=arhiva">
+       </a>
+      </h2>
+     </span>
+     <span class="panelBottom">
+     </span>
+    </div>
+   </div>
+   <div id="contentright">
+    <div class="webmail">
+     <a href="http://zzjzpgz.hr/index.php?show=120_godina_zavoda">
+      <img src="images/120_godina_zavoda.png" style="margin-left:65px" width="180"/>
+     </a>
+     <br/>
+     <div id="ispitivanja">
+      <span class="panelHead">
+       <div class="naslovi">
+       </div>
+      </span>
+      <span class="panelBody">
+       <ul>
+        <li>
+         <a href="http://www.izor.hr/kakvoca/">
+          <span class="linkovi">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="vode/index.php">
+          <span class="linkovi">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="zrak/index.php">
+          <span class="linkovi">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="index.php?show=pelud">
+          <span class="linkovi">
+          </span>
+         </a>
+        </li>
+       </ul>
+      </span>
+     </div>
+     <div id="nzlBanner">
+      <a href="nzl/index.php">
+       <span>
+       </span>
+      </a>
+     </div>
+     <div class="webmail">
+      <a href="https://zzjzpgz.mojsite.com:2096/" target="_blank">
+       <img src="webmail.png" width="250"/>
+      </a>
+      <div class="centerFlash">
+       <a href="https://www.hzjz.hr/priopcenja-mediji/koronavirus-najnoviji-podatci/" target="_blank">
+        <img src="korona.png" width="312"/>
+       </a>
+      </div>
+      <div id="savjetovalista">
+       <span class="panelHead">
+        <div class="naslovi">
+        </div>
+       </span>
+       <span class="panelBody">
+        <ul class="sideMenu">
+         <li>
+          <a href="certifikati/prilog_potvrde_15189.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/prilog_potvrde_1127.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/Popis akreditiranih metoda u fleksibilnom području akreditacije.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/certifikat_sustava_upravljanja.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/certifikat_sustava_upravljanja1.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/politika_kvalitete,.pdf" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="certifikati/politika postupanja.pdf" target="_blank">
+          </a>
+         </li>
+        </ul>
+       </span>
+       <span class="panelBottom">
+       </span>
+      </div>
+      <div id="zarazneMenu">
+       <span class="panelHead">
+        <div class="naslovi">
+        </div>
+       </span>
+       <span class="panelBody">
+        <ul class="sideMenu">
+         <li>
+          <a href="index.php?show=odsjek&amp;odjel=epidem&amp;subPage=gripa-dobrica">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2018/Bolest Zapadnog Nila.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=odsjek&amp;odjel=epidem&amp;subPage=ospice">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2020/GRIPA  1 do 16. tjedan 2019-2020.pdf">
+          </a>
+         </li>
+        </ul>
+       </span>
+       <span class="panelBottom">
+       </span>
+      </div>
+      <div id="savjetovalista">
+       <span class="panelHead">
+        <div class="naslovi">
+        </div>
+       </span>
+       <span class="panelBody">
+        <ul class="sideMenu">
+         <li>
+          <a href="savjetovalista/Ambulanta Kampus.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=centriZaMlade">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=psiholosko">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=hiv">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=ginekolosko">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=odsjek&amp;odjel=prevovis&amp;subPage=savjetovaliste_za_mlade">
+          </a>
+         </li>
+        </ul>
+       </span>
+       <span class="panelBottom">
+       </span>
+      </div>
+      <div id="javnanabava">
+       <span class="panelHead">
+        <div class="naslovi">
+        </div>
+       </span>
+       <span class="panelBody">
+        <ul class="sideMenu">
+         <li>
+          <a href="index.php?show=upravno-vijece">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/Bodovne tablice.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/natječaj vozila 2021.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/ODLUKA O ODABIRU KANDIDATA ZA ZAPOŠLJAVANJE - NATJEČAJ ZA ZASNIVANJE RADNOG ODNOSA RASPISAN 24.11.2021.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/Obavijest o mjestu i vremenu testiranja, popis kandidata, pravila, literatura - Natječaj za zapošljavanje raspisan 24.11.2021.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/NATJEČAJ ZA SPECIJALIZACIJE.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2021/Tekst natječaja.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2018/specijalizacije skolska.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2020/Ovlaštenje za provođenje spec usavršavanja dr med iz psihijatrije.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2020/Ovlaštenje za provođenje spec usavršavanja dr med kliničke mikrobiologije.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=odsjek&amp;odjel=opce&amp;odsjek=nabava">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=odsjek&amp;odjel=opce&amp;odsjek=knjigovodstvo">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=oglasna_mikro">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=pravoinformiranja">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2015/sluzbenik za zastitu osobnih podataka.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2018/politika privatnosti.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="obavijesti/2020/Pravilnik o zaštiti i obradi osobnih podataka.pdf">
+          </a>
+         </li>
+         <li>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO79T0QvmgYekKAxilQu--b13hDVFZzVH3saae2Z9r9tS3BQ/viewform?usp=sf_link" target="_blank">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=regulatorni_okvir">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?show=za_korisnike">
+          </a>
+         </li>
+        </ul>
+       </span>
+       <span class="panelBottom">
+       </span>
+      </div>
+      <div class="centerFlash">
+       <a href="http://www.kvarnerhealth.hr" target="_blank">
+        <img src="images/kvarner_healt.png"/>
+       </a>
+      </div>
+     </div>
+     <br clear="all"/>
+     <br class="clearfloat"/>
+     <div id="footer">
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a class="intranet" href="https://intranet.zzjzpgz.hr">
+       </a>
+      </p>
+     </div>
+    </div>
+    <script src="http://www.zzjzpgz.hr/ga.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+    </script>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1099 @@
+<html class="html_stretched responsive av-preloader-disabled av-default-lightbox html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_header_transparency html_header_glassy html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_445 av-no-preview html_text_menu_active" lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <title>
+  </title>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://mba.agr.hr/feed/" rel="alternate" title="MBA in Agribusiness » Feed" type="application/rss+xml"/>
+  <link href="http://mba.agr.hr/comments/feed/" rel="alternate" title="MBA in Agribusiness » Comments Feed" type="application/rss+xml"/>
+  <link href="http://mba.agr.hr/home/feed/" rel="alternate" title="MBA in Agribusiness » Home Comments Feed" type="application/rss+xml"/>
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" id="avia-google-webfont" media="all" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <link href="http://mba.agr.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Roboto:400,500,700|Roboto:400&amp;subset=latin,latin-ext" id="googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=a509bd014ae665b4aa0eb91c8d315180" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/grid.css?ver=4.2.6" id="avia-grid-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/base.css?ver=4.2.6" id="avia-base-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/layout.css?ver=4.2.6" id="avia-layout-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/shortcodes.css?ver=4.2.6" id="avia-scs-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/js/aviapopup/magnific-popup.css?ver=4.2.6" id="avia-popup-css-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/print.css?ver=4.2.6" id="avia-print-css" media="print" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/uploads/dynamic_avia/enfold.css?ver=5b4104237c688" id="avia-dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://mba.agr.hr/wp-content/themes/mba/css/custom.css?ver=4.2.6" id="avia-custom-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://mba.agr.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-content/themes/mba/js/avia-compat.js?ver=4.2.6" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=a509bd014ae665b4aa0eb91c8d315180" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="http://mba.agr.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://mba.agr.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://mba.agr.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://mba.agr.hr/" rel="canonical"/>
+  <link href="http://mba.agr.hr/" rel="shortlink"/>
+  <link href="http://mba.agr.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmba.agr.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://mba.agr.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmba.agr.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <script type="text/javascript">
+  </script>
+  <style media="screen" type="text/css">
+  </style>
+  <link href="http://mba.agr.hr/" hreflang="en" rel="alternate"/>
+  <link href="http://mba.agr.hr/hr/" hreflang="hr" rel="alternate"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://mba.agr.hr/feed/" rel="alternate" title="MBA in Agribusiness RSS2 Feed" type="application/rss+xml"/>
+  <link href="http://mba.agr.hr/xmlrpc.php" rel="pingback"/>
+  <link href="http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-300x300.png" rel="icon" type="image/png"/>
+  <style type="text/css">
+  </style>
+ </head>
+ <body class="home page-template-default page page-id-445 stretched open_sans" id="top" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <div id="wrap_all">
+   <header class="all_colors header_color dark_bg_color av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_transparency av_header_glassy av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled av_alternate_logo_active av_header_border_disabled" id="header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+    <div class="container_wrap container_wrap_meta av_secondary_right av_extra_header_active av_entry_id_445" id="header_meta">
+     <div class="container">
+      <nav class="sub_menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+       <ul class="menu" id="avia2-menu">
+        <li class="lang-item lang-item-32 lang-item-en lang-item-first current-lang menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-1375-en" id="menu-item-1375-en">
+         <a href="http://mba.agr.hr/" hreflang="en-US" lang="en-US">
+          <img alt="English" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English"/>
+          <span style="margin-left:0.3em;">
+          </span>
+         </a>
+        </li>
+        <li class="lang-item lang-item-48 lang-item-hr menu-item menu-item-type-custom menu-item-object-custom menu-item-1375-hr" id="menu-item-1375-hr">
+         <a href="http://mba.agr.hr/hr/" hreflang="hr" lang="hr">
+          <img alt="Hrvatski" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGeSURBVHjaYvzPgAD/UNlYEUAAsYAkq6uBxP9//xiBFBPT/3////398//vP6bfv5h+//7/589/GPll5UqAAAJrYPj//8lThr9/gQgoWhra80f+/587//8o/Jtckfj/96//v34BxRllZYE2AAQQE9js/3DVv//+7VqU3cvxccLclMkcH37//glS/QuqB6gBIICAyv7+AwMg4++fv9+/f/994cIvR8efZ878MDP79OnTt2/fvn79+uXLFyD5/PlzgACCagApBgOg9C8HB4jq7ydOfPj4EaL68+fPQB1Pnz4FCCCQBojq33+ADvoNlAapNjUFqv6mpfX+/XuIaqBVQMbjx48BAoiRIfxwe7zS0w8/f//9/+fvv99//31+fGPZ+jqgi3286tkkNYAif/79+/P3v6wg+4qsAwABxMLw6w+Q/xukFKqBWUw1KmUZkMEK5v7+8+/Pf6AUMJyBcfYPIICAGoAG/BfhYQWqBnoHGBBAEiQNYoPIv2DV/4AkWANAADEyuO5k+POP4ccfoFVAzSDyB4wBRH/A7L/wiGYACDAAOJ12JTMlJgUAAAAASUVORK5CYII=" title="Hrvatski"/>
+          <span style="margin-left:0.3em;">
+          </span>
+         </a>
+        </li>
+       </ul>
+      </nav>
+     </div>
+    </div>
+    <div class="container_wrap container_wrap_logo" id="header_main">
+     <div class="container av-logo-container">
+      <div class="inner-container">
+       <span class="logo">
+        <a href="http://mba.agr.hr/">
+         <img alt="MBA in Agribusiness" height="100" src="http://mba.agr.hr/wp-content/uploads/2015/02/mba_logo-011-300x85.png" width="300"/>
+         <span class="subtext">
+          <img alt="" class="alternate" src="http://mba.agr.hr/wp-content/uploads/2015/02/mba_logo-011-300x85.png" title=""/>
+         </span>
+        </a>
+       </span>
+       <nav class="main_menu" data-selectname="Select a page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+        <div class="avia-menu av-main-nav-wrap">
+         <ul class="menu av-main-nav" id="avia-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-top-level menu-item-top-level-1" id="menu-item-1300">
+           <a href="http://mba.agr.hr/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2" id="menu-item-1296">
+           <a href="http://mba.agr.hr/news/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-3" id="menu-item-998">
+           <a href="#" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-961">
+             <a href="http://mba.agr.hr/about-the-study/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-996">
+             <a href="http://mba.agr.hr/about-the-program/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-4" id="menu-item-1225">
+           <a href="http://mba.agr.hr/modules/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <div class="avia_mega_div avia_mega3 nine units">
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units avia_mega_menu_columns_first" id="menu-item-1156">
+              <span class="mega_menu_title heading-color av-special-font">
+              </span>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1140">
+                <a href="http://mba.agr.hr/modules/introduction-into-business-english/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1139">
+                <a href="http://mba.agr.hr/modules/introduction-into-business-reporting/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1141">
+                <a href="http://mba.agr.hr/modules/economics/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1142">
+                <a href="http://mba.agr.hr/modules/applied-quantitative-methods/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1143">
+                <a href="http://mba.agr.hr/modules/eu-food-law/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1144">
+                <a href="http://mba.agr.hr/modules/marketing/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1145">
+                <a href="http://mba.agr.hr/modules/managerial-accounting/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1146">
+                <a href="http://mba.agr.hr/modules/strategic-management/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1147">
+                <a href="http://mba.agr.hr/modules/thesis-project-consultation/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1148">
+                <a href="http://mba.agr.hr/modules/international-marketing/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1149">
+                <a href="http://mba.agr.hr/modules/corporate-finance/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units" id="menu-item-1157">
+              <span class="mega_menu_title heading-color av-special-font">
+              </span>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1150">
+                <a href="http://mba.agr.hr/modules/international-business/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1151">
+                <a href="http://mba.agr.hr/modules/business-planning/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1152">
+                <a href="http://mba.agr.hr/modules/organisational-behaviour/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1153">
+                <a href="http://mba.agr.hr/modules/agribusiness-management/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1154">
+                <a href="http://mba.agr.hr/modules/croatian-business-law-and-contracts/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units avia_mega_menu_columns_last" id="menu-item-1158">
+              <span class="mega_menu_title heading-color av-special-font">
+              </span>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1155">
+                <a href="http://mba.agr.hr/modules/thesis/" itemprop="url">
+                 <span class="avia-bullet">
+                 </span>
+                 <span class="avia-menu-text">
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5" id="menu-item-1262">
+           <a href="http://mba.agr.hr/teachers/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6" id="menu-item-451">
+           <a href="http://mba.agr.hr/contact/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" id="menu-item-search">
+           <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" data-avia-search-tooltip="
+
+&lt;form action=&quot;http://mba.agr.hr/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" href="?s=">
+            <span class="avia_hidden_link_text">
+            </span>
+           </a>
+          </li>
+          <li class="av-burger-menu-main menu-item-avia-special">
+           <a href="#">
+            <span class="av-hamburger av-hamburger--spin av-js-hamburger">
+             <span class="av-hamburger-box">
+              <span class="av-hamburger-inner">
+              </span>
+              <strong>
+              </strong>
+             </span>
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <div class="header_bg">
+    </div>
+   </header>
+   <div class="all_colors" data-scroll-offset="88" id="main">
+    <div class="avia-section main_color avia-section-default avia-no-border-styling avia-full-stretch avia-bg-style-scroll avia-builder-el-0 el_before_av_section avia-builder-el-first av-minimum-height av-minimum-height-75 container_wrap fullsize" data-section-bg-repeat="stretch" id="av_section_1" style="background-color: #307ecc; background-repeat: no-repeat; background-image: url(http://mba.agr.hr/wp-content/uploads/2014/08/header11.jpg); background-attachment: scroll; background-position: top center; ">
+     <div class="container">
+      <main class="template-page content av-content-full alpha units" itemprop="mainContentOfPage" role="main">
+       <div class="post-entry post-entry-type-page post-entry-445">
+        <div class="entry-content-wrapper clearfix">
+         <div class="av-special-heading av-special-heading-h2 custom-color-heading blockquote modern-quote avia-builder-el-1 el_before_av_hr avia-builder-el-first av-inherit-size" style="padding-bottom:40px;color:#ffffff;font-size:66px;">
+          <h2 class="av-special-heading-tag" itemprop="headline">
+          </h2>
+          <div class="av-subheading av-subheading_below av_custom_color" style="font-size:26px;">
+           <p>
+            <br/>
+           </p>
+          </div>
+          <div class="special-heading-border">
+           <div class="special-heading-inner-border" style="border-color:#ffffff">
+           </div>
+          </div>
+         </div>
+         <div class="hr hr-invisible avia-builder-el-2 el_after_av_heading el_before_av_one_fifth" style="height:50px">
+          <span class="hr-inner">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div first avia-builder-el-3 el_after_av_hr el_before_av_one_fifth">
+          <div class="avia-image-container av-styling- avia-builder-el-4 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <img alt="" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/02/agronomski-logo-180x180.png" title="agronomski-logo"/>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-5 el_after_av_one_fifth el_before_av_one_fifth">
+          <div class="avia-image-container av-styling- avia-builder-el-6 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <img alt="" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2014/08/sveuc_grb-180x180.png" title="sveuc_grb"/>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-7 el_after_av_one_fifth avia-builder-el-last">
+          <div class="avia-image-container av-styling- avia-builder-el-8 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <img alt="" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/02/ica-ls-180x180.png" title="ica-ls"/>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </main>
+     </div>
+    </div>
+    <div class="avia-section main_color avia-section-default avia-no-shadow avia-bg-style-scroll avia-builder-el-9 el_after_av_section el_before_av_heading container_wrap fullsize" data-section-bg-repeat="repeat" id="av_section_2" style="background-repeat: repeat; background-image: url(http://mba.agr.hr/wp-content/uploads/2014/08/small_steps-01.png); background-attachment: scroll; background-position: top left; ">
+     <div class="container">
+      <div class="template-page content av-content-full alpha units">
+       <div class="post-entry post-entry-type-page post-entry-445">
+        <div class="entry-content-wrapper clearfix">
+         <section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+          <div class="avia_textblock" itemprop="text">
+           <div style="font-size: 16px;">
+            <p>
+             <em>
+             </em>
+            </p>
+            <p>
+             <em>
+              <br/>
+             </em>
+            </p>
+            <p>
+             <em>
+             </em>
+            </p>
+           </div>
+          </div>
+         </section>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="main_color av_default_container_wrap container_wrap fullsize" id="after_section_2">
+     <div class="container">
+      <div class="template-page content av-content-full alpha units">
+       <div class="post-entry post-entry-type-page post-entry-445">
+        <div class="entry-content-wrapper clearfix">
+         <div class="av-special-heading av-special-heading-h2 blockquote modern-quote avia-builder-el-11 el_after_av_section el_before_av_blog avia-builder-el-first" style="padding-bottom:66px;">
+          <h2 class="av-special-heading-tag" itemprop="headline">
+          </h2>
+          <div class="special-heading-border">
+           <div class="special-heading-inner-border">
+           </div>
+          </div>
+         </div>
+         <div class="av-alb-blogposts template-blog av-blog-meta-html-info-disabled" itemscope="itemscope" itemtype="https://schema.org/Blog">
+          <article class="post-entry post-entry-type-standard post-entry-2038 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-2038 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+           <div class="big-preview single-big">
+            <a href="http://mba.agr.hr/news/mba-students-promotion/" title="MBA students’ promotion">
+             <img alt="" class="attachment-medium size-medium wp-post-image" height="300" sizes="(max-width: 300px) 100vw, 300px" src="http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-300x300.png" srcset="http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-300x300.png 300w, http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-80x80.png 80w, http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-36x36.png 36w, http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-180x180.png 180w, http://mba.agr.hr/wp-content/uploads/2015/02/fav-01-120x120.png 120w, http://mba.agr.hr/wp-content/uploads/2015/02/fav-01.png 450w" width="300"/>
+            </a>
+           </div>
+           <div class="blog-meta">
+           </div>
+           <div class="entry-content-wrapper clearfix standard-content">
+            <header class="entry-content-header">
+             <h2 class="post-title entry-title" itemprop="headline">
+              <a href="http://mba.agr.hr/news/mba-students-promotion/" rel="bookmark" title="Permanent Link: MBA students’ promotion">
+               <span class="post-format-icon minor-meta">
+               </span>
+              </a>
+             </h2>
+             <span class="post-meta-infos">
+              <time class="date-container minor-meta updated">
+              </time>
+              <span class="text-sep text-sep-date">
+              </span>
+              <span class="blog-categories minor-meta">
+               <a href="http://mba.agr.hr/news/category/news/" rel="tag">
+               </a>
+              </span>
+              <span class="text-sep text-sep-cat">
+              </span>
+              <span class="blog-author minor-meta">
+               <span class="entry-author-link">
+                <span class="vcard author">
+                 <span class="fn">
+                  <a href="http://mba.agr.hr/news/author/rfg45ghqhtjjhwgb478374t7g294thkugiluhreu4387tg349g/" rel="author" title="Posts by MBA">
+                  </a>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </header>
+            <div class="entry-content" itemprop="text">
+             <p>
+             </p>
+             <div class="read-more-link">
+              <a class="more-link" href="http://mba.agr.hr/news/mba-students-promotion/">
+               <span class="more-link-arrow">
+               </span>
+              </a>
+             </div>
+            </div>
+            <footer class="entry-footer">
+            </footer>
+            <div class="post_delimiter">
+            </div>
+           </div>
+           <div class="post_author_timeline">
+           </div>
+           <span class="hidden">
+            <span class="av-structured-data" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+             <span itemprop="url">
+             </span>
+             <span itemprop="height">
+             </span>
+             <span itemprop="width">
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+             <span itemprop="name">
+             </span>
+             <span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+              <span itemprop="url">
+              </span>
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+             <span itemprop="name">
+             </span>
+            </span>
+            <span class="av-structured-data" datetime="2018-07-16T19:45:01+00:00" itemprop="datePublished">
+            </span>
+            <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+            </span>
+            <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+             <span itemprop="name">
+             </span>
+            </span>
+           </span>
+          </article>
+         </div>
+         <div class="hr hr-full hr-no-shadow avia-builder-el-13 el_after_av_blog el_before_av_blog">
+          <span class="hr-inner">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="av-alb-blogposts template-blog av-blog-meta-html-info-disabled" itemscope="itemscope" itemtype="https://schema.org/Blog">
+          <article class="post-entry post-entry-type-standard post-entry-2010 post-loop-2 post-parity-even single-big with-slider post-2010 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+           <div class="big-preview single-big">
+            <a href="http://mba.agr.hr/news/meeting-of-agrimba-network-representatives/" title="Meeting of AgriMBA network representatives">
+             <img alt="" class="attachment-medium size-medium wp-post-image" height="300" sizes="(max-width: 300px) 100vw, 300px" src="http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-300x300.png" srcset="http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-300x300.png 300w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-80x80.png 80w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-768x768.png 768w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-36x36.png 36w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-180x180.png 180w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-705x705.png 705w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-120x120.png 120w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white-450x450.png 450w, http://mba.agr.hr/wp-content/uploads/2018/07/agrimba-logo-2018-white.png 859w" width="300"/>
+            </a>
+           </div>
+           <div class="blog-meta">
+           </div>
+           <div class="entry-content-wrapper clearfix standard-content">
+            <header class="entry-content-header">
+             <h2 class="post-title entry-title" itemprop="headline">
+              <a href="http://mba.agr.hr/news/meeting-of-agrimba-network-representatives/" rel="bookmark" title="Permanent Link: Meeting of AgriMBA network representatives">
+               <span class="post-format-icon minor-meta">
+               </span>
+              </a>
+             </h2>
+             <span class="post-meta-infos">
+              <time class="date-container minor-meta updated">
+              </time>
+              <span class="text-sep text-sep-date">
+              </span>
+              <span class="blog-categories minor-meta">
+               <a href="http://mba.agr.hr/news/category/news/" rel="tag">
+               </a>
+              </span>
+              <span class="text-sep text-sep-cat">
+              </span>
+              <span class="blog-author minor-meta">
+               <span class="entry-author-link">
+                <span class="vcard author">
+                 <span class="fn">
+                  <a href="http://mba.agr.hr/news/author/rfg45ghqhtjjhwgb478374t7g294thkugiluhreu4387tg349g/" rel="author" title="Posts by MBA">
+                  </a>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </header>
+            <div class="entry-content" itemprop="text">
+             <p>
+             </p>
+             <div class="read-more-link">
+              <a class="more-link" href="http://mba.agr.hr/news/meeting-of-agrimba-network-representatives/">
+               <span class="more-link-arrow">
+               </span>
+              </a>
+             </div>
+            </div>
+            <footer class="entry-footer">
+            </footer>
+            <div class="post_delimiter">
+            </div>
+           </div>
+           <div class="post_author_timeline">
+           </div>
+           <span class="hidden">
+            <span class="av-structured-data" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+             <span itemprop="url">
+             </span>
+             <span itemprop="height">
+             </span>
+             <span itemprop="width">
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+             <span itemprop="name">
+             </span>
+             <span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+              <span itemprop="url">
+              </span>
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+             <span itemprop="name">
+             </span>
+            </span>
+            <span class="av-structured-data" datetime="2018-07-16T19:37:27+00:00" itemprop="datePublished">
+            </span>
+            <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+            </span>
+            <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+             <span itemprop="name">
+             </span>
+            </span>
+           </span>
+          </article>
+         </div>
+         <div class="hr hr-full hr-no-shadow avia-builder-el-15 el_after_av_blog el_before_av_blog">
+          <span class="hr-inner">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="av-alb-blogposts template-blog av-blog-meta-html-info-disabled" itemscope="itemscope" itemtype="https://schema.org/Blog">
+          <article class="post-entry post-entry-type-standard post-entry-1971 post-loop-3 post-parity-odd single-big with-slider post-1971 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+           <div class="big-preview single-big">
+            <a href="http://mba.agr.hr/news/zavrsen-modul-primijenjene-kvantitativne-metode/" title="Završen modul – Primijenjene kvantitativne metode">
+             <img alt="" class="attachment-medium size-medium wp-post-image" height="169" sizes="(max-width: 300px) 100vw, 300px" src="http://mba.agr.hr/wp-content/uploads/2017/05/MBA-17.5.2017-2-300x169.jpg" srcset="http://mba.agr.hr/wp-content/uploads/2017/05/MBA-17.5.2017-2-300x169.jpg 300w, http://mba.agr.hr/wp-content/uploads/2017/05/MBA-17.5.2017-2-705x397.jpg 705w, http://mba.agr.hr/wp-content/uploads/2017/05/MBA-17.5.2017-2-450x253.jpg 450w, http://mba.agr.hr/wp-content/uploads/2017/05/MBA-17.5.2017-2.jpg 816w" width="300"/>
+            </a>
+           </div>
+           <div class="blog-meta">
+           </div>
+           <div class="entry-content-wrapper clearfix standard-content">
+            <header class="entry-content-header">
+             <h2 class="post-title entry-title" itemprop="headline">
+              <a href="http://mba.agr.hr/news/zavrsen-modul-primijenjene-kvantitativne-metode/" rel="bookmark" title="Permanent Link: Završen modul – Primijenjene kvantitativne metode">
+               <span class="post-format-icon minor-meta">
+               </span>
+              </a>
+             </h2>
+             <span class="post-meta-infos">
+              <time class="date-container minor-meta updated">
+              </time>
+              <span class="text-sep text-sep-date">
+              </span>
+              <span class="blog-categories minor-meta">
+               <a href="http://mba.agr.hr/news/category/news/" rel="tag">
+               </a>
+              </span>
+              <span class="text-sep text-sep-cat">
+              </span>
+              <span class="blog-author minor-meta">
+               <span class="entry-author-link">
+                <span class="vcard author">
+                 <span class="fn">
+                  <a href="http://mba.agr.hr/news/author/h3i74zrf873z4dr734r83/" rel="author" title="Posts by MBA">
+                  </a>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </header>
+            <div class="entry-content" itemprop="text">
+             <p>
+             </p>
+             <div class="read-more-link">
+              <a class="more-link" href="http://mba.agr.hr/news/zavrsen-modul-primijenjene-kvantitativne-metode/">
+               <span class="more-link-arrow">
+               </span>
+              </a>
+             </div>
+            </div>
+            <footer class="entry-footer">
+            </footer>
+            <div class="post_delimiter">
+            </div>
+           </div>
+           <div class="post_author_timeline">
+           </div>
+           <span class="hidden">
+            <span class="av-structured-data" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+             <span itemprop="url">
+             </span>
+             <span itemprop="height">
+             </span>
+             <span itemprop="width">
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+             <span itemprop="name">
+             </span>
+             <span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+              <span itemprop="url">
+              </span>
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+             <span itemprop="name">
+             </span>
+            </span>
+            <span class="av-structured-data" datetime="2017-05-21T20:28:13+00:00" itemprop="datePublished">
+            </span>
+            <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+            </span>
+            <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+             <span itemprop="name">
+             </span>
+            </span>
+           </span>
+          </article>
+         </div>
+         <div class="hr hr-full hr-no-shadow avia-builder-el-17 el_after_av_blog el_before_av_blog">
+          <span class="hr-inner">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="av-alb-blogposts template-blog av-blog-meta-html-info-disabled" itemscope="itemscope" itemtype="https://schema.org/Blog">
+          <article class="post-entry post-entry-type-standard post-entry-1947 post-loop-4 post-parity-even single-big with-slider post-1947 post type-post status-publish format-standard has-post-thumbnail hentry category-news" itemscope="itemscope" itemtype="https://schema.org/BlogPosting">
+           <div class="big-preview single-big">
+            <a href="http://mba.agr.hr/news/dr-stjepan-tanic-odrzao-je-zanimljivo-predavanje-enabling-environment-for-integration-od-small-farms-into-agri-food-chains-in-eastern-europe-and-central-asia/" title="“Dr. Stjepan Tanić održao je zanimljivo predavanje “Enabling environment for integration od small farms into agri-food chains in Eastern Europe and Central Asia”">
+             <img alt="" class="attachment-medium size-medium wp-post-image" height="225" sizes="(max-width: 300px) 100vw, 300px" src="http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253-300x225.jpg" srcset="http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253-300x225.jpg 300w, http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253-1030x773.jpg 1030w, http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253-705x529.jpg 705w, http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253-450x338.jpg 450w, http://mba.agr.hr/wp-content/uploads/2017/02/20170201_163253.jpg 1200w" width="300"/>
+            </a>
+           </div>
+           <div class="blog-meta">
+           </div>
+           <div class="entry-content-wrapper clearfix standard-content">
+            <header class="entry-content-header">
+             <h2 class="post-title entry-title" itemprop="headline">
+              <a href="http://mba.agr.hr/news/dr-stjepan-tanic-odrzao-je-zanimljivo-predavanje-enabling-environment-for-integration-od-small-farms-into-agri-food-chains-in-eastern-europe-and-central-asia/" rel="bookmark" title="Permanent Link: “Dr. Stjepan Tanić održao je zanimljivo predavanje “Enabling environment for integration od small farms into agri-food chains in Eastern Europe and Central Asia”">
+               <span class="post-format-icon minor-meta">
+               </span>
+              </a>
+             </h2>
+             <span class="post-meta-infos">
+              <time class="date-container minor-meta updated">
+              </time>
+              <span class="text-sep text-sep-date">
+              </span>
+              <span class="blog-categories minor-meta">
+               <a href="http://mba.agr.hr/news/category/news/" rel="tag">
+               </a>
+              </span>
+              <span class="text-sep text-sep-cat">
+              </span>
+              <span class="blog-author minor-meta">
+               <span class="entry-author-link">
+                <span class="vcard author">
+                 <span class="fn">
+                  <a href="http://mba.agr.hr/news/author/h3i74zrf873z4dr734r83/" rel="author" title="Posts by MBA">
+                  </a>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </header>
+            <div class="entry-content" itemprop="text">
+             <p>
+             </p>
+             <div class="read-more-link">
+              <a class="more-link" href="http://mba.agr.hr/news/dr-stjepan-tanic-odrzao-je-zanimljivo-predavanje-enabling-environment-for-integration-od-small-farms-into-agri-food-chains-in-eastern-europe-and-central-asia/">
+               <span class="more-link-arrow">
+               </span>
+              </a>
+             </div>
+            </div>
+            <footer class="entry-footer">
+            </footer>
+            <div class="post_delimiter">
+            </div>
+           </div>
+           <div class="post_author_timeline">
+           </div>
+           <span class="hidden">
+            <span class="av-structured-data" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+             <span itemprop="url">
+             </span>
+             <span itemprop="height">
+             </span>
+             <span itemprop="width">
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+             <span itemprop="name">
+             </span>
+             <span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+              <span itemprop="url">
+              </span>
+             </span>
+            </span>
+            <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+             <span itemprop="name">
+             </span>
+            </span>
+            <span class="av-structured-data" datetime="2017-02-06T08:39:06+00:00" itemprop="datePublished">
+            </span>
+            <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+            </span>
+            <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+             <span itemprop="name">
+             </span>
+            </span>
+           </span>
+          </article>
+         </div>
+         <div class="avia-button-wrap avia-button-right avia-builder-el-19 el_after_av_blog el_before_av_section avia-builder-el-last">
+          <a class="avia-button avia-icon_select-yes-right-icon avia-color-theme-color avia-size-medium avia-position-right" href="http://mba.agr.hr/news/">
+           <span class="avia_iconbox_title">
+           </span>
+           <span aria-hidden="true" class="avia_button_icon avia_button_icon_right" data-av_icon="" data-av_iconfont="entypo-fontello">
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-section main_color avia-section-no-padding avia-no-border-styling avia-full-stretch avia-bg-style-scroll avia-builder-el-20 el_after_av_button el_before_av_slideshow_full av-minimum-height av-minimum-height-custom container_wrap fullsize" data-section-bg-repeat="stretch" id="in-collaboration-en" style="background-repeat: no-repeat; background-image: url(http://mba.agr.hr/wp-content/uploads/2014/08/collaboration_bg1.jpg); background-attachment: scroll; background-position: center center; ">
+     <div class="container" style="height:600px">
+      <div class="template-page content av-content-full alpha units">
+       <div class="post-entry post-entry-type-page post-entry-445">
+        <div class="entry-content-wrapper clearfix">
+         <div class="flex_column av_one_full flex_column_div first avia-builder-el-21 el_before_av_one_fifth avia-builder-el-first">
+          <div class="av-special-heading av-special-heading-h2 meta-heading blockquote modern-quote avia-builder-el-22 avia-builder-el-no-sibling av-inherit-size" style="padding-bottom:10px;font-size:66px;">
+           <h2 class="av-special-heading-tag" itemprop="headline">
+           </h2>
+           <div class="special-heading-border">
+            <div class="special-heading-inner-border">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div first avia-builder-el-23 el_after_av_one_full el_before_av_one_fifth column-top-margin">
+          <div class="avia-image-container av-styling- avia-builder-el-24 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <a class="avia_image" href="http://www.unideb.hu/portal/en" target="_blank">
+             <img alt="in-collaboration-with-logos_univ-debrecen" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/05/in-collaboration-with-logos_univ-debrecen.png" title="in-collaboration-with-logos_univ-debrecen"/>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-25 el_after_av_one_fifth el_before_av_one_fifth column-top-margin">
+          <div class="avia-image-container av-styling- avia-builder-el-26 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <a class="avia_image" href="http://www.sruc.ac.uk/" target="_blank">
+             <img alt="in-collaboration-with-logos_scotlands-rc" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/05/in-collaboration-with-logos_scotlands-rc.png" title="in-collaboration-with-logos_scotlands-rc"/>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-27 el_after_av_one_fifth el_before_av_one_fifth column-top-margin">
+          <div class="avia-image-container av-styling- avia-builder-el-28 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <a class="avia_image" href="http://www.wageningenur.nl/en.htm" target="_blank">
+             <img alt="in-collaboration-with-logos_wageningen-univ" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/05/in-collaboration-with-logos_wageningen-univ.png" title="in-collaboration-with-logos_wageningen-univ"/>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-29 el_after_av_one_fifth el_before_av_one_fifth column-top-margin">
+          <div class="avia-image-container av-styling- avia-builder-el-30 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <a class="avia_image" href="http://www.uniag.sk/en/" target="_blank">
+             <img alt="in-collaboration-with-logos_slovak-uan" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/05/in-collaboration-with-logos_slovak-uan.png" title="in-collaboration-with-logos_slovak-uan"/>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_fifth flex_column_div avia-builder-el-31 el_after_av_one_fifth avia-builder-el-last column-top-margin">
+          <div class="avia-image-container av-styling- avia-builder-el-32 avia-builder-el-no-sibling avia-align-left" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <a class="avia_image" href="http://www.efzg.unizg.hr/default.aspx?id=10692" target="_blank">
+             <img alt="in-collaboration-with-logos_efzg" class="avia_image" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2015/05/in-collaboration-with-logos_efzg.png" title="in-collaboration-with-logos_efzg"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-fullwidth-slider main_color avia-shadow avia-builder-el-33 el_after_av_section avia-builder-el-last slider-not-first container_wrap fullsize" id="full_slider_1">
+     <div class="avia-slideshow avia-slideshow-1 av-control-default av-default-height-applied avia-slideshow-no scaling av_slideshow_full avia-slide-slider" data-animation="slide" data-attach="scroll" data-autoplay="false" data-autoplay_stopper="" data-bg_slider="false" data-class=" " data-control_layout="av-control-default" data-css_id="" data-custom_markup="" data-handle="av_slideshow_full" data-ids="931" data-image_attachment="" data-interval="5" data-lightbox_size="large" data-min_height="0px" data-perma_caption="" data-position="top left" data-repeat="no-repeat" data-scroll_down="" data-size="no scaling" data-slide_height="" data-src="" data-stretch="" data-video_counter="0" itemprop="ImageObject" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+      <ul class="avia-slideshow-inner" style="padding-bottom: 25.005999520038%;">
+       <li class="av-single-slide slide-1">
+        <a class="avia-slide-wrap" data-rel="slideshow-1" href="http://www.apstract.net/" target="_blank">
+         <img alt="" height="1042" itemprop="thumbnailUrl" src="http://mba.agr.hr/wp-content/uploads/2014/08/apstract-logo-014.jpg" title="apstract-logo-01" width="4167"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div>
+     <div>
+     </div>
+    </div>
+    <div class="container_wrap footer_color" id="footer">
+     <div class="container">
+      <div class="flex_column av_one_fourth first el_before_av_one_fourth">
+       <section class="widget clearfix widget_text" id="text-4">
+        <div class="textwidget">
+         <p>
+          <img src="http://mba.agr.hr/wp-content/uploads/2015/02/mba_logo-02.png"/>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth">
+       <section class="widget clearfix widget_text" id="text-2">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="textwidget">
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth">
+       <section class="widget clearfix widget_recent_entries" id="recent-posts-2">
+        <h3 class="widgettitle">
+        </h3>
+        <ul>
+         <li>
+          <a href="http://mba.agr.hr/news/mba-students-promotion/">
+          </a>
+          <span class="post-date">
+          </span>
+         </li>
+         <li>
+          <a href="http://mba.agr.hr/news/meeting-of-agrimba-network-representatives/">
+          </a>
+          <span class="post-date">
+          </span>
+         </li>
+         <li>
+          <a href="http://mba.agr.hr/news/zavrsen-modul-primijenjene-kvantitativne-metode/">
+          </a>
+          <span class="post-date">
+          </span>
+         </li>
+         <li>
+          <a href="http://mba.agr.hr/news/dr-stjepan-tanic-odrzao-je-zanimljivo-predavanje-enabling-environment-for-integration-od-small-farms-into-agri-food-chains-in-eastern-europe-and-central-asia/">
+          </a>
+          <span class="post-date">
+          </span>
+         </li>
+         <li>
+          <a href="http://mba.agr.hr/news/mba-studij-poslovno-upravljanje-u-agrobiznisu-predavanje-stjepan-tanic-2/">
+          </a>
+          <span class="post-date">
+          </span>
+         </li>
+        </ul>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth">
+       <section class="widget clearfix widget_text" id="text-60">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="textwidget">
+         <p>
+          <a href="https://www.facebook.com/MBAinAgribusiness" target="_blank">
+          </a>
+          <br/>
+          <a href="http://www.linkedin.com/groups/Executive-MBA-Program-in-Agribusiness-4482484?home=&amp;gid=4482484&amp;trk=anet_ug_hm" target="_blank">
+          </a>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+       <section class="widget clearfix widget_text" id="text-62">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="textwidget">
+         <p>
+          <a href="http://mba.agr.hr/about-the-study/">
+          </a>
+          <br/>
+          <a href="http://mba.agr.hr/about-the-program/#top">
+          </a>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+     </div>
+    </div>
+    <footer class="container_wrap socket_color" id="socket" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+     <div class="container">
+      <span class="copyright">
+      </span>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-content/themes/mba/js/avia.js?ver=4.2.6" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-content/themes/mba/js/shortcodes.js?ver=4.2.6" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-content/themes/mba/js/aviapopup/jquery.magnific-popup.min.js?ver=4.2.6" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=a509bd014ae665b4aa0eb91c8d315180" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/comment-reply.min.js?ver=a509bd014ae665b4aa0eb91c8d315180" type="text/javascript">
+  </script>
+  <script src="http://mba.agr.hr/wp-includes/js/wp-embed.min.js?ver=a509bd014ae665b4aa0eb91c8d315180" type="text/javascript">
+  </script>
+  <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#top" id="scroll-top-link" title="Scroll to top">
+   <span class="avia_hidden_link_text">
+   </span>
+  </a>
+  <div id="fb-root">
+  </div>
+ </body>
+</html>

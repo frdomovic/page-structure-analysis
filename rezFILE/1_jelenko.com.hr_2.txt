@@ -1,0 +1,708 @@
+<html dir="ltr" lang="hr-hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <base href="http://jelenko.com.hr/"/>
+  <meta content="Jelenko serija za djecu.
+" name="keywords"/>
+  <meta content="Borislav Seifert" name="author"/>
+  <meta content="Jelenko serija za djecu
+" name="description"/>
+  <meta content="Joomla! - Open Source Content Management" name="generator"/>
+  <title>
+  </title>
+  <link href="/templates/lighthouse_j3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/templates/lighthouse_j3/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+  <link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Vigo" rel="stylesheet" type="text/css"/>
+  <link href="http://jelenko.com.hr/media/joomgallery/css/joom_settings.css" rel="stylesheet" type="text/css"/>
+  <link href="http://jelenko.com.hr/media/joomgallery/css/joomgallery.css" rel="stylesheet" type="text/css"/>
+  <link href="http://jelenko.com.hr/media/mod_joomimg/css/mod_joomimg.css" rel="stylesheet" type="text/css"/>
+  <link href="/modules/mod_bw_social_share/css/mod_bw_social_share.css" rel="stylesheet" type="text/css"/>
+  <link href="/modules/mod_bw_social_share/css/rrssb.css" rel="stylesheet" type="text/css"/>
+  <link href="/plugins/editors-xtd/edsanimate/assets/animate-animo.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+  </style>
+  <script class="joomla-script-options new" type="application/json">
+  </script>
+  <script src="/media/jui/js/jquery.min.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/media/jui/js/jquery-noconflict.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/media/jui/js/jquery-migrate.min.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript">
+  </script>
+  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/mootools-core.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/media/system/js/core.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/media/system/js/mootools-more.js?b66cfc2dd639daa198ff26cd3927c6e8" type="text/javascript">
+  </script>
+  <script src="/modules/mod_bw_social_share/js/rrssb.js" type="text/javascript">
+  </script>
+  <script src="/modules/mod_bw_social_share/js/mod_bw_social_share.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/edsanimate/assets/jquery.ba-throttle-debounce.min.js" type="text/javascript">
+  </script>
+  <script src="/plugins/editors-xtd/edsanimate/assets/animo.min.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/edsanimate/assets/viewportchecker.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/edsanimate/assets/edsanimate.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/edsanimate/assets/edsanimate.site.js" type="text/javascript">
+  </script>
+  <script src="/media/plg_system_topofthepage/topofthepage.min.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="/templates/lighthouse_j3/apple_touch_icon.png" rel="apple-touch-icon-precomposed"/>
+  <link href="/templates/lighthouse_j3/css/base.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/extensions.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/tools.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/layout.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/menus.css" rel="stylesheet"/>
+  <style>
+  </style>
+  <link href="/templates/lighthouse_j3/css/modules.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/system.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/k2.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/font1/mavenpro.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/font2/georgia.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/font3/play.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/font4/opensans.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/style.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/responsive.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/print.css" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/css/custom.css" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Play" rel="stylesheet"/>
+  <link href="/templates/lighthouse_j3/fonts/opensans.css" rel="stylesheet"/>
+  <script src="/templates/lighthouse_j3/warp/js/warp.js">
+  </script>
+  <script src="/templates/lighthouse_j3/warp/js/responsive.js">
+  </script>
+  <script src="/templates/lighthouse_j3/warp/js/accordionmenu.js">
+  </script>
+  <script src="/templates/lighthouse_j3/warp/js/dropdownmenu.js">
+  </script>
+  <script src="/templates/lighthouse_j3/js/template.js">
+  </script>
+  <style>
+  </style>
+ </head>
+ <body class="page bg_texture_1 comp_texture_2 element_grad_2 show_rings_margin" data-config='{"twitter":0,"plusone":0,"facebook":0}' id="page">
+  <div class="top-bg show_top_half has_slider">
+  </div>
+  <div class="grid-block" id="toolbar">
+   <div class="wrapper grid-block">
+    <div class="float-right top-links">
+    </div>
+   </div>
+  </div>
+  <div class="wrapper">
+   <header id="header">
+    <div id="header-top">
+     <a href="http://jelenko.com.hr" id="logo">
+      <span class="logo-img no-size-auto">
+      </span>
+     </a>
+    </div>
+   </header>
+   <div class="sheet header">
+    <div class="sheet-body">
+     <div class="wrapper grid-block">
+      <div class="grid-block">
+       <div class="grid-block" id="hmenu">
+        <nav id="menu">
+         <ul class="menu menu-dropdown">
+          <li class="level1 item101 active current">
+           <a class="level1 active current" href="/index.php">
+            <span>
+            </span>
+           </a>
+          </li>
+          <li class="level1 item149 parent">
+           <a class="level1 parent" href="/index.php/o-seriji">
+            <span>
+            </span>
+           </a>
+           <div class="dropdown columns1">
+            <div class="dropdown-bg">
+             <div>
+              <div class="width100 column">
+               <ul class="nav-child unstyled small level2">
+                <li class="level2 item151">
+                 <a class="level2" href="/index.php/o-seriji/o-autoru-serije">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item152">
+                 <a class="level2" href="/index.php/o-seriji/o-scenaristici">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item127">
+                 <a class="level2" href="/index.php/o-seriji/opis-serijala">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item130">
+                 <a class="level2" href="/index.php/o-seriji/uloge">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item232">
+                 <a class="level2" href="/index.php/o-seriji/knjiga-bijeli-jelen">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="level1 item144 parent">
+           <a class="level1 parent" href="/index.php/razgovori">
+            <span>
+            </span>
+           </a>
+           <div class="dropdown columns1">
+            <div class="dropdown-bg">
+             <div>
+              <div class="width100 column">
+               <ul class="nav-child unstyled small level2">
+                <li class="level2 item153">
+                 <a class="level2" href="/index.php/razgovori/ramiz-pasic">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item165">
+                 <a class="level2" href="/index.php/razgovori/iz-pera-sofera">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item196">
+                 <a class="level2" href="/index.php/razgovori/na-kavici-sa-ljubicom-jerkovic">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item203">
+                 <a class="level2" href="/index.php/razgovori/inge-appelt">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item224">
+                 <a class="level2" href="/index.php/razgovori/marija-sekelez">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item225">
+                 <a class="level2" href="/index.php/razgovori/rajko-bundalo">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+                <li class="level2 item233">
+                 <a class="level2" href="/index.php/razgovori/izeta-cenanovic">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="level1 item145">
+           <a class="level1" href="/index.php/slike-iz-serijala">
+            <span>
+            </span>
+           </a>
+          </li>
+          <li class="level1 item214">
+           <a class="level1" href="/index.php/video-gledanje">
+            <span>
+            </span>
+           </a>
+          </li>
+          <li class="level1 item212">
+           <a class="level1" href="/index.php/isjecci">
+            <span>
+            </span>
+           </a>
+          </li>
+          <li class="level1 item167">
+           <a class="level1" href="/index.php/impressum">
+            <span>
+            </span>
+           </a>
+          </li>
+          <li class="level1 item146 parent">
+           <a class="level1 parent" href="/index.php/jelenko">
+            <span>
+            </span>
+           </a>
+           <div class="dropdown columns1">
+            <div class="dropdown-bg">
+             <div>
+              <div class="width100 column">
+               <ul class="nav-child unstyled small level2">
+                <li class="level2 item240">
+                 <a class="level2" href="/index.php/jelenko/pokemon">
+                  <span>
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+      <section id="slide-zone">
+       <div class="module deepest">
+        <div class="slideshowck camera_wrap camera_turquoise_skin" id="camera_wrap_102">
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=12" data-src="/images/jelenkoslider/1slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/1slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=11" data-src="/images/jelenkoslider/2slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/2slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=10" data-src="/images/jelenkoslider/3slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/3slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=9" data-src="/images/jelenkoslider/4slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/4slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=8" data-src="/images/jelenkoslider/5slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/5slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=7" data-src="/images/jelenkoslider/6slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/6slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=6" data-src="/images/jelenkoslider/7slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/7slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=5" data-src="/images/jelenkoslider/8slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/8slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=4" data-src="/images/jelenkoslider/9slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/9slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=3" data-src="/images/jelenkoslider/10slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/10slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=2" data-src="/images/jelenkoslider/11slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/11slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje?start=1" data-src="/images/jelenkoslider/12slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/12slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+         <div data-link="http://jelenko.com.hr/index.php/video-gledanje" data-src="/images/jelenkoslider/13slider.png" data-target="_parent" data-thumb="/images/jelenkoslider/th/13slider_th.png">
+          <div class="camera_caption moveFromLeft">
+           <div class="camera_caption_title">
+           </div>
+           <div class="camera_caption_desc">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div style="clear:both;">
+        </div>
+       </div>
+       <div class="module deepest">
+        <div>
+         <p>
+          <a href="https://www.youtube.com/channel/UCkkFgTCwKeFIB_5ksJj6zKg/videos" rel="noopener noreferrer" target="_blank">
+           <script data-pagespeed-no-defer="">
+           </script>
+           <img alt="" data-pagespeed-url-hash="1992118680" height="56" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/tube.png" width="48"/>
+          </a>
+         </p>
+        </div>
+       </div>
+      </section>
+     </div>
+    </div>
+   </div>
+   <div class="rings wrapper">
+    <div class="left-ring">
+    </div>
+    <div class="right-ring">
+    </div>
+   </div>
+   <div class="sheet main-content">
+    <div class="sheet-body main_texture_1">
+     <div class="wrapper grid-block content-texture">
+      <div class="grid-block" id="main">
+       <div class="grid-box" id="maininner">
+        <section class="grid-block" id="content">
+         <div id="system-message-container">
+         </div>
+         <div id="system">
+          <article class="item">
+           <div class="content clearfix">
+            <p style="text-align: justify;">
+             <span style="font-size: 10pt; color: #000000;">
+              <strong>
+               <img data-pagespeed-url-hash="1694332099" height="101" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/djeca11.png" style="float: left;" width="133"/>
+               <a href="http://www.jelenko.com.hr/index.php/slike-iz-serijala/izdvojeno/bohinjska-bela-selo-gdje-je-snimana-serija-jelenko-370" style="color: #000000;">
+               </a>
+              </strong>
+             </span>
+            </p>
+            <p style="text-align: justify;">
+            </p>
+            <p style="text-align: justify;">
+            </p>
+            <p style="text-align: justify;">
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p style="text-align: center;">
+            </p>
+            <p style="text-align: center;">
+            </p>
+            <p style="text-align: center;">
+            </p>
+            <p>
+            </p>
+            <p style="text-align: center;">
+             <span style="color: #000000; font-size: 14pt;">
+              <strong>
+               <span style="color: #993300;">
+                <span style="font-size: 18pt;">
+                 <a href="/index.php/jelenko/pokemon">
+                  <span style="color: #800000;">
+                  </span>
+                 </a>
+                </span>
+                <br/>
+                <a href="/index.php/jelenko/pokemon">
+                 <img alt="" data-pagespeed-url-hash="872988881" height="527" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/CRBD.jpg" width="936"/>
+                </a>
+               </span>
+               <br/>
+               <br/>
+              </strong>
+             </span>
+            </p>
+           </div>
+          </article>
+         </div>
+        </section>
+       </div>
+       <aside class="grid-box" id="sidebar-b">
+        <div class="grid-box width100 grid-v">
+         <div class="module mod-box deepest">
+          <div class="joomimg139_main">
+           <div class="joomimg_row">
+            <div class="joomimg139_imgct">
+             <div class="joomimg139_img">
+              <a href="/index.php/slike-iz-serijala/jelenko-razne-obrade/340" title=".">
+               <img alt="." data-pagespeed-url-hash="2612888496" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="http://jelenko.com.hr/images/joomgallery/thumbnails/jelenko_razne_obrade_6/_20200126_2060421009.jpg" style="height:100px;width:118px;" title="."/>
+              </a>
+             </div>
+            </div>
+            <div class="joomimg139_imgct">
+             <div class="joomimg139_img">
+              <a href="/index.php/slike-iz-serijala/jelenko/388" title=".">
+               <img alt="." data-pagespeed-url-hash="821607237" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="http://jelenko.com.hr/images/joomgallery/thumbnails/jelenko_5/_20201030_1969022588.jpg" style="height:99px;width:133px;" title="."/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="joomimg_clr">
+           </div>
+           <div class="joomimg_row">
+            <div class="joomimg139_imgct">
+             <div class="joomimg139_img">
+              <a href="/index.php/slike-iz-serijala/jelenko/334" title=".">
+               <img alt="." data-pagespeed-url-hash="2297361473" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="http://jelenko.com.hr/images/joomgallery/thumbnails/jelenko_5/_20191222_1444758138.jpg" style="height:100px;width:116px;" title="."/>
+              </a>
+             </div>
+            </div>
+            <div class="joomimg139_imgct">
+             <div class="joomimg139_img">
+              <a href="/index.php/slike-iz-serijala/jelenko-razne-obrade/420" title=".">
+               <img alt="." data-pagespeed-url-hash="2248720809" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="http://jelenko.com.hr/images/joomgallery/thumbnails/jelenko_razne_obrade_6/_20210226_2074219877.jpg" style="height:99px;width:133px;" title="."/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="joomimg_clr">
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="grid-box width100 grid-v">
+         <div class="module mod-box deepest">
+          <p>
+          </p>
+         </div>
+        </div>
+        <div class="grid-box width100 grid-v">
+         <div class="module mod-box deepest">
+          <h3 class="module-title">
+           <span class="color">
+           </span>
+          </h3>
+          <div>
+           <p>
+            <a href="/index.php/o-seriji/knjiga-bijeli-jelen">
+             <img alt="" data-pagespeed-url-hash="1253032506" height="195" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/Bijeli_jelen.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="146"/>
+            </a>
+            <a href="/index.php/dojmovi/ankete">
+             <br/>
+            </a>
+           </p>
+           <p>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="grid-box width100 grid-v">
+         <div class="module mod-box deepest">
+          <div>
+           <p>
+            <a href="/index.php/sokol">
+             <img alt="" data-pagespeed-url-hash="1697327076" height="226" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/headers/KRASKI.png" style="display: block; margin-left: auto; margin-right: auto;" width="182"/>
+            </a>
+           </p>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+     <div id="bottom-block">
+      <div class="wrapper grid-block">
+       <section class="grid-block" id="bottom-b">
+        <div class="wrapper">
+         <div class="grid-box width50 grid-h">
+          <div class="module mod-box deepest">
+           <div>
+            <p>
+             <a href="/index.php/video-gledanje?start=12">
+              <img data-pagespeed-url-hash="4212255019" height="33" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/picturetopeopleorg-153193337fdad17c597bb7ce083008d0c5a1832d03ead43b50.png" style="display: block; margin-left: auto; margin-right: auto;" width="83"/>
+              <img data-pagespeed-url-hash="1202322451" height="221" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/Zanimljivi.png" width="321"/>
+             </a>
+             <a href="/index.php/serija" title="BIRAJ SERIJU">
+              <br/>
+              <img alt="" data-pagespeed-url-hash="932842593" height="6" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/headers/crta.png" width="576"/>
+             </a>
+             <br/>
+             <br/>
+             <br/>
+            </p>
+           </div>
+          </div>
+         </div>
+         <div class="grid-box width50 grid-h">
+          <div class="module mod-box deepest">
+           <div>
+            <p>
+             <a href="/index.php/isjecci">
+              <img data-pagespeed-url-hash="1151049311" height="33" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/picturetopeopleorg-61d9e8cf4c75b06fb0fc0a55608a1cf40c1b99808119fa58c8.png" style="display: block; margin-left: auto; margin-right: auto;" width="96"/>
+              <img data-pagespeed-url-hash="2738513309" height="221" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/headers/kikoivo.png" width="321"/>
+             </a>
+             <a href="/index.php/video-klipovi" title="VIDEO KLIPOVI">
+              <br/>
+              <img alt="" data-pagespeed-url-hash="932842593" height="6" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/headers/crta.png" width="576"/>
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <section class="grid-block footer_texture_10" id="bottom-c">
+   <div class="wrapper grid-block">
+   </div>
+   <div class="wrapper grid-block">
+    <div class="footer-body">
+    </div>
+   </div>
+   <section id="bottom-d">
+    <div class="wrapper grid-block">
+     <a href="#page" id="totop-scroller">
+     </a>
+     <div id="footer-block">
+      <div class="wrapper grid-block">
+       <footer class="grid-block" id="footer">
+        <div class="module deepest">
+         <div>
+          <p style="text-align: center;">
+           <img data-pagespeed-url-hash="2720980714" height="20" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" src="/images/4.png" width="317"/>
+          </p>
+         </div>
+        </div>
+        <div class="module deepest">
+         <div align="center" class="">
+          <script language="JavaScript">
+          </script>
+          <script>
+          </script>
+         </div>
+        </div>
+        <div class="module deepest">
+         <div class="bw-social-share">
+          <p class="bw-social-share-title">
+           <i>
+           </i>
+          </p>
+          <ul class="rrssb-buttons bw-social-share-buttons">
+           <li class="rrssb-facebook">
+            <a class="popup" href="https://www.facebook.com/sharer/sharer.php?u=http://jelenko.com.hr/&amp;picture=&amp;title=HOME&amp;description=Jelenko serija za djecu
+&amp;caption=jelenko.com.hr" onclick="ga('send', 'event', 'socialshare', 'click', 'facebook');">
+             <span class="rrssb-icon">
+              <svg viewbox="0 0 29 29" xmlns="http://www.w3.org/2000/svg">
+               <path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z">
+               </path>
+              </svg>
+             </span>
+             <span class="rrssb-text">
+             </span>
+            </a>
+           </li>
+           <li class="rrssb-twitter">
+            <a class="popup" href="https://twitter.com/intent/tweet?text=HOME%0Ahttp://jelenko.com.hr/%0A" onclick="ga('send', 'event', 'socialshare', 'click', 'twitter');">
+             <span class="rrssb-icon">
+              <svg viewbox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+               <path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z">
+               </path>
+              </svg>
+             </span>
+             <span class="rrssb-text">
+             </span>
+            </a>
+           </li>
+           <li class="rrssb-instagram">
+            <a class="popup" href="http://instagram.com" onclick="ga('send', 'event', 'socialshare', 'click', 'instagram');">
+             <span class="rrssb-icon">
+              <svg viewbox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+               <path d="M4.066.636h19.867c1.887 0 3.43 1.543 3.43 3.43v19.868c0 1.888-1.543 3.43-3.43 3.43H4.066c-1.887 0-3.43-1.542-3.43-3.43V4.066c0-1.887 1.544-3.43 3.43-3.43zm16.04 2.97c-.66 0-1.203.54-1.203 1.202v2.88c0 .662.542 1.203 1.204 1.203h3.02c.663 0 1.204-.54 1.204-1.202v-2.88c0-.662-.54-1.203-1.202-1.203h-3.02zm4.238 8.333H21.99c.224.726.344 1.495.344 2.292 0 4.446-3.72 8.05-8.308 8.05s-8.31-3.604-8.31-8.05c0-.797.122-1.566.344-2.293H3.606v11.29c0 .584.48 1.06 1.062 1.06H23.28c.585 0 1.062-.477 1.062-1.06V11.94h.002zm-10.32-3.2c-2.963 0-5.367 2.33-5.367 5.202 0 2.873 2.404 5.202 5.368 5.202 2.965 0 5.368-2.33 5.368-5.202s-2.403-5.2-5.368-5.2z">
+               </path>
+              </svg>
+             </span>
+             <span class="rrssb-text">
+             </span>
+            </a>
+           </li>
+           <li class="rrssb-youtube">
+            <a class="popup" href="https://www.youtube.com/" onclick="ga('send', 'event', 'socialshare', 'click', 'youtube');">
+             <span class="rrssb-icon">
+              <svg viewbox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+               <path d="M27.688 8.512a4.086 4.086 0 0 0-4.106-4.093H4.39A4.084 4.084 0 0 0 .312 8.51v10.976A4.08 4.08 0 0 0 4.39 23.58h19.19a4.09 4.09 0 0 0 4.107-4.092V8.512zm-16.425 10.12V8.322l7.817 5.154-7.817 5.156z">
+               </path>
+              </svg>
+             </span>
+             <span class="rrssb-text">
+             </span>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </footer>
+      </div>
+     </div>
+     <script>
+     </script>
+    </div>
+   </section>
+  </section>
+ </body>
+</html>

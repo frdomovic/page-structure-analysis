@@ -1,0 +1,132 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&amp;display=swap" rel="stylesheet"/>
+  <title>
+  </title>
+  <script>
+  </script>
+  <style type="text/css">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="container-inner">
+    <div class="header">
+     <div class="error-description">
+      <div class="error-title">
+      </div>
+      <div class="error-code">
+      </div>
+      <div class="hostname">
+      </div>
+      <div class="date">
+      </div>
+     </div>
+    </div>
+    <div class="main">
+     <div class="troubleshooting">
+      <div class="content">
+       <div class="title">
+       </div>
+       <div class="description">
+       </div>
+       <div class="diagram-container">
+        <div class="connectivity">
+         <div class="browser-icon">
+         </div>
+         <div class="success-icon over-node">
+         </div>
+         <div class="top-text">
+         </div>
+         <div class="bottom-text">
+         </div>
+        </div>
+        <div class="line-container">
+         <div class="line success-line">
+         </div>
+         <div class="success-icon over-line">
+         </div>
+        </div>
+        <div class="connectivity">
+         <div class="cloudwaf-icon">
+         </div>
+         <div class="success-icon over-node">
+         </div>
+         <div class="top-text">
+         </div>
+         <div class="bottom-text">
+         </div>
+        </div>
+        <div class="line-container">
+         <div class="line error-line">
+         </div>
+         <div class="error-icon over-line">
+         </div>
+        </div>
+        <div class="connectivity">
+         <div class="data-icon">
+         </div>
+         <div class="question-icon over-node">
+         </div>
+         <div class="top-text">
+         </div>
+         <div class="bottom-text">
+         </div>
+        </div>
+       </div>
+       <div class="info-container">
+        <div class="info">
+         <span class="label">
+         </span>
+         <span class="value">
+         </span>
+        </div>
+        <div class="info">
+         <span class="label">
+         </span>
+         <span class="value">
+         </span>
+         <span class="parentheses-text">
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="content-divider">
+      </div>
+      <div class="content">
+       <div class="title">
+       </div>
+       <div class="secondary-title">
+       </div>
+       <ul>
+        <li>
+        </li>
+       </ul>
+       <div class="dropdown">
+        <div class="secondary-title">
+         <span class="toggle-icon down-icon" onclick="toggleDropdown()">
+         </span>
+        </div>
+        <div class="dropdown-content">
+         <ul>
+          <li>
+          </li>
+          <li>
+           <a href="https://support.incapsula.com/hc/en-us/articles/200627570-Restricting-direct-access-to-your-website-Incapsula-s-IP-addresses-" target="_blank">
+            <span class="external-link-icon">
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

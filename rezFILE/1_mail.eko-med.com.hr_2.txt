@@ -1,0 +1,17 @@
+<html>
+ <body>
+  <opensearchdescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+   <shortname>
+   </shortname>
+   <description>
+   </description>
+   <inputencoding>
+   </inputencoding>
+   <image height="16" type="image/vnd.microsoft.icon" width="16"/>
+   <url rel="self" template="http://mail.eko-med.com.hr/index.php?option=com_search&amp;format=opensearch&amp;Itemid=435" type="application/opensearchdescription+xml">
+   </url>
+   <url template="http://www.eko-med.com.hr/index.php?option=com_search&amp;searchword={searchTerms}" type="text/html">
+   </url>
+  </opensearchdescription>
+ </body>
+</html>

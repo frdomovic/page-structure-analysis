@@ -1,0 +1,805 @@
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <link href="http://amputirani.com.hr/xmlrpc.php" rel="pingback"/>
+  <script type="text/javascript">
+  </script>
+  <title>
+  </title>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://amputirani.com.hr/feed/" rel="alternate" title="Amputirani.com.hr » Feed" type="application/rss+xml"/>
+  <link href="http://amputirani.com.hr/comments/feed/" rel="alternate" title="Amputirani.com.hr » Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+  </script>
+  <meta content="Amputirani.hr v.1.0" name="generator"/>
+  <style type="text/css">
+  </style>
+  <link href="http://amputirani.com.hr/wp-includes/css/dist/block-library/style.min.css?ver=5.5.5" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://amputirani.com.hr/wp-content/themes/Amputirani/style.css?ver=1.0" id="divi-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://amputirani.com.hr/wp-content/themes/Amputirani/epanel/shortcodes/css/shortcodes.css?ver=1.0" id="et-shortcodes-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://amputirani.com.hr/wp-content/themes/Amputirani/epanel/shortcodes/css/shortcodes_responsive.css?ver=1.0" id="et-shortcodes-responsive-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/styles/magnific_popup.css?ver=1.0" id="magnific-popup-css" media="all" rel="stylesheet" type="text/css"/>
+  <script id="jquery-core-js" src="http://amputirani.com.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+  </script>
+  <link href="http://amputirani.com.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://amputirani.com.hr/wp-json/wp/v2/pages/475" rel="alternate" type="application/json"/>
+  <link href="http://amputirani.com.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://amputirani.com.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.5.5" name="generator"/>
+  <link href="http://amputirani.com.hr/" rel="canonical"/>
+  <link href="http://amputirani.com.hr/" rel="shortlink"/>
+  <link href="http://amputirani.com.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Famputirani.com.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://amputirani.com.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Famputirani.com.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <script type="text/javascript">
+  </script>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <style id="theme-customizer-css">
+  </style>
+  <style id="module-customizer-css">
+  </style>
+  <link href="http://amputirani.com.hr/wp-content/uploads/2017/07/cropped-iconUaz.png" rel="shortcut icon"/>
+  <link href="http://amputirani.com.hr/wp-content/uploads/2017/07/cropped-iconUaz-1-32x32.png" rel="icon" sizes="32x32"/>
+  <link href="http://amputirani.com.hr/wp-content/uploads/2017/07/cropped-iconUaz-1-192x192.png" rel="icon" sizes="192x192"/>
+  <link href="http://amputirani.com.hr/wp-content/uploads/2017/07/cropped-iconUaz-1-180x180.png" rel="apple-touch-icon"/>
+  <meta content="http://amputirani.com.hr/wp-content/uploads/2017/07/cropped-iconUaz-1-270x270.png" name="msapplication-TileImage"/>
+ </head>
+ <body class="home page-template-default page page-id-475 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_cover_background et_pb_gutter linux et_pb_gutters3 et_primary_nav_dropdown_animation_expand et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme gecko">
+  <div id="page-container">
+   <header data-height-onload="67" id="main-header">
+    <div class="container clearfix et_menu_container">
+     <div class="logo_container">
+      <span class="logo_helper">
+      </span>
+      <a href="http://amputirani.com.hr/">
+       <img alt="Amputirani.com.hr" data-height-percentage="54" id="logo" src="http://amputirani.com.hr/wp-content/uploads/2017/07/Logo-UAZ.png"/>
+      </a>
+     </div>
+     <div data-fixed-height="40" data-height="67" id="et-top-navigation">
+      <nav id="top-menu-nav">
+       <ul class="nav" id="top-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-475 current_page_item menu-item-has-children menu-item-486" id="menu-item-486">
+         <a aria-current="page" href="http://amputirani.com.hr/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661" id="menu-item-661">
+           <a href="http://amputirani.com.hr/prava/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1066" id="menu-item-1066">
+           <a href="http://amputirani.com.hr/nas-projekt/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121" id="menu-item-1121">
+           <a href="http://amputirani.com.hr/projekt-plesna-skola/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-720" id="menu-item-720">
+           <a href="http://amputirani.com.hr/grupe-podrske/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739" id="menu-item-739">
+           <a href="http://amputirani.com.hr/doniraj/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1120" id="menu-item-1120">
+           <a href="http://amputirani.com.hr/izvjestaji/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-487" id="menu-item-487">
+         <a href="http://amputirani.com.hr/kontakt/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509" id="menu-item-509">
+           <a href="http://amputirani.com.hr/uclani-se/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488" id="menu-item-488">
+           <a href="http://amputirani.com.hr/anketa/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-506" id="menu-item-506">
+         <a href="http://amputirani.com.hr/pitaj-strucnjaka/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616" id="menu-item-616">
+           <a href="http://amputirani.com.hr/medicinska-sestra/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040" id="menu-item-1040">
+           <a href="http://amputirani.com.hr/fizijatar/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613" id="menu-item-613">
+           <a href="http://amputirani.com.hr/fiziotarapeuti/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614" id="menu-item-614">
+           <a href="http://amputirani.com.hr/proteticari/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615" id="menu-item-615">
+           <a href="http://amputirani.com.hr/psihotarapeut/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1168" id="menu-item-1168">
+           <a href="http://amputirani.com.hr/ortoped/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-507" id="menu-item-507">
+         <a href="http://amputirani.com.hr/sportovi/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-508" id="menu-item-508">
+         <a href="http://amputirani.com.hr/protetika/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510" id="menu-item-510">
+           <a href="http://amputirani.com.hr/inovacije/">
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+      <div id="et_top_search">
+       <span id="et_search_icon">
+       </span>
+      </div>
+      <div id="et_mobile_nav_menu">
+       <div class="mobile_nav closed">
+        <span class="select_page">
+        </span>
+        <span class="mobile_menu_bar mobile_menu_bar_toggle">
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="et_search_outer">
+     <div class="container et_search_form_container">
+      <form action="http://amputirani.com.hr/" class="et-search-form" method="get" role="search">
+       <input class="et-search-field" name="s" placeholder="Search …" title="Search for:" type="search" value=""/>
+      </form>
+      <span class="et_close_search_field">
+      </span>
+     </div>
+    </div>
+   </header>
+   <div id="et-main-area">
+    <div id="main-content">
+     <article class="post-475 page type-page status-publish hentry" id="post-475">
+      <div class="entry-content">
+       <div class="et_pb_section et_pb_fullwidth_section et_pb_section_0 et_section_regular">
+        <div class="et_pb_module et-waypoint et_pb_fullwidth_image et_pb_animation_top et_pb_fullwidth_image_0">
+         <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/07/naslovna.jpg"/>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_inner_shadow et_pb_section_1 et_pb_with_background et_section_regular">
+        <div class="et_pb_row et_pb_row_0">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_0">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_0">
+           <h1 style="text-align: center;">
+           </h1>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_1">
+           <p>
+            <strong>
+            </strong>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_2 et_section_regular">
+        <div class="et_pb_row et_pb_row_1">
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_1">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_2">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_0 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/09/KampStart24_igk_260519i.jpg"/>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_3">
+           <p class="">
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+            <strong>
+             <a href="http://amputirani.com.hr/nas-projekt/">
+             </a>
+            </strong>
+           </p>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_4">
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_5">
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_2">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_6">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_1 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/11/Ples.jpg"/>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_7">
+           <p>
+            <br/>
+            <br/>
+            <br/>
+            <a href="https://www.youtube.com/watch?v=W7T_7BDcJv4">
+            </a>
+            <br/>
+            <span>
+            </span>
+            <a href="https://www.24sata.hr/video/maja-35-inspiracija-je-bas-svima-a-bez-potkoljenice-plese-pliva-i-trci-proteza-je-dio-mene-721534">
+            </a>
+            <br/>
+            <a href="https://www.24sata.hr/video/maja-35-inspiracija-je-bas-svima-a-bez-potkoljenice-plese-pliva-i-trci-proteza-je-dio-mene-721534">
+            </a>
+           </p>
+           <p class="">
+           </p>
+           <p class="">
+            <strong>
+             <a href="http://amputirani.com.hr/projekt-plesna-skola/">
+             </a>
+            </strong>
+           </p>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_3">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_text_8">
+           <h2 style="text-align: center;">
+           </h2>
+           <p>
+           </p>
+          </div>
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_2 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/11/uaz-2-scaled.jpg"/>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_9">
+           <p>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+           </p>
+           <p class="">
+            <strong>
+             <a href="http://amputirani.com.hr/inovacije/">
+             </a>
+            </strong>
+           </p>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_4">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_text_10">
+           <h2>
+           </h2>
+          </div>
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_3 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/09/GRAWE-nocni-maraton.jpg"/>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_11">
+           <p class="MsoNormal">
+            <b>
+            </b>
+           </p>
+           <p class="MsoNormal">
+            <strong>
+             <a href="http://amputirani.com.hr/aktivne-proteze-za-djecu-uaz-u-suradnji-s-grawe-hrvatska/">
+             </a>
+            </strong>
+           </p>
+           <p class="MsoNormal et-fb-mce-line-break-holder">
+            <strong>
+            </strong>
+           </p>
+           <p class="MsoNormal">
+            <o:p>
+            </o:p>
+           </p>
+           <p>
+           </p>
+          </div>
+          <div class="et_pb_module et_pb_video et_pb_video_0">
+           <div class="et_pb_video_box">
+            <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="608" src="https://www.youtube.com/embed/i7s9TdehPsI?feature=oembed" title="Grawe Pokreni 2019   final" width="1080">
+            </iframe>
+           </div>
+          </div>
+          <div class="et_pb_module et_pb_video et_pb_video_1">
+           <div class="et_pb_video_box">
+            <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="608" src="https://www.youtube.com/embed/efy9bPBVqNc?feature=oembed" title="Grawe Pokreni 2020  Final" width="1080">
+            </iframe>
+           </div>
+          </div>
+          <div class="et_pb_module et_pb_video et_pb_video_2">
+           <div class="et_pb_video_box">
+            <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="608" src="https://www.youtube.com/embed/6ZBOA3_i-eE?feature=oembed" title="UAZ &amp; Grawe Pokreni  2020" width="1080">
+            </iframe>
+           </div>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_12">
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_fullwidth_section et_pb_section_3 et_section_regular">
+        <div class="et_pb_module et-waypoint et_pb_fullwidth_image et_pb_animation_top et_pb_fullwidth_image_1">
+         <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/08/recovery2.jpg"/>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_inner_shadow et_pb_section_4 et_pb_with_background et_section_regular">
+        <div class="et_pb_row et_pb_row_2">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_5">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_13">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+          <div class="et_pb_module et_pb_space et_pb_divider_0 et-hide-mobile">
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_14">
+           <p>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_3">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_6">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_15">
+           <ul>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_7">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_16">
+           <ul>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+            <li>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_4">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_8">
+          <div class="et_pb_button_module_wrapper et_pb_module et_pb_button_alignment_center">
+           <a class="et_pb_button et_pb_button_0 et_pb_module et_pb_bg_layout_light" href="http://amputirani.com.hr/wp-content/uploads/2017/08/STATUT-UAZ-2015-final.pdf">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_5 et_section_regular">
+        <div class="et_pb_row et_pb_row_5">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_9">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_17">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_6">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_10">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_4 et_always_center_on_mobile">
+           <a href="http://www.ottobock.hr/" target="_blank">
+            <img alt="Zlatni sponzor/Gold sponsor Udruge Amputiraca" src="http://amputirani.com.hr/wp-content/uploads/2018/01/Naljepnica_Zlatni_sponzor_OttoBock.jpg"/>
+           </a>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_11">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_5 et_always_center_on_mobile">
+           <a href="http://bauerfeind.hr/" target="_blank">
+            <img alt="Zlatni sponzor/Gold sponsor Udruge Amputiraca" src="http://amputirani.com.hr/wp-content/uploads/2017/07/Zlatni-sponzor-BF-2019.jpg"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_7">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_12">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_6 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/11/unnamed.jpg"/>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_8">
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_13">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_7 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2020/11/Natator-Google-My-Business-CP-2120x1192-1.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_14">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_blurb_0 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <img alt="" class="et-waypoint et_pb_animation_top" src="http://amputirani.com.hr/wp-content/uploads/2017/07/Logo-hdit.jpg"/>
+            </div>
+            <div class="et_pb_blurb_container">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_15">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_8 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/07/grb-Grada-Zagreba.png"/>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_9">
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_16">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_9 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/08/kbc-zagreb_Logosmall.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_17">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_10 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/08/op-sredjeno.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_18">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_11 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/07/logo1.png"/>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_6 et_section_regular">
+        <div class="et_pb_row et_pb_row_10">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_19">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_18">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_11">
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_20">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_12 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2019/11/Logo-Prijatelj-Udruge-UAZ-Ortopedija-Kralj.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_21">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_13 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2019/11/Logo-Prijatelj-Udruge-UAZ-Ortopedija-BUCO.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_22">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_14 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2019/11/Logo-Prijatelj-Udruge-UAZ-OGK.jpg"/>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_23">
+          <div class="et_pb_module et-waypoint et_pb_image et_pb_animation_top et_pb_image_15 et_always_center_on_mobile">
+           <img alt="" src="http://amputirani.com.hr/wp-content/uploads/2017/07/Logo-Prijatelj-Udruge-UAZ-Orto-Rea.jpg"/>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_7 et_section_regular">
+        <div class="et_pb_row et_pb_row_12">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_24">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_19">
+           <h2 style="text-align: center;">
+           </h2>
+          </div>
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_20">
+           <p>
+            <strong>
+            </strong>
+           </p>
+           <p>
+           </p>
+           <p>
+            <strong>
+            </strong>
+            <strong>
+            </strong>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_13">
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_25">
+          <div class="et_pb_module et_pb_team_member et_pb_team_member_0 et_pb_bg_layout_light clearfix">
+           <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in">
+            <img alt="Kristijan Vincetić" src="http://amputirani.com.hr/wp-content/uploads/2017/07/vinctic2.jpg"/>
+           </div>
+           <div class="et_pb_team_member_description">
+            <h4>
+            </h4>
+            <p class="et_pb_member_position">
+            </p>
+            <p>
+             <a href="http://amputirani.com.hr/kristijan-vincetic/">
+             </a>
+            </p>
+            <ul class="et_pb_member_social_links">
+             <li>
+              <a class="et_pb_font_icon et_pb_facebook_icon" href="https://www.facebook.com/kristijan.vincetic.5">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_twitter_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_google_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_linkedin_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_26">
+          <div class="et_pb_module et_pb_team_member et_pb_team_member_1 et_pb_bg_layout_light clearfix">
+           <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in">
+            <img alt="Ana Sršen" src="http://amputirani.com.hr/wp-content/uploads/2017/07/ana-srsen.jpg"/>
+           </div>
+           <div class="et_pb_team_member_description">
+            <h4>
+            </h4>
+            <p class="et_pb_member_position">
+            </p>
+            <p>
+            </p>
+            <ul class="et_pb_member_social_links">
+             <li>
+              <a class="et_pb_font_icon et_pb_facebook_icon" href="https://www.facebook.com/profile.php?id=100010365703715">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_twitter_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_google_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_linkedin_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_3 et_pb_column_27">
+          <div class="et_pb_module et_pb_team_member et_pb_team_member_2 et_pb_bg_layout_light clearfix">
+           <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in">
+            <img alt="Ivan Katanušić" src="http://amputirani.com.hr/wp-content/uploads/2017/07/ivan-katusic.jpg"/>
+           </div>
+           <div class="et_pb_team_member_description">
+            <h4>
+            </h4>
+            <p class="et_pb_member_position">
+            </p>
+            <p>
+             <a href="http://amputirani.com.hr/ivan-katanusic/">
+             </a>
+            </p>
+            <ul class="et_pb_member_social_links">
+             <li>
+              <a class="et_pb_font_icon et_pb_facebook_icon" href="https://www.facebook.com/ivan.katanusic">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_twitter_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_google_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_linkedin_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_14">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_28">
+          <div class="et_pb_module et_pb_team_member et_pb_team_member_3 et_pb_bg_layout_light clearfix">
+           <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in">
+            <img alt="Dino Skololović" src="http://amputirani.com.hr/wp-content/uploads/2017/07/dino-skololvic.jpg"/>
+           </div>
+           <div class="et_pb_team_member_description">
+            <h4>
+            </h4>
+            <p class="et_pb_member_position">
+            </p>
+            <p>
+             <a href="http://amputirani.com.hr/dino-skololovic/">
+             </a>
+            </p>
+            <ul class="et_pb_member_social_links">
+             <li>
+              <a class="et_pb_font_icon et_pb_facebook_icon" href="https://www.facebook.com/dino.sokolovic">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_twitter_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_google_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_linkedin_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_29">
+          <div class="et_pb_module et_pb_team_member et_pb_team_member_4 et_pb_bg_layout_light clearfix">
+           <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in">
+            <img alt="Ivica Balog" src="http://amputirani.com.hr/wp-content/uploads/2017/07/ivica-balog.jpg"/>
+           </div>
+           <div class="et_pb_team_member_description">
+            <h4>
+            </h4>
+            <p class="et_pb_member_position">
+            </p>
+            <p>
+             <a href="http://amputirani.com.hr/ivica-balog/">
+             </a>
+            </p>
+            <ul class="et_pb_member_social_links">
+             <li>
+              <a class="et_pb_font_icon et_pb_facebook_icon" href="https://www.facebook.com/ivica.balog.14">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_twitter_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_google_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+             <li>
+              <a class="et_pb_font_icon et_pb_linkedin_icon" href="#">
+               <span>
+               </span>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_15">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_30">
+          <div class="et_pb_module et_pb_space et_pb_divider_1 et-hide-mobile">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </div>
+    <footer id="main-footer">
+     <div id="footer-bottom">
+      <div class="container clearfix">
+       <div id="footer-info">
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <style id="et-builder-advanced-style" type="text/css">
+  </style>
+  <style id="et-builder-page-custom-style" type="text/css">
+  </style>
+  <script id="et-builder-modules-global-functions-script-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/frontend-builder-global-functions.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="et-jquery-touch-mobile-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/jquery.mobile.custom.min.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="divi-custom-script-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/js/custom.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="smooth-scroll-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/js/smoothscroll.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="divi-fitvids-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/jquery.fitvids.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="waypoints-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/waypoints.min.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="magnific-popup-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/jquery.magnific-popup.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="et-builder-modules-script-js-extra" type="text/javascript">
+  </script>
+  <script id="et-builder-modules-script-js" src="http://amputirani.com.hr/wp-content/themes/Amputirani/includes/builder/scripts/frontend-builder-scripts.js?ver=1.0" type="text/javascript">
+  </script>
+  <script id="wp-embed-js" src="http://amputirani.com.hr/wp-includes/js/wp-embed.min.js?ver=5.5.5" type="text/javascript">
+  </script>
+ </body>
+</html>

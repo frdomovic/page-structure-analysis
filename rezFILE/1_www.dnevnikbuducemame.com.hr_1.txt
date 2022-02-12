@@ -1,0 +1,1372 @@
+<html lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/wp-content/cache/autoptimize/css/autoptimize_c7ec6d34c7c3129cc98231afb664ecec.css" media="all" rel="stylesheet"/>
+  <title>
+  </title>
+  <meta content="Moj put od trudnoće do majčinstva" name="description"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/" rel="canonical"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/page/2/" rel="next"/>
+  <meta content="hr_HR" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Dnevnik buduće mame" property="og:title"/>
+  <meta content="Moj put od trudnoće do majčinstva" property="og:description"/>
+  <meta content="http://www.dnevnikbuducemame.com.hr/" property="og:url"/>
+  <meta content="Dnevnik buduće mame" property="og:site_name"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <script class="yoast-schema-graph" type="application/ld+json">
+  </script>
+  <meta content="kuN2yyv-2Em9LNnkgaKlwZYF0Kq68nstuuv2rIVCVdA" name="google-site-verification"/>
+  <link href="//app.convertful.com" rel="dns-prefetch"/>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://sp-ao.shortpixel.ai" rel="preconnect"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/feed/" rel="alternate" title="Dnevnik buduće mame » Kanal" type="application/rss+xml"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/comments/feed/" rel="alternate" title="Dnevnik buduće mame » Kanal komentara" type="application/rss+xml"/>
+  <script async="" data-cfasync="false" src="http://www.googletagmanager.com/gtag/js?id=UA-126212798-1" type="text/javascript">
+  </script>
+  <script data-cfasync="false" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link crossorigin="anonymous" href="//fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700&amp;ver=1.0.0" id="savona-playfair-font-css" media="all" rel="stylesheet" type="text/css"/>
+  <link crossorigin="anonymous" href="//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600italic%2C600%2C700italic%2C700&amp;ver=1.0.0" id="savona-opensans-font-css" media="all" rel="stylesheet" type="text/css"/>
+  <script id="jquery-core-js" src="http://www.dnevnikbuducemame.com.hr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript">
+  </script>
+  <script id="monsterinsights-frontend-script-js-extra" type="text/javascript">
+  </script>
+  <script id="cookie-notice-front-js-extra" type="text/javascript">
+  </script>
+  <link href="http://www.dnevnikbuducemame.com.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.dnevnikbuducemame.com.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.8.2" name="generator"/>
+  <meta content="ZgGFTDZsV1RB42ZY3qgl" name="follow.it-verification-code-eU1TdFhEVUpIa2RBZFZhRCtUN2lrWmVvV0JtRlBDMUhob1ZHZDU5dE1LekE3SEp3M1F3RCs0Wng1OXhSV1ZFYnVzT3FVVGRLczNnQnVIV2lZNndteER1c015RUpKOGg2bytKdk1kQVVKVGFZSngxeDhjMnlUSURQMW5RUjdrd0t8cTJpQUloVFFWZEVoODIwMCswQXRGa2hWV3N4TVFLR3ZkU2g5cFlpRWNkMD0="/>
+  <script>
+  </script>
+ </head>
+ <body class="home blog cookies-not-set">
+  <div id="page-wrap">
+   <div id="page-header">
+    <div class="clear-fix" id="top-bar">
+     <div class="boxed-wrapper">
+      <nav class="top-menu-container">
+       <ul class="" id="top-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1775" id="menu-item-1775">
+         <a aria-current="page" href="http://www.dnevnikbuducemame.com.hr">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1570" id="menu-item-1570">
+         <a href="http://www.dnevnikbuducemame.com.hr/par-rijeci-o-blogu/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1956" id="menu-item-1956">
+           <a href="http://www.dnevnikbuducemame.com.hr/blog/drugi-rodendan-bloga/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1776" id="menu-item-1776">
+         <a href="http://www.dnevnikbuducemame.com.hr/kontakt/">
+         </a>
+        </li>
+       </ul>
+      </nav>
+      <div class="top-bar-socials">
+      </div>
+     </div>
+    </div>
+    <div class="entry-header">
+     <div class="cv-outer">
+      <div class="cv-inner">
+       <div class="header-logo">
+        <a href="http://www.dnevnikbuducemame.com.hr/">
+        </a>
+        <br/>
+        <p class="site-description">
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clear-fix" data-fixed="1" id="main-nav">
+     <div class="boxed-wrapper">
+      <div class="main-nav-icons">
+       <div class="main-nav-search">
+        <i class="fa fa-search">
+        </i>
+        <i class="fa fa-times">
+        </i>
+        <form action="http://www.dnevnikbuducemame.com.hr/" class="clear-fix" id="searchform" method="get" role="search">
+         <input data-placeholder="Type &amp; hit enter..." id="s" name="s" placeholder="Search..." type="search" value=""/>
+         <i class="fa fa-search">
+         </i>
+         <input id="searchsubmit" type="submit" value="st"/>
+        </form>
+       </div>
+      </div>
+      <span class="mobile-menu-btn">
+       <i class="fa fa-chevron-down">
+       </i>
+      </span>
+      <nav class="main-menu-container">
+       <ul class="" id="main-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1564" id="menu-item-1564">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55" id="menu-item-55">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/prvo-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-310" id="menu-item-310">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/prvo-tromjesecje/ja-mama/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-309" id="menu-item-309">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/prvo-tromjesecje/trudnicke-pretrage/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-308" id="menu-item-308">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nase-prvo-tromjesecje/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-56" id="menu-item-56">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/drugo-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-307" id="menu-item-307">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/spol-naseg-djeteta/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-306" id="menu-item-306">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/drugo-tromjesecje/prvi-pokreti/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-305" id="menu-item-305">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/drugo-tromjesecje-i-vjezbanje-u-trudnoci/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-548" id="menu-item-548">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nase-drugo-tromjesecje/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57" id="menu-item-57">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/trece-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-696" id="menu-item-696">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nasih-prvih-30-tjedana/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-780" id="menu-item-780">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/trece-tromjesecje/sto-sam-spakirala-u-torbu-za-rodiliste/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-843" id="menu-item-843">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/ulazak-u-9-mjesec-trudnoce/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-863" id="menu-item-863">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/38-tjedan-trudnoce-i-prvi-pregled-u-bolnici/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-892" id="menu-item-892">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/moj-put-od-trudnoce-do-majcinstva/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-909" id="menu-item-909">
+           <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/moj-porod-i-oporavak-u-bolnici/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-934" id="menu-item-934">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/majcinstvo/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-935" id="menu-item-935">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/nasih-prvih-mjesec-dana/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-985" id="menu-item-985">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/sest-velikih-tjedana/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1004" id="menu-item-1004">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasova-prva-dva-mjeseca/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1175" id="menu-item-1175">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasova-prva-cetiri-mjeseca/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1299" id="menu-item-1299">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/pakiranje-za-nase-prvo-ljetovanje-s-bebom/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1345" id="menu-item-1345">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasovih-prvih-6-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1397" id="menu-item-1397">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-6-mjesec/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1469" id="menu-item-1469">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasovih-9-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1732" id="menu-item-1732">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/prva-godina-majcinstva/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1928" id="menu-item-1928">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukas-ima-18-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1731" id="menu-item-1731">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/polazak-u-vrtic-nase-iskustvo/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2003" id="menu-item-2003">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-drugi-rodendan/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2098" id="menu-item-2098">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/odvikavanje-od-pelena-nase-iskustvo/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1125" id="menu-item-1125">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/bebina-prehrana/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1126" id="menu-item-1126">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/beba-voda-dohrane-ili-blw-metoda/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1242" id="menu-item-1242">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/oprema-za-hranjenje/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1380" id="menu-item-1380">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/lukasove-omiljene-kasice/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1843" id="menu-item-1843">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/lukasova-prehrana-u-prvoj-godini/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1556" id="menu-item-1556">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/mamina-citaonica/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-178" id="menu-item-178">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/danski-odgoj-djece/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1162" id="menu-item-1162">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/cudesni-tjedni/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1415" id="menu-item-1415">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/ne-bas-savrsena-mama/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1437" id="menu-item-1437">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/nasa-kuca-u-plamenu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1895" id="menu-item-1895">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/sve-smo-pokusali/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2030" id="menu-item-2030">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/djecji-mozak-objasnjen-roditeljima/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2113" id="menu-item-2113">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/kako-biti-opusten-roditelj/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-324" id="menu-item-324">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/baby-shopping/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-289" id="menu-item-289">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/prva-kupovina-odjece-za-bebu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-346" id="menu-item-346">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/prva-kupovina-drogerijskih-proizvoda-za-bebu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-455" id="menu-item-455">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/kupovina-djecjih-kolica/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-479" id="menu-item-479">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/kupili-smo-djecji-krevetic/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-737" id="menu-item-737">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/djecji-kutak-i-organizacija-djecjih-stvari/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1560" id="menu-item-1560">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-221" id="menu-item-221">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-mamu/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-252" id="menu-item-252">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/biobaza-mama-linija/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-966" id="menu-item-966">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-bebu/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-967" id="menu-item-967">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/prvi-dojmovi-o-drogerijskim-proizvodima-za-bebe/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1617" id="menu-item-1617">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/lukasove-omiljene-igracke/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1738" id="menu-item-1738">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/dojmovi-o-proizvodima-za-bebu-nakon-godine-dana-koristenja/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1764" id="menu-item-1764">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-yasenka-djecju-mast/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2050" id="menu-item-2050">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-biovitalis-proizvode-iz-ljetne-linije/">
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1559" id="menu-item-1559">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/korisne-informacije/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-248" id="menu-item-248">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/programi-lojalnosti/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-376" id="menu-item-376">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/torba-za-rodiliste/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-437" id="menu-item-437">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/povoljnije-alternative-baby-proizvoda/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-753" id="menu-item-753">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/trudnicki-tecaj/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1066" id="menu-item-1066">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/pakiranje-za-izlazak-s-bebom/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1094" id="menu-item-1094">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/sto-ponijeti-s-bebom-na-more/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1207" id="menu-item-1207">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/mala-kucna-ljekarna/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1267" id="menu-item-1267">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/siguran-prostor-za-bebu/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1558" id="menu-item-1558">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/upoznajte-brend/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-407" id="menu-item-407">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-boo-boo-baby-brend-platnenih-pelena/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-676" id="menu-item-676">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-mama-donna-web-shop/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1550" id="menu-item-1550">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-miss-moments-okvire-koji-pricaju-vasu-pricu/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1557" id="menu-item-1557">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/kreativni-kutak/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-508" id="menu-item-508">
+           <a href="http://www.dnevnikbuducemame.com.hr/kreativni-kutak/kako-sacuvati-prve-bebine-fotografije/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1493" id="menu-item-1493">
+           <a href="http://www.dnevnikbuducemame.com.hr/kreativni-kutak/kako-sacuvati-bebine-uspomene/">
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+      <nav class="mobile-menu-container">
+       <ul class="" id="mobile-menu">
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1564">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/prvo-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-310">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/prvo-tromjesecje/ja-mama/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-309">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/prvo-tromjesecje/trudnicke-pretrage/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-308">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nase-prvo-tromjesecje/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-56">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/drugo-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-307">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/spol-naseg-djeteta/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-306">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/drugo-tromjesecje/prvi-pokreti/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-305">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/drugo-tromjesecje-i-vjezbanje-u-trudnoci/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-548">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nase-drugo-tromjesecje/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/moja-trudnoca/trece-tromjesecje/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-696">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/nasih-prvih-30-tjedana/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-780">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/trece-tromjesecje/sto-sam-spakirala-u-torbu-za-rodiliste/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-843">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/ulazak-u-9-mjesec-trudnoce/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-863">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/38-tjedan-trudnoce-i-prvi-pregled-u-bolnici/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-892">
+             <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/moj-put-od-trudnoce-do-majcinstva/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-909">
+           <a href="http://www.dnevnikbuducemame.com.hr/moja-trudnoca/moj-porod-i-oporavak-u-bolnici/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-934">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/majcinstvo/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-935">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/nasih-prvih-mjesec-dana/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-985">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/sest-velikih-tjedana/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1004">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasova-prva-dva-mjeseca/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1175">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasova-prva-cetiri-mjeseca/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1299">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/pakiranje-za-nase-prvo-ljetovanje-s-bebom/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1345">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasovih-prvih-6-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1397">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-6-mjesec/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1469">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukasovih-9-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1732">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/prva-godina-majcinstva/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1928">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukas-ima-18-mjeseci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1731">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/polazak-u-vrtic-nase-iskustvo/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2003">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-drugi-rodendan/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2098">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/odvikavanje-od-pelena-nase-iskustvo/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1125">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/bebina-prehrana/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1126">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/beba-voda-dohrane-ili-blw-metoda/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1242">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/oprema-za-hranjenje/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1380">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/lukasove-omiljene-kasice/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1843">
+           <a href="http://www.dnevnikbuducemame.com.hr/bebina-prehrana/lukasova-prehrana-u-prvoj-godini/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1556">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/mamina-citaonica/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-178">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/danski-odgoj-djece/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1162">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/cudesni-tjedni/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1415">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/ne-bas-savrsena-mama/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1437">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/nasa-kuca-u-plamenu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1895">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/sve-smo-pokusali/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2030">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/djecji-mozak-objasnjen-roditeljima/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2113">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/kako-biti-opusten-roditelj/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-324">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/baby-shopping/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-289">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/prva-kupovina-odjece-za-bebu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-346">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/prva-kupovina-drogerijskih-proizvoda-za-bebu/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-455">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/kupovina-djecjih-kolica/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-479">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/kupili-smo-djecji-krevetic/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-737">
+           <a href="http://www.dnevnikbuducemame.com.hr/baby-shopping/djecji-kutak-i-organizacija-djecjih-stvari/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1560">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-221">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-mamu/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-252">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/biobaza-mama-linija/">
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-966">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-bebu/">
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-967">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/prvi-dojmovi-o-drogerijskim-proizvodima-za-bebe/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1617">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/lukasove-omiljene-igracke/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1738">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/dojmovi-o-proizvodima-za-bebu-nakon-godine-dana-koristenja/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1764">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-yasenka-djecju-mast/">
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2050">
+             <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-biovitalis-proizvode-iz-ljetne-linije/">
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1559">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/korisne-informacije/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-248">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/programi-lojalnosti/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-376">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/torba-za-rodiliste/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-437">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/povoljnije-alternative-baby-proizvoda/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-753">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/trudnicki-tecaj/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1066">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/pakiranje-za-izlazak-s-bebom/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1094">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/sto-ponijeti-s-bebom-na-more/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1207">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/mala-kucna-ljekarna/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1267">
+           <a href="http://www.dnevnikbuducemame.com.hr/korisne-informacije/siguran-prostor-za-bebu/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1558">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/upoznajte-brend/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-407">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-boo-boo-baby-brend-platnenih-pelena/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-676">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-mama-donna-web-shop/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1550">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-miss-moments-okvire-koji-pricaju-vasu-pricu/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1557">
+         <a href="http://www.dnevnikbuducemame.com.hr/category/kreativni-kutak/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-508">
+           <a href="http://www.dnevnikbuducemame.com.hr/kreativni-kutak/kako-sacuvati-prve-bebine-fotografije/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1493">
+           <a href="http://www.dnevnikbuducemame.com.hr/kreativni-kutak/kako-sacuvati-bebine-uspomene/">
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+     </div>
+    </div>
+   </div>
+   <div id="page-content">
+    <div class="main-content clear-fix boxed-wrapper" data-layout="col1-rsidebar" data-sidebar-sticky="1">
+     <div class="main-container">
+      <ul class="blog-grid">
+       <li>
+        <article class="blog-post post-2100 post type-post status-publish format-standard has-post-thumbnail hentry category-mamina-citaonica tag-kako-biti-opusten-roditelj tag-knjige-o-majcinstvu" id="post-2100">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/kako-biti-opusten-roditelj/">
+          </a>
+          <img alt="Kako biti opušten roditelj" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1140x760.jpeg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1024x682.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1880/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2.jpeg 1880w" height="760" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Kako biti opušten roditelj" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="760" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1140x760.jpeg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1024x682.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2-1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1880/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/10/Kako-biti-opusten-roditelj-2.jpeg 1880w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/mamina-citaonica/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/kako-biti-opusten-roditelj/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/kako-biti-opusten-roditelj/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-2060 post type-post status-publish format-standard has-post-thumbnail hentry category-majcinstvo tag-iskustvo-odvikavanja-od-pelena tag-odvikavanje-od-pelena tag-odvikavanje-od-pelena-nase-iskustvo" id="post-2060">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/odvikavanje-od-pelena-nase-iskustvo/">
+          </a>
+          <img alt="Odvikavanje od pelena - naše iskustvo" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1140x760.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1140x760.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-300x200.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1024x683.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-768x512.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1536x1024.jpg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-2048x1365.jpg 2048w" height="760" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Odvikavanje od pelena - naše iskustvo" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="760" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1140x760.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1140x760.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-300x200.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1024x683.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-768x512.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-1536x1024.jpg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/08/Odvikavanje-od-pelena-nase-iskustvo-2-2048x1365.jpg 2048w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/majcinstvo/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/odvikavanje-od-pelena-nase-iskustvo/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/odvikavanje-od-pelena-nase-iskustvo/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-2033 post type-post status-publish format-standard has-post-thumbnail hentry category-proizvodi-za-bebu category-proizvodi-za-mamu category-recenzija-proizvoda tag-biovitalis-bozanstveno-ljetno-ulje-recenzija tag-biovitalis-zastitna-krema-spf-50-recenzija tag-recenzija-biovitalis-proizvoda" id="post-2033">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-biovitalis-proizvode-iz-ljetne-linije/">
+          </a>
+          <img alt="Biovitalis ljetna linija recenzija" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_758/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1140x758.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1140x758.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-300x199.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1024x681.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-768x511.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1352/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija.jpg 1352w" height="758" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Biovitalis ljetna linija recenzija" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="758" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_758/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1140x758.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1140x758.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-300x199.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-1024x681.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija-768x511.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1352/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/06/Biovitalis-ljetna-linija-recenzija.jpg 1352w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-bebu/" rel="category tag">
+           </a>
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-mamu/" rel="category tag">
+           </a>
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-biovitalis-proizvode-iz-ljetne-linije/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-biovitalis-proizvode-iz-ljetne-linije/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-2010 post type-post status-publish format-standard has-post-thumbnail hentry category-mamina-citaonica tag-djecji-mozak-objasnjen-roditeljima tag-djecji-mozak-objasnjen-roditeljima-recenzija tag-knjige-za-roditelje" id="post-2010">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/djecji-mozak-objasnjen-roditeljima/">
+          </a>
+          <img alt="Dječji mozak objašnjen roditeljima" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_761/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1140x761.jpeg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1140x761.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1024x684.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-768x513.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1536x1025.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-2048x1367.jpeg 2048w" height="761" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Dječji mozak objašnjen roditeljima" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="761" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_761/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1140x761.jpeg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1140x761.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1024x684.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-768x513.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-1536x1025.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/04/Djecji-mozak-objasnjen-roditeljima-1-2048x1367.jpeg 2048w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/mamina-citaonica/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/djecji-mozak-objasnjen-roditeljima/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/djecji-mozak-objasnjen-roditeljima/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1980 post type-post status-publish format-standard has-post-thumbnail hentry category-majcinstvo tag-dijete-od-2-godine tag-drugi-rodendan tag-majcinstvo" id="post-1980">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-drugi-rodendan/">
+          </a>
+          <img alt="Veliki drugi rođendan" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1140x760.jpeg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1024x683.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-2048x1365.jpeg 2048w" height="760" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Veliki drugi rođendan" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="760" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1140x760.jpeg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1024x683.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2021/02/Veliki-drugi-rodendan-2-2048x1365.jpeg 2048w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/majcinstvo/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-drugi-rodendan/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/veliki-drugi-rodendan/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1933 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-drugi-rodendan-bloga tag-dvije-godine-bloganja" id="post-1933">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/blog/drugi-rodendan-bloga/">
+          </a>
+          <img alt="Drugi rođendan bloga" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_755/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1140x755.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1140x755.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-300x199.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1024x678.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-768x508.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-500x330.jpg 500w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1355/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1.jpg 1355w" height="755" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Drugi rođendan bloga" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="755" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_755/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1140x755.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1140x755.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-300x199.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-1024x678.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-768x508.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1-500x330.jpg 500w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1355/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/Drugi-rodendan-bloga-1.jpg 1355w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/blog/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/blog/drugi-rodendan-bloga/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/blog/drugi-rodendan-bloga/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1899 post type-post status-publish format-standard has-post-thumbnail hentry category-majcinstvo tag-18-mjeseci tag-dijete-od-18-mjeseci tag-majcinstvo" id="post-1899">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukas-ima-18-mjeseci/">
+          </a>
+          <img alt="Lukas ima 18 mjeseci" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1140x760.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1140x760.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-300x200.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1024x683.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-768x512.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1350/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1.jpg 1350w" height="760" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Lukas ima 18 mjeseci" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="760" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1140x760.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1140x760.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-300x200.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-1024x683.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1-768x512.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1350/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Lukas-ima-18-mjeseci-1.jpg 1350w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/majcinstvo/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukas-ima-18-mjeseci/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/majcinstvo/lukas-ima-18-mjeseci/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1871 post type-post status-publish format-standard has-post-thumbnail hentry category-mamina-citaonica tag-knjige-o-odgoju-djece tag-sve-smo-pokusali tag-sve-smo-pokusali-recenzija" id="post-1871">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/sve-smo-pokusali/">
+          </a>
+          <img alt="Sve smo pokušali" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1140x760.jpeg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1024x683.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--2048x1365.jpeg 2048w" height="760" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Sve smo pokušali" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="760" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_760/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1140x760.jpeg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1140x760.jpeg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--300x200.jpeg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1024x683.jpeg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--768x512.jpeg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--1536x1024.jpeg 1536w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_2048/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/08/Sve-smo-pokušali--2048x1365.jpeg 2048w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/mamina-citaonica/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/sve-smo-pokusali/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/mamina-citaonica/sve-smo-pokusali/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1792 post type-post status-publish format-standard has-post-thumbnail hentry category-upoznajte-brend tag-davita-klik tag-fotografiranje-beba-i-djece tag-fotografiranje-u-vasem-domu" id="post-1792">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-brend-davita-klik/">
+          </a>
+          <img alt="Davita klik" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_108,h_105/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/07/Davita-klik.png" height="105" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="108"/>
+          <noscript>
+           <img alt="Davita klik" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="105" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_108,h_105/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/07/Davita-klik.png" width="108"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/upoznajte-brend/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-brend-davita-klik/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/upoznajte-brend/upoznajte-brend-davita-klik/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+       <li>
+        <article class="blog-post post-1739 post type-post status-publish format-standard has-post-thumbnail hentry category-proizvodi-za-bebu category-recenzija-proizvoda tag-recenzija-proizvoda-za-bebu tag-recenzija-yasenka-djecja-mast tag-yasenka-djecja-mast" id="post-1739">
+         <div class="post-media">
+          <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-yasenka-djecju-mast/">
+          </a>
+          <img alt="Isprobali smo – Yasenka Dječju mast" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image lazyload" data-sizes="(max-width: 1140px) 100vw, 1140px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_641/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1140x641.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1140x641.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-300x169.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1024x576.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-768x432.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1189/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1.jpg 1189w" height="641" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1140"/>
+          <noscript>
+           <img alt="Isprobali smo – Yasenka Dječju mast" class="attachment-savona-full-thumbnail size-savona-full-thumbnail wp-post-image" height="641" sizes="(max-width: 1140px) 100vw, 1140px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140,h_641/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1140x641.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1140/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1140x641.jpg 1140w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_300/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-300x169.jpg 300w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-1024x576.jpg 1024w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1-768x432.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1189/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/05/Isprobali-smo-–-Yasenka-Dječju-mast-1.jpg 1189w" width="1140"/>
+          </noscript>
+         </div>
+         <header class="post-header">
+          <div class="post-categories">
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/proizvodi-za-bebu/" rel="category tag">
+           </a>
+           <a href="http://www.dnevnikbuducemame.com.hr/category/recenzija-proizvoda/" rel="category tag">
+           </a>
+          </div>
+          <h1 class="post-title">
+           <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-yasenka-djecju-mast/">
+           </a>
+          </h1>
+          <div class="post-meta clear-fix">
+           <span class="post-date">
+           </span>
+          </div>
+         </header>
+         <div class="post-content">
+          <p>
+          </p>
+         </div>
+         <div class="read-more">
+          <a href="http://www.dnevnikbuducemame.com.hr/recenzija-proizvoda/isprobali-smo-yasenka-djecju-mast/">
+          </a>
+         </div>
+         <footer class="post-footer">
+         </footer>
+        </article>
+       </li>
+      </ul>
+      <nav class="blog-pagination clear-fix default" data-loading="Loading..." data-max-pages="7">
+       <div class="previous-page">
+        <a href="http://www.dnevnikbuducemame.com.hr/page/2/">
+         <i class="fa fa-long-arrow-left">
+         </i>
+        </a>
+       </div>
+      </nav>
+     </div>
+     <div class="sidebar-right-wrap">
+      <aside class="sidebar-right">
+       <div class="savona-widget widget_search" id="search-2">
+        <div class="widget-title">
+         <h2>
+         </h2>
+        </div>
+        <form action="http://www.dnevnikbuducemame.com.hr/" class="clear-fix" id="searchform" method="get" role="search">
+         <input data-placeholder="Type &amp; hit enter..." id="s" name="s" placeholder="Search..." type="search" value=""/>
+         <i class="fa fa-search">
+         </i>
+         <input id="searchsubmit" type="submit" value="st"/>
+        </form>
+       </div>
+       <div class="savona-widget widget_media_image" id="media_image-2">
+        <div class="widget-title">
+         <h2>
+         </h2>
+        </div>
+        <figure class="wp-caption alignnone" style="width: 706px">
+         <img alt="Ovo smo mi" class="image wp-image-1959 attachment-large size-large lazyload" data-sizes="(max-width: 706px) 100vw, 706px" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_706,h_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-706x1024.jpg" data-srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_706/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-706x1024.jpg 706w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_207/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-207x300.jpg 207w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-768x1114.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_818/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755.jpg 818w" height="1024" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width: 100%; height: auto;" title="UPOZNAJTE NAS" width="706"/>
+         <noscript>
+          <img alt="Ovo smo mi" class="image wp-image-1959 attachment-large size-large" height="1024" sizes="(max-width: 706px) 100vw, 706px" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_706,h_1024/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-706x1024.jpg" srcset="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_706/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-706x1024.jpg 706w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_207/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-207x300.jpg 207w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755-768x1114.jpg 768w, https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_818/http://www.dnevnikbuducemame.com.hr/wp-content/uploads/2020/09/IMG_20200926_205612_755.jpg 818w" style="max-width: 100%; height: auto;" title="UPOZNAJTE NAS" width="706"/>
+         </noscript>
+         <figcaption class="wp-caption-text">
+         </figcaption>
+        </figure>
+       </div>
+       <div class="savona-widget widget_easy_facebook_like_box" id="easy_facebook_like_box-3">
+        <div class="widget-text easy-facebook-like-box_box">
+         <div class="widget-title">
+          <h2>
+          </h2>
+         </div>
+         <div id="fb-root">
+         </div>
+         <script>
+         </script>
+         <div class="fb-page" data-adapt-container-width="false" data-height="" data-hide-cover="false" data-hide-cta="false" data-href="https://www.facebook.com/blogbuducemame/" data-show-facepile="false" data-small-header="false" data-tabs="" data-width="">
+          <blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore">
+           <a href="https://www.facebook.com/facebook">
+           </a>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </aside>
+     </div>
+    </div>
+   </div>
+   <footer class="clear-fix" id="page-footer">
+    <span class="scrolltop">
+     <i class="fa fa fa-angle-up">
+     </i>
+    </span>
+    <div class="page-footer-inner boxed-wrapper">
+     <div class="footer-widgets clear-fix">
+      <div class="savona-widget widget_text" id="text-5">
+       <div class="textwidget">
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+       </div>
+      </div>
+      <div class="savona-widget sfsi" id="sfsi-widget-5">
+       <div class="sfsi_widget" data-position="widget" style="display:flex;flex-wrap:wrap;justify-content: center">
+        <div id="sfsi_wDiv">
+        </div>
+        <div class="norm_row sfsi_wDiv" style="width:225px;position:absolute;;text-align:center">
+         <div class="sfsi_wicons shuffeldiv" style="width:40px; height:40px;margin-left:5px;margin-bottom:5px; ">
+          <div class="inerCnt">
+           <a class="sficn" data-effect="" href="https://www.facebook.com/blogbuducemame/" id="sfsiid_facebook" style="opacity:1" target="_blank">
+            <img alt="Facebook" class="sfcm sfsi_wicon lazyload" data-effect="" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_facebook.png" height="40" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="" title="Facebook" width="40"/>
+            <noscript>
+             <img alt="Facebook" class="sfcm sfsi_wicon" data-effect="" data-pin-nopin="true" height="40" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_facebook.png" style="" title="Facebook" width="40"/>
+            </noscript>
+           </a>
+           <div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" id="sfsiid_facebook" style="width:62px ;opacity:0;z-index:-1;margin-left:-47.5px;">
+            <span class="bot_arow bot_fb_arow">
+            </span>
+            <div class="sfsi_inside">
+             <div class="icon1">
+              <a href="https://www.facebook.com/blogbuducemame/" target="_blank">
+               <img alt="Facebook" class="sfsi_wicon lazyload" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/facebook.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="Facebook"/>
+               <noscript>
+                <img alt="Facebook" class="sfsi_wicon" data-pin-nopin="true" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/facebook.png" title="Facebook"/>
+               </noscript>
+              </a>
+             </div>
+             <div class="icon2">
+              <div class="fb-like" data-action="like" data-href="http://www.dnevnikbuducemame.com.hr" data-layout="button" data-share="true" data-show-faces="false">
+              </div>
+             </div>
+             <div class="icon3">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dnevnikbuducemame.com.hr" style="display:inline-block;" target="_blank">
+               <img alt="fb-share-icon" class="sfsi_wicon lazyload" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png" height="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="Facebook Share" width="auto"/>
+               <noscript>
+                <img alt="fb-share-icon" class="sfsi_wicon" data-pin-nopin="true" height="auto" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png" title="Facebook Share" width="auto"/>
+               </noscript>
+              </a>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="sfsi_wicons shuffeldiv" style="width:40px; height:40px;margin-left:5px;margin-bottom:5px; ">
+          <div class="inerCnt">
+           <a class="sficn" data-effect="" href="https://www.instagram.com/dnevnikbuducemame/" id="sfsiid_instagram" style="opacity:1" target="_blank">
+            <img alt="Instagram" class="sfcm sfsi_wicon lazyload" data-effect="" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_instagram.png" height="40" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="" title="Instagram" width="40"/>
+            <noscript>
+             <img alt="Instagram" class="sfcm sfsi_wicon" data-effect="" data-pin-nopin="true" height="40" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_instagram.png" style="" title="Instagram" width="40"/>
+            </noscript>
+           </a>
+          </div>
+         </div>
+         <div class="sfsi_wicons shuffeldiv" style="width:40px; height:40px;margin-left:5px;margin-bottom:5px; ">
+          <div class="inerCnt">
+           <a class="sficn" data-effect="" href="http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/eU1TdFhEVUpIa2RBZFZhRCtUN2lrWmVvV0JtRlBDMUhob1ZHZDU5dE1LekE3SEp3M1F3RCs0Wng1OXhSV1ZFYnVzT3FVVGRLczNnQnVIV2lZNndteER1c015RUpKOGg2bytKdk1kQVVKVGFZSngxeDhjMnlUSURQMW5RUjdrd0t8cTJpQUloVFFWZEVoODIwMCswQXRGa2hWV3N4TVFLR3ZkU2g5cFlpRWNkMD0=/OA==/" id="sfsiid_email" style="opacity:1" target="_blank">
+            <img alt="Newsletter" class="sfcm sfsi_wicon lazyload" data-effect="" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_email.png" height="40" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="" title="Newsletter" width="40"/>
+            <noscript>
+             <img alt="Newsletter" class="sfcm sfsi_wicon" data-effect="" data-pin-nopin="true" height="40" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_email.png" style="" title="Newsletter" width="40"/>
+            </noscript>
+           </a>
+          </div>
+         </div>
+         <div class="sfsi_wicons shuffeldiv" style="width:40px; height:40px;margin-left:5px;margin-bottom:5px; ">
+          <div class="inerCnt">
+           <a class="sficn" data-effect="" href="http://www.dnevnikbuducemame.com.hr/feed/" id="sfsiid_rss" style="opacity:1" target="_blank">
+            <img alt="RSS" class="sfcm sfsi_wicon lazyload" data-effect="" data-pin-nopin="true" data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_rss.png" height="40" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="" title="RSS" width="40"/>
+            <noscript>
+             <img alt="RSS" class="sfcm sfsi_wicon" data-effect="" data-pin-nopin="true" height="40" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_40,h_40/http://www.dnevnikbuducemame.com.hr/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/thin/thin_rss.png" style="" title="RSS" width="40"/>
+            </noscript>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="sfsi_holders" id="sfsi_holder" style="position: relative; float: left;width:100%;z-index:-1;">
+        </div>
+        <script>
+        </script>
+        <div style="clear: both;">
+        </div>
+       </div>
+      </div>
+      <div class="savona-widget widget_text" id="text-6">
+       <div class="textwidget">
+        <p>
+        </p>
+        <p>
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="footer-copyright">
+      <div class="copyright-info">
+      </div>
+      <div class="credit">
+       <a href="http://optimathemes.com/">
+       </a>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <ins class="adsbygoogle" data-ad-client="ca-pub-5474952037047438" data-ad-format="auto" data-ad-slot="7804319397" data-full-width-responsive="true" style="display:block">
+  </ins>
+  <script>
+  </script>
+  <div id="fb-root">
+  </div>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script id="regenerator-runtime-js" src="http://www.dnevnikbuducemame.com.hr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" type="text/javascript">
+  </script>
+  <script id="wp-polyfill-js" src="http://www.dnevnikbuducemame.com.hr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" type="text/javascript">
+  </script>
+  <script id="contact-form-7-js-extra" type="text/javascript">
+  </script>
+  <script id="SFSICustomJs-js-extra" type="text/javascript">
+  </script>
+  <script id="convertful-api-js-extra" type="text/javascript">
+  </script>
+  <script async="async" id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=30747" type="text/javascript">
+  </script>
+  <div aria-label="Cookie Notice" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" id="cookie-notice" role="dialog" style="background-color: rgba(0,0,0,0.8);">
+   <div class="cookie-notice-container" style="color: #fff;">
+    <span class="cn-text-container" id="cn-notice-text">
+    </span>
+    <span class="cn-buttons-container" id="cn-notice-buttons">
+     <a aria-label="Ok" class="cn-set-cookie cn-button bootstrap button" data-cookie-set="accept" href="#" id="cn-accept-cookie">
+     </a>
+    </span>
+    <a aria-label="Ok" class="cn-close-icon" data-cookie-set="accept" href="javascript:void(0);" id="cn-close-notice">
+    </a>
+   </div>
+  </div>
+  <script defer="" src="http://www.dnevnikbuducemame.com.hr/wp-content/cache/autoptimize/js/autoptimize_ba7ce4ddb042c366087d636a74a02976.js">
+  </script>
+ </body>
+</html>

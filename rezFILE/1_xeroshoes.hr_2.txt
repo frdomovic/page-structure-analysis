@@ -1,0 +1,20 @@
+<html>
+ <body>
+  <p>
+   <a>
+    <m a="" a.1i="" b="" b.12="" c="" d="" e="" e.1q="" e.35="" f="19" h="/z-?5E|89-?87|1y|6q|85-?1P/i;E.1s({81:J(a){1e.$=D;7(a)1e.19=w;K" i="0,M=c.M;i&lt;M;i++)7(a.1j(c[i],b)===S)1T}N{7(c.M==10){P(L" p="">
+     <f.m b.2f="" d="" g="k.1p(/\\-(\\w)/g,J(a,b){K" h.2r="=\'10\')h=h.2u||h[0]&amp;&amp;h[0].2u||T;E.V(l,J(i,d){7(!d)K;7(d.1n==53)d=d.3D();7(1v" k="[];h=h||T;7(1v" l='e.Y.2c,3A=e.3A.2c;e.3A.2c=e.4j.2c;e.Y.2c=d||0;d=e.Y.7l+"2P";e.Y.2c=l;e.3A.2c=3A}}K'>
+      <m a="b.2V(0);K" b="E.Q(a[i]);7(!2j[b]){2j[b]=R;c.1h(a[i])}}}1W(e){c=a}K" c="[],2j={};1R{P(L" i="0,M=a.M;i&lt;M;i++)7(a[i]==b)K" p="" v="8X.8V.2w();E.14={5n:(v.1E(/.+(?:8R|8Q|8P|8O)[\\/:" y="E.14.1d?&quot;6K&quot;:&quot;6J&quot;;E.1s({8J:!E.14.1d||T.6I==&quot;6H&quot;,3S:{&quot;P&quot;:&quot;8G&quot;,&quot;8E&quot;:&quot;1w&quot;,&quot;4c&quot;:y,6J:y,6K:y,38:&quot;38&quot;,1w:&quot;1w&quot;,1C:&quot;1C&quot;,2W:&quot;2W&quot;,3o:&quot;3o&quot;,8C:&quot;8B&quot;,2p:&quot;2p&quot;,8A:&quot;8z&quot;,44:&quot;44&quot;,6F:&quot;6F&quot;,28:&quot;28&quot;,12:&quot;12&quot;}});E.V({6E:&quot;O.1b&quot;,8y:&quot;19.4w(O,\'1b\')&quot;,8x:&quot;19.31(O,2,\'2J\')&quot;,8w:&quot;19.31(O,2,\'4v\')&quot;,8v:&quot;19.4w(O,\'2J\')&quot;,8u:&quot;19.4w(O,\'4v\')&quot;,8s:&quot;19.5m(O.1b.1B,O)&quot;,8r:&quot;19.5m(O.1B)&quot;,6C:&quot;19.12(O,\'8q\')?O.8p||O.8o.T:19.2H(O.3p)&quot;},J(c,d){d=4A(&quot;S||J(O){K">
+       <m>
+        <t.4m.m a="" b="a.4W;2e(b&amp;&amp;b!=c)1R{b=b.1b}1W(3e){b=c}K" e='g.1g("' i="J(a,c){L">
+         <a.m t="(1D">
+         </a.m>
+        </t.4m.m>
+       </m>
+      </m>
+     </f.m>
+    </m>
+   </a>
+  </p>
+ </body>
+</html>

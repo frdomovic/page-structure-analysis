@@ -1,0 +1,183 @@
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Microsoft FrontPage 12.0" name="GENERATOR"/>
+  <meta content="FrontPage.Editor.Document" name="ProgId"/>
+  <title>
+  </title>
+  <script fptype="dynamicanimation" language="JavaScript">
+  </script>
+  <script fptype="dynamicanimation" language="JavaScript1.2" src="animate.js">
+  </script>
+  <script language="JavaScript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="css/popup.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+  </style>
+ </head>
+ <body bgcolor="FFFFFF" language="Javascript1.2" leftmargin="0" marginheight="0" marginwidth="0" onload="dynAnimation()" topmargin="0">
+  <table border="0" cellpadding="0" cellspacing="0">
+   <tr>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top" width="70">
+     <a href="index.html">
+      <img border="0" height="34" src="images/menu_home_s.gif" width="119"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top">
+     <a href="povijest.html" onmouseout="document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].imgRolln" onmouseover="document['fpAnimswapImgFP1'].imgRolln=document['fpAnimswapImgFP1'].src;document['fpAnimswapImgFP1'].src=document['fpAnimswapImgFP1'].lowsrc;">
+      <img border="0" dynamicanimation="fpAnimswapImgFP1" height="34" id="fpAnimswapImgFP1" lowsrc="images/menu-1.gif" name="fpAnimswapImgFP1" src="images/menu-11.gif" width="87"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top">
+     <a href="klinika-danas.html" onmouseout="document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].imgRolln" onmouseover="document['fpAnimswapImgFP2'].imgRolln=document['fpAnimswapImgFP2'].src;document['fpAnimswapImgFP2'].src=document['fpAnimswapImgFP2'].lowsrc;">
+      <img border="0" dynamicanimation="fpAnimswapImgFP2" height="34" id="fpAnimswapImgFP2" lowsrc="images/menu-2.gif" name="fpAnimswapImgFP2" src="images/menu-21.gif" width="121"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top">
+     <a href="prijem.html" onmouseout="document['fpAnimswapImgFP7'].src=document['fpAnimswapImgFP7'].imgRolln" onmouseover="document['fpAnimswapImgFP7'].imgRolln=document['fpAnimswapImgFP7'].src;document['fpAnimswapImgFP7'].src=document['fpAnimswapImgFP7'].lowsrc;">
+      <img border="0" dynamicanimation="fpAnimswapImgFP7" height="34" id="fpAnimswapImgFP7" lowsrc="images/menu-4.gif" name="fpAnimswapImgFP7" src="images/menu-41.gif" width="140"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top">
+     <a href="kako-do-nas.html" onmouseout="document['fpAnimswapImgFP6'].src=document['fpAnimswapImgFP6'].imgRolln" onmouseover="document['fpAnimswapImgFP6'].imgRolln=document['fpAnimswapImgFP6'].src;document['fpAnimswapImgFP6'].src=document['fpAnimswapImgFP6'].lowsrc;">
+      <img border="0" dynamicanimation="fpAnimswapImgFP6" height="34" id="fpAnimswapImgFP6" lowsrc="images/menu-31.gif" name="fpAnimswapImgFP6" src="images/menu-3.gif" width="107"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" style="width: 68px" valign="top">
+     <a href="novosti.html" onmouseout="document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].imgRolln" onmouseover="document['fpAnimswapImgFP5'].imgRolln=document['fpAnimswapImgFP5'].src;document['fpAnimswapImgFP5'].src=document['fpAnimswapImgFP5'].lowsrc;">
+      <img border="0" dynamicanimation="fpAnimswapImgFP5" height="34" id="fpAnimswapImgFP5" lowsrc="images/menu-5.gif" name="fpAnimswapImgFP5" src="images/menu-51.gif" width="68"/>
+     </a>
+    </td>
+    <td background="images/plava.gif" bgcolor="#006699" valign="top">
+     <a href="kontakt.html">
+      <img border="0" class="style1" height="34" src="images/menu-61.gif" width="80"/>
+     </a>
+     <img border="0" height="2" src="images/plava.gif" width="65"/>
+    </td>
+   </tr>
+  </table>
+  <table border="0">
+   <tr>
+    <td valign="top">
+     <img border="0" src="images/trcim.gif"/>
+     <br/>
+     <a href="lista-cekanja.html" target="_parent">
+      <img border="0" height="40" hspace="22" src="images/liste-cekanja.gif" width="168"/>
+     </a>
+     <br/>
+     <br/>
+     <a href="mailto:narucivanje@orto-lovran.hr">
+      <img alt="Centralno naruèivanje pacijenata" border="0" height="113" hspace="22" src="images/centralno-narucivanje1.gif" width="168"/>
+     </a>
+     <p align="center">
+     </p>
+    </td>
+    <td valign="top">
+     <img border="0" height="1" src="images/bijela.gif" width="150"/>
+     <img border="0" height="58" src="images/logo1.gif" width="253"/>
+     <table border="0" bordercolor="#111111" cellpadding="0" id="AutoNumber1" style="border-collapse: collapse" width="700">
+      <tr>
+       <td valign="top">
+        <a href="klinika-danas.html" onmouseout="document['fpAnimswapImgFP8'].src=document['fpAnimswapImgFP8'].imgRolln" onmouseover="document['fpAnimswapImgFP8'].imgRolln=document['fpAnimswapImgFP8'].src;document['fpAnimswapImgFP8'].src=document['fpAnimswapImgFP8'].lowsrc;">
+         <img alt="Klinika za ortopediju" border="0" dynamicanimation="fpAnimswapImgFP8" height="143" id="fpAnimswapImgFP8" lowsrc="images/home-slike-11.jpg" name="fpAnimswapImgFP8" src="images/home-slike-1.jpg" width="152"/>
+        </a>
+        <a href="povijest.html">
+         <img alt="Klinika za ortopediju - povijest" border="0" height="143" src="images/home-slike-2.jpg" width="172"/>
+        </a>
+       </td>
+       <td rowspan="2" valign="bottom">
+        <a href="pdf/lista-cekanja.pdf" target="_blank">
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td valign="top">
+        <img border="0" height="107" src="images/home-slike-3.gif" width="152"/>
+        <a href="klinika-danas.html">
+         <img alt="Klinika za ortopediju - danas" border="0" height="107" src="images/home-slike-4.jpg" width="172"/>
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td height="150">
+        <p>
+         <font face="Arial" size="2">
+          <br/>
+          <br/>
+         </font>
+        </p>
+        <p>
+         <font face="Arial" size="2">
+          <a href="mailto:narucivanje@orto-lovran.hr">
+          </a>
+          <mailto:narucivanje>
+          </mailto:narucivanje>
+         </font>
+        </p>
+        <p>
+         <font face="Arial" size="2">
+          <mailto:narucivanje>
+          </mailto:narucivanje>
+         </font>
+        </p>
+        <p>
+         <strong style="font-weight: 400">
+          <font face="Arial" size="2">
+          </font>
+         </strong>
+        </p>
+       </td>
+      </tr>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <div align="center">
+   <br/>
+   <font face="Arial" size="2">
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+   </font>
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">
+   </font>
+   <br/>
+   <a href="http://www.multilink.hr" target="_blank">
+    <img border="0" height="21" src="images/multilink.gif" width="70"/>
+   </a>
+   <font face="Arial" size="2">
+   </font>
+  </div>
+  <a class="splash-pozivnica" href="#COVID-19" style="display: none;">
+   <div class="mfp-hide" id="COVID-19" style="margin: 0 auto; max-width: 40%; background: #fff; padding: 20px; border-radius: 5px; color: red">
+    <h3>
+    </h3>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+   </div>
+   <script src="js/jquery.js">
+   </script>
+   <script src="js/popup.js">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script>
+   </script>
+   <noscript>
+    <a href="https://userway.org">
+    </a>
+   </noscript>
+  </a>
+ </body>
+</html>

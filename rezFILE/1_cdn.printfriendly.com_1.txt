@@ -1,0 +1,20 @@
+<html>
+ <body>
+  <p>
+   <t :="" a='{createAdByType:function(e){if(!document.getElementById("gaiframe")){var' auto="" c="" display:none="" e="{dataCallback:function(e){try{var" e.innerwidth="" function="" height:280px="" i='n.protocol+"//"+n.hosts.page;return' in="" l='window.top,d=null,f=!1,u=/d3nekkt1lmmhms|printfriendly\.com|printnicer\.com|algo\.js|printfriendly\.js|core\.js/,p=[],m=[],h={},g=null;return{init:function(e,t){h=e.config,g=e.version,"production"!==e.config.environment||e.onServer?t():Raven.context(t)},log:function(e,i){t()&amp;&amp;(console.error(e),console.error(e.stack)),i=i||{file:"printfriendly.js"};try{n()?c(e,i):(p.push({err:e,opts:i}),r(),m.push(e.name+"' left:="" margin-left:="" margin-right:="" n="p[e];c(n.err,n.opts)}}function" n.protocol="" o="0,a=n.length;o&lt;a;o++){var" o.contentselectors="" o.primaryimage="" pfmod="window.pfMod||function(e){function" position:absolute="" r='i.currentStyle||window.getComputedStyle(i);r&amp;&amp;e(i,r,t,"style");var' r.contentwindow="" right:0="" s="" t='e.stacktrace.frames[0];t.filename.match(u)&amp;&amp;"onload"!==t["function"]||e.stacktrace.frames.shift()}catch(e){}return' t.startswith="" void="" window="" window.parent="" window.parent.parent="" z-index:="">
+    <c.__fetchoriginalpagecallbacksqueue.length e.pfstyle="" t='e.split("/"),n=t.length;n--'>
+     <a>
+     </a>
+     <i e="document.createElement(&quot;div&quot;);e.innerHTML='&lt;div" id="pf-mask" r="e[n];if(r.check(t))return" style="z-index: 2147483627!important; position: fixed !important; top: 0pt !important; left: 0pt !important; background-color: rgb(0, 0, 0) !important; opacity: 0.8 !important;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80); height: 100% !important; width: 100% !important;" t="" this.__redirectchecksresult="">
+      <n.stylesheets.length a="" e="" e.top.outerheight="" e.top.outerwidth="" e.top.screenx="" e.top.screeny="" img="" n="t.textContent.replace(/^\s*\/*\s&lt;!\[CDATA\[|\]\]" r='t[i],o=r.toDataURL("image/png");r.setAttribute("pf-dataurl-index",e.length),e.push(o)}catch(e){}return' script="" t="">
+       <r a='o.getAttribute("href");a&amp;&amp;"#"!==a.charAt(0)&amp;&amp;!a.startsWith("http")&amp;&amp;o.setAttribute("href",toAbsoluteUrl(a,p.config))}else' c="s.split(/,\s/),l=[],d=0;d&lt;c.length;d++){var" if="" m="commonUtils.getImageHeight(o,pfMod.onServer),h=commonUtils.getImageWidth(o,pfMod.onServer);h*m" o='null;o=n.shift();)if(!commonUtils.hasClass(o,"comment-list")){if(o.nodeType===Node.ELEMENT_NODE)try{if(t=o.nodeName.toLowerCase(),persistComputedStylesAndRect(o),f.showHiddenContent||"none"!==o.getAttribute("data-pf_style_display")&amp;&amp;"hidden"!==o.getAttribute("data-pf_style_visibility")?commonUtils.hasClass(o,"hidden-originally")&amp;&amp;commonUtils.removeClassFrom(o,"hidden-originally"):commonUtils.addClassTo(o,"hidden-originally"),"a"===t){var' s='o.getAttribute("srcset")||o.getAttribute("data-srcset");if(s){for(var' u='c[d];l.push(toAbsoluteUrl(u,p.config))}o.setAttribute("pf-data-srcset",l.join(",'>
+        <r p="" prifri='pfMod;pfMod.initialized&amp;&amp;(document.getElementById("printfriendly-data")||window.extensionPath)?pfMod.start():"algo"===window.name||"pf-core"===window.name||pfMod.initialized||pfMod.init(window.pfOptions);'>
+        </r>
+       </r>
+      </n.stylesheets.length>
+     </i>
+    </c.__fetchoriginalpagecallbacksqueue.length>
+   </t>
+  </p>
+ </body>
+</html>

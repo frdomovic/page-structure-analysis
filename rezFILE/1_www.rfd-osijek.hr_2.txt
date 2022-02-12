@@ -1,0 +1,1836 @@
+<html>
+ <body>
+  <feed xml:base="http://www.rfd-osijek.hr/wp-atom.php" xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <title type="text">
+   </title>
+   <subtitle type="text">
+   </subtitle>
+   <updated>
+   </updated>
+   <link href="http://www.rfd-osijek.hr" rel="alternate" type="text/html"/>
+   <id>
+   </id>
+   <link href="http://www.rfd-osijek.hr/feed/atom/" rel="self" type="application/atom+xml"/>
+   <generator uri="https://wordpress.org/" version="5.5.3">
+   </generator>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/10/02/imovina-u-sustavu-proracuna-2/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/10/02/imovina-u-sustavu-proracuna-2/">
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+     </span>
+     <span class="fontstyle2">
+     </span>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+        <br/>
+       </span>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+        <br/>
+       </span>
+      </strong>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+      <br/>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+        <br/>
+       </span>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle3">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle3">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle3">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle3">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle3">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <table class="NormalTable">
+      <tbody>
+       <tr>
+        <td width="78">
+         <span class="fontstyle0">
+          <br/>
+         </span>
+         <span class="fontstyle2">
+         </span>
+        </td>
+        <td width="450">
+         <span class="fontstyle2">
+         </span>
+        </td>
+        <td width="56">
+         <span class="fontstyle2">
+         </span>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/10/02/imovina-u-sustavu-proracuna-2/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/10/02/imovina-u-sustavu-proracuna-2/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/09/26/racunovodstvo-i-revizija-projekata-financiranih-iz-fondova-eu-za-trgovacka-drustva/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/09/26/racunovodstvo-i-revizija-projekata-financiranih-iz-fondova-eu-za-trgovacka-drustva/">
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+     </span>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+      </span>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+     </p>
+     <table class="NormalTable">
+      <tbody>
+       <tr>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle2">
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+       </tr>
+       <tr>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle0">
+         </span>
+        </td>
+        <td width="200">
+         <span class="fontstyle2">
+         </span>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+     </ul>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+       </span>
+       <br/>
+       <span class="fontstyle2">
+        <br/>
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+        <br/>
+       </span>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+       <span class="fontstyle2">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle0">
+      </span>
+      <span class="fontstyle2">
+      </span>
+      <span class="fontstyle0">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+      </span>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/09/26/racunovodstvo-i-revizija-projekata-financiranih-iz-fondova-eu-za-trgovacka-drustva/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/09/26/racunovodstvo-i-revizija-projekata-financiranih-iz-fondova-eu-za-trgovacka-drustva/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/07/09/radionica-humanitarne-pomoci-i-donacije-place-naknade-i-druge-aktualnosti-kod-neprofitnih-organizacija/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/07/09/radionica-humanitarne-pomoci-i-donacije-place-naknade-i-druge-aktualnosti-kod-neprofitnih-organizacija/">
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+     </span>
+     <span class="fontstyle0">
+     </span>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <a href="http://www.rfd-osijek.hr/wp-content/uploads/NEPROFITNI-072020.pdf" rel="noopener noreferrer" target="_blank">
+      </a>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/07/09/radionica-humanitarne-pomoci-i-donacije-place-naknade-i-druge-aktualnosti-kod-neprofitnih-organizacija/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/07/09/radionica-humanitarne-pomoci-i-donacije-place-naknade-i-druge-aktualnosti-kod-neprofitnih-organizacija/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/06/09/otkazana-radionica-planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/06/09/otkazana-radionica-planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/">
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/06/09/otkazana-radionica-planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/06/09/otkazana-radionica-planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/05/27/program-usavrsavanja-skola-proracunskog-racunovodstva-2/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/05/27/program-usavrsavanja-skola-proracunskog-racunovodstva-2/">
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <span class="fontstyle0">
+     </span>
+     <p>
+      <span class="fontstyle2">
+      </span>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+        <br/>
+       </span>
+      </strong>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <p>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+     </p>
+     <p>
+      <a href="http://www.rfd-osijek.hr/wp-content/uploads/EDUKACIJA-PRORAČUNSKO-RAČUNOVODSTVO-6-07072020.pdf" rel="noopener noreferrer" target="_blank">
+      </a>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/05/27/program-usavrsavanja-skola-proracunskog-racunovodstva-2/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/05/27/program-usavrsavanja-skola-proracunskog-racunovodstva-2/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/05/22/planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/05/22/planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/">
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <span class="fontstyle0">
+      <br/>
+     </span>
+     <span class="fontstyle2">
+     </span>
+     <span class="fontstyle0">
+     </span>
+     <h3>
+      <span class="fontstyle0">
+      </span>
+     </h3>
+     <p>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle2">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+     </ul>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+        <br/>
+       </span>
+      </li>
+     </ul>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+        <br/>
+       </span>
+      </li>
+     </ul>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+        <br/>
+       </span>
+      </li>
+     </ul>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <ul>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+      <li>
+       <span class="fontstyle2">
+       </span>
+      </li>
+     </ul>
+     <p>
+     </p>
+     <p>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <strong>
+       </strong>
+       <br/>
+      </span>
+      <span class="fontstyle0">
+       <strong>
+       </strong>
+      </span>
+      <span class="fontstyle2">
+      </span>
+      <span class="fontstyle0">
+      </span>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+      <strong>
+       <span class="fontstyle0">
+       </span>
+      </strong>
+      <span class="fontstyle2">
+      </span>
+     </p>
+     <p>
+      <a href="http://www.rfd-osijek.hr/wp-content/uploads/RADIONICA-GODISNJI-ODMOR-12062020.pdf" rel="noopener noreferrer" target="_blank">
+      </a>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/05/22/planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/05/22/planiranje-i-koristenje-godisnjeg-odmora-za-2020-godinu/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/03/04/poziv-za-uclanjenje-placanje-clanarine-4/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/03/04/poziv-za-uclanjenje-placanje-clanarine-4/">
+     <span class="fontstyle0">
+     </span>
+     <span class="fontstyle2">
+      <br/>
+     </span>
+     <p>
+      <span class="fontstyle2">
+       <br/>
+      </span>
+     </p>
+     <p>
+     </p>
+     <p>
+      <a href="http://rfd-osijek.hr/pristupnica_pravne.pdf" rel="noopener noreferrer" target="_blank">
+      </a>
+      <br/>
+      <a href="http://rfd-osijek.hr/pristupnica.pdf" rel="noopener noreferrer" target="_blank">
+      </a>
+     </p>
+     <p>
+     </p>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <p>
+      <b>
+       <span class="fontstyle0">
+       </span>
+       <br/>
+      </b>
+     </p>
+     <p>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <p>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <span class="fontstyle0">
+      </span>
+     </p>
+     <p>
+      <b>
+      </b>
+     </p>
+     <p>
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <br/>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/03/04/poziv-za-uclanjenje-placanje-clanarine-4/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/03/04/poziv-za-uclanjenje-placanje-clanarine-4/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/skola-proracunskog-racunovodstva-3/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/02/14/skola-proracunskog-racunovodstva-3/">
+     <br/>
+     <br/>
+     <p>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+     </p>
+     <ol>
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="2">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="3">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <p>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <strong>
+       <br/>
+      </strong>
+      <strong>
+      </strong>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/skola-proracunskog-racunovodstva-3/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/skola-proracunskog-racunovodstva-3/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-3/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2020/02/14/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-3/">
+     <br/>
+     <br/>
+     <p>
+     </p>
+     <p>
+      <strong>
+      </strong>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <strong>
+      </strong>
+     </p>
+     <ol>
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="2">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="3">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="4">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="5">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="6">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="7">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ol start="8">
+      <li>
+       <strong>
+       </strong>
+      </li>
+     </ol>
+     <ul>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <p>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <strong>
+      </strong>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+     </p>
+     <p>
+      <a href="http://www.rfd-osijek.hr/wp-content/uploads/RADIONICA-IMOVINA-U-SUSTAVU-PRORACUNA-09032020.doc" rel="noopener noreferrer" target="_blank">
+      </a>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-3/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2020/02/14/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-3/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://www.rfd-osijek.hr/2019/11/27/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-2/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://www.rfd-osijek.hr" term="Novosti">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://www.rfd-osijek.hr/2019/11/27/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-2/">
+     <br/>
+     <br/>
+     <p>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </p>
+     <p>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <strong>
+      </strong>
+      <br/>
+      <br/>
+     </p>
+    </content>
+    <link href="http://www.rfd-osijek.hr/2019/11/27/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-2/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://www.rfd-osijek.hr/2019/11/27/dugotrajna-nefinancijska-imovina-u-sustavu-proracuna-2/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+  </feed>
+ </body>
+</html>

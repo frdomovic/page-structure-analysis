@@ -1,0 +1,26 @@
+<html>
+ <body>
+  <rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+   <service>
+    <enginename>
+    </enginename>
+    <enginelink>
+    </enginelink>
+    <homepagelink>
+    </homepagelink>
+    <apis>
+     <api apilink="http://raguz.hr/xmlrpc.php" blogid="1" name="WordPress" preferred="true">
+     </api>
+     <api apilink="http://raguz.hr/xmlrpc.php" blogid="1" name="Movable Type" preferred="false">
+     </api>
+     <api apilink="http://raguz.hr/xmlrpc.php" blogid="1" name="MetaWeblog" preferred="false">
+     </api>
+     <api apilink="http://raguz.hr/xmlrpc.php" blogid="1" name="Blogger" preferred="false">
+     </api>
+     <api apilink="http://raguz.hr/wp-json/" blogid="1" name="WP-API" preferred="false">
+     </api>
+    </apis>
+   </service>
+  </rsd>
+ </body>
+</html>

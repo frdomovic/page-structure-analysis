@@ -1,0 +1,301 @@
+<html>
+ <body>
+  <p>
+  </p>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://lovrincevic.hr/xmlrpc.php" rel="pingback"/>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/themes/lovrincevic/js/owl.carousel.css" rel="stylesheet"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/themes/lovrincevic/js/owl.carousel.min.js">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/themes/lovrincevic/js/main.js">
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js">
+  </script>
+  <title>
+  </title>
+  <meta content="Kompletne vulkanizerske usluge za osobna vozila, motocikle i skutere uključujući balansiranje kotača direktno na osobnim i kombi vozilima, kamionski program" name="description"/>
+  <meta content="noodp" name="robots"/>
+  <link href="http://lovrincevic.hr/" rel="canonical"/>
+  <meta content="hr_HR" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Lovrinčević d.o.o. - Lovrinčević Autoservis i Autogume" property="og:title"/>
+  <meta content="Kompletne vulkanizerske usluge za osobna vozila, motocikle i skutere uključujući balansiranje kotača direktno na osobnim i kombi vozilima, kamionski program" property="og:description"/>
+  <meta content="http://lovrincevic.hr/" property="og:url"/>
+  <meta content="Lovrinčević Autoservis i Autogume" property="og:site_name"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Kompletne vulkanizerske usluge za osobna vozila, motocikle i skutere uključujući balansiranje kotača direktno na osobnim i kombi vozilima, kamionski program" name="twitter:description"/>
+  <meta content="Lovrinčević d.o.o. - Lovrinčević Autoservis i Autogume" name="twitter:title"/>
+  <script type="application/ld+json">
+  </script>
+  <script type="application/ld+json">
+  </script>
+  <meta content="ekPUQvz844LYzvp4Wwm5LjcBCAG4pUztbIDRhhawz5E" name="google-site-verification"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://lovrincevic.hr/lovrincevic-d-o-o/feed/" rel="alternate" title="Lovrinčević Autoservis i Autogume » Lovrinčević d.o.o. Kanal komentara" type="application/rss+xml"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <link href="http://lovrincevic.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=3.6.0" id="elementor-icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.1.2" id="elementor-animations-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.1.2" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/premium-addons-for-elementor/assets/css/premium-addons.css?ver=2.4.0" id="premium-addons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/premium-addons-for-elementor/assets/css/prettyphoto.css?ver=2.4.0" id="pa-prettyphoto-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/uploads/elementor/css/global.css?ver=1531241776" id="elementor-global-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://lovrincevic.hr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7" id="fancybox-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=4.9.18" id="google-fonts-1-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://lovrincevic.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/plugins/better-analytics/js/loader.php?ver=1.2.3.js" type="text/javascript">
+  </script>
+  <link href="http://lovrincevic.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://lovrincevic.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://lovrincevic.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.9.18" name="generator"/>
+  <link href="http://lovrincevic.hr/" rel="shortlink"/>
+  <link href="http://lovrincevic.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flovrincevic.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://lovrincevic.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flovrincevic.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <script type="text/javascript">
+  </script>
+  <link href="http://lovrincevic.hr/wp-content/themes/lovrincevic/style.css" rel="stylesheet"/>
+  <div id="mobile-nav">
+   <div class="menu-main-navigation-container">
+    <ul class="menu" id="menu-main-navigation">
+     <li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-16" id="menu-item-16">
+      <a href="http://lovrincevic.hr/">
+      </a>
+     </li>
+     <li class="news menu-item menu-item-type-post_type menu-item-object-page menu-item-15" id="menu-item-15">
+      <a href="http://lovrincevic.hr/novosti/">
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-116" id="menu-item-116">
+      <a href="http://lovrincevic.hr/autoservis-opcenito/">
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-117" id="menu-item-117">
+      <a href="http://lovrincevic.hr/autogume-opcenito/">
+      </a>
+     </li>
+     <li class="kontakt menu-item menu-item-type-post_type menu-item-object-page menu-item-13" id="menu-item-13">
+      <a href="http://lovrincevic.hr/kontakt/">
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <header role="banner">
+   <div class="container">
+    <a href="http://lovrincevic.hr" id="logo">
+    </a>
+    <div class="menu-main-navigation-container">
+     <ul class="menu" id="menu-main-navigation-1">
+      <li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-16">
+       <a href="http://lovrincevic.hr/">
+       </a>
+      </li>
+      <li class="news menu-item menu-item-type-post_type menu-item-object-page menu-item-15">
+       <a href="http://lovrincevic.hr/novosti/">
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-116">
+       <a href="http://lovrincevic.hr/autoservis-opcenito/">
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-117">
+       <a href="http://lovrincevic.hr/autogume-opcenito/">
+       </a>
+      </li>
+      <li class="kontakt menu-item menu-item-type-post_type menu-item-object-page menu-item-13">
+       <a href="http://lovrincevic.hr/kontakt/">
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="mobile-menu-trigger">
+    </div>
+   </div>
+   <div id="tiremarks">
+   </div>
+  </header>
+  <main class="site-main" id="main" role="main">
+   <div class="container">
+    <div id="homepage-carousel">
+     <div class="owl-carousel">
+      <a class="item" href="http://lovrincevic.hr/ponuda/" style="background:url(http://lovrincevic.hr/wp-content/uploads/2015/11/Akcijske_Cijene_01-09-2015.jpg) center center no-repeat;">
+      </a>
+      <a class="item" href="http://lovrincevic.hr/lovrincevic-i-hak-za-vas-love-popuste/" style="background:url(http://lovrincevic.hr/wp-content/uploads/2015/11/carousel2.jpg) center center no-repeat;">
+      </a>
+      <a class="item" href="http://lovrincevic.hr/novi-michelin-crossclimate/" style="background:url(http://lovrincevic.hr/wp-content/uploads/2015/11/carousel3.jpg) center center no-repeat;">
+      </a>
+     </div>
+     <div class="icons-wrapper">
+      <div class="item">
+       <a href="http://lovrincevic.hr/autoservis-opcenito">
+        <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_autoservis.png"/>
+        <span>
+        </span>
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://lovrincevic.hr/autogume">
+        <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_autogume.png"/>
+        <span>
+        </span>
+       </a>
+      </div>
+      <div class="item">
+       <a href="http://lovrincevic.hr/autoservis-opcenito">
+        <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_zamjensk_auto.png"/>
+        <span>
+        </span>
+       </a>
+      </div>
+      <div class="item">
+       <a class="item-hover" href="http://lovrincevic.hr/kontakt/#rezervacija-termina">
+        <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_rezervacija_termina.png"/>
+        <img class="img-hover" src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_rezervacija_termina_roll_over.png"/>
+        <span>
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container">
+    <div class="homepage-contact">
+     <div class="map-wrapper">
+      <div class="map-header">
+       <span>
+       </span>
+       <div>
+       </div>
+      </div>
+      <div class="map" id="map1">
+      </div>
+      <div class="map-footer">
+       <i>
+       </i>
+       <span>
+        <br/>
+       </span>
+      </div>
+     </div>
+     <div class="map-wrapper">
+      <div class="map-header">
+       <span>
+       </span>
+       <div>
+       </div>
+      </div>
+      <div class="map" id="map2">
+      </div>
+      <div class="map-footer">
+       <i>
+       </i>
+       <span>
+        <br/>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <footer class="site-footer" id="colophon" role="contentinfo">
+   <div id="footer-tire">
+   </div>
+   <div id="footer-tools">
+   </div>
+   <div class="container">
+    <div class="menu-item">
+     <a href="#">
+      <i class="home-icon">
+      </i>
+     </a>
+    </div>
+    <div class="menu-item">
+     <a href="#">
+      <i class="news-icon">
+      </i>
+     </a>
+     <ul class="doted-link-list">
+      <li>
+       <a href="http://lovrincevic.hr/autoservis-opcenito/">
+       </a>
+      </li>
+      <li>
+       <a href="http://lovrincevic.hr/autogume-opcenito/">
+       </a>
+      </li>
+      <li>
+       <a href="http://lovrincevic.hr/lovrincevic-i-hak-za-vas-love-popuste/">
+       </a>
+      </li>
+      <li>
+       <a href="http://lovrincevic.hr/novi-michelin-crossclimate/">
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="menu-item">
+     <a href="#">
+      <i class="offer-icon">
+      </i>
+     </a>
+     <ul class="">
+     </ul>
+    </div>
+    <div class="menu-item">
+     <a href="#">
+      <i class="contact-icon">
+      </i>
+     </a>
+     <div class="footer-contact-data">
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </div>
+    </div>
+    <ul class="footer-emails">
+     <li>
+      <a href="mailto:prodaja@lovrincevic.hr">
+       <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_footer_mail.png"/>
+      </a>
+     </li>
+     <li>
+      <a href="#">
+       <img src="http://lovrincevic.hr/wp-content/themes/lovrincevic/img/ic_footer_FB.png"/>
+      </a>
+     </li>
+    </ul>
+   </div>
+  </footer>
+  <div id="copyright">
+  </div>
+  <meta content="" data-o='{"tid":"UA-74207655-1","co":"auto","g":1073810280,"dl":"\\.avi|\\.dmg|\\.doc|\\.exe|\\.gz|\\.mpg|\\.mp3|\\.pdf|\\.ppt|\\.psd|\\.rar|\\.wmv|\\.xls|\\.zip","s":0,"a":0}' id="ba_s" property="options"/>
+  <script type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-includes/js/wp-embed.min.js?ver=4.9.18" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.js?ver=1.5.7" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3" type="text/javascript">
+  </script>
+  <script src="http://lovrincevic.hr/wp-content/plugins/easy-fancybox/jquery.mousewheel.min.js?ver=3.1.12" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+ </body>
+</html>

@@ -1,0 +1,912 @@
+<html>
+ <body>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+   <channel>
+    <title>
+    </title>
+    <atom:link href="http://karmel.hr/?feed=rss2" rel="self" type="application/rss+xml">
+    </atom:link>
+    <link/>
+    <description>
+    </description>
+    <lastbuilddate>
+    </lastbuilddate>
+    <language>
+    </language>
+    <sy:updateperiod>
+    </sy:updateperiod>
+    <sy:updatefrequency>
+    </sy:updatefrequency>
+    <generator>
+    </generator>
+    <site xmlns="com-wordpress:feed-additions:1">
+    </site>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17573">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17574">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17574" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1629544795","copyright":"","focal_length":"12.6","iso":"800","shutter_speed":"0.005","title":"","orientation":"1"}' data-image-title="DSCN9271" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17574" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9271.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17575">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17575" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1629544890","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="DSCN9275" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17575" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9275.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17580">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17580" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.5","credit":"","camera":"Canon EOS 6D","caption":"","created_timestamp":"1629541891","copyright":"","focal_length":"105","iso":"3200","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="_MG_0949" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=474%2C712" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=200%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=1706%2C2560" data-orig-size="1706,2560" data-permalink="http://karmel.hr/?attachment_id=17580" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17576">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17576" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1629546222","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="DSCN9285" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17576" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9285.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17579">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17579" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.5","credit":"","camera":"Canon EOS 6D","caption":"","created_timestamp":"1629541811","copyright":"","focal_length":"70","iso":"1250","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="_MG_0943" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?fit=474%2C316" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?fit=300%2C200" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?fit=2560%2C1706" data-orig-size="2560,1706" data-permalink="http://karmel.hr/?attachment_id=17579" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0943-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17577">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17577" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1629547549","copyright":"","focal_length":"47.2","iso":"800","shutter_speed":"0.008","title":"","orientation":"1"}' data-image-title="DSCN9290" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17577" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9290.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17578">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17578" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1629547762","copyright":"","focal_length":"35.9","iso":"800","shutter_speed":"0.008","title":"","orientation":"1"}' data-image-title="DSCN9293" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17578" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/DSCN9293.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17581">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17581" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.5","credit":"","camera":"Canon EOS 6D","caption":"","created_timestamp":"1629546583","copyright":"","focal_length":"70","iso":"1000","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="_MG_1083" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?fit=474%2C316" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?fit=300%2C200" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?fit=2560%2C1707" data-orig-size="2560,1707" data-permalink="http://karmel.hr/?attachment_id=17581" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_1083-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <span style="font-weight: 400;">
+      </span>
+      <p>
+       <span style="font-weight: 400;">
+       </span>
+       <span id="more-17531">
+       </span>
+      </p>
+      <p>
+       <span style="font-weight: 400;">
+       </span>
+      </p>
+      <p>
+       <span style="font-weight: 400;">
+       </span>
+      </p>
+      <p>
+       <span style="font-weight: 400;">
+       </span>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17532">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17532" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-1" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17532" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-1.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17533">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17533" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-2" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17533" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-2.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17534">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17534" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-3" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?fit=474%2C843" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?fit=169%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?fit=864%2C1536" data-orig-size="864,1536" data-permalink="http://karmel.hr/?attachment_id=17534" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-3.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17535">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17535" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-4" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17535" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-4.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17536">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17536" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-5" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17536" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-5.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17537">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17537" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-6" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=1536%2C1152" data-orig-size="1536,1152" data-permalink="http://karmel.hr/?attachment_id=17537" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17538">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17538" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-7" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?fit=474%2C843" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?fit=169%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?fit=864%2C1536" data-orig-size="864,1536" data-permalink="http://karmel.hr/?attachment_id=17538" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-7.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17539">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17539" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-8" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?fit=474%2C843" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?fit=169%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?fit=864%2C1536" data-orig-size="864,1536" data-permalink="http://karmel.hr/?attachment_id=17539" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-8.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17540">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17540" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-9" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?fit=474%2C843" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?fit=169%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?fit=864%2C1536" data-orig-size="864,1536" data-permalink="http://karmel.hr/?attachment_id=17540" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-9.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17541">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17541" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-10" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?fit=474%2C843" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?fit=169%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?fit=864%2C1536" data-orig-size="864,1536" data-permalink="http://karmel.hr/?attachment_id=17541" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-10.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17542">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17542" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-11" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17542" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-11.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17543">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17543" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-12" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17543" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-12.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17544">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17544" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-13" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?fit=474%2C267" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?fit=300%2C169" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17544" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-13.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17545">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17545" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-14" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17545" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-14.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17546">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17546" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-15" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?fit=1536%2C864" data-orig-size="1536,864" data-permalink="http://karmel.hr/?attachment_id=17546" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-15.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17547">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17547" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="StiftAdmont2008" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?fit=474%2C316" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?fit=300%2C200" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?fit=1280%2C853" data-orig-size="1280,853" data-permalink="http://karmel.hr/?attachment_id=17547" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/StiftAdmont2008.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17506">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17507">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17507" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1625684635","copyright":"","focal_length":"6.4","iso":"400","shutter_speed":"0.005","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?fit=474%2C655" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?fit=217%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?fit=1079%2C1491" data-orig-size="1079,1491" data-permalink="http://karmel.hr/?attachment_id=17507" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/01-7.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17508">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17508" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1626203264","copyright":"","focal_length":"6.4","iso":"125","shutter_speed":"0.033333333333333","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?fit=474%2C365" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?fit=300%2C231" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?fit=1768%2C1360" data-orig-size="1768,1360" data-permalink="http://karmel.hr/?attachment_id=17508" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/02-13.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17509">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17509" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1626288645","copyright":"","focal_length":"6.4","iso":"125","shutter_speed":"0.05","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?fit=474%2C365" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?fit=300%2C231" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?fit=1768%2C1360" data-orig-size="1768,1360" data-permalink="http://karmel.hr/?attachment_id=17509" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/03-14.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17510">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17510" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1626376433","copyright":"","focal_length":"6.4","iso":"64","shutter_speed":"0.033333333333333","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?fit=474%2C365" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?fit=300%2C231" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?fit=1768%2C1360" data-orig-size="1768,1360" data-permalink="http://karmel.hr/?attachment_id=17510" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/04-15.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17511">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17511" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1626376829","copyright":"","focal_length":"6.4","iso":"125","shutter_speed":"0.066666666666667","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?fit=1505%2C1129" data-orig-size="1505,1129" data-permalink="http://karmel.hr/?attachment_id=17511" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/05-15.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17512">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17512" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.3","credit":"","camera":"FE240\/X795","caption":"OLYMPUS DIGITAL CAMERA","created_timestamp":"1626378000","copyright":"","focal_length":"6.4","iso":"160","shutter_speed":"0.033333333333333","title":"OLYMPUS DIGITAL CAMERA","orientation":"1"}' data-image-title="OLYMPUS DIGITAL CAMERA" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?fit=1505%2C1129" data-orig-size="1505,1129" data-permalink="http://karmel.hr/?attachment_id=17512" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/06-15.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17513">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17513" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="07 – 15.07.2021." data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?fit=1600%2C1200" data-orig-size="1600,1200" data-permalink="http://karmel.hr/?attachment_id=17513" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/07-15.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17514">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17514" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626437075","copyright":"","focal_length":"8.8","iso":"125","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="08 – 16.07.2021." data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17514" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/08-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17515">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17515" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626436753","copyright":"","focal_length":"8.8","iso":"640","shutter_speed":"0.004","title":"","orientation":"1"}' data-image-title="09 – 16.07.2021." data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17515" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/09-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17516">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17516" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626435373","copyright":"","focal_length":"15.74","iso":"125","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="10 – 16.07.2021." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17516" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/10-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17517">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17517" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626435349","copyright":"","focal_length":"8.8","iso":"125","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="11 – 16.07.2021." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17517" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17518">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17518" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="12 – 16.07.2021." data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?fit=474%2C333" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?fit=300%2C211" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?fit=1024%2C720" data-orig-size="1024,720" data-permalink="http://karmel.hr/?attachment_id=17518" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/12-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17519">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17519" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.5","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626438809","copyright":"","focal_length":"10.6","iso":"500","shutter_speed":"0.008","title":"","orientation":"1"}' data-image-title="13 – 16.07.2021." data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17519" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/13-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17520">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17520" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626438959","copyright":"","focal_length":"25.7","iso":"250","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="14 – 16.07.2021." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17520" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/14-16.07.2021..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <span id="more-17480">
+      </span>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p style="text-align: right;">
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17481">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17481" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REST","camera":"","caption":"","created_timestamp":"0","copyright":"REST","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Karmel 2021. – 1" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=1280%2C960" data-orig-size="1280,960" data-permalink="http://karmel.hr/?attachment_id=17481" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17482">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17482" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REST","camera":"","caption":"","created_timestamp":"0","copyright":"REST","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 2." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?fit=474%2C632" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?fit=225%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?fit=1920%2C2560" data-orig-size="1920,2560" data-permalink="http://karmel.hr/?attachment_id=17482" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-2.-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17483">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17483" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REST","camera":"","caption":"","created_timestamp":"0","copyright":"REST","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Karmel 2021. – 3" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?fit=1280%2C960" data-orig-size="1280,960" data-permalink="http://karmel.hr/?attachment_id=17483" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-3.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17484">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17484" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REST","camera":"","caption":"","created_timestamp":"0","copyright":"REST","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Karmel 2021. – 4." data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?fit=1280%2C960" data-orig-size="1280,960" data-permalink="http://karmel.hr/?attachment_id=17484" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-4..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17485">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17485" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 5." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17485" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-5..jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17486">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17486" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 6" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17486" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-6.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17487">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17487" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 7" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17487" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-7.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17488">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17488" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 8" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?fit=474%2C316" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?fit=300%2C200" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?fit=899%2C599" data-orig-size="899,599" data-permalink="http://karmel.hr/?attachment_id=17488" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-8.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17489">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17489" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 9" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?fit=474%2C632" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?fit=225%2C300" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17489" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-9.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17490">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17490" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 10" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?fit=474%2C632" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?fit=225%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17490" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-10.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17491">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17491" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 11" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?fit=474%2C632" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?fit=225%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17491" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-11.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17492">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17492" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 12" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?fit=474%2C632" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?fit=225%2C300" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17492" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-12.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17493">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17493" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 13" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17493" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-13.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17494">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17494" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 14" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17494" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-14.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17495">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17495" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 15" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17495" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-15.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17496">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17496" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 16" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?fit=900%2C675" data-orig-size="900,675" data-permalink="http://karmel.hr/?attachment_id=17496" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-16.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17497">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17497" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 17" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?fit=474%2C632" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?fit=225%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17497" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-17.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17498">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17498" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 18" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?fit=474%2C632" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?fit=225%2C300" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17498" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-18.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17499">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17499" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 19" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?fit=474%2C632" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?fit=225%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17499" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-19.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17500">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17500" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 20" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?fit=474%2C632" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?fit=225%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17500" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-20.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17501">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17501" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Karmel 2021. – 21" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?fit=474%2C632" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?fit=225%2C300" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?fit=768%2C1024" data-orig-size="768,1024" data-permalink="http://karmel.hr/?attachment_id=17501" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-21.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17475">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+        <em>
+        </em>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+        <em>
+        </em>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17476">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17476" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX P530","caption":"","created_timestamp":"1626459488","copyright":"","focal_length":"4.3","iso":"250","shutter_speed":"0.033333333333333","title":"","orientation":"0"}' data-image-title="Gospa_Karmelska_2021-1" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=1600%2C900" data-orig-size="1600,900" data-permalink="http://karmel.hr/?attachment_id=17476" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17477">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17477" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX P530","caption":"","created_timestamp":"1626423649","copyright":"","focal_length":"4.3","iso":"100","shutter_speed":"0.02","title":"","orientation":"0"}' data-image-title="Gospa_Karmelska_2021-2" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?fit=474%2C632" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?fit=225%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?fit=1200%2C1600" data-orig-size="1200,1600" data-permalink="http://karmel.hr/?attachment_id=17477" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-2.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17478">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17478" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.5","credit":"","camera":"COOLPIX P530","caption":"","created_timestamp":"1626430674","copyright":"","focal_length":"8.4","iso":"110","shutter_speed":"0.02","title":"","orientation":"0"}' data-image-title="Gospa_Karmelska_2021-3" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?fit=474%2C267" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?fit=300%2C169" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?fit=1600%2C900" data-orig-size="1600,900" data-permalink="http://karmel.hr/?attachment_id=17478" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-3.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17461">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17462">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17462" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626593766","copyright":"","focal_length":"47.2","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN9106" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17462" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9106.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17463">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17463" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626596396","copyright":"","focal_length":"23.7","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN9121" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17463" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9121.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17464">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17464" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626600308","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN9127" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17464" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9127.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17465">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17465" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626601390","copyright":"","focal_length":"7.1","iso":"800","shutter_speed":"0.008","title":"","orientation":"1"}' data-image-title="DSCN9132" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17465" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9132.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17466">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17466" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626601406","copyright":"","focal_length":"10.4","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN9134" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17466" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9134.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17467">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17467" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.5","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626606623","copyright":"","focal_length":"16.1","iso":"800","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="DSCN9151" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17467" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9151.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17468">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17468" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626607896","copyright":"","focal_length":"47.2","iso":"800","shutter_speed":"0.025","title":"","orientation":"1"}' data-image-title="DSCN9166" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17468" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9166.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17469">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17469" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626609757","copyright":"","focal_length":"32.7","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN9190" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17469" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9190.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17470">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17470" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626610724","copyright":"","focal_length":"4","iso":"800","shutter_speed":"0.004","title":"","orientation":"1"}' data-image-title="DSCN9209" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17470" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17471">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17471" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626628671","copyright":"","focal_length":"4.1","iso":"800","shutter_speed":"0.004","title":"","orientation":"1"}' data-image-title="DSCN9215" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17471" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9215.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17472">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17472" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626629505","copyright":"","focal_length":"52.2","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN9232" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17472" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9232.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17473">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17473" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626631386","copyright":"","focal_length":"32.7","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN9243" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17473" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9243.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17451">
+       </span>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17452">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17452" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626429739","copyright":"","focal_length":"12.099","iso":"500","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="IMG_2038" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?fit=474%2C357" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?fit=300%2C226" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?fit=2560%2C1929" data-orig-size="2560,1929" data-permalink="http://karmel.hr/?attachment_id=17452" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2038-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17459">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17459" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626429771","copyright":"","focal_length":"6.504","iso":"250","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2039" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?fit=2560%2C1920" data-orig-size="2560,1920" data-permalink="http://karmel.hr/?attachment_id=17459" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2039-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17453">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17453" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.9","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626429925","copyright":"","focal_length":"26","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="IMG_2041" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?fit=474%2C796" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?fit=179%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?fit=1526%2C2560" data-orig-size="1526,2560" data-permalink="http://karmel.hr/?attachment_id=17453" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2041-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17454">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17454" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626430908","copyright":"","focal_length":"5.2","iso":"160","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2045" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?fit=474%2C331" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?fit=300%2C210" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?fit=2560%2C1789" data-orig-size="2560,1789" data-permalink="http://karmel.hr/?attachment_id=17454" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2045-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17455">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17455" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626432265","copyright":"","focal_length":"20.727","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2048" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?fit=2560%2C1920" data-orig-size="2560,1920" data-permalink="http://karmel.hr/?attachment_id=17455" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2048-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17456">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17456" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626434227","copyright":"","focal_length":"6.504","iso":"250","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2050" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=474%2C305" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=300%2C193" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=2560%2C1647" data-orig-size="2560,1647" data-permalink="http://karmel.hr/?attachment_id=17456" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17457">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17457" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626246369","copyright":"","focal_length":"15.408","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2051" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?fit=2560%2C1920" data-orig-size="2560,1920" data-permalink="http://karmel.hr/?attachment_id=17457" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2051-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17458">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17458" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.9","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626331405","copyright":"","focal_length":"26","iso":"800","shutter_speed":"0.05","title":"","orientation":"1"}' data-image-title="IMG_2052" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?fit=2560%2C1920" data-orig-size="2560,1920" data-permalink="http://karmel.hr/?attachment_id=17458" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2052-scaled.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17437">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <strong>
+        <em>
+        </em>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <em>
+       </em>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17438">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17438" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.8","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626434341","copyright":"","focal_length":"20.3","iso":"800","shutter_speed":"0.01","title":"","orientation":"1"}' data-image-title="DSCN9007" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17438" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9007.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17439">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17439" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626435231","copyright":"","focal_length":"52.2","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN9016" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17439" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9016.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17440">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17440" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.2","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626435432","copyright":"","focal_length":"5.3","iso":"800","shutter_speed":"0.008","title":"","orientation":"1"}' data-image-title="DSCN9020" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17440" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9020.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17441">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17441" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.2","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626435437","copyright":"","focal_length":"5.3","iso":"800","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="DSCN9021" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17441" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9021.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17442">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17442" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.9","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626435498","copyright":"","focal_length":"78.1","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN9022" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17442" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9022.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17443">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17443" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.2","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626456353","copyright":"","focal_length":"11.7","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN9034" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17443" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9034.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17444">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17444" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626458294","copyright":"","focal_length":"41.3","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN9078" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17444" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9078.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17445">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17445" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626458315","copyright":"","focal_length":"41.3","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN9080" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17445" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9080.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17446">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17446" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.5","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626458786","copyright":"","focal_length":"16.1","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN9087" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17446" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9087.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17447">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17447" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"Canon IXUS 115 HS","caption":"","created_timestamp":"1626429026","copyright":"","focal_length":"5","iso":"200","shutter_speed":"0.001","title":"","orientation":"1"}' data-image-title="IMG_0663" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=1984%2C1488" data-orig-size="1984,1488" data-permalink="http://karmel.hr/?attachment_id=17447" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17448">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17448" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"Canon IXUS 115 HS","caption":"","created_timestamp":"1626431951","copyright":"","focal_length":"5","iso":"400","shutter_speed":"0.001","title":"","orientation":"1"}' data-image-title="IMG_0666" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?fit=1984%2C1488" data-orig-size="1984,1488" data-permalink="http://karmel.hr/?attachment_id=17448" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0666.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17449">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17449" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"Canon IXUS 115 HS","caption":"","created_timestamp":"1626431961","copyright":"","focal_length":"5","iso":"500","shutter_speed":"0.001","title":"","orientation":"1"}' data-image-title="IMG_0667" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?fit=1984%2C1488" data-orig-size="1984,1488" data-permalink="http://karmel.hr/?attachment_id=17449" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0667.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <p>
+       <span id="more-17426">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17427">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17427" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369483","copyright":"","focal_length":"4","iso":"800","shutter_speed":"0.004","title":"","orientation":"1"}' data-image-title="DSCN8957" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17427" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8957.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17428">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17428" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369492","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="DSCN8958" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17428" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8958.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17429">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17429" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369505","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.01","title":"","orientation":"1"}' data-image-title="DSCN8960" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17429" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17430">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17430" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369766","copyright":"","focal_length":"52.2","iso":"800","shutter_speed":"0.04","title":"","orientation":"1"}' data-image-title="DSCN8969" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17430" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8969.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17431">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17431" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.1","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369921","copyright":"","focal_length":"26.3","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN8972" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17431" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8972.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17432">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17432" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626371108","copyright":"","focal_length":"41.3","iso":"800","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="DSCN8988" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17432" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8988.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17433">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17433" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626371469","copyright":"","focal_length":"47.2","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN8995" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17433" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8995.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17434">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17434" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626372071","copyright":"","focal_length":"23.7","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN9004" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17434" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9004.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <comments>
+     </comments>
+     <dc:creator>
+     </dc:creator>
+     <pubdate>
+     </pubdate>
+     <category>
+     </category>
+     <guid ispermalink="false">
+     </guid>
+     <description>
+      <span class="screen-reader-text">
+      </span>
+      <span class="meta-nav">
+      </span>
+     </description>
+     <content:encoded>
+      <em>
+      </em>
+      <p>
+       <span id="more-17413">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <a href="http://karmel.hr/?attachment_id=17414">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17414" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.5","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626283242","copyright":"","focal_length":"16.1","iso":"800","shutter_speed":"0.0125","title":"","orientation":"1"}' data-image-title="DSCN8904" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17414" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8904.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17415">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17415" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626283279","copyright":"","focal_length":"41.3","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN8906" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17415" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8906.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17416">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17416" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.7","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626283644","copyright":"","focal_length":"52.2","iso":"800","shutter_speed":"0.04","title":"","orientation":"1"}' data-image-title="DSCN8922" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17416" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8922.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17417">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17417" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284123","copyright":"","focal_length":"30.1","iso":"800","shutter_speed":"0.025","title":"","orientation":"1"}' data-image-title="DSCN8925" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17417" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8925.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17418">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17418" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.1","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284241","copyright":"","focal_length":"26.3","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN8926" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17418" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17419">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17419" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284353","copyright":"","focal_length":"30.1","iso":"800","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="DSCN8930" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17419" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?resize=150%2C150" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?resize=150%2C150 150w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?zoom=2&amp;resize=150%2C150 300w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8930.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17420">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17420" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284540","copyright":"","focal_length":"35.9","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN8938" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17420" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8938.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17421">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17421" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.8","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284546","copyright":"","focal_length":"65.4","iso":"800","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="DSCN8939" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17421" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?resize=150%2C150" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?zoom=2&amp;resize=150%2C150 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8939.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+      <a href="http://karmel.hr/?attachment_id=17422">
+       <img alt="" class="attachment-thumbnail size-thumbnail" data-attachment-id="17422" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.6","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626285200","copyright":"","focal_length":"17.6","iso":"800","shutter_speed":"0.04","title":"","orientation":"1"}' data-image-title="DSCN8951" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17422" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?resize=150%2C150" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?resize=150%2C150 150w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?zoom=2&amp;resize=150%2C150 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8951.jpg?zoom=3&amp;resize=150%2C150 450w" width="150"/>
+      </a>
+     </content:encoded>
+     <wfw:commentrss>
+     </wfw:commentrss>
+     <slash:comments>
+     </slash:comments>
+     <post-id xmlns="com-wordpress:feed-additions:1">
+     </post-id>
+    </item>
+   </channel>
+  </rss>
+ </body>
+</html>

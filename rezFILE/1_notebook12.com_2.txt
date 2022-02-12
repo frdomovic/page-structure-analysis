@@ -1,0 +1,729 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://notebook12.com/wp-content/themes/notebook12/images/favicon.png" rel="icon"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js">
+  </script>
+  <script crossorigin="anonymous" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" src="https://code.jquery.com/jquery-3.5.1.js">
+  </script>
+  <link href="https://notebook12.com/wp-content/cache/autoptimize/css/autoptimize_446cf2ba058aeaff64084f8be3dd69f0.css" media="all" rel="stylesheet"/>
+  <title>
+  </title>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="https://notebook12.com/?lang=en" hreflang="en" rel="alternate"/>
+  <link href="https://notebook12.com/" hreflang="de" rel="alternate"/>
+  <link href="https://notebook12.com/feed/" rel="alternate" title="Notebook12 » Feed" type="application/rss+xml"/>
+  <link href="https://notebook12.com/comments/feed/" rel="alternate" title="Notebook12 » Kommentar-Feed" type="application/rss+xml"/>
+  <link href="https://notebook12.com/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://notebook12.com/wp-json/wp/v2/pages/379" rel="alternate" type="application/json"/>
+  <link href="https://notebook12.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://notebook12.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.7" name="generator"/>
+  <link href="https://notebook12.com/" rel="canonical"/>
+  <link href="https://notebook12.com/" rel="shortlink"/>
+  <link href="https://notebook12.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotebook12.com%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="https://notebook12.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnotebook12.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <meta content="WPML ver:4.4.8 stt:1,3;" name="generator"/>
+  <link href="https://notebook12.com/wp-content/uploads/2020/08/favicon.png" rel="icon" sizes="32x32"/>
+  <link href="https://notebook12.com/wp-content/uploads/2020/08/favicon.png" rel="icon" sizes="192x192"/>
+  <link href="https://notebook12.com/wp-content/uploads/2020/08/favicon.png" rel="apple-touch-icon"/>
+  <meta content="https://notebook12.com/wp-content/uploads/2020/08/favicon.png" name="msapplication-TileImage"/>
+  <title>
+  </title>
+ </head>
+ <body>
+  <div class="background-img-container home-page" style="">
+   <video autoplay="" class="video" loop="" muted="" style="width: unset;height: unset;content: unset;top: unset; right: 0; bottom: 0;left: unset;min-width: 100%; min-height: 100%">
+    <source src="https://notebook12.com/wp-content/themes/notebook12/video/home-page.mp4" type="video/mp4">
+     <source src="https://notebook12.com/wp-content/themes/notebook12/video/home-page.ogg" type="video/ogg"/>
+    </source>
+   </video>
+   <div class="container">
+    <nav class="nav-bar">
+     <div class="webpage-name">
+      <a href="https://notebook12.com">
+       <img class="webpage-name-img" src="https://notebook12.com/wp-content/themes/notebook12/images/logos/nootebook12-logo.svg"/>
+      </a>
+     </div>
+     <div class="nav-links notebook12_menu_container">
+      <div class="menu-header_menu_de-container">
+       <ul class="menu" id="menu-header_menu_de">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531" id="menu-item-531">
+         <a href="https://notebook12.com/data-erasure/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532" id="menu-item-532">
+         <a href="https://notebook12.com/partners/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533" id="menu-item-533">
+         <a href="https://notebook12.com/certifications/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534" id="menu-item-534">
+         <a href="https://notebook12.com/about-us/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535" id="menu-item-535">
+         <a href="https://notebook12.com/purchase-sale/">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <ul class="notebook12_menu_add">
+       <li class="dropdown" id="dropdownBtn" onclick="toggleDropdown(event)">
+        <div class="dropbtn">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/logos/globe.svg"/>
+         <span>
+         </span>
+         <img alt="" id="angle" src="https://notebook12.com/wp-content/themes/notebook12/images/logos/play-btn.svg"/>
+        </div>
+        <div class="dropdown-content" id="myDropdown">
+         <p>
+          <a data-lang="en" href="?lang=en">
+          </a>
+         </p>
+         <p>
+          <a data-lang="de" href="?lang=de">
+          </a>
+         </p>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <div class="burger-btn">
+      <div class="burger">
+      </div>
+     </div>
+    </nav>
+    <div class="imprint_close" style="">
+     <nav class="navigation" id="main-navigation">
+      <div class="logo-text" id="padded-text">
+       <div class="webpage-name">
+        <a href="https://notebook12.com">
+         <img src="https://notebook12.com/wp-content/themes/notebook12/images/logos/nootebook12-logo.svg"/>
+        </a>
+       </div>
+      </div>
+      <div class="menu-icon-wrapper" onclick="toggleDropdownMobile(event)">
+       <div class="menu-icon">
+       </div>
+      </div>
+      <div class="menu-container">
+       <a class="logo" href="https://notebook12.com">
+        <div class="logo-text">
+         <img src="https://notebook12.com/wp-content/themes/notebook12/images/logos/nootebook12-logo.svg"/>
+        </div>
+       </a>
+       <ul class="menu">
+        <li class="menu-link">
+         <a class="link" href="https://notebook12.com/data-erasure/">
+         </a>
+        </li>
+        <li class="menu-link">
+         <a class="link" href="https://notebook12.com/partners/">
+         </a>
+        </li>
+        <li class="menu-link">
+         <a class="link" href="https://notebook12.com/certifications/">
+         </a>
+        </li>
+        <li class="menu-link">
+         <a class="link" href="https://notebook12.com/about-us/">
+         </a>
+        </li>
+        <li class="menu-link">
+         <a class="link" href="https://notebook12.com/purchase-sale/">
+         </a>
+        </li>
+        <li class="menu-link dropdown" id="dropdownBtn" onclick="toggleDropdownMobile(event)">
+         <div class="dropbtn">
+          <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/logos/globe.svg"/>
+          <span>
+          </span>
+          <img alt="" id="angle-mobile" src="https://notebook12.com/wp-content/themes/notebook12/images/logos/play-btn.svg"/>
+         </div>
+         <div class="dropdown-content" id="myDropdown-mobile">
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="main-topic data-erasure-topic" style="margin-top: 10%;">
+      <div class="main-topic-text">
+       <span>
+       </span>
+      </div>
+      <p>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+     </div>
+     <div class="it-process-desc">
+      <div class="proc-description">
+       <div class="hover-div">
+        <a href="https://notebook12.com/it-remarketing/">
+         <h3>
+          <img alt="remarketing" class="it-descr-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/remarketing.svg"/>
+          <span>
+          </span>
+         </h3>
+         <p>
+         </p>
+        </a>
+       </div>
+       <div class="hover-div">
+        <a href="https://notebook12.com/it-refurbishing/">
+         <h3>
+          <img alt="refurbishing" class="it-descr-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/refurbishing.svg"/>
+          <span>
+          </span>
+         </h3>
+         <p>
+         </p>
+        </a>
+       </div>
+       <div class="hover-div">
+        <a href="https://notebook12.com/it-recycling/">
+         <h3>
+          <img alt="recycling" class="it-descr-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/recycling.svg"/>
+          <span>
+          </span>
+         </h3>
+         <p>
+         </p>
+        </a>
+       </div>
+       <div class="hover-div">
+        <a href="https://notebook12.com/auditing-acceptability/">
+         <h3>
+          <img alt="auditing" class="it-descr-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/acceptability.svg"/>
+          <span style="padding-left: 5px;">
+          </span>
+         </h3>
+         <p>
+         </p>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="angle-bot" style="">
+    <div class="angle-bottom">
+     <i class="fas fa-angle-down">
+     </i>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="horizontal-lines-text">
+    <h3>
+     <b>
+     </b>
+    </h3>
+    <img alt="horiz lines" class="horiz-lines-img" src="https://notebook12.com/wp-content/themes/notebook12/images/horiz-lines.svg"/>
+   </div>
+   <div class="all-processes">
+    <div class="three-processes">
+     <div class="process">
+      <div class="icon-topic">
+       <a href="https://notebook12.com/it-remarketing/?lang=de">
+        <div class="div-serv-icon">
+         <img alt="remarketing" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-remarketing.svg"/>
+        </div>
+       </a>
+       <h3>
+       </h3>
+      </div>
+      <p>
+      </p>
+     </div>
+     <div class="process">
+      <div class="icon-topic">
+       <a href="https://notebook12.com/it-refurbishing/?lang=de">
+        <div class="div-serv-icon">
+         <img alt="refurbishing" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-refurbishing.svg"/>
+        </div>
+       </a>
+       <h3>
+       </h3>
+      </div>
+      <p>
+      </p>
+     </div>
+     <div class="process">
+      <div class="icon-topic">
+       <a href="https://notebook12.com/it-recycling/">
+        <div class="div-serv-icon">
+         <img alt="recycling" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-recycling.svg"/>
+        </div>
+       </a>
+       <h3>
+       </h3>
+      </div>
+      <p>
+      </p>
+     </div>
+    </div>
+    <div class="two-processes">
+     <div class="process">
+      <div class="icon-topic">
+       <a href="https://notebook12.com/data-erasure/">
+        <div class="div-serv-icon">
+         <img alt="refurbishing" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-erasure.svg"/>
+        </div>
+       </a>
+       <h3>
+       </h3>
+      </div>
+      <p>
+      </p>
+     </div>
+     <div class="process">
+      <div class="icon-topic">
+       <a href="https://notebook12.com/purchase-sale/">
+        <div class="div-serv-icon">
+         <img alt="refurbishing" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-purchase.svg"/>
+        </div>
+       </a>
+       <h3>
+       </h3>
+      </div>
+      <p>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="all-processes" id="tablet-all-processes">
+   <div class="two-processes">
+    <div class="process">
+     <div class="icon-topic">
+      <a href="https://notebook12.com/it-remarketing/">
+       <div class="div-serv-icon">
+        <img alt="" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-remarketing.svg"/>
+       </div>
+      </a>
+      <h3>
+      </h3>
+     </div>
+     <p>
+     </p>
+    </div>
+    <div class="process">
+     <div class="icon-topic">
+      <a href="https://notebook12.com/it-refurbishing/">
+       <div class="div-serv-icon">
+        <img alt="" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-refurbishing.svg"/>
+       </div>
+      </a>
+      <h3>
+      </h3>
+     </div>
+     <p>
+     </p>
+    </div>
+   </div>
+   <div class="two-processes">
+    <div class="process">
+     <div class="icon-topic">
+      <a href="https://notebook12.com/it-recycling/">
+       <div class="div-serv-icon">
+        <img alt="" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-recycling.svg"/>
+       </div>
+      </a>
+      <h3>
+      </h3>
+     </div>
+     <p>
+     </p>
+    </div>
+    <div class="process">
+     <div class="icon-topic">
+      <a href="https://notebook12.com/data-erasure/">
+       <div class="div-serv-icon">
+        <img alt="" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-erasure.svg"/>
+       </div>
+      </a>
+      <h3>
+      </h3>
+     </div>
+     <p>
+     </p>
+    </div>
+   </div>
+   <div class="one-process">
+    <div class="icon-topic">
+     <a href="https://notebook12.com/purchase-sale/">
+      <div class="div-serv-icon">
+       <img alt="" class="it-serv-icons" src="https://notebook12.com/wp-content/themes/notebook12/images/new-icons/services-purchase.svg"/>
+      </div>
+     </a>
+     <h3>
+     </h3>
+    </div>
+    <p>
+    </p>
+   </div>
+  </div>
+  <div class="background-img-container solution-text-img" id="solution-text-img">
+   <div class="container">
+    <div class="solution-text">
+     <h3>
+     </h3>
+     <p>
+      <br/>
+      <br/>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class="container team-members-all">
+   <div class="horizontal-lines-text">
+    <h3>
+    </h3>
+    <img alt="horiz lines" class="horiz-lines-img" src="https://notebook12.com/wp-content/themes/notebook12/images/horiz-lines.svg"/>
+   </div>
+   <div class="members">
+    <div>
+     <img alt="Alexander Schmidt" src="https://notebook12.com/wp-content/uploads/2020/07/Alex.png"/>
+     <div class="member-name">
+      <p>
+       <br/>
+       <span>
+       </span>
+      </p>
+     </div>
+    </div>
+    <div>
+     <img alt="Leonid Adamenko" src="https://notebook12.com/wp-content/uploads/2020/07/Leonid.png"/>
+     <div class="member-name">
+      <p>
+       <br/>
+       <span>
+       </span>
+      </p>
+     </div>
+    </div>
+    <div>
+     <img alt="Wladislaw Gendelmann" src="https://notebook12.com/wp-content/uploads/2020/08/Wladislaw.png"/>
+     <div class="member-name">
+      <p>
+       <br/>
+       <span>
+       </span>
+      </p>
+     </div>
+    </div>
+    <img alt="" class="member-horizontal-line" src="https://notebook12.com/wp-content/themes/notebook12/images/icons/dashed-horizontal-line.svg"/>
+    <div>
+     <img alt="Svetlana Vogel" src="https://notebook12.com/wp-content/uploads/2020/08/Svetlana.png"/>
+     <div class="member-name">
+      <p>
+       <br/>
+       <span>
+       </span>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="container owl">
+   <div class="horizontal-lines-text lines-mobile">
+    <h3>
+    </h3>
+    <div class="lines">
+     <img alt="horiz lines" class="horiz-lines-img" src="https://notebook12.com/wp-content/themes/notebook12/images/horiz-lines.svg"/>
+    </div>
+   </div>
+   <div class="owl-slider">
+    <div class="owl-carousel" id="carousel">
+     <div class="item">
+      <img alt="Alexander Schmidt" class="owl-lazy" src="https://notebook12.com/wp-content/uploads/2020/07/Alex.png" style="opacity: 1"/>
+      <div class="members-name">
+       <p>
+        <br/>
+       </p>
+      </div>
+     </div>
+     <div class="item">
+      <img alt="Leonid Adamenko" class="owl-lazy" src="https://notebook12.com/wp-content/uploads/2020/07/Leonid.png" style="opacity: 1"/>
+      <div class="members-name">
+       <p>
+        <br/>
+       </p>
+      </div>
+     </div>
+     <div class="item">
+      <img alt="Wladislaw Gendelmann" class="owl-lazy" src="https://notebook12.com/wp-content/uploads/2020/08/Wladislaw.png" style="opacity: 1"/>
+      <div class="members-name">
+       <p>
+        <br/>
+       </p>
+      </div>
+     </div>
+     <div class="item">
+      <img alt="Svetlana Vogel" class="owl-lazy" src="https://notebook12.com/wp-content/uploads/2020/08/Svetlana.png" style="opacity: 1"/>
+      <div class="members-name">
+       <p>
+        <br/>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="background-img-container footer-background-img" id="footer-background-id">
+   <div class="container">
+    <div class="footer">
+     <div class="services">
+      <h3>
+      </h3>
+      <div class="menu-footer1-german-container">
+       <ul class="menu" id="menu-footer1-german">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-536" id="menu-item-536">
+         <a href="https://notebook12.com/it-remarketing/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694" id="menu-item-694">
+         <a href="https://notebook12.com/it-refurbishing/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-538" id="menu-item-538">
+         <a href="https://notebook12.com/auditing-acceptability/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539" id="menu-item-539">
+         <a href="https://notebook12.com/data-erasure/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540" id="menu-item-540">
+         <a href="https://notebook12.com/partners/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-541" id="menu-item-541">
+         <a href="https://notebook12.com/certifications/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542" id="menu-item-542">
+         <a href="https://notebook12.com/purchase-sale/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543" id="menu-item-543">
+         <a href="https://notebook12.com/about-us/">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="notices">
+      <h3>
+      </h3>
+      <div class="menu-footer2-german-container">
+       <ul class="menu" id="menu-footer2-german">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544" id="menu-item-544">
+         <a href="https://notebook12.com/imprint/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707" id="menu-item-707">
+         <a href="https://notebook12.com/privacy-and-policy/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-689" id="menu-item-689">
+         <a href="https://notebook12.com/wp-content/uploads/2020/10/Technical-and-Organizational-Measures-1.pdf">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-690" id="menu-item-690">
+         <a href="https://notebook12.com/wp-content/uploads/2020/10/Transparency-Document.pdf">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="partners">
+      <h3>
+      </h3>
+      <div class="partner-logo">
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/toshiba.png"/>
+        </a>
+       </div>
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/do-de.png"/>
+        </a>
+       </div>
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/image-2.png"/>
+        </a>
+       </div>
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/atd.png"/>
+        </a>
+       </div>
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/dell.png"/>
+        </a>
+       </div>
+       <div>
+        <a href="https://notebook12.com/partners" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/uploads/2020/07/Group-1150.png"/>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="contact-form">
+      <h3>
+      </h3>
+      <div class="wpcf7" dir="ltr" id="wpcf7-f718-o1" lang="de-DE" role="form">
+       <div class="screen-reader-response">
+        <p aria-atomic="true" aria-live="polite" role="status">
+        </p>
+        <ul>
+        </ul>
+       </div>
+       <form action="/#wpcf7-f718-o1" class="wpcf7-form init form-footer" data-status="init" enctype="multipart/form-data" method="post" novalidate="novalidate">
+        <div style="display: none;">
+         <input name="_wpcf7" type="hidden" value="718"/>
+         <input name="_wpcf7_version" type="hidden" value="5.4"/>
+         <input name="_wpcf7_locale" type="hidden" value="de_DE"/>
+         <input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f718-o1"/>
+         <input name="_wpcf7_container_post" type="hidden" value="0"/>
+         <input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+        </div>
+        <p>
+         <span class="wpcf7-form-control-wrap your-name">
+          <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" placeholder="Name" size="40" type="text" value=""/>
+         </span>
+         <span class="wpcf7-form-control-wrap your-email">
+          <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-footer-email" name="your-email" placeholder="E-Mail" size="40" type="email" value=""/>
+         </span>
+         <span class="wpcf7-form-control-wrap your-message">
+          <textarea aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-footer-message" cols="40" name="your-message" placeholder="Message" rows="10"></textarea>
+         </span>
+        </p>
+        <div class="attach-icon-text">
+         <label for="upload-file" id="attach-icon">
+          <img src="https://notebook12.com/wp-content/themes/notebook12/images/icons/attach-icon.svg"/>
+          <span class="wpcf7-form-control-wrap file">
+           <input accept=".gif,.png,.jpg,.jpeg,.pdf" aria-invalid="false" class="wpcf7-form-control wpcf7-file" id="upload-file" name="file" size="40" type="file"/>
+          </span>
+         </label>
+         <p class="nt12-file-upload-text">
+          <span class="lang en">
+          </span>
+          <span class="lang de">
+          </span>
+         </p>
+        </div>
+        <p>
+         <input class="wpcf7-form-control wpcf7-submit" type="submit" value="SEND"/>
+        </p>
+        <div aria-hidden="true" class="wpcf7-response-output">
+        </div>
+       </form>
+      </div>
+     </div>
+     <div class="contact-info">
+      <div class="menu-footer3_de-container">
+       <ul class="menu" id="menu-footer3_de">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-358" id="menu-item-358">
+         <a>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-359" id="menu-item-359">
+         <a>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360" id="menu-item-360">
+         <a>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-361" id="menu-item-361">
+         <a>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-webpage-name">
+       <a href="https://notebook12.com">
+        <img src="https://notebook12.com/wp-content/themes/notebook12/images/logos/nootebook12-logo.svg"/>
+       </a>
+      </div>
+      <ul class="links-media">
+       <li>
+        <a href="https://www.facebook.com/Notebook12GmbH" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/media-links/1.svg"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.instagram.com/notebook12gmbh/" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/media-links/2.svg"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.xing.com/companies/notebook12gmbh" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/media-links/3.svg"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.linkedin.com/company/notebook12" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/media-links/4.svg"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://wa.me/4915792342912" target="_blank">
+         <img alt="" src="https://notebook12.com/wp-content/themes/notebook12/images/media-links/5.svg"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+  </script>
+  <script id="wp-polyfill-js" src="https://notebook12.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4">
+  </script>
+  <script id="wp-polyfill-js-after">
+  </script>
+  <script id="wp-hooks-js" src="https://notebook12.com/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1">
+  </script>
+  <script id="wp-i18n-js" src="https://notebook12.com/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67">
+  </script>
+  <script id="wp-i18n-js-after">
+  </script>
+  <script id="lodash-js" src="https://notebook12.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19">
+  </script>
+  <script id="lodash-js-after">
+  </script>
+  <script id="wp-url-js" src="https://notebook12.com/wp-includes/js/dist/url.min.js?ver=0ac7e0472c46121366e7ce07244be1ac">
+  </script>
+  <script id="wp-api-fetch-js-translations">
+  </script>
+  <script id="wp-api-fetch-js" src="https://notebook12.com/wp-includes/js/dist/api-fetch.min.js?ver=a783d1f442d2abefc7d6dbd156a44561">
+  </script>
+  <script id="wp-api-fetch-js-after">
+  </script>
+  <script id="contact-form-7-js-extra">
+  </script>
+  <script id="notebook12-js-main-js-extra">
+  </script>
+  <script defer="" src="https://notebook12.com/wp-content/cache/autoptimize/js/autoptimize_d54ed4243faf39a84b8cc288b5113ad0.js">
+  </script>
+ </body>
+</html>

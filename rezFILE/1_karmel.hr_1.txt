@@ -1,0 +1,1361 @@
+<html lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <link href="http://karmel.hr/wp-content/cache/autoptimize/css/autoptimize_e4e5eadfd48acfbae2bd81b66a4542bf.css" media="all" rel="stylesheet"/>
+  <title>
+  </title>
+  <link href="https://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://karmel.hr/xmlrpc.php" rel="pingback"/>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="//s0.wp.com" rel="dns-prefetch"/>
+  <link href="//secure.gravatar.com" rel="dns-prefetch"/>
+  <link href="//netdna.bootstrapcdn.com" rel="dns-prefetch"/>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="http://karmel.hr/?feed=rss2" rel="alternate" title=" » Kanal" type="application/rss+xml"/>
+  <link href="http://karmel.hr/?feed=comments-rss2" rel="alternate" title=" » Kanal komentara" type="application/rss+xml"/>
+  <script>
+  </script>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" id="font-awesome-css" media="screen" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&amp;subset=latin%2Clatin-ext&amp;display=fallback" id="twentyfourteen-lato-css" media="all" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i&amp;display=swap&amp;ver=2.5.3" id="olympus-google-fonts-css" media="all" rel="stylesheet"/>
+  <script id="jquery-core-js" src="http://karmel.hr/wp-includes/js/jquery/jquery.js?ver=3.5.1">
+  </script>
+  <link href="http://karmel.hr/index.php?rest_route=/" rel="https://api.w.org/"/>
+  <link href="http://karmel.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://karmel.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.7.2" name="generator"/>
+  <link href="https://wp.me/5Cb7r" rel="shortlink"/>
+  <link href="http://karmel.hr/wp-content/uploads/2018/02/Ordo_Fratrum_Carmelitarum_Discalceatorum_Beatae_Mariae_Virginis_de_Monte_Carmelo.svg_.png" rel="shortcut icon"/>
+  <link href="//v0.wordpress.com" rel="dns-prefetch"/>
+  <link href="//i0.wp.com" rel="dns-prefetch"/>
+  <link href="//i1.wp.com" rel="dns-prefetch"/>
+  <link href="//i2.wp.com" rel="dns-prefetch"/>
+  <meta content="website" property="og:type"/>
+  <meta content="(bez naslova)" property="og:title"/>
+  <meta content='"U zemlju Karmela ja vas dovedoh da se hranite plodom i dobrotom njezinom." (usp. Jr 2,7)' property="og:description"/>
+  <meta content="http://karmel.hr/" property="og:url"/>
+  <meta content="https://s0.wp.com/i/blank.jpg" property="og:image"/>
+  <meta content="hr_HR" property="og:locale"/>
+ </head>
+ <body class="home blog custom-background wp-embed-responsive group-blog header-image list-view grid">
+  <div class="hfeed site" id="page">
+   <div id="site-header">
+    <a href="http://karmel.hr/" rel="home">
+     <img alt="" height="198" src="http://karmel.hr/wp-content/uploads/2014/12/cropped-grB_NOVI34.jpg" width="1260"/>
+    </a>
+   </div>
+   <header class="site-header" id="masthead" role="banner">
+    <div class="header-main">
+     <h1 class="site-title">
+      <a href="http://karmel.hr/" rel="home">
+      </a>
+     </h1>
+     <div class="search-toggle">
+      <a aria-controls="search-container" aria-expanded="false" class="screen-reader-text" href="#search-container">
+      </a>
+     </div>
+     <nav class="site-navigation primary-navigation" id="primary-navigation" role="navigation">
+      <button class="menu-toggle">
+      </button>
+      <a class="screen-reader-text skip-link" href="#content">
+      </a>
+      <div class="menu-izbornik1-container">
+       <ul class="nav-menu" id="primary-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16727" id="menu-item-16727">
+         <a href="http://karmel.hr/?page_id=16708">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473" id="menu-item-473">
+         <a href="http://karmel.hr/?page_id=471">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-174" id="menu-item-174">
+         <a href="http://karmel.hr/?page_id=26">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192" id="menu-item-192">
+           <a href="http://karmel.hr/?page_id=140">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191" id="menu-item-191">
+           <a href="http://karmel.hr/?page_id=142">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177" id="menu-item-177">
+           <a href="http://karmel.hr/?page_id=70">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-147" id="menu-item-147">
+         <a href="http://karmel.hr/?page_id=9">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148" id="menu-item-148">
+           <a href="http://karmel.hr/?page_id=76">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149" id="menu-item-149">
+           <a href="http://karmel.hr/?page_id=74">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153" id="menu-item-153">
+           <a href="http://karmel.hr/?page_id=90">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152" id="menu-item-152">
+           <a href="http://karmel.hr/?page_id=92">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151" id="menu-item-151">
+           <a href="http://karmel.hr/?page_id=94">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-144" id="menu-item-144">
+         <a href="http://karmel.hr/?page_id=30">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-916" id="menu-item-916">
+           <a href="http://karmel.hr/?page_id=400">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917" id="menu-item-917">
+           <a href="http://karmel.hr/?page_id=402">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-918" id="menu-item-918">
+           <a href="http://karmel.hr/?page_id=435">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6" id="menu-item-6">
+         <a href="http://karmel.hr/?page_id=5">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div class="search-box-wrapper hide" id="search-container">
+     <div class="search-box">
+      <form action="http://karmel.hr/" class="search-form" method="get" role="search">
+       <label>
+        <span class="screen-reader-text">
+        </span>
+        <input class="search-field" name="s" placeholder="Pretraži …" type="search" value=""/>
+       </label>
+       <input class="search-submit" type="submit" value="Pretraži"/>
+      </form>
+     </div>
+    </div>
+   </header>
+   <div class="site-main" id="main">
+    <div class="main-content" id="main-content">
+     <div class="featured-content" id="featured-content">
+      <div class="featured-content-inner">
+       <article class="post-17019 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nekategorizirano" id="post-17019">
+        <a class="post-thumbnail" href="http://karmel.hr/?p=17019">
+         <img alt="" class="attachment-twentyfourteen-full-width size-twentyfourteen-full-width wp-post-image" data-attachment-id="17020" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="fa0e6e_9cc9a48f77824cd79cbbef141255c1a7~mv2_d_1900_1266_s_2" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?fit=474%2C237" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?fit=300%2C150" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?fit=1695%2C849" data-orig-size="1695,849" data-permalink="http://karmel.hr/?attachment_id=17020" height="576" loading="lazy" sizes="(max-width: 1038px) 100vw, 1038px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?resize=1038%2C576" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/05/fa0e6e_9cc9a48f77824cd79cbbef141255c1a7mv2_d_1900_1266_s_2.jpg?resize=1038%2C576 1038w" width="1038"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17019" rel="bookmark">
+          </a>
+         </h1>
+        </header>
+       </article>
+       <article class="post-16717 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nekategorizirano" id="post-16717">
+        <a class="post-thumbnail" href="http://karmel.hr/?p=16717">
+         <img alt="" class="attachment-twentyfourteen-full-width size-twentyfourteen-full-width wp-post-image" data-attachment-id="16723" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Slika zaslona 2021-03-03 u 22.18.23" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?fit=474%2C282" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?fit=300%2C178" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?fit=1286%2C765" data-orig-size="1286,765" data-permalink="http://karmel.hr/?attachment_id=16723" height="576" loading="lazy" sizes="(max-width: 1038px) 100vw, 1038px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?resize=1038%2C576" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?resize=672%2C372 672w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-03-u-22.18.23.png?resize=1038%2C576 1038w" width="1038"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=16717" rel="bookmark">
+          </a>
+         </h1>
+        </header>
+       </article>
+       <article class="post-16518 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-nekategorizirano" id="post-16518">
+        <a class="post-thumbnail" href="http://karmel.hr/?p=16518">
+         <img alt="" class="attachment-twentyfourteen-full-width size-twentyfourteen-full-width wp-post-image" data-attachment-id="16577" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="icono_sanjose" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/02/icono_sanjose.jpg?fit=474%2C490" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/02/icono_sanjose.jpg?fit=290%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/02/icono_sanjose.jpg?fit=774%2C800" data-orig-size="774,800" data-permalink="http://karmel.hr/?attachment_id=16577" height="576" loading="lazy" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/02/icono_sanjose.jpg?resize=774%2C576" width="774"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=16518" rel="bookmark">
+          </a>
+         </h1>
+        </header>
+       </article>
+      </div>
+     </div>
+     <div class="content-area" id="primary">
+      <div class="site-content" id="content" role="main">
+       <article class="post-17573 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17573">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17573">
+         <img alt="Pedeseta obljetnica zavjeta majke Ilijane" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17580" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3.5","credit":"","camera":"Canon EOS 6D","caption":"","created_timestamp":"1629541891","copyright":"","focal_length":"105","iso":"3200","shutter_speed":"0.00625","title":"","orientation":"1"}' data-image-title="_MG_0949" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=474%2C712" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=200%2C300" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?fit=1706%2C2560" data-orig-size="1706,2560" data-permalink="http://karmel.hr/?attachment_id=17580" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?resize=672%2C372" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?resize=672%2C372 672w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?resize=1038%2C576 1038w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/08/MG_0949-scaled.jpg?zoom=2&amp;resize=672%2C372 1344w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17573" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17573" rel="bookmark">
+            <time class="entry-date" datetime="2021-08-22T15:44:58+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17573#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17573#more-17573">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17531 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17531">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17531">
+         <img alt="Novaci u najvećoj samostanskoj knjižnici na svijetu" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17537" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Image-6" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?fit=1536%2C1152" data-orig-size="1536,1152" data-permalink="http://karmel.hr/?attachment_id=17537" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?resize=672%2C372" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?resize=1038%2C576 1038w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/08/Image-6.jpg?zoom=2&amp;resize=672%2C372 1344w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17531" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17531" rel="bookmark">
+            <time class="entry-date" datetime="2021-08-14T23:12:01+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=1" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17531#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <span style="font-weight: 400;">
+          </span>
+         </p>
+         <p>
+          <span style="font-weight: 400;">
+          </span>
+          <a class="more-link" href="http://karmel.hr/?p=17531#more-17531">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17506 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17506">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17506">
+         <img alt="Deset dana slavlja Gospe Karmelske u Sarajevu" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17517" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"DSC-RX100M3","caption":"","created_timestamp":"1626435349","copyright":"","focal_length":"8.8","iso":"125","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="11 – 16.07.2021." data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?fit=1915%2C1078" data-orig-size="1915,1078" data-permalink="http://karmel.hr/?attachment_id=17517" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?resize=672%2C372" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?resize=672%2C372 672w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?resize=1038%2C576 1038w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/11-16.07.2021..jpg?zoom=2&amp;resize=672%2C372 1344w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17506" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17506" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-23T10:42:50+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17506#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17506#more-17506">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17480 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17480">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17480">
+         <img alt="Ilijino u Karmelu sv. Ilije" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17481" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REST","camera":"","caption":"","created_timestamp":"0","copyright":"REST","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="Karmel 2021. – 1" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?fit=1280%2C960" data-orig-size="1280,960" data-permalink="http://karmel.hr/?attachment_id=17481" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?resize=672%2C372" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?resize=672%2C372 672w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/Karmel-2021.-1.jpg?resize=1038%2C576 1038w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17480" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17480" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-22T00:15:26+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17480#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17480#more-17480">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17475 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17475">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17475">
+         <img alt="Proslava Gospe Karmelske u Karmelu sv. Josipa u Breznici Đakovačkoj" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17476" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX P530","caption":"","created_timestamp":"1626459488","copyright":"","focal_length":"4.3","iso":"250","shutter_speed":"0.033333333333333","title":"","orientation":"0"}' data-image-title="Gospa_Karmelska_2021-1" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=474%2C267" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=300%2C169" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?fit=1600%2C900" data-orig-size="1600,900" data-permalink="http://karmel.hr/?attachment_id=17476" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?resize=672%2C372" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?resize=1038%2C576 1038w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/Gospa_Karmelska_2021-1.jpg?zoom=2&amp;resize=672%2C372 1344w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17475" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17475" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-21T12:12:08+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17475#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17475#more-17475">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17461 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17461">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17461">
+         <img alt="Vanjska proslava Karmelske Gospe u Brezovici" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17470" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626610724","copyright":"","focal_length":"4","iso":"800","shutter_speed":"0.004","title":"","orientation":"1"}' data-image-title="DSCN9209" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17470" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?resize=672%2C372" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?resize=672%2C372 672w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?resize=1038%2C576 1038w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN9209.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17461" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17461" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-20T22:57:51+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17461#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17461#more-17461">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17451 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17451">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17451">
+         <img alt="Svetkovina Gospe Karmelske proslavljena u bistričkom Karmelu" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17456" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626434227","copyright":"","focal_length":"6.504","iso":"250","shutter_speed":"0.033333333333333","title":"","orientation":"1"}' data-image-title="IMG_2050" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=474%2C305" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=300%2C193" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?fit=2560%2C1647" data-orig-size="2560,1647" data-permalink="http://karmel.hr/?attachment_id=17456" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?resize=672%2C372" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?resize=1038%2C576 1038w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2050-scaled.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17451" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17451" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-17T23:57:53+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17451#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17451#more-17451">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17437 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17437">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17437">
+         <img alt="Svetkovina Karmelske Gospe u Brezovici" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17447" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.8","credit":"","camera":"Canon IXUS 115 HS","caption":"","created_timestamp":"1626429026","copyright":"","focal_length":"5","iso":"200","shutter_speed":"0.001","title":"","orientation":"1"}' data-image-title="IMG_0663" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?fit=1984%2C1488" data-orig-size="1984,1488" data-permalink="http://karmel.hr/?attachment_id=17447" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?resize=672%2C372" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?resize=1038%2C576 1038w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_0663.jpg?zoom=2&amp;resize=672%2C372 1344w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17437" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17437" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-17T12:16:49+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17437#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17437#more-17437">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17426 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17426">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17426">
+         <img alt="Uočnica Gospe Karmelske u Brezovici" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17429" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.4","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626369505","copyright":"","focal_length":"14.2","iso":"800","shutter_speed":"0.01","title":"","orientation":"1"}' data-image-title="DSCN8960" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=474%2C356" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=300%2C225" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17429" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?resize=672%2C372" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?resize=672%2C372 672w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?resize=1038%2C576 1038w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8960.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17426" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17426" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-15T23:10:06+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17426#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17426#more-17426">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17413 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17413">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17413">
+         <img alt="Majka nikad ne uskraćuje pomoć" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17418" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"5.1","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626284241","copyright":"","focal_length":"26.3","iso":"800","shutter_speed":"0.016666666666667","title":"","orientation":"1"}' data-image-title="DSCN8926" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=474%2C356" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=300%2C225" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17418" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?resize=672%2C372" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?resize=672%2C372 672w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?resize=1038%2C576 1038w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8926.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17413" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17413" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-14T22:24:47+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17413#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <em>
+          </em>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17413#more-17413">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17404 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17404">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17404">
+         <img alt="Prvi dan trodnevne priprave za Karmelsku Gospu u Brezovici" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17405" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1626197077","copyright":"","focal_length":"4.1","iso":"800","shutter_speed":"0.005","title":"","orientation":"1"}' data-image-title="DSCN8838" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17405" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?resize=672%2C372" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?resize=672%2C372 672w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?resize=1038%2C576 1038w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8838.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17404" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17404" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-14T17:12:42+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17404#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <strong>
+           <em>
+           </em>
+          </strong>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17404#more-17404">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17396 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17396">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17396">
+         <img alt="Mlada misa o. Marka Maglića pod okriljem Bistričke Gospe" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17402" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.5","credit":"","camera":"Canon PowerShot S100","caption":"","created_timestamp":"1626161515","copyright":"","focal_length":"15.408","iso":"800","shutter_speed":"0.025","title":"","orientation":"1"}' data-image-title="IMG_2020" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?fit=474%2C362" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?fit=300%2C229" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?fit=2560%2C1952" data-orig-size="2560,1952" data-permalink="http://karmel.hr/?attachment_id=17402" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?resize=672%2C372" srcset="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?resize=672%2C372 672w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?resize=1038%2C576 1038w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/IMG_2020-scaled.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17396" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17396" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-13T23:21:49+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17396#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17396#more-17396">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17376 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17376">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17376">
+         <img alt="Mladomisnik o. Marko od Duha Svetoga u Brezovici" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17380" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"4.8","credit":"","camera":"COOLPIX L840","caption":"","created_timestamp":"1625992417","copyright":"","focal_length":"20.3","iso":"800","shutter_speed":"0.025","title":"","orientation":"1"}' data-image-title="DSCN8798" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?fit=474%2C356" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?fit=300%2C225" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?fit=2272%2C1704" data-orig-size="2272,1704" data-permalink="http://karmel.hr/?attachment_id=17380" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?resize=672%2C372" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?resize=672%2C372 672w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?resize=1038%2C576 1038w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?zoom=2&amp;resize=672%2C372 1344w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/DSCN8798.jpg?zoom=3&amp;resize=672%2C372 2016w" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17376" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17376" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-12T17:09:41+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17376#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17376#more-17376">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17361 post type-post status-publish format-standard hentry category-nekategorizirano" id="post-17361">
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17361" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17361" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-06T11:21:50+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17361#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+          <a href="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg">
+           <img alt="" class="aligncenter size-full wp-image-17374" data-attachment-id="17374" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"2.2","credit":"","camera":"iPhone SE (1st generation)","caption":"","created_timestamp":"1625153033","copyright":"","focal_length":"4.15","iso":"25","shutter_speed":"0.00063694267515924","title":"","orientation":"1"}' data-image-title="416E924F-5736-4DE3-ADA9-6B756101F68D" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?fit=474%2C474" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?fit=300%2C300" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?fit=1127%2C1127" data-orig-size="1127,1127" data-permalink="http://karmel.hr/?attachment_id=17374" data-recalc-dims="1" height="474" loading="lazy" sizes="(max-width: 474px) 100vw, 474px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?resize=474%2C474" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?w=1127 1127w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?resize=300%2C300 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?resize=1024%2C1024 1024w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?resize=150%2C150 150w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?resize=768%2C768 768w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/07/416E924F-5736-4DE3-ADA9-6B756101F68D.jpg?w=948 948w" width="474"/>
+          </a>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17361#more-17361">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <article class="post-17345 post type-post status-publish format-standard has-post-thumbnail hentry category-nekategorizirano" id="post-17345">
+        <a aria-hidden="true" class="post-thumbnail" href="http://karmel.hr/?p=17345">
+         <img alt="Posjet mladomisnika" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="17347" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"3","credit":"","camera":"COOLPIX P530","caption":"","created_timestamp":"1625038840","copyright":"","focal_length":"4.3","iso":"100","shutter_speed":"0.02","title":"","orientation":"1"}' data-image-title="posjet_mladomisnika_2021.-2" data-large-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/posjet_mladomisnika_2021.-2.jpg?fit=474%2C267" data-medium-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/posjet_mladomisnika_2021.-2.jpg?fit=300%2C169" data-orig-file="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/posjet_mladomisnika_2021.-2.jpg?fit=800%2C450" data-orig-size="800,450" data-permalink="http://karmel.hr/?attachment_id=17347" height="372" loading="lazy" src="https://i0.wp.com/karmel.hr/wp-content/uploads/2021/07/posjet_mladomisnika_2021.-2.jpg?resize=672%2C372" width="672"/>
+        </a>
+        <header class="entry-header">
+         <h1 class="entry-title">
+          <a href="http://karmel.hr/?p=17345" rel="bookmark">
+          </a>
+         </h1>
+         <div class="entry-meta">
+          <span class="entry-date">
+           <a href="http://karmel.hr/?p=17345" rel="bookmark">
+            <time class="entry-date" datetime="2021-07-02T22:13:33+02:00">
+            </time>
+           </a>
+          </span>
+          <span class="byline">
+           <span class="author vcard">
+            <a class="url fn n" href="http://karmel.hr/?author=2" rel="author">
+            </a>
+           </span>
+          </span>
+          <span class="comments-link">
+           <a href="http://karmel.hr/?p=17345#respond">
+           </a>
+          </span>
+         </div>
+        </header>
+        <div class="entry-content">
+         <p>
+         </p>
+         <p>
+          <a class="more-link" href="http://karmel.hr/?p=17345#more-17345">
+           <span class="screen-reader-text">
+           </span>
+           <span class="meta-nav">
+           </span>
+          </a>
+         </p>
+        </div>
+       </article>
+       <nav class="navigation paging-navigation" role="navigation">
+        <h1 class="screen-reader-text">
+        </h1>
+        <div class="pagination loop-pagination">
+         <span aria-current="page" class="page-numbers current">
+         </span>
+         <a class="page-numbers" href="http://karmel.hr/?paged=2">
+         </a>
+         <span class="page-numbers dots">
+         </span>
+         <a class="page-numbers" href="http://karmel.hr/?paged=58">
+         </a>
+         <a class="next page-numbers" href="http://karmel.hr/?paged=2">
+         </a>
+        </div>
+       </nav>
+      </div>
+     </div>
+     <div class="content-sidebar widget-area" id="content-sidebar" role="complementary">
+      <aside class="widget widget_facebook_likebox" id="facebook-likebox-3">
+       <h1 class="widget-title">
+        <a href="https://www.facebook.com/karmel.hr">
+        </a>
+       </h1>
+       <div id="fb-root">
+       </div>
+       <div class="fb-page" data-height="400" data-hide-cover="false" data-href="https://www.facebook.com/karmel.hr" data-show-facepile="true" data-show-posts="false" data-width="500">
+        <div class="fb-xfbml-parse-ignore">
+         <blockquote cite="https://www.facebook.com/karmel.hr">
+          <a href="https://www.facebook.com/karmel.hr">
+          </a>
+         </blockquote>
+        </div>
+       </div>
+      </aside>
+      <aside class="widget widget_media_image" id="media_image-15">
+       <h1 class="widget-title">
+       </h1>
+       <a href="https://www.youtube.com/channel/UCagV2aaZ8l7O5R7m7nyqPmw">
+        <img alt="" class="image wp-image-16700 attachment-medium size-medium" data-attachment-id="16700" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Screenshot from 2021-02-27 11-36-36" data-large-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?fit=474%2C224" data-medium-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?fit=300%2C142" data-orig-file="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?fit=1343%2C635" data-orig-size="1343,635" data-permalink="http://karmel.hr/?attachment_id=16700" height="142" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?fit=300%2C142" srcset="https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?w=1343 1343w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?resize=300%2C142 300w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?resize=1024%2C484 1024w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?resize=768%2C363 768w, https://i1.wp.com/karmel.hr/wp-content/uploads/2021/02/Screenshot-from-2021-02-27-11-36-36.png?w=948 948w" style="max-width: 100%; height: auto;" width="300"/>
+       </a>
+      </aside>
+      <aside class="widget widget_media_image" id="media_image-17">
+       <h1 class="widget-title">
+       </h1>
+       <a href="https://anchor.fm/zamak-d" rel="noopener" target="_blank">
+        <img alt="" class="image wp-image-16756 attachment-medium size-medium" data-attachment-id="16756" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Slika zaslona 2021-03-11 u 21.16.49" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?fit=474%2C207" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?fit=300%2C131" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?fit=1631%2C712" data-orig-size="1631,712" data-permalink="http://karmel.hr/?attachment_id=16756" height="131" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?fit=300%2C131" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?w=1631 1631w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?resize=300%2C131 300w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?resize=1024%2C447 1024w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?resize=768%2C335 768w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?resize=1536%2C671 1536w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?w=948 948w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/03/Slika-zaslona-2021-03-11-u-21.16.49.png?w=1422 1422w" style="max-width: 100%; height: auto;" title="PODCAST ZAMAK DUŠE" width="300"/>
+       </a>
+      </aside>
+      <aside class="widget widget_contact_info" id="widget_contact_info-5">
+       <h1 class="widget-title">
+       </h1>
+       <div itemscope="" itemtype="http://schema.org/LocalBusiness">
+        <div class="confit-address" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+         <a href="https://maps.google.com/maps?z=16&amp;q=Česmičkoga+1,+10000+zagreb" target="_blank">
+         </a>
+        </div>
+        <div class="confit-phone">
+         <span itemprop="telephone">
+         </span>
+        </div>
+        <div class="confit-hours" itemprop="openingHours">
+         <br/>
+         <br/>
+        </div>
+       </div>
+      </aside>
+      <aside class="widget SP_News_scrolling_Widget" id="sp_news_s_widget-5">
+       <h1 class="widget-title">
+       </h1>
+       <div class="recent-news-items-scroll no_p">
+        <div class="sp-news-scrolling-slider" data-conf='{"height":200,"pause":2000,"speed":500}' id="newsticker-jcarousellite-1">
+         <ul>
+          <li class="news_li">
+           <a class="newspost-title" href="http://karmel.hr/?news=predbiljezbe-za-upis-na-sustavni-studij-duhovnosti" title="Predbilježbe za upis na Sustavni studij duhovnosti">
+           </a>
+          </li>
+          <li class="news_li">
+           <a class="newspost-title" href="http://karmel.hr/?news=godisnje-duhovne-vjezbe-hrvatske-karmelske-provincije" title="Godišnje duhovne vježbe Hrvatske karmelske provincije sv. Oca Josipa">
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </aside>
+      <aside class="widget widget_mc4wp_form_widget" id="mc4wp_form_widget-5">
+       <h1 class="widget-title">
+       </h1>
+       <script>
+       </script>
+       <form class="mc4wp-form mc4wp-form-11461" data-id="11461" data-name="Misli karmelskih svetaca" id="mc4wp-form-1" method="post">
+        <div class="mc4wp-form-fields">
+         <p>
+          <label>
+          </label>
+          <input name="EMAIL" placeholder="Vaša e-mail adresa" required="" type="email"/>
+         </p>
+         <p>
+          <input type="submit" value="Upiši se"/>
+         </p>
+        </div>
+        <label style="display: none !important;">
+         <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""/>
+        </label>
+        <input name="_mc4wp_timestamp" type="hidden" value="1629806462"/>
+        <input name="_mc4wp_form_id" type="hidden" value="11461"/>
+        <input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-1"/>
+        <div class="mc4wp-response">
+        </div>
+       </form>
+      </aside>
+      <aside class="widget widget_google_translate_widget" id="google_translate_widget-3">
+       <h1 class="widget-title">
+       </h1>
+       <div id="google_translate_element">
+       </div>
+      </aside>
+      <aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2">
+       <div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="30" id="eu-cookie-law">
+        <form method="post">
+         <input class="accept" type="submit" value="Zatvori i prihvati"/>
+        </form>
+        <br/>
+        <a href="https://automattic.com/cookies/">
+        </a>
+       </div>
+      </aside>
+     </div>
+    </div>
+    <div id="secondary">
+     <h2 class="site-description">
+     </h2>
+     <nav class="navigation site-navigation secondary-navigation" role="navigation">
+      <div class="menu-izbornik2-container">
+       <ul class="menu" id="menu-izbornik2">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190" id="menu-item-190">
+         <a href="http://karmel.hr/?page_id=98">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158" id="menu-item-158">
+         <a href="http://karmel.hr/?page_id=100">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157" id="menu-item-157">
+         <a href="http://karmel.hr/?page_id=102">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156" id="menu-item-156">
+         <a href="http://karmel.hr/?page_id=104">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186" id="menu-item-186">
+         <a href="http://karmel.hr/?page_id=106">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154" id="menu-item-154">
+         <a href="http://karmel.hr/?page_id=108">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449" id="menu-item-449">
+         <a href="http://karmel.hr/?page_id=444">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450" id="menu-item-450">
+         <a href="http://karmel.hr/?page_id=446">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524" id="menu-item-524">
+         <a href="http://karmel.hr/?page_id=517">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3229" id="menu-item-3229">
+         <a href="http://karmel.hr/?page_id=3224">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="primary-sidebar widget-area" id="primary-sidebar" role="complementary">
+      <aside class="widget widget_media_image" id="media_image-7">
+       <h1 class="widget-title">
+       </h1>
+       <a href="https://www.dropbox.com/s/w43y6uz3a7ndabg/KV_01_2021_web.pdf?dl=0" rel="noopener" target="_blank">
+        <img alt="" class="image wp-image-16919 alignnone attachment-full size-full" data-attachment-id="16919" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Slika zaslona 2021-04-07 u 21.50.23" data-large-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?fit=474%2C664" data-medium-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?fit=214%2C300" data-orig-file="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?fit=553%2C775" data-orig-size="553,775" data-permalink="http://karmel.hr/?attachment_id=16919" height="775" loading="lazy" sizes="(max-width: 553px) 100vw, 553px" src="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?fit=553%2C775" srcset="https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?w=553 553w, https://i2.wp.com/karmel.hr/wp-content/uploads/2021/04/Slika-zaslona-2021-04-07-u-21.50.23.png?resize=214%2C300 214w" style="max-width: 100%; height: auto;" width="553"/>
+       </a>
+      </aside>
+      <aside class="widget widget_archive" id="archives-2">
+       <h1 class="widget-title">
+       </h1>
+       <label class="screen-reader-text" for="archives-dropdown-2">
+       </label>
+       <select id="archives-dropdown-2" name="archive-dropdown">
+        <option value="">
+        </option>
+        <option value="http://karmel.hr/?m=202108">
+        </option>
+        <option value="http://karmel.hr/?m=202107">
+        </option>
+        <option value="http://karmel.hr/?m=202106">
+        </option>
+        <option value="http://karmel.hr/?m=202105">
+        </option>
+        <option value="http://karmel.hr/?m=202104">
+        </option>
+        <option value="http://karmel.hr/?m=202103">
+        </option>
+        <option value="http://karmel.hr/?m=202102">
+        </option>
+        <option value="http://karmel.hr/?m=202101">
+        </option>
+        <option value="http://karmel.hr/?m=202012">
+        </option>
+        <option value="http://karmel.hr/?m=202011">
+        </option>
+        <option value="http://karmel.hr/?m=202010">
+        </option>
+        <option value="http://karmel.hr/?m=202009">
+        </option>
+        <option value="http://karmel.hr/?m=202008">
+        </option>
+        <option value="http://karmel.hr/?m=202007">
+        </option>
+        <option value="http://karmel.hr/?m=202006">
+        </option>
+        <option value="http://karmel.hr/?m=202005">
+        </option>
+        <option value="http://karmel.hr/?m=202004">
+        </option>
+        <option value="http://karmel.hr/?m=202003">
+        </option>
+        <option value="http://karmel.hr/?m=202002">
+        </option>
+        <option value="http://karmel.hr/?m=202001">
+        </option>
+        <option value="http://karmel.hr/?m=201912">
+        </option>
+        <option value="http://karmel.hr/?m=201911">
+        </option>
+        <option value="http://karmel.hr/?m=201910">
+        </option>
+        <option value="http://karmel.hr/?m=201909">
+        </option>
+        <option value="http://karmel.hr/?m=201908">
+        </option>
+        <option value="http://karmel.hr/?m=201907">
+        </option>
+        <option value="http://karmel.hr/?m=201906">
+        </option>
+        <option value="http://karmel.hr/?m=201905">
+        </option>
+        <option value="http://karmel.hr/?m=201904">
+        </option>
+        <option value="http://karmel.hr/?m=201903">
+        </option>
+        <option value="http://karmel.hr/?m=201902">
+        </option>
+        <option value="http://karmel.hr/?m=201901">
+        </option>
+        <option value="http://karmel.hr/?m=201812">
+        </option>
+        <option value="http://karmel.hr/?m=201811">
+        </option>
+        <option value="http://karmel.hr/?m=201810">
+        </option>
+        <option value="http://karmel.hr/?m=201809">
+        </option>
+        <option value="http://karmel.hr/?m=201808">
+        </option>
+        <option value="http://karmel.hr/?m=201807">
+        </option>
+        <option value="http://karmel.hr/?m=201806">
+        </option>
+        <option value="http://karmel.hr/?m=201805">
+        </option>
+        <option value="http://karmel.hr/?m=201804">
+        </option>
+        <option value="http://karmel.hr/?m=201803">
+        </option>
+        <option value="http://karmel.hr/?m=201802">
+        </option>
+        <option value="http://karmel.hr/?m=201801">
+        </option>
+        <option value="http://karmel.hr/?m=201712">
+        </option>
+        <option value="http://karmel.hr/?m=201711">
+        </option>
+        <option value="http://karmel.hr/?m=201710">
+        </option>
+        <option value="http://karmel.hr/?m=201709">
+        </option>
+        <option value="http://karmel.hr/?m=201708">
+        </option>
+        <option value="http://karmel.hr/?m=201707">
+        </option>
+        <option value="http://karmel.hr/?m=201706">
+        </option>
+        <option value="http://karmel.hr/?m=201705">
+        </option>
+        <option value="http://karmel.hr/?m=201704">
+        </option>
+        <option value="http://karmel.hr/?m=201703">
+        </option>
+        <option value="http://karmel.hr/?m=201702">
+        </option>
+        <option value="http://karmel.hr/?m=201701">
+        </option>
+        <option value="http://karmel.hr/?m=201612">
+        </option>
+        <option value="http://karmel.hr/?m=201611">
+        </option>
+        <option value="http://karmel.hr/?m=201610">
+        </option>
+        <option value="http://karmel.hr/?m=201609">
+        </option>
+        <option value="http://karmel.hr/?m=201608">
+        </option>
+        <option value="http://karmel.hr/?m=201607">
+        </option>
+        <option value="http://karmel.hr/?m=201606">
+        </option>
+        <option value="http://karmel.hr/?m=201605">
+        </option>
+        <option value="http://karmel.hr/?m=201604">
+        </option>
+        <option value="http://karmel.hr/?m=201603">
+        </option>
+        <option value="http://karmel.hr/?m=201602">
+        </option>
+        <option value="http://karmel.hr/?m=201601">
+        </option>
+        <option value="http://karmel.hr/?m=201512">
+        </option>
+        <option value="http://karmel.hr/?m=201511">
+        </option>
+        <option value="http://karmel.hr/?m=201510">
+        </option>
+        <option value="http://karmel.hr/?m=201509">
+        </option>
+        <option value="http://karmel.hr/?m=201508">
+        </option>
+        <option value="http://karmel.hr/?m=201507">
+        </option>
+        <option value="http://karmel.hr/?m=201506">
+        </option>
+        <option value="http://karmel.hr/?m=201505">
+        </option>
+        <option value="http://karmel.hr/?m=201504">
+        </option>
+        <option value="http://karmel.hr/?m=201503">
+        </option>
+        <option value="http://karmel.hr/?m=201502">
+        </option>
+        <option value="http://karmel.hr/?m=201501">
+        </option>
+        <option value="http://karmel.hr/?m=201412">
+        </option>
+        <option value="http://karmel.hr/?m=201411">
+        </option>
+        <option value="http://karmel.hr/?m=201410">
+        </option>
+        <option value="http://karmel.hr/?m=201409">
+        </option>
+        <option value="http://karmel.hr/?m=201408">
+        </option>
+        <option value="http://karmel.hr/?m=201407">
+        </option>
+        <option value="http://karmel.hr/?m=201406">
+        </option>
+        <option value="http://karmel.hr/?m=201405">
+        </option>
+        <option value="http://karmel.hr/?m=201404">
+        </option>
+        <option value="http://karmel.hr/?m=201403">
+        </option>
+        <option value="http://karmel.hr/?m=201402">
+        </option>
+        <option value="http://karmel.hr/?m=201401">
+        </option>
+        <option value="http://karmel.hr/?m=201312">
+        </option>
+        <option value="http://karmel.hr/?m=201311">
+        </option>
+        <option value="http://karmel.hr/?m=201310">
+        </option>
+        <option value="http://karmel.hr/?m=201309">
+        </option>
+        <option value="http://karmel.hr/?m=201308">
+        </option>
+        <option value="http://karmel.hr/?m=201307">
+        </option>
+        <option value="http://karmel.hr/?m=201306">
+        </option>
+       </select>
+       <script>
+       </script>
+      </aside>
+      <aside class="widget sl-links-main" id="simple-links-5">
+       <h1 class="widget-title">
+       </h1>
+       <ul class="simple-links-list simple-links-5-list" id="simple-links-5-list">
+        <li class="simple-links-item simple-links-widget-item" id="link-1836">
+         <a href="http://www.carmelitaniscalzi.com/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-8543">
+         <a href="http://sombor.karmel.hr/" target="" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-8900">
+         <a href="https://www.facebook.com/karmelsplit" target="" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-3167">
+         <a href="http://www.karmil.tk/" target="" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1842">
+         <a href="http://www.karmelsvetogilije.net/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-8545">
+         <a href="http://breznica.karmel.hr" target="" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1844">
+         <a href="http://ocds.karmel.hr/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1838">
+         <a href="http://ssd.karmel.hr/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-9199">
+         <a href="http://tpz.karmel.hr/" target="" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1840">
+         <a href="http://www.zuparemete.net/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1846">
+         <a href="https://otacgerard.wordpress.com/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1848">
+         <a href="http://www.bitno.net/" target="_blank" title="">
+         </a>
+        </li>
+        <li class="simple-links-item simple-links-widget-item" id="link-1851">
+         <a href="http://www.laudato.hr/" target="_blank" title="">
+         </a>
+        </li>
+       </ul>
+      </aside>
+      <aside class="widget widget_text" id="text-5">
+       <h1 class="widget-title">
+       </h1>
+       <div class="textwidget">
+        <p>
+         <a href="https://play.google.com/store/apps/details?id=com.majkabozjaremetska">
+          <strong>
+          </strong>
+         </a>
+         <a href="https://itunes.apple.com/us/app/majka-božja-remetska/id1072745226?mt=8">
+          <strong>
+          </strong>
+         </a>
+        </p>
+       </div>
+      </aside>
+     </div>
+    </div>
+   </div>
+   <footer class="site-footer" id="colophon" role="contentinfo">
+    <div class="site-info">
+     <a class="imprint" href="https://wordpress.org/">
+     </a>
+    </div>
+   </footer>
+  </div>
+  <script id="jetpack-photon-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122">
+  </script>
+  <script id="devicepx-js" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202134">
+  </script>
+  <script id="scroll-back-to-top-js-extra">
+  </script>
+  <script id="scroll-back-to-top-js" src="http://karmel.hr/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js">
+  </script>
+  <script id="grofiles-cards-js" src="https://secure.gravatar.com/js/gprofiles.js?ver=2021Augaa">
+  </script>
+  <script id="wpgroho-js-extra">
+  </script>
+  <script id="wpgroho-js" src="http://karmel.hr/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.7.2">
+  </script>
+  <script id="twentyfourteen-script-js" src="http://karmel.hr/wp-content/themes/twentyfourteen/js/functions.js?ver=20171218">
+  </script>
+  <script id="eu-cookie-law-script-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522">
+  </script>
+  <script id="jetpack-facebook-embed-js-extra">
+  </script>
+  <script id="jetpack-facebook-embed-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js">
+  </script>
+  <script id="wp-embed-js" src="http://karmel.hr/wp-includes/js/wp-embed.min.js?ver=5.7.2">
+  </script>
+  <script id="spin-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/spin.min.js?ver=1.3">
+  </script>
+  <script id="jquery.spin-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3">
+  </script>
+  <script id="jetpack-carousel-js-extra">
+  </script>
+  <script id="jetpack-carousel-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=20170209">
+  </script>
+  <script id="wpos-vticker-jquery-js" src="http://karmel.hr/wp-content/plugins/sp-news-and-widget/assets/js/jquery.newstape.js?ver=4.4">
+  </script>
+  <script id="sp-news-public-js" src="http://karmel.hr/wp-content/plugins/sp-news-and-widget/assets/js/sp-news-public.js?ver=4.4">
+  </script>
+  <script id="google-translate-init-js-extra">
+  </script>
+  <script id="google-translate-init-js" src="http://karmel.hr/wp-content/plugins/jetpack/_inc/build/widgets/google-translate/google-translate.min.js?ver=5.7.2">
+  </script>
+  <script id="google-translate-js" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&amp;ver=5.7.2">
+  </script>
+  <script id="mc4wp-forms-api-js" src="http://karmel.hr/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.3">
+  </script>
+  <div class="scroll-back-to-top-wrapper">
+   <span class="scroll-back-to-top-inner">
+    <i class="fa fa-2x fa-arrow-circle-up">
+    </i>
+   </span>
+  </div>
+  <script>
+  </script>
+  <div style="display:none">
+  </div>
+  <script async="async" defer="defer" src="https://stats.wp.com/e-202134.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script defer="" src="http://karmel.hr/wp-content/cache/autoptimize/js/autoptimize_062ddecdcd411c4e698af46ec615398b.js">
+  </script>
+ </body>
+</html>

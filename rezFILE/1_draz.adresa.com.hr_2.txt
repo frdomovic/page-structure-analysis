@@ -1,0 +1,298 @@
+<html lang="hr">
+ <head>
+  <meta content="initial-scale=1.0, user-scalable=no" name="viewport"/>
+  <meta charset="utf-8"/>
+  <title>
+  </title>
+  <meta content="Kliknite na početno slovo (t) adrese u hrvatskoj za koji vas zanima Draž adresa ili na karti kliknite kružić, zumirajte kartu radi točnijeg odabira." name="description"/>
+  <meta content="adresa,Draž,t,adrese,karta,grad,otok,mapa,lokacija" name="keywords"/>
+  <meta content="http://draz.adresa.com.hr/" property="og:url"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Draž adresa.com.hr (t) mala pomoć pri traženju adrese" property="og:title"/>
+  <meta content="Kliknite na početno slovo (t) adrese u hrvatskoj za koji vas zanima Draž adresa ili na karti kliknite kružić, zumirajte kartu radi točnijeg odabira." property="og:description"/>
+  <meta content="https://s3.eu-central-1.amazonaws.com/croatia-images/000-global/adresa_com_hr_logo_small.png" property="og:image"/>
+  <link href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAD19fX/u6WF/7eQUP+7k1T/upNT/7qTU/+6k1T/upNU/7qTVP+6k1T/upNT/7qTU/+7k1T/uo5T/72mif/29vb/vKSC/9GhQv/xxF//7cBc/+7AXf/uwFz/7sBa/+2+Wf/tv1n/7sBa/+7AXP/uwF3/7sBc//LDXv/Qn0P/vaeH/7aQT//yxF//675f/+y/Xv/qv13/68Bh/+vAZv/uxnD/68Vx/+rAZv/rwF//675e/+y+X//rv1//88Nf/7SPUv+3lFT/7cBc/+y/X//svlr/68V3/+jZuv/t4tP/2Mez/9fMt//s4tH/6tm5/+zEdv/svVv/679f/+7AXP+0kFT/t5NT/+7AXP/sv17/7L9e/+y/YP/pw2z/9r9r/3Suj/+BrYX/+cJt/+vBbv/sv2D/7L9e/+u/X//vwFz/tY9T/7eTU//uwFz/7L9e/+y/Xv/qvl3/9MNc/8WkT/8z3dj/QM+9/9SkSP/xxF7/675e/+y/Xv/rv17/78Bc/7WPU/+3k1P/7sBc/+y/Xv/sv17/6sFh//O2U/9ztIv/Le7u/yzo5v+Dp3H/9rtY/+rAYP/sv17/679e/+/AXP+1j1P/t5NT/+7AXP/sv17/6r5e//TDX//GqFf/ONfP/zLy8P8v9Pb/Q8Wq/9WmTv/xw2P/675d/+u/Xv/vwFz/tY9T/7eTU//uwFz/7L9e/+rAYP/2ulT/gbGB/yft7v9FyLn/Qc/A/ynl3P+XoWD/+L5c/+m/X//rv17/78Bc/7WPU/+3k1P/7sBc/+u+Xv/uw2H/565Q/0fLtf9Ryr7/5tXJ/9zSxf9JzMH/XbaJ/+2zUf/swmH/675e/+/AXP+1j1P/t5NT/+7AXP/rvl7/78Nh/+OsUP8+0Lz/dcCx///29f//8Or/YcS0/1K6jv/rsE//7cJh/+u+Xv/vwFz/tY9T/7eTU//uwFz/679e/+rAYP/0uFX/fbGD/ynd2P+MwbH/gcS4/yvSxf+Sol//9b5a/+q/X//rv17/78Bc/7WPU/+4lFP/7sBc/+y/Xv/rvl7/7sJg/+awU/97soP/Ocy6/0DFrv+HpGr/6rNV/+/BYP/rv17/679e/+7AXP+1kFP/to9Q//PDX//rvl//7L9e/+q+Xv/uwmH/87dV/+GsU//irE//9LpZ/+3BYf/rvl7/679e/+u/X//yw1//tY9U/72jgv/ToEL/8sNe/+6/XP/vwFz/7r9c/+7BX//yxF//8cRf/+3BXv/uv1z/78Bc/+6/XP/xw1//zp9D/7ymh//19fT/uqSD/7aPUf+5klb/uZJV/7mSVf+5klX/uJFV/7iRVf+5klX/uZJV/7mSVf+5klf/t45T/72mhv/19vb/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==" rel="icon"/>
+  <meta content="INDEX,FOLLOW" name="robots"/>
+  <link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet"/>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
+  <link href="https://s3.eu-central-1.amazonaws.com/croatia-images/000-global/css-third-20161110_gzip.min.css" rel="stylesheet"/>
+  <meta content="lJ8nrveAuIp-Vpp15O6a6ZTgimWwpLHXpuefch_N9go" name="google-site-verification"/>
+  <meta content="A97ECA2B8156C574FDB77CF0C070263C" name="msvalidate.01"/>
+  <meta content="6c2e98229007f12c" name="yandex-verification"/>
+  <meta content="cb238a4d814069e70a3a" name="wot-verification"/>
+  <style>
+  </style>
+  <script type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <div id="map" style="height:60%">
+  </div>
+  <div style="width:92%;margin: auto;">
+   <script>
+   </script>
+   <div>
+    <div class="naslov">
+     <h1>
+      <a href="http://draz.adresa.com.hr" title="Trenutna stranica">
+      </a>
+     </h1>
+     <p>
+      <br/>
+      <br/>
+     </p>
+     <ins class="adsbygoogle" data-ad-client="ca-pub-4055059144689049" data-ad-format="auto" data-ad-slot="5698208549" data-full-width-responsive="true" style="display:block">
+     </ins>
+     <script>
+     </script>
+    </div>
+    <div class="space25px">
+    </div>
+    <div class="navigacija">
+     <a href="http://draz.adresa.com.hr/a">
+     </a>
+     <a href="http://draz.adresa.com.hr/b">
+     </a>
+     <a href="http://draz.adresa.com.hr/c">
+     </a>
+     <a href="http://draz.adresa.com.hr/d">
+     </a>
+     <a href="http://draz.adresa.com.hr/e">
+     </a>
+     <a href="http://draz.adresa.com.hr/f">
+     </a>
+     <a href="http://draz.adresa.com.hr/g">
+     </a>
+     <a href="http://draz.adresa.com.hr/h">
+     </a>
+     <a href="http://draz.adresa.com.hr/i">
+     </a>
+     <a href="http://draz.adresa.com.hr/k">
+     </a>
+     <a href="http://draz.adresa.com.hr/l">
+     </a>
+     <a href="http://draz.adresa.com.hr/m">
+     </a>
+     <a href="http://draz.adresa.com.hr/o">
+     </a>
+     <a href="http://draz.adresa.com.hr/p">
+     </a>
+     <a href="http://draz.adresa.com.hr/r">
+     </a>
+     <a href="http://draz.adresa.com.hr/s">
+     </a>
+     <a href="http://draz.adresa.com.hr/t">
+     </a>
+     <a href="http://draz.adresa.com.hr/u">
+     </a>
+     <a href="http://draz.adresa.com.hr/v">
+     </a>
+     <a href="http://draz.adresa.com.hr/z">
+     </a>
+     <br/>
+     <br/>
+     <div class="listsome">
+      <a href="http://draz.adresa.com.hr/topolje">
+      </a>
+      <br/>
+     </div>
+    </div>
+   </div>
+  </div>
+  <br/>
+  <div class="naslov">
+   <p>
+    <a href="http://www.tz-draz.hr/" target="_blank" title="http://www.tz-draz.hr/">
+    </a>
+   </p>
+  </div>
+  <div class="naslov">
+   <a href="http://adresa.com.hr" title="Adresa Hrvatska na adresa.com.hr">
+    <img alt="adresa.com.hr logo" src="data:image/png;base64,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"/>
+   </a>
+  </div>
+  <div class="main_container">
+   <div class="content_bar">
+    <div class="sidebar hide-div">
+     <div class="myposition_middle">
+      <ul id="menubar">
+       <li class="facebook_bg" id="facebook_share">
+        <i class="fa fa-facebook my_icon">
+        </i>
+       </li>
+       <li class="twitter_bg" id="twitter_share">
+        <i class="fa fa-twitter my_icon">
+        </i>
+       </li>
+       <li class="google_bg" id="google_share">
+        <i class="fa fa-google-plus my_icon">
+        </i>
+       </li>
+       <li class="heart_bg" id="heart_share">
+        <i class="fa fa-heart my_icon">
+        </i>
+       </li>
+       <li class="submenu" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">
+        <i class="fa fa-ellipsis-h my_icon">
+        </i>
+       </li>
+      </ul>
+      <div class="hide_show_div">
+       <a>
+        <i class="fa fa-angle-left" id="image1">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="popup_icon" id="show_div">
+    <i class="fa fa-share-alt my_icon">
+    </i>
+   </div>
+   <div class="bottom_button" id="hide_div">
+    <h2>
+    </h2>
+    <i class="fa fa-times my_icon" id="remove">
+    </i>
+    <div class="social_div">
+     <ul class="not_displayed" id="social_share_mob">
+      <li class="facebook_bg" id="facebook_share_mob">
+       <i class="fa fa-facebook my_icon">
+       </i>
+      </li>
+      <li class="twitter_bg" id="twitter_share_mob">
+       <i class="fa fa-twitter my_icon">
+       </i>
+      </li>
+      <li class="google_bg" id="google_share_mob">
+       <i class="fa fa-google-plus my_icon">
+       </i>
+      </li>
+      <li class="heart_bg" id="heart_share_mob">
+       <i class="fa fa-heart my_icon">
+       </i>
+      </li>
+      <li class="submenu" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">
+       <i class="fa fa-ellipsis-h my_icon">
+       </i>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="white_content" id="light">
+   <div class="remove_button">
+    <a onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">
+     <i class="fa fa-times my_icon">
+     </i>
+    </a>
+   </div>
+   <ul id="social_share_all">
+    <li id="gmail_share_all" style="background:#A22546;">
+     <i class="fa fa-envelope">
+     </i>
+    </li>
+    <li id="yahoomail_share_all" style="background:#501293;">
+     <i class="fa fa-yahoo">
+     </i>
+    </li>
+    <li id="pinterest_share_all" style="background:#CD1C1F;">
+     <i class="fa fa-pinterest-p">
+     </i>
+    </li>
+    <li id="linkedin_share_all" style="background:#127BB6;">
+     <i class="fa fa-linkedin">
+     </i>
+    </li>
+    <li id="thumblr_share_all" style="background:#32506D;">
+     <i class="fa fa-tumblr">
+     </i>
+    </li>
+    <li id="blogger_share_all" style="background:#F08641;">
+     <i class="fa fa-facebook">
+     </i>
+    </li>
+    <li id="buffer_share_all" style="background:#222222;">
+     <i class="fa fa-facebook">
+     </i>
+    </li>
+    <li id="digg_share_all" style="background:#546B9F;">
+     <i class="fa fa-digg">
+     </i>
+    </li>
+    <li id="evernote_share_all" style="background:#7CBF4B;">
+     <i class="fa fa-eraser">
+     </i>
+    </li>
+    <li id="friendfeed_share_all" style="background:#5989C0;">
+     <i class="fa fa-facebook">
+     </i>
+    </li>
+    <li id="hackernews_share_all" style="background:#F08641;">
+     <i class="fa fa-hacker-news">
+     </i>
+    </li>
+    <li id="livejournal_share_all" style="background:#336697;">
+     <i class="fa fa-pencil">
+     </i>
+    </li>
+    <li id="newsvine_share_all" style="background:#0D642E;">
+     <i class="fa fa-pagelines">
+     </i>
+    </li>
+    <li id="aol_share_all" style="background:#222222;">
+     <i class="fa fa-facebook">
+     </i>
+    </li>
+    <li id="printfriendly_share_all" style="background:#7CBF4B;">
+     <i class="fa fa-print">
+     </i>
+    </li>
+    <li id="amazone_share_all" style="background:#222222;">
+     <i class="fa fa-amazon">
+     </i>
+    </li>
+    <li id="delicious_share_all" style="background:#0098D5;">
+     <i class="fa fa-delicious">
+     </i>
+    </li>
+    <li id="stambleupen_share_all" style="background:#FB461E;">
+     <i class="fa fa-stumbleupon">
+     </i>
+    </li>
+    <li id="reddit_share_all" style="background:#FB461E;">
+     <i class="fa fa-reddit-alien">
+     </i>
+    </li>
+    <li id="myspace_share_all" style="background:#345088;">
+     <i class="fa fa-user">
+     </i>
+    </li>
+    <li id="vkontakte_share_all" style="background:#5989C0;">
+     <i class="fa fa-vk">
+     </i>
+    </li>
+   </ul>
+  </div>
+  <div class="black_overlay" id="fade">
+  </div>
+  <div id="scrollup" onclick="window.scrollTo(0, 0);">
+   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAQlBMVEX///8PDw8XFxdTU1Po6OiOjo7ExMT5+fn39/fHx8dWVlYoKCg3Nzfg4OCLi4saGhrx8fG2trY/Pz99fX2UlJQjIyPXL41mAAAAd0lEQVQYlWXOWxKFIAwD0CCIr6so6v63qthwKZqvzplJW4Bx8fR4xf2MafzX3ppssrU+NveVigFas2ktVvRv61x0pPlgFmqApTX3n9SAflvvcUgmis3JgWTjklVZh1YrDY+2tEBTmsx2LFErEz0QKxPFnvflHCZeshoEqiKV55cAAAAASUVORK5CYII="/>
+  </div>
+  <script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+  </script>
+  <script async="" defer="" src="http://maps.google.com/maps/api/js?v=3&amp;key=AIzaSyBNnqS-Y5f8zd-MD-onNY2rWUNrwYbh0WA&amp;callback=initMap">
+  </script>
+  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+  </script>
+  <script async="" src="https://s3.eu-central-1.amazonaws.com/croatia-images/000-global/js-third-20161021_gzip.min.js">
+  </script>
+  <small>
+  </small>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-7844729-14">
+  </script>
+  <script>
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1416 @@
+<html lang="hr-HR">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://zagrebprokrom.hr/xmlrpc.php" rel="pingback"/>
+  <title>
+  </title>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://zagrebprokrom.hr/feed/" rel="alternate" title="Zagrebprokrom » Feed" type="application/rss+xml"/>
+  <link href="http://zagrebprokrom.hr/comments/feed/" rel="alternate" title="Zagrebprokrom » Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <link href="http://zagrebprokrom.hr/wp-includes/css/dist/block-library/style.min.css?ver=5.3.8" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="rs-plugin-settings-inline-css" type="text/css">
+  </style>
+  <link href="http://zagrebprokrom.hr/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/js/owlcarousel/assets/owl.carousel.css?ver=5.3.8" id="owl-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/bootstrap.css?ver=5.3.8" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/pikaday.css?ver=5.3.8" id="pikaday-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/core.css?ver=5.3.8" id="anps_core-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/components.css?ver=5.3.8" id="anps_components-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/components/button.css?ver=5.3.8" id="anps_buttons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/swipebox.css?ver=5.3.8" id="swipebox-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat%3A400italic%2C400%2C500%2C600%2C700%2C300&amp;subset=latin%2Clatin-ext&amp;ver=5.3.8" id="font_type_1-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans%3A400italic%2C400%2C500%2C600%2C700%2C300&amp;subset=latin%2Clatin-ext&amp;ver=5.3.8" id="font_type_2-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/style.css?ver=5.3.8" id="theme_main_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/css/wordpress.css?ver=5.3.8" id="theme_wordpress_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="theme_wordpress_style-inline-css" type="text/css">
+  </style>
+  <link href="http://zagrebprokrom.hr/wp-content/themes/industrial/custom.css?ver=5.3.8" id="custom-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://zagrebprokrom.hr/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=4.0.2" id="moove_gdpr_frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://zagrebprokrom.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8" type="text/javascript">
+  </script>
+  <link href="http://zagrebprokrom.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://zagrebprokrom.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://zagrebprokrom.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.3.8" name="generator"/>
+  <link href="http://zagrebprokrom.hr/" rel="canonical"/>
+  <link href="http://zagrebprokrom.hr/" rel="shortlink"/>
+  <link href="http://zagrebprokrom.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzagrebprokrom.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://zagrebprokrom.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzagrebprokrom.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <style type="text/css">
+  </style>
+  <meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+  <meta content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." name="generator"/>
+  <link href="http://zagrebprokrom.hr/wp-content/uploads/2018/07/favicon_zp.png" rel="icon" sizes="32x32"/>
+  <link href="http://zagrebprokrom.hr/wp-content/uploads/2018/07/favicon_zp.png" rel="icon" sizes="192x192"/>
+  <link href="http://zagrebprokrom.hr/wp-content/uploads/2018/07/favicon_zp.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="http://zagrebprokrom.hr/wp-content/uploads/2018/07/favicon_zp.png" name="msapplication-TileImage"/>
+  <script type="text/javascript">
+  </script>
+  <style id="wp-custom-css" type="text/css">
+  </style>
+  <style data-type="vc_shortcodes-custom-css" type="text/css">
+  </style>
+  <noscript>
+   <style type="text/css">
+   </style>
+  </noscript>
+ </head>
+ <body class="home page-template-default page page-id-1096 stickyheader anps-no-shadows wpb-js-composer js-comp-ver-5.5 vc_responsive">
+  <svg style="display: none;" xmlns="http://www.w3.org/2000/svg">
+   <symbol id="featured-video-dark" viewbox="0 0 323.3 258.6">
+    <path d="M323.3 26.9v204.8c0 7.4-2.6 13.8-7.9 19-5.3 5.3-11.6 7.9-19 7.9H26.9c-7.4 0-13.8-2.6-19-7.9-5.3-5.3-7.9-11.6-7.9-19V26.9c0-7.4 2.6-13.8 7.9-19C13.2 2.6 19.5 0 26.9 0h269.4c7.4 0 13.8 2.6 19 7.9 5.3 5.3 8 11.6 8 19zm-27-5.4H26.9c-1.5 0-2.7.5-3.8 1.6s-1.6 2.3-1.6 3.8v204.8c0 1.5.5 2.7 1.6 3.8 1.1 1.1 2.3 1.6 3.8 1.6h269.4c1.5 0 2.7-.5 3.8-1.6 1.1-1.1 1.6-2.3 1.6-3.8V26.9c0-1.5-.5-2.7-1.6-3.8-1.1-1-2.3-1.6-3.8-1.6zM123.6 76.9v106.8l89.9-60.6-89.9-46.2z">
+    </path>
+   </symbol>
+   <symbol id="featured-video" viewbox="0 0 323.3 258.6">
+    <path d="M323.3 26.9v204.8c0 7.4-2.6 13.8-7.9 19-5.3 5.3-11.6 7.9-19 7.9H26.9c-7.4 0-13.8-2.6-19-7.9-5.3-5.3-7.9-11.6-7.9-19V26.9c0-7.4 2.6-13.8 7.9-19C13.2 2.6 19.5 0 26.9 0h269.4c7.4 0 13.8 2.6 19 7.9 5.3 5.3 8 11.6 8 19zm-27-5.4H26.9c-1.5 0-2.7.5-3.8 1.6s-1.6 2.3-1.6 3.8v204.8c0 1.5.5 2.7 1.6 3.8 1.1 1.1 2.3 1.6 3.8 1.6h269.4c1.5 0 2.7-.5 3.8-1.6 1.1-1.1 1.6-2.3 1.6-3.8V26.9c0-1.5-.5-2.7-1.6-3.8-1.1-1-2.3-1.6-3.8-1.6zM123.6 76.9v106.8l89.9-60.6-89.9-46.2z">
+    </path>
+   </symbol>
+  </svg>
+  <div class="site">
+   <div class="top-bar top-bar-style-0 clearfix classic">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-6">
+       <div class="top-bar-left">
+        <div class="widget widget_anpstext" id="anpstext-3">
+         <ul class="contact-info">
+          <li class="contact-info-item">
+           <i class="fa fa-map-marker" style="color: #a9b9c7;">
+           </i>
+           <span class="important" style="color:  !important;">
+           </span>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col-md-6">
+       <div class="top-bar-right">
+        <div class="widget widget_text" id="text-9">
+         <div class="textwidget">
+          <p>
+           <img alt="" class="alignnone wp-image-2812" height="76" src="http://zagrebprokrom.hr/wp-content/uploads/2019/12/eu_zajedno_do_fondova-300x267.png" style="padding-top: 8px; margin-left: -15px;" width="76"/>
+           <img alt="" class="alignnone wp-image-2819" height="35" src="http://zagrebprokrom.hr/wp-content/uploads/2019/12/logo-mobile-300x62.png" style="padding-top: 8px; margin-left: -15px;" width="170"/>
+           <a href="/povecanje-energetske-ucinkovitosti-i-koristenja-oie-tvrtke-zagrebprokrom-d-o-o/" style="vertical-align: middle;">
+           </a>
+          </p>
+          <p style="color:#000000 !important;">
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <header class="site-header classic right">
+    <div class="container">
+     <div class="header-wrap clearfix row">
+      <div class="logo pull-left">
+       <a href="http://zagrebprokrom.hr/">
+        <span class="logo-wrap">
+         <img alt="Zagrebprokrom" class="logo-img" src="http://www.zagrebprokrom.hr/wp-content/uploads/2018/07/logo.png"/>
+        </span>
+        <span class="logo-sticky">
+         <img alt="Zagrebprokrom" class="logo-img" src="http://www.zagrebprokrom.hr/wp-content/uploads/2018/07/logo.png"/>
+        </span>
+        <span class="logo-mobile">
+         <img alt="Zagrebprokrom" class="logo-img" src="http://www.zagrebprokrom.hr/wp-content/uploads/2018/07/logo.png"/>
+        </span>
+       </a>
+      </div>
+      <nav class="site-navigation pull-right">
+       <div class="mobile-wrap">
+        <button class="burger">
+         <span class="burger-top">
+         </span>
+         <span class="burger-middle">
+         </span>
+         <span class="burger-bottom">
+         </span>
+        </button>
+        <div class="site-search hidden-lg">
+         <form action="http://zagrebprokrom.hr/" class="searchform-header" id="searchform-header" method="get">
+          <input class="searchfield" name="s" placeholder="Traži..." type="text"/>
+          <button class="submit" type="submit">
+           <i class="fa fa-search">
+           </i>
+          </button>
+         </form>
+        </div>
+        <div class="above-nav-bar">
+         <div class="widget widget_anpstext" id="anpstext-4">
+          <ul class="contact-info">
+           <li class="contact-info-item">
+            <i class="fa fa-envelope" style="color: #3498db;">
+            </i>
+            <span class="important" style="color:  !important;">
+            </span>
+           </li>
+           <li class="contact-info-item">
+            <i class="fa fa-phone" style="color: #3498db;">
+            </i>
+            <span class="important" style="color:  !important;">
+            </span>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <ul class="main-menu" id="main-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1096 current_page_item">
+          <a href="http://zagrebprokrom.hr/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://zagrebprokrom.hr/o-nama/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+          <a href="http://zagrebprokrom.hr/brendovi/">
+          </a>
+          <ul class="sub-menu">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/sikkens/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/lesonal/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/dynacoat/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/3m/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/sayerlack/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/rupes/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/chemicar/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/devilbiss/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/coloritalia/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/prodyver/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="http://zagrebprokrom.hr/roberlo/">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://zagrebprokrom.hr/novosti/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://zagrebprokrom.hr/prodajna-mjesta/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a href="http://zagrebprokrom.hr/kontakt/">
+          </a>
+         </li>
+         <li class="menu-search">
+          <button class="menu-search-toggle">
+           <i class="fa fa-search">
+           </i>
+          </button>
+          <div class="menu-search-form hide">
+           <form action="http://zagrebprokrom.hr/" method="get">
+            <input class="menu-search-field" name="s" placeholder="Traži..." type="text"/>
+           </form>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <button class="burger pull-right">
+        <span class="burger-top">
+        </span>
+        <span class="burger-middle">
+        </span>
+        <span class="burger-bottom">
+        </span>
+       </button>
+      </nav>
+     </div>
+    </div>
+   </header>
+   <main class="site-main">
+    <div class="container content-container">
+     <div class="row">
+      <div class="col-md-12">
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1453200552863 vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <link href="http://fonts.googleapis.com/css?family=Montserrat:700%7CPT+Sans:400%7CRoboto:500%2C400" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+           <div class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" id="rev_slider_1_1_wrapper" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+            <div class="rev_slider fullwidthabanner" data-version="5.4.8" id="rev_slider_1_1" style="display:none;">
+             <ul>
+              <li data-description="" data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-1" data-masterspeed="400" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="http://zagrebprokrom.hr/wp-content/uploads/2018/07/cover-3-tamna-100x50.png" data-title="Slide" data-transition="parallaxhorizontal">
+               <img alt="cover-3-tamna" class="rev-slidebg" data-bgfit="cover" data-bgparallax="off" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="650" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/cover-3-tamna.png" title="cover-3-tamna" width="2000"/>
+               <div class="tp-caption tp-resizeme" data-color="['rgb(255,255,255)','rgba(255,255,255,1)','rgba(255,255,255,1)','rgba(255,255,255,1)']" data-fontsize="['50','50','50','40']" data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]' data-height="['56','56','56','none']" data-hoffset="['60','80','64','-10']" data-lineheight="['50','22','22','46']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','left','left']" data-type="text" data-voffset="['165','186','-52','-79']" data-whitespace="normal" data-width="['909','639','638','385']" data-x="['left','left','left','center']" data-y="['top','top','middle','middle']" id="slide-1-layer-1" style="z-index: 5; min-width: 909px; max-width: 909px; max-width: 56px; max-width: 56px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 700; color: #ffffff; letter-spacing: px;font-family:Montserrat;">
+               </div>
+               <div class="tp-caption tp-resizeme" data-color="['rgb(255,255,255)','rgba(255,255,255,1)','rgba(255,255,255,1)','rgba(255,255,255,1)']" data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]' data-height="['none','none','38','none']" data-hoffset="['61','81','64','42']" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-textalign="['left','left','left','left']" data-type="text" data-voffset="['224','230','-22','-25']" data-whitespace="normal" data-width="['429','429','466','247']" data-x="['left','left','left','left']" data-y="['top','top','middle','middle']" id="slide-1-layer-2" style="z-index: 6; min-width: 429px; max-width: 429px; white-space: normal; font-size: 16px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: px;font-family:PT Sans;">
+               </div>
+               <div class="tp-caption rev-btn tp-resizeme" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/o-nama\/","delay":""}]' data-fontweight="['500','400','400','400']" data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,255,255,1);bg:rgba(48,119,201,1);bs:solid;bw:0 0 0 0;"}]' data-height="42" data-hoffset="['84','99','84','44']" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" data-paddingright="[35,35,35,35]" data-paddingtop="[12,12,12,12]" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="button" data-voffset="['314','300','209','271']" data-whitespace="normal" data-width="['149','132','127','130']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-1-layer-3" style="z-index: 7; min-width: 149px; max-width: 149px; max-width: 42px; max-width: 42px; white-space: normal; font-size: 14px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:roboto;background-color:rgba(52,152,219,1);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+               </div>
+               <div class="tp-caption rev-btn tp-resizeme" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"\/kontakt\/","delay":""}]' data-fontweight="['500','400','400','400']" data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,255,255,1);bg:rgba(57,143,65,1);bs:solid;bw:0 0 0 0;"}]' data-height="['none','42','none','none']" data-hoffset="['241','243','220','190']" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" data-paddingright="[35,35,35,35]" data-paddingtop="[12,12,12,12]" data-responsive_offset="on" data-textalign="['center','center','center','center']" data-type="button" data-voffset="['314','300','209','271']" data-whitespace="nowrap" data-width="['none','204','none','none']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-1-layer-4" style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: px;font-family:roboto;background-color:rgba(105,205,114,1);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+               </div>
+              </li>
+             </ul>
+             <script>
+             </script>
+             <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;">
+             </div>
+            </div>
+            <script>
+            </script>
+            <script type="text/javascript">
+            </script>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1551695690721 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="anps_cta">
+            <div class="cta-content font1" style="color: #ffffff">
+            </div>
+            <a class="btn btn-lg btn-light" href="/brendovi/" target="_self">
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1469689612078 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <h2 class="heading-left divider-modern" style="color: #215070">
+            <span>
+             <em class="heading-subtitle" style="color: #a3baca">
+             </em>
+            </span>
+           </h2>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1469689661482 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-4">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/sikkens" target="_self">
+              <img alt="Sikkens" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-sikkens.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/sikkens" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/sikkens" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/3m" target="_self">
+              <img alt="3M" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-3m.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/3m" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/3m" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/chemicar" target="_self">
+              <img alt="Chemicar" src="http://zagrebprokrom.hr/wp-content/uploads/2018/09/chemicar-naslovna.png"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/chemicar" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/chemicar" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/roberlo/" target="_self">
+              <img alt="Roberlo" src="http://zagrebprokrom.hr/wp-content/uploads/2018/11/roberlo-cover-722x368.png"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/roberlo/" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/roberlo/" target="_self">
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="wpb_column vc_column_container vc_col-md-4">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/lesonal" target="_self">
+              <img alt="Lesonal" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-lesonal.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/lesonal" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/lesonal" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/sayerlack" target="_self">
+              <img alt="Sayerlack" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-sayerlack.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/sayerlack" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/sayerlack" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/devilbiss" target="_self">
+              <img alt="DeVilbiss" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-devilbiss.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/devilbiss" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/devilbiss" target="_self">
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="wpb_column vc_column_container vc_col-md-4">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/dynacoat" target="_self">
+              <img alt="Dynacoat" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-dynacoat.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/dynacoat" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/dynacoat" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/rupes" target="_self">
+              <img alt="Rupes" src="http://zagrebprokrom.hr/wp-content/uploads/2018/12/rupes_alat-722x368.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/rupes" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/rupes" target="_self">
+             </a>
+            </div>
+           </div>
+           <div class="vc_empty_space" style="height: 40px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="featured featured-has-link featured-has-icon featured-has-content simple-style">
+            <div class="featured-header">
+             <a href="/coloritalia" target="_self">
+              <img alt="ColorItalia" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/brend-coloritalia.jpg"/>
+             </a>
+            </div>
+            <div class="featured-content">
+             <h3 class="featured-title text-uppercase">
+              <a href="/coloritalia" target="_self">
+               <i class="fa fa-paint-brush">
+               </i>
+              </a>
+             </h3>
+             <p class="featured-desc">
+             </p>
+             <a class="btn btn-md btn-minimal" href="/coloritalia" target="_self">
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid background-image-left vc_custom_1551695939223 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <h2 class="heading-left divider-modern" style="color: #215070">
+            <span>
+             <em class="heading-subtitle" style="color: #a3baca">
+             </em>
+            </span>
+           </h2>
+           <div class="vc_empty_space" style="height: 50px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1532586497747 vc_row-has-fill">
+            <div class="hidden-sm hidden-xs wpb_column vc_column_container vc_col-md-4">
+             <div class="vc_column-inner">
+              <div class="wpb_wrapper">
+              </div>
+             </div>
+            </div>
+            <div class="no-margin-mobile no-padding-mobile wpb_column vc_column_container vc_col-md-4">
+             <div class="vc_column-inner">
+              <div class="wpb_wrapper">
+               <div class="icon icon-left">
+                <div class="icon-header">
+                 <div class="icon-media" data-style="width: 30px;" style="font-size: 30px;">
+                  <i class="fa fa fa-users">
+                  </i>
+                 </div>
+                 <h3 class="icon-title text-uppercase">
+                 </h3>
+                </div>
+                <p>
+                </p>
+                <a class="btn btn-md btn-minimal" href="/o-nama" target="_self">
+                </a>
+               </div>
+               <div class="icon icon-left">
+                <div class="icon-header">
+                 <div class="icon-media" data-style="width: 30px;" style="font-size: 30px;">
+                  <i class="fa fa fa-tint">
+                  </i>
+                 </div>
+                 <h3 class="icon-title text-uppercase">
+                 </h3>
+                </div>
+                <p>
+                </p>
+                <a class="btn btn-md btn-minimal" href="/team/automatchic3" target="SAZNAJTE VIŠE">
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="no-margin-mobile wpb_column vc_column_container vc_col-md-4">
+             <div class="vc_column-inner">
+              <div class="wpb_wrapper">
+               <div class="icon icon-left">
+                <div class="icon-header">
+                 <div class="icon-media" data-style="width: 30px;" style="font-size: 30px;">
+                  <i class="fa fa fa-graduation-cap">
+                  </i>
+                 </div>
+                 <h3 class="icon-title text-uppercase">
+                 </h3>
+                </div>
+                <p>
+                </p>
+                <a class="btn btn-md btn-minimal" href="#" target="_self">
+                </a>
+               </div>
+               <div class="icon icon-left">
+                <div class="icon-header">
+                 <div class="icon-media" data-style="width: 30px;" style="font-size: 30px;">
+                  <i class="fa fa fa-folder-open">
+                  </i>
+                 </div>
+                 <h3 class="icon-title text-uppercase">
+                 </h3>
+                </div>
+                <p>
+                </p>
+                <a class="btn btn-md btn-minimal" href="/team/colorscala-pro" target="_self">
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid jumbotron vc_custom_1551695812914 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="wpb_text_column wpb_content_element vc_custom_1532593078012">
+            <div class="wpb_wrapper">
+             <h1 class="vc_custom_heading">
+              <span style="color: #ffffff;">
+               <br/>
+              </span>
+             </h1>
+             <p>
+              <span style="color: #ffffff;">
+               <br/>
+              </span>
+             </p>
+            </div>
+           </div>
+           <a class="btn btn-normal btn-md" href="/prodajna-mjesta/" id="button-id-" style="" target="_self">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1470036014122 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <h2 class="heading-left divider-modern" style="color: #215070">
+            <span>
+             <em class="heading-subtitle" style="color: #a3baca">
+             </em>
+            </span>
+           </h2>
+           <div class="vc_empty_space" style="height: 25px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="team-desc team-desc-size-3">
+            <div class="team-desc-main">
+             <div class="team">
+              <div class="member">
+               <div class="member-wrap">
+                <div class="member-image">
+                 <a href="http://zagrebprokrom.hr/team/akzonobel-mixit-pro/">
+                  <img alt="akzonobel-mixit-pro" class="attachment-anps-team-desc size-anps-team-desc wp-post-image" height="450" src="http://zagrebprokrom.hr/wp-content/uploads/2016/01/akzonobel-mixit-pro-2-458x450.png" width="458"/>
+                 </a>
+                </div>
+                <a href="http://zagrebprokrom.hr/team/akzonobel-mixit-pro/">
+                 <h3 class="member-name">
+                 </h3>
+                </a>
+                <span class="member-title">
+                </span>
+               </div>
+              </div>
+              <div class="member">
+               <div class="member-wrap">
+                <div class="member-image">
+                 <a href="http://zagrebprokrom.hr/team/automatchic-vision/">
+                  <img alt="" class="attachment-anps-team-desc size-anps-team-desc wp-post-image" height="450" src="http://zagrebprokrom.hr/wp-content/uploads/2016/01/automatchic3-458x450.png" width="458"/>
+                 </a>
+                </div>
+                <a href="http://zagrebprokrom.hr/team/automatchic-vision/">
+                 <h3 class="member-name">
+                 </h3>
+                </a>
+                <span class="member-title">
+                </span>
+               </div>
+              </div>
+              <div class="member">
+               <div class="member-wrap">
+                <div class="member-image">
+                 <a href="http://zagrebprokrom.hr/team/colorscala-pro/">
+                  <img alt="color-scala-pro" class="attachment-anps-team-desc size-anps-team-desc wp-post-image" height="450" src="http://zagrebprokrom.hr/wp-content/uploads/2016/01/color-scala-pro-458x450.png" width="458"/>
+                 </a>
+                </div>
+                <a href="http://zagrebprokrom.hr/team/colorscala-pro/">
+                 <h3 class="member-name">
+                 </h3>
+                </a>
+                <span class="member-title">
+                </span>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="team-desc-side">
+             <h3 class="team-desc-title" style="color: #2d2d2d;">
+             </h3>
+             <div class="team-desc-description" style="color: #a3baca;">
+             </div>
+             <a class="btn team-desc-btn" href="/o-nama/" target="_self">
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1551695837427 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <h2 class="heading-left divider-modern" style="color: #ffffff">
+            <span>
+             <em class="heading-subtitle" style="color: #a3baca">
+             </em>
+            </span>
+           </h2>
+           <div class="vc_empty_space" style="height: 25px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="recent-news recent-news-light" data-owlcolumns="3">
+            <div class="owl-wrap">
+             <div class="owl-carousel">
+              <article class="post-minimal post-minimal-light">
+               <header>
+                <img alt="blog-poliranje" class="attachment-post-thumb size-post-thumb wp-post-image" height="430" sizes="(max-width: 870px) 100vw, 870px" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-poliranje.png" srcset="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-poliranje.png 870w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-poliranje-300x148.png 300w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-poliranje-768x380.png 768w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-poliranje-600x297.png 600w" width="870"/>
+               </header>
+               <div class="post-minimal-wrap">
+                <a href="http://zagrebprokrom.hr/proces-poliranja-u-7-koraka/">
+                 <h3 class="post-minimal-title">
+                 </h3>
+                </a>
+                <ul class="post-minimal-meta">
+                 <li>
+                  <i class="fa fa-calendar">
+                  </i>
+                  <time datetime="2018-07-25 05:44">
+                  </time>
+                 </li>
+                </ul>
+               </div>
+              </article>
+              <article class="post-minimal post-minimal-light">
+               <header>
+                <img alt="blog-3m-plasticne-posude" class="attachment-post-thumb size-post-thumb wp-post-image" height="430" sizes="(max-width: 870px) 100vw, 870px" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-3m-plasticne-posude.png" srcset="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-3m-plasticne-posude.png 870w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-3m-plasticne-posude-300x148.png 300w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-3m-plasticne-posude-768x380.png 768w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-3m-plasticne-posude-600x297.png 600w" width="870"/>
+               </header>
+               <div class="post-minimal-wrap">
+                <a href="http://zagrebprokrom.hr/3m-pps-posebna-ponuda/">
+                 <h3 class="post-minimal-title">
+                 </h3>
+                </a>
+                <ul class="post-minimal-meta">
+                 <li>
+                  <i class="fa fa-calendar">
+                  </i>
+                  <time datetime="2018-07-25 05:46">
+                  </time>
+                 </li>
+                </ul>
+               </div>
+              </article>
+              <article class="post-minimal post-minimal-light">
+               <header>
+                <img alt="blog-farovi-reparacija" class="attachment-post-thumb size-post-thumb wp-post-image" height="430" sizes="(max-width: 870px) 100vw, 870px" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-farovi-reparacija.png" srcset="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-farovi-reparacija.png 870w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-farovi-reparacija-300x148.png 300w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-farovi-reparacija-768x380.png 768w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-farovi-reparacija-600x297.png 600w" width="870"/>
+               </header>
+               <div class="post-minimal-wrap">
+                <a href="http://zagrebprokrom.hr/reparacija-i-obnova-auto-farova/">
+                 <h3 class="post-minimal-title">
+                 </h3>
+                </a>
+                <ul class="post-minimal-meta">
+                 <li>
+                  <i class="fa fa-calendar">
+                  </i>
+                  <time datetime="2018-07-25 04:50">
+                  </time>
+                 </li>
+                </ul>
+               </div>
+              </article>
+              <article class="post-minimal post-minimal-light">
+               <header>
+                <img alt="blog-sikkens" class="attachment-post-thumb size-post-thumb wp-post-image" height="430" sizes="(max-width: 870px) 100vw, 870px" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-sikkens.png" srcset="http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-sikkens.png 870w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-sikkens-300x148.png 300w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-sikkens-768x380.png 768w, http://zagrebprokrom.hr/wp-content/uploads/2018/07/blog-sikkens-600x297.png 600w" width="870"/>
+               </header>
+               <div class="post-minimal-wrap">
+                <a href="http://zagrebprokrom.hr/lak-za-autoreparaturu/">
+                 <h3 class="post-minimal-title">
+                 </h3>
+                </a>
+                <ul class="post-minimal-meta">
+                 <li>
+                  <i class="fa fa-calendar">
+                  </i>
+                  <time datetime="2018-07-25 04:31">
+                  </time>
+                 </li>
+                </ul>
+               </div>
+              </article>
+             </div>
+             <div class="owl-nav-style-2 text-right">
+              <button class="owlprev">
+               <i class="fa fa-chevron-left">
+               </i>
+              </button>
+              <button class="owlnext">
+               <i class="fa fa-chevron-right">
+               </i>
+              </button>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1531918321824 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <h2 class="heading-left divider-modern" style="color: #215070">
+            <span>
+             <em class="heading-subtitle" style="color: #a3baca">
+             </em>
+            </span>
+           </h2>
+           <div class="vc_empty_space" style="height: 25px">
+            <span class="vc_empty_space_inner">
+            </span>
+           </div>
+           <div class="contact-cards">
+            <div class="row">
+             <div class="col-md-4">
+              <div class="card" style="background-color:#215070; color:#3498db">
+               <span class="icon">
+                <i class="fa fa-phone" style="color: #ffffff">
+                </i>
+               </span>
+               <div class="content-wrap">
+                <span class="item-title" style="color:#a3baca;">
+                </span>
+                <div class="text font1" style="color:#ffffff">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="col-md-4">
+              <div class="card" style="background-color:#215070; color:#3498db">
+               <span class="icon">
+                <i class="fa fa-map-o" style="color: #ffffff">
+                </i>
+               </span>
+               <div class="content-wrap">
+                <span class="item-title" style="color:#a3baca;">
+                </span>
+                <div class="text font1" style="color:#ffffff">
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="col-md-4">
+              <div class="card" style="background-color:#215070; color:#3498db">
+               <span class="icon">
+                <i class="fa fa-envelope-o" style="color: #ffffff">
+                </i>
+               </span>
+               <div class="content-wrap">
+                <span class="item-title" style="color:#a3baca;">
+                </span>
+                <div class="text font1" style="color:#ffffff">
+                 <br/>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+       <div class="vc_row wpb_row vc_row-fluid vc_custom_1469797267756 vc_row-has-fill" data-vc-full-width="true" data-vc-full-width-init="false">
+        <div class="wpb_column vc_column_container vc_col-md-12">
+         <div class="vc_column-inner">
+          <div class="wpb_wrapper">
+           <div class="logos-wrapper style-2">
+            <ul class="clients style-2">
+             <li class="client">
+              <a href="#" target="_blank">
+               <img alt="" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/3m.png"/>
+              </a>
+             </li>
+             <li class="client">
+              <a href="#" target="_blank">
+               <img alt="" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/rupes.png"/>
+              </a>
+             </li>
+             <li class="client">
+              <a href="#" target="_blank">
+               <img alt="" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/chemicar.png"/>
+              </a>
+             </li>
+             <li class="client">
+              <a href="#" target="_blank">
+               <img alt="" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/devilbis.png"/>
+              </a>
+             </li>
+             <li class="client">
+              <a href="#" target="_blank">
+               <img alt="" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/prodyver.png"/>
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="vc_row-full-width vc_clearfix">
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <footer class="site-footer site-footer-default">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-3 col-xs-6">
+       <div class="widget widget_media_image" id="media_image-3">
+        <img alt="" class="image wp-image-2357 attachment-full size-full" height="30" src="http://zagrebprokrom.hr/wp-content/uploads/2018/07/zagrebprokrom-logo-bijela.png" style="max-width: 100%; height: auto;" width="200"/>
+       </div>
+       <div class="widget widget_anpsspacings" id="anpsspacings-2">
+        <div class="empty-space block" style="height:2px;">
+        </div>
+       </div>
+       <div class="widget widget_text" id="text-1">
+        <div class="textwidget">
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="widget widget_anpstext" id="anpstext-5">
+        <ul class="contact-info">
+         <li class="contact-info-item">
+          <i class="fa fa-map-marker" style="color: ;">
+          </i>
+          <span class="important" style="color: #81929e !important;">
+          </span>
+         </li>
+         <li class="contact-info-item">
+          <i class="fa fa-phone" style="color: ;">
+          </i>
+          <span class="important" style="color: #81929e !important;">
+          </span>
+         </li>
+         <li class="contact-info-item">
+          <i class="fa fa-fax" style="color: ;">
+          </i>
+          <span class="important" style="color: #81929e !important;">
+          </span>
+         </li>
+         <li class="contact-info-item">
+          <i class="fa fa-envelope" style="color: ;">
+          </i>
+          <span class="important" style="color: #81929e !important;">
+          </span>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col-md-3 col-xs-6">
+       <div class="widget anps_menu_widget" id="anps_menu-2">
+        <h3 class="widget-title">
+        </h3>
+        <ul class="menu" id="menu-menu-1">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1096 current_page_item menu-item-2225" id="menu-item-2225">
+          <a aria-current="page" href="http://zagrebprokrom.hr/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2236" id="menu-item-2236">
+          <a href="http://zagrebprokrom.hr/o-nama/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2239" id="menu-item-2239">
+          <a href="http://zagrebprokrom.hr/brendovi/">
+          </a>
+          <ul class="sub-menu">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2252" id="menu-item-2252">
+            <a href="http://zagrebprokrom.hr/sikkens/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2432" id="menu-item-2432">
+            <a href="http://zagrebprokrom.hr/lesonal/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2431" id="menu-item-2431">
+            <a href="http://zagrebprokrom.hr/dynacoat/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2430" id="menu-item-2430">
+            <a href="http://zagrebprokrom.hr/3m/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429" id="menu-item-2429">
+            <a href="http://zagrebprokrom.hr/sayerlack/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2472" id="menu-item-2472">
+            <a href="http://zagrebprokrom.hr/rupes/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2471" id="menu-item-2471">
+            <a href="http://zagrebprokrom.hr/chemicar/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2470" id="menu-item-2470">
+            <a href="http://zagrebprokrom.hr/devilbiss/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2469" id="menu-item-2469">
+            <a href="http://zagrebprokrom.hr/coloritalia/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2479" id="menu-item-2479">
+            <a href="http://zagrebprokrom.hr/prodyver/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2735" id="menu-item-2735">
+            <a href="http://zagrebprokrom.hr/roberlo/">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2215" id="menu-item-2215">
+          <a href="http://zagrebprokrom.hr/novosti/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2699" id="menu-item-2699">
+          <a href="http://zagrebprokrom.hr/prodajna-mjesta/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238" id="menu-item-2238">
+          <a href="http://zagrebprokrom.hr/kontakt/">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="col-md-3 col-xs-6">
+       <div class="widget widget_text" id="text-3">
+        <h3 class="widget-title">
+        </h3>
+        <div class="textwidget">
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="widget widget_anpsopeningtime" id="anpsopeningtime-2">
+        <table class="working-hours">
+         <tbody>
+          <tr>
+           <th>
+           </th>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <th>
+           </th>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <th>
+           </th>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <th>
+           </th>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <th>
+           </th>
+           <td>
+           </td>
+          </tr>
+          <tr>
+           <th class="important">
+           </th>
+           <td class="important">
+           </td>
+          </tr>
+          <tr>
+           <th class="important">
+           </th>
+           <td class="important">
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div>
+      <div class="col-md-3 col-xs-6">
+       <div class="widget widget_recent_entries" id="recent-posts-3">
+        <h3 class="widget-title">
+        </h3>
+        <ul>
+         <li>
+          <a href="http://zagrebprokrom.hr/proces-poliranja-u-7-koraka/">
+          </a>
+         </li>
+         <li>
+          <a href="http://zagrebprokrom.hr/3m-pps-posebna-ponuda/">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="copyright-footer">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-6">
+        <div class="widget widget_text" id="text-4">
+         <div class="textwidget">
+         </div>
+        </div>
+       </div>
+       <div class="col-md-6 text-right">
+        <div class="widget widget_text" id="text-8">
+         <div class="textwidget">
+          <p>
+           <a href="https://pisalica.com/" rel="noopener noreferrer" target="_blank">
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <div class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-light-scheme gdpr_infobar_postion_bottom" id="moove_gdpr_cookie_info_bar">
+   <div class="moove-gdpr-info-bar-container">
+    <div class="moove-gdpr-info-bar-content">
+     <div class="moove-gdpr-cookie-notice">
+      <p>
+       <span class="change-settings-button" data-href="#moove_gdpr_cookie_modal">
+       </span>
+      </p>
+     </div>
+     <div class="moove-gdpr-button-holder">
+      <button class="mgbutton moove-gdpr-infobar-allow-all">
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/modernizr.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/countto.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-includes/js/dist/vendor/moment.min.js?ver=2.22.2" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/pikaday.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/jquery.swipebox.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/bootstrap/bootstrap.min.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.5" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/doubletaptogo.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/flexibility.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/functions.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/owlcarousel/owl.carousel.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.0.2" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-includes/js/wp-embed.min.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/themes/industrial/js/waypoints/jquery.waypoints.min.js?ver=5.3.8" type="text/javascript">
+  </script>
+  <script src="http://zagrebprokrom.hr/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5" type="text/javascript">
+  </script>
+  <style>
+  </style>
+  <button class="gdpr-floating-button-custom-position" data-href="#moove_gdpr_cookie_modal" id="moove_gdpr_save_popup_settings_button" style="display: block;bottom: 20px; left: 20px;">
+   <span class="moove_gdpr_icon">
+    <span class="gdpr-icon moovegdpr-advanced">
+    </span>
+   </span>
+   <span class="moove_gdpr_text">
+   </span>
+  </button>
+  <div class="lity-hide" id="moove_gdpr_cookie_modal">
+   <div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+    <a class="moove-gdpr-modal-close" href="#" rel="nofollow">
+     <span class="gdpr-icon moovegdpr-arrow-close">
+     </span>
+    </a>
+    <div class="moove-gdpr-modal-left-content">
+     <div class="moove-gdpr-company-logo-holder">
+      <img alt="Zagrebprokrom" class="img-responsive" src="http://www.novo.zagrebprokrom.hr/wp-content/uploads/2018/07/logo.png"/>
+     </div>
+     <ul id="moove-gdpr-menu">
+      <li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+       <button class="moove-gdpr-tab-nav" data-href="#privacy_overview">
+        <span class="gdpr-icon moovegdpr-privacy-overview">
+        </span>
+        <span class="gdpr-nav-tab-title">
+        </span>
+       </button>
+      </li>
+      <li class="menu-item-strict-necessary-cookies menu-item-off">
+       <button class="moove-gdpr-tab-nav" data-href="#strict-necessary-cookies">
+        <span class="gdpr-icon moovegdpr-strict-necessary">
+        </span>
+        <span class="gdpr-nav-tab-title">
+        </span>
+       </button>
+      </li>
+      <li class="menu-item-off menu-item-third_party_cookies">
+       <button class="moove-gdpr-tab-nav" data-href="#third_party_cookies">
+        <span class="gdpr-icon moovegdpr-3rd-party">
+        </span>
+        <span class="gdpr-nav-tab-title">
+        </span>
+       </button>
+      </li>
+     </ul>
+     <div class="moove-gdpr-branding-cnt">
+     </div>
+    </div>
+    <div class="moove-gdpr-modal-right-content">
+     <div class="moove-gdpr-modal-title">
+     </div>
+     <div class="main-modal-content">
+      <div class="moove-gdpr-tab-content">
+       <div class="moove-gdpr-tab-main" id="privacy_overview">
+        <span class="tab-title">
+        </span>
+        <div class="moove-gdpr-tab-main-content">
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="moove-gdpr-tab-main" id="strict-necessary-cookies" style="display:none">
+        <span class="tab-title">
+        </span>
+        <div class="moove-gdpr-tab-main-content">
+         <p>
+         </p>
+         <div class="moove-gdpr-status-bar gdpr-checkbox-disabled checkbox-selected">
+          <form>
+           <fieldset>
+            <label class="gdpr-acc-link" for="moove_gdpr_strict_cookies">
+            </label>
+            <label class="cookie-switch">
+             <input checked="checked" disabled="" id="moove_gdpr_strict_cookies" name="moove_gdpr_strict_cookies" type="checkbox" value="check"/>
+             <span class="cookie-slider cookie-round" data-text-disabled="Onemogućeno" data-text-enable="Omogućeno">
+             </span>
+            </label>
+           </fieldset>
+          </form>
+         </div>
+        </div>
+       </div>
+       <div class="moove-gdpr-tab-main" id="third_party_cookies" style="display:none">
+        <span class="tab-title">
+        </span>
+        <div class="moove-gdpr-tab-main-content">
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <div class="moove-gdpr-status-bar">
+          <form>
+           <fieldset class="fl-strenabled">
+            <label class="gdpr-acc-link" for="moove_gdpr_performance_cookies">
+            </label>
+            <label class="cookie-switch">
+             <input id="moove_gdpr_performance_cookies" name="moove_gdpr_performance_cookies" type="checkbox" value="check"/>
+             <span class="cookie-slider cookie-round" data-text-disabled="Onemogućeno" data-text-enable="Omogućeno">
+             </span>
+            </label>
+           </fieldset>
+          </form>
+         </div>
+         <div class="moove-gdpr-strict-secondary-warning-message" style="margin-top: 10px; display: none;">
+          <p>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="moove-gdpr-modal-footer-content">
+      <div class="moove-gdpr-button-holder">
+       <button class="mgbutton moove-gdpr-modal-allow-all button-visible">
+       </button>
+       <button class="mgbutton moove-gdpr-modal-save-settings button-visible">
+       </button>
+      </div>
+     </div>
+    </div>
+    <div class="moove-clearfix">
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

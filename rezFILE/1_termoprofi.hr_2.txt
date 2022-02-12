@@ -1,0 +1,42 @@
+<html>
+ <body>
+  <manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
+   <options>
+    <clienttype>
+    </clienttype>
+    <supportskeywords>
+    </supportskeywords>
+    <supportsgettags>
+    </supportsgettags>
+   </options>
+   <weblog>
+    <servicename>
+    </servicename>
+    <imageurl>
+    </imageurl>
+    <watermarkimageurl>
+    </watermarkimageurl>
+    <homepagelinktext>
+    </homepagelinktext>
+    <adminlinktext>
+    </adminlinktext>
+    <adminurl>
+    </adminurl>
+    <posteditingurl>
+    </posteditingurl>
+   </weblog>
+   <buttons>
+    <button>
+     <id>
+     </id>
+     <text>
+     </text>
+     <imageurl>
+     </imageurl>
+     <clickurl>
+     </clickurl>
+    </button>
+   </buttons>
+  </manifest>
+ </body>
+</html>

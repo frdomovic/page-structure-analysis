@@ -1,0 +1,8 @@
+<html>
+ <body>
+  <p>
+   <iframe class='\"wp-embedded-content\"' frameborder='\"0\"' height='\"338\"' interdata.hr="" marginheight='\"0\"' marginwidth='\"0\"' sandbox='\"allow-scripts\"' scrolling='\"no\"' security='\"restricted\"' src='\"http:\/\/www.interdata.hr\/embed\/\"' title='\"“Naslovnica”' width='\"600\"'>
+   </iframe>
+  </p>
+ </body>
+</html>

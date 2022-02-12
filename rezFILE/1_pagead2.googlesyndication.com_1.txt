@@ -1,0 +1,77 @@
+<html>
+ <body>
+  <p>
+   <a.length a="" b="0;b&lt;a.length;++b){var" ba="function" c="a[b];if(c&amp;&amp;c.Math==Math)return" ca="" d='a.split(".");a=1===d.length;var' da='ca(this),ea="function"===typeof' e="d[0],f;!a&amp;&amp;e" error="" f="" find="" function="" global="" globalthis="" h="d[e];if(!(h" in="" object="" object.defineproperties="" r="" self="" symbol="" t="" u="" void="" window="">
+    <b.length a="" a.raw="a}function" argument="" array="" b="undefined" be="" c="" d='da[b[c]];"function"===typeof' d.prototype="" e="d.length,f=0;f&lt;e;f++){var" error="" expression="" extensible="" f="0;b.prototype.set=function(h,g){if(!d(h))throw" fail:="" for="" function="" g="" g.c="g.next=g.head=g}function" g.key="" g.o="" g.o.head="null,this.size--,!0):!1};e.prototype.clear=function(){this.i={};this.h=this.h.C=b();this.size=0};e.prototype.has=function(g){return!!d(this,g).o};e.prototype.get=function(g){return(g=d(this,g).o)&amp;&amp;g.value};e.prototype.entries=function(){return" g.value="" h="d[f];if(b.call(c,h,f,d)){b=h;break" ha="" ia="" if="" in="" index:-1="" instanceof="" is="" ja="" k="new" ka="function" key="" l="g.h;return" m="g.i[l];if(m&amp;&amp;ra(g.i,l))for(g=0;g&lt;m.length;g++){var" m.done="" ma="" must="" na="{a:!0},oa={};try{oa.__proto__=na;ma=oa.a;break" new="" not="" null="" object.create="" object.prototype.hasownproperty.call="" object.seal="" object.setprototypeof="" or="" p="m[g];if(k!==k&amp;&amp;p.key!==p.key||k===p.key)return{id:l,list:m,index:g,o:p}}return{id:l,list:m," pa="la;" qa="" r.symbol="" r.weakmap="" ra="" regexp="" regular="" sa="" string="" string.prototype.startswith="" t="" ta='ea&amp;&amp;"function"==typeof' this="" this.i="" to="" typeerror="" u="" undefined="" value="" var="" w="" weakmap="" y="">
+     <a.length a="" a.apply="" aa="" b="" b.prototype="" ba="" c="Array.prototype.slice.call(arguments,1);return" ca="" d="c.slice();d.push.apply(d,arguments);return" da="" date="" function="" h="Array(arguments.length-2),g=2;g&lt;arguments.length;g++)h[g-2]=arguments[g];return" null="" wa="" xa="" ya="" za="(new">
+      <d a="" c="" f='a[e]||"",h=b[e]||"";do{f=/(\d*)(\D*)(.*)/.exec(f)||["","","",""];h=/(\d*)(\D*)(.*)/.exec(h)||["","","",""];if(0==f[0].length&amp;&amp;0==h[0].length)break;c=Ma(0==f[1].length?0:parseInt(f[1],10),0==h[1].length?0:parseInt(h[1],10))||Ma(0==f[2].length,0==h[2].length)||Ma(f[2],h[2]);f=f[3];h=h[3]}while(0==c)}return' ma="">
+       <c a="" c='a.length,d=[],e=0,f="string"===typeof' d="" e="" f="" function="" g="f[h];b.call(void" in="" ua="" va="" wa="" xa="">
+        <a.length .split="" a="" ab='Oa();!C("Android")||Pa();Pa();!C("Safari")||Pa();var' b="" bb="{},cb=null;var" c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" db="function" eb="function" fb="" gb="" hb="" ib="" in="" instanceof="" isfinite="" null="" r.symbol="" uint8array="">
+         <f.length g="f[h];void" k="a[f],l=a[f+1];g=a[f+2];h=b[k">
+          <c.length a="" a.tojson="" array.isarray="" c="" d="mb;mb=null;a||(a=d);d=this.constructor.messageId;a||(a=d?[d]:[]);this.l=(d?0:-1)-(this.constructor.Pa||0);this.h=void" e="" fb="" lb="" mb="" nb="Object.freeze(fb([]));function" ob="">
+           <b.length a="this.i;return" a.h="" ab="" b="" c="" cb="" d="a.h[c];if(d)return" db="" e="b[d];null!=ob(a,e)&amp;&amp;(0!==c&amp;&amp;F(a,c,void" eb="" f="0;f&lt;e.length;f++)d[f]=new" fb="" function="" g="" gb="" h="" hb="" i="" ib="" in="" instanceof="" jb="" json.stringify="" kb="" mb="{},Lb={};function" nb="" new="" null="" ob="" pb="" qb="{area:!0,base:!0,br:!0,col:!0,command:!0,embed:!0,hr:!0,img:!0,input:!0,keygen:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var" rb="" sb="" tb="" this.h="" this.h.tostring="" wb="" xb="" yb="" zb="">
+            <c id="Xc(function(){return" preview="" wa="" web="">
+             <c.length a="" e="e||0,2" f="[],h=0;h&lt;a.length;h++)f.push(Ld(a[h],b,c,d+1,e));return" f.join="" if="">
+              <a.h.length h="a.h[f],g=a.i[h],k=0;k&lt;g.length;k++){if(!d){b=null==b?h:b;break}var" l='Kd(g[k],a.j,",$");if(l){l=e+l;if(d'>
+               <this.events.length a="ce;this.m=Qd;this.i=null;this.l=this.v;this.h=void" a:="" ad="" b='v.i.url||"";f.h.push(4);f.i[4]=Jd("top",B)}var' b.apply="" be="" c="" d="this.h.start(a.toString(),3);var" dd="" de="" e="b();this.h.end(d)}else" e.w="" ed="" ee="" error="" error:="" f="" fe="" function="" g="" ge="" h='b.msg.substring(0,512);f.h.push(2);f.i[2]=Jd("msg",h)}var' he="" id="" ie="" je="" k="d;if(bd(k)){var" ke="" l="k.location.href;h=k.document&amp;&amp;k.document.referrer||null}else" le="[2,8],me=[3,4,5],ne=[6,7];var" m="b.length-1;l&lt;=m;++l)b[l].depth=m-l;k=z;if(k.location&amp;&amp;k.location.ancestorOrigins&amp;&amp;k.location.ancestorOrigins.length==b.length-1)for(m=1;m&lt;b.length;++m){var" n.oa="function(a,b,c,d){var" n.v='function(a,b,c,d,e){e=e||"jserror";try{var' null="" oe="q}else" p='b[m];p.url||(p.url=k.location.ancestorOrigins[m-1]||"",p.ma=!0)}var' pe="oe.ta,qe=oe.ua,re=oe.va;function" pe:var="" q="new" qe:a="ub(a,Fb(a,ne,6),void" qe:d="Gb(a,4,me);break" re:a="I(a,Fb(a,ne,7),void" re:d="Gb(a,5,me);break" se="" ta='v.h.url.match(ad),ua=Ta[1],pb=Ta[3],qb=Ta[4];q="";ua&amp;&amp;(q+=ua+":");pb&amp;&amp;(q+="//",q+=pb,qb&amp;&amp;(q+=":"+qb));var' te="" throw="" ue="" v="new" ve="" void="" x="b.length-1;for(p=x;0&lt;=p;--p){var">
+                <this.i a="" a.y="" ad="" ae="" ag="" b="Y" be="" bg="" c="ud(window);b=wb(b,2,c);return" cf="" cg="" d="null!=(A=null==(q=K(mf).h.get(g))?void" df="" dg="" e="new" ef="" eg="" error="" f="[],h=[];Sa(b,function(g){var" ff="" fg="" function="" g.i="" gb="" gf='/^true$/.test("false");function' gg="!!window.google_async_iframe_id,hg=gg&amp;&amp;window.parent||window;function" h="Se(Re(new" hf="" i="" ie="" ig="" instanceof="" isnan="" jf="" json.parse="" k="" kf="Xc(function(){if(!gf)return{};try{var" l="" lf="" m="yb(l,Ce),p=hf(l,m);if(p){var" mf="" n="" nf="" null="" number="" o="" od="" of="" pc="" pf="" q="" qd="" qe="" qf="" r.map="" r.set="" rb="" rejection="" rf="" sc="" sf="" tb="" tf="" tf.oa="" tf.w="" ub="" uf="" v="" va="" ve="" vf="" wb="" we="" wf="" xe="" xf="" yf="new" z.google_srt="" zf="">
+                 <g.length>
+                  <ins>
+                  </ins>
+                  <a b="0,c;for(c" bh="" c='fd(a,b);if(c&amp;&amp;"fixed"==c.position)return!1}while(a=a.parentElement);return!0};function' cd="" ch="" dh="" eh="" fh="" function="" in="" null="" r="" this.u="" zh="">
+                   <ag b="" c='Jh(b,a,"height");if(c)return' d='b.style.height;b.style.height="inherit";c=Jh(b,a,"height");b.style.height=d;if(c)return' e="a.size().height();if(!c.google_ad_resize){c.google_ad_width=d;c.google_ad_height=" f='a.size();b=f.h(b)+"x"+f.height();c.google_ad_format=b;c.google_responsive_auto_format=a.A;null!=a.h&amp;&amp;(c.armr=a.h);c.google_ad_resizable=!0;c.google_override_format=1;c.google_loader_features_used=128;!0===a.i&amp;&amp;(c.gfwrnh=a.size().height()+"px")}null!=a.F&amp;&amp;(c.gfwroml=a.F);null!=a.K&amp;&amp;(c.gfwromr=a.K);null!=a.l&amp;&amp;(c.gfwroh=a.l);null!=a.m&amp;&amp;(c.gfwrow=a.m);null!=a.L&amp;&amp;(c.gfwroz=a.L);null!=a.u&amp;&amp;(c.gml=a.u);null!=a.D&amp;&amp;(c.gmr=a.D);null!=a.N&amp;&amp;(c.gzi=a.N);b=ig();b=cd(b)||b;Qh(b.location,"google_responsive_dummy_ad")&amp;&amp;' function="" nh="" ph="" qh="" rh="" sh='$a("script");function' th="" this.t="" uh="">
+                    <div background:="" color:="" id="dummyAd" px="" solid="" style="width:'+d+">
+                     <p>
+                     </p>
+                     <p>
+                     </p>
+                    </div>
+                    <d a="{};this.j=function(b,c){return" b="v-a;v=v&amp;&amp;0&lt;=B?!0:v?-10" bi="" ci="" d="" e="" f="Vf(247,function(){var" h="c[f];if(a(h)){if(!b||b(h))return" if="" k="" null="" r="" s="[new" t="" u="" v="{G:a,H:1};else">
+                     <.5>
+                      <q error="" f='e.google_ad_height||Jh(c,b,"height");a:{var' fi="" function="" g='e.google_ad_layout||"image-top";if("in-article"==g){var' h="a;var" hi="" if="" k='h;if("false"==e.google_full_width_responsive)h=k;else' l="0;100" mask="" q="{R:p,P:100};return">
+                       <m.length c="" h="k;else" q="m[p];if(q!=k&amp;&amp;Hh(b,q))break">
+                        <e ads="" ah="" at="" b="null;if(!b)throw" be="" data-ad-layout="" data-ad-layout-key="" ee="" fluid="" g.minwidth="" height="+ 
+g);if(50&gt;g)throw new ee(" height:="" invalid="" least="" most="" must="" new="" responsive="" tall:="" th="" value:="" yh="">
+                         <c.length a="" ai="" aj="" b="" bj="" c='va(b)}catch(d){return}if(b="function"===typeof' cj="" code="" d="[],e=$i(a.l,b),f;if(f=9!==b)a.A[b]?f=!0:(a.A[b]=!0,f=!1);if(f){var" e="this;d=void" f="a;if(typeof" fj="" function="" g="" h="" k="Za(Xi,b),l=[];Sa(e,function(p){var" ke="" m="" new="" null="" q="new" sd="" te="" this="" void="" we="" wi="" window="=window.top},a[6]=function(b){return" window.location.href="" window.top.location.hash="" xi="[12,13,20];function" yi="" za="" zi="">
+                          <e>
+                           <b a="" b="a.match(/^(?:'(.*)'|&quot;(.*)&quot;)$/);if(b)return" c="xj[a];zj[c]||(J[c]=null)}}" d="xj[c];null==b[d]&amp;&amp;null!=a[d]&amp;&amp;(b[d]=a[d])}};function" di="" e="Ri(J).head_tag_slot_vars;null!==(c=null!==(a=null===e||void" ej="" error="" fj="" function="" ge="" hj="" ij="" instanceof="" jj="undefined" kj="" lj="K(bi).h(eh.h,eh.defaultValue);function" mj="" n.v="function(a,b,c,d,e){if((this.j?this.l:Math.random())" new="" nj="K(bi).h(fh.h,fh.defaultValue);function" null="" oj="" pj='ia(["https://pagead2.googlesyndication.com/pagead/js/err_rep.js"]);function' qj="" string="" sttc="">
+                            <a.currentrect.top>
+                             <c.top a='document.querySelector("[data-google-query-id]");this.ia=a?a.getAttribute("data-google-query-id"):null;this.j=null;this.ga=!1;this.$=function(){}}y(dk,wg);' c="fk!==window.scrollX||gk!==window.scrollY?[]:hk,d=ik();b=w(b.getEntries());for(var" dk="" e="b.next();!e.done;e=b.next())switch(e=e.value,e.entryType){case" ek="" f="a;if(!e.hadRecentInput){f.F+=Number(e.value);Number(e.value)" function="" performanceobserver="">
+                              <e.starttime-f.ea f.h="">
+                               <u a="" bk="" c="wh(a);Dk(a);var" ck="" d="(new" date="" e="{};c=(e.client=c,e.plah=J.location.host,e);break" error="" function="" u="" yb="">
+                                <g.length a="" h="" m="g[l];if(m.nodeName&amp;&amp;m.nodeName.toString().toLowerCase()===" p="c.parent;for(d=0;p&amp;&amp;p!==c&amp;&amp;25">
+                                 <q.length a="Kj();wj(I(a,2));var" a:if="" account="" ads.="" adsense="" and="" b="window;b=void" been="" c="T(mh);b=new" contact="" deprecated="" dk="" ek="" else="" f='cd(z);f&amp;&amp;-1!==f.location.hash.indexOf("google_logging")&amp;&amp;(zd=!0);z.localStorage.getItem("google_logging")&amp;&amp;(zd=!0)}catch(q){}}e=zd}e&amp;&amp;dd(z.document,Yb(Nb(new' function="" g="new" google_ad_output="js" h='J.localStorage}catch(q){h=null}null==nd(h,"goog_pem_mod")&amp;&amp;od(h,"goog_pem_mod");h=H(a,yi,12);e=tb(a,9);pj(h,Ti(f,a),{la:e&amp;&amp;!!J.google_disable_experiments,za:e});if(h=I(a,15))h=Number(h),K(Rf).l(h);if(h=I(a,10))h=Number(h),K(Rf).i(h);h=w(rb(a,' have="" k='w(["layout-shift","largest-contentful-paint","first-input","longtask"]),l=k.next();!l.done;l=k.next()){var' kb="" longer="" m="l.value;ek(g).observe({type:m,buffered:!0})}jk(g)}}catch(q){}if(g=cd(z))g.google_reactive_ads_global_state?" manager="" nk="" no="" or="" p="void" r.map="" r.set="" standard="" switch="" to="" with="" work.="" your="" zf="">
+                                 </q.length>
+                                </g.length>
+                               </u>
+                              </e.starttime-f.ea>
+                             </c.top>
+                            </a.currentrect.top>
+                           </b>
+                          </e>
+                         </c.length>
+                        </e>
+                       </m.length>
+                      </q>
+                     </.5>
+                    </d>
+                   </ag>
+                  </a>
+                 </g.length>
+                </this.i>
+               </this.events.length>
+              </a.h.length>
+             </c.length>
+            </c>
+           </b.length>
+          </c.length>
+         </f.length>
+        </a.length>
+       </c>
+      </d>
+     </a.length>
+    </b.length>
+   </a.length>
+  </p>
+ </body>
+</html>

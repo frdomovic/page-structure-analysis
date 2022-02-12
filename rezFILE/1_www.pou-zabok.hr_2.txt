@@ -1,0 +1,1356 @@
+<html lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <link href="/Cms_Data/Sites/POUZabok/Themes/Default/img/favicon.ico" rel="icon" type="image/png"/>
+  <link href="/Cms_Data/Sites/POUZabok/Themes/Default/img/favicon.ico" rel="shortcut icon" type="image/png"/>
+  <title>
+  </title>
+  <meta content="INDEX, FOLLOW" name="ROBOTS"/>
+  <link href="/WebResource/Index/jQuery-Styles/20180102" rel="Stylesheet" type="text/css"/>
+  <link href="/POUZabok/Resource/theme/1_0_0_3/true/Default" rel="stylesheet" type="text/css"/>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <script src="/WebResource/Index/jQuery/20180102" type="text/javascript">
+  </script>
+  <script src="/POUZabok/Resource/scripts/1_0_0_3/True" type="text/javascript">
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-140663294-1">
+  </script>
+  <script>
+  </script>
+ </head>
+ <body>
+  <div class="navbar navbar-default navbar-fixed-top mobile-navigation-toggle-button mobileNavigation">
+   <button class="navbar-toggle" data-canvas="body" data-target=".navmenu" data-toggle="offcanvas" type="button">
+    <span class="icon-bar">
+    </span>
+    <span class="icon-bar">
+    </span>
+    <span class="icon-bar">
+    </span>
+   </button>
+   <div class="logo-area mini-logo-area">
+   </div>
+  </div>
+  <div class="push-down">
+  </div>
+  <div class="navmenu navmenu-default navmenu-fixed-left offcanvas mobileSideMenu">
+   <a class="navmenu-brand" href="/">
+   </a>
+   <div class="search-bar clearfix text-center">
+    <form action="/pretraga" class="pretraga-mob" id="pretraga-mob" method="get">
+     <input id="search-field-mob" name="query" placeholder="pretraži" type="text" value=""/>
+     <button class="searchBtn">
+      <i class="fa fa-search">
+      </i>
+     </button>
+    </form>
+   </div>
+   <ul class="nav navmenu-nav ulMobileMenu">
+    <li class="top-level">
+     <a href="/" tabindex="-1">
+     </a>
+    </li>
+    <li class="top-level">
+     <a class="even" href="/stranica/o-nama" tabindex="-1">
+     </a>
+    </li>
+    <li class="top-level dropdown">
+     <a class="odd" href="/stranica/obrazovanje">
+     </a>
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      <i class="fa fa-angle-down">
+      </i>
+     </a>
+     <ul class="dropdown-menu navmenu-nav">
+      <li class="dropdown">
+       <a class="second-level-parent even" href="/stranica/fakultet-za-manadment-u-turizmu-i-ugostiteljtvu-opatija">
+       </a>
+       <ul class="dropdown navmenu-nav">
+        <li class="second-level">
+         <a class="even" href="/stranica/raspored-sati" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="odd" href="/stranica/predavanja-fmtu-ljetni-semestar" tabindex="-1">
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a class="second-level-parent even" href="/stranica/fakultet-organizacije-i-informatike-varazdin">
+       </a>
+       <ul class="dropdown navmenu-nav">
+        <li class="second-level">
+         <a class="odd first" href="/stranica/raspored-nastave-foi-pitup-zabok" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="odd" href="/stranica/obavijesti" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="even" href="/stranica/raspored-sati-centar-zabok-5-ciklus" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="odd" href="/stranica/obavijesti-1" tabindex="-1">
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a class="second-level-parent odd" href="/stranica/fakultet-odgojnih-i-obrazovnih-znanosti-osijek">
+       </a>
+       <ul class="dropdown navmenu-nav">
+        <li class="second-level">
+         <a class="even" href="/stranica/raspored-sati-1" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="odd" href="/stranica/obavijesti-2" tabindex="-1">
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a class="second-level-parent odd" href="/stranica/srednje-obrazovanje">
+       </a>
+       <ul class="dropdown navmenu-nav">
+        <li class="second-level">
+         <a class="odd" href="/stranica/obavijesti-3" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="odd" href="/stranica/vozac-motornih-vozila" tabindex="-1">
+         </a>
+        </li>
+        <li class="second-level">
+         <a class="even" href="/stranica/ekonomisti" tabindex="-1">
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="second-level">
+       <a class="odd" href="/stranica/skola-stranih-jezika" tabindex="-1">
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li class="top-level dropdown">
+     <a class="odd" href="/stranica/multimedijski-centar-zabok">
+     </a>
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      <i class="fa fa-angle-down">
+      </i>
+     </a>
+     <ul class="dropdown-menu navmenu-nav">
+      <li class="second-level">
+       <a class="odd" href="/stranica/WHITNEY%2015+-1" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/whitney-15" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/vuk-i-sedam-kozlica" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="odd" href="/stranica/orasar-i-cetiri-kraljestva" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/Operacija%20Overlord-1" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/vijesti-1" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="odd" href="/stranica/kino-raspored" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/najave-dogadanja-1" tabindex="-1">
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li class="top-level dropdown">
+     <a class="even" href="/stranica/gradska-galerija-zabok">
+     </a>
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      <i class="fa fa-angle-down">
+      </i>
+     </a>
+     <ul class="dropdown-menu navmenu-nav">
+      <li class="second-level">
+       <a class="odd" href="/stranica/vijesti" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/najave-dogadanja" tabindex="-1">
+       </a>
+      </li>
+     </ul>
+    </li>
+    <li class="top-level dropdown">
+     <a class="even last" href="/stranica/multimedija">
+     </a>
+     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+      <i class="fa fa-angle-down">
+      </i>
+     </a>
+     <ul class="dropdown-menu navmenu-nav">
+      <li class="second-level">
+       <a class="even" href="/stranica/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="odd" href="/stranica/galerija-slika" tabindex="-1">
+       </a>
+      </li>
+      <li class="second-level">
+       <a class="even" href="/stranica/video-galerija" tabindex="-1">
+       </a>
+      </li>
+     </ul>
+    </li>
+   </ul>
+   <div class="social-icons text-center">
+    <a href="#">
+     <span class="faCircle">
+      <i class="fa fa-facebook">
+      </i>
+     </span>
+    </a>
+    <a href="#">
+     <span class="faCircle">
+      <i class="fa fa-twitter">
+      </i>
+     </span>
+    </a>
+    <a href="#">
+     <span class="faCircle">
+      <i class="fa fa-pinterest-p">
+      </i>
+     </span>
+    </a>
+    <a href="#">
+     <span class="faCircle">
+      <i class="fa fa-google-plus">
+      </i>
+     </span>
+    </a>
+   </div>
+   <div class="newsletter">
+    <div class="form-wrap text-center clearfix">
+     <form action="/newsletter-forma" id="newsletter-form-mob" method="post" role="form">
+      <input name="__RequestVerificationToken" type="hidden" value="Gmr6KnmKImb8FZLS5NLzfDvOlzOqQm8x9cemsOfKszCDm2XSYHHC7b8ZjSQTO7pEanGnDfhuP6zlu5bKX8U7g0tKLfHgOBfUuWW8OK94Uq-CGNve8-TXiilM3cUZnABqlkiPTUNm85A5jHRdqu__5nboWxsZyOfDnRInD1SdGAo1"/>
+      <input class="newsletterInput" data-val="true" data-val-email="Niste upisali ispravnu e-mail adresu" data-val-required="Ovo polje je obavezno." name="Email" placeholder="Prijavi se na newsletter" required="" type="email"/>
+      <a class="newsletterBtn" id="newsletter-btn-mob">
+      </a>
+      <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true">
+      </span>
+      <div class="feedback-msg-mob">
+      </div>
+     </form>
+    </div>
+   </div>
+  </div>
+  <script>
+  </script>
+  <header>
+   <div class="container hidden-xs hidden-sm">
+    <div class="row">
+     <div class="col-lg-4 col-md-4 col-sm-5">
+      <a href="/">
+       <div class="logo-area">
+       </div>
+      </a>
+     </div>
+     <div class="col-lg-8 col-md-8 col-sm-7">
+      <div class="newsletter">
+       <form action="/newsletter-forma" id="newsletter-form" method="post" role="form">
+        <input name="__RequestVerificationToken" type="hidden" value="gtZGNCVOw3e0dyOLsJOFcLgVBFyFSBtuxBHDHd8M-y20ty1bd80Wy43gDs0pXDsi_vVfW8a0oYCJT1kvgnzj88ChsfQOGqY26WG2kjHzz9XnwhF2rjDi6GWdho5yJkt__skUWuk8XvM6BzkW3gtAH9hEE_UtX9J1IpABu4bq_Qg1"/>
+        <a class="newsletterBtn" id="newsletter-btn">
+        </a>
+        <input class="pull-right" data-val="true" data-val-email="Niste upisali ispravnu e-mail adresu" data-val-required="Ovo polje je obavezno." name="Email" placeholder="Prijavi se na newsletter" required="" type="email"/>
+        <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true">
+        </span>
+        <div class="feedback-msg hidden">
+        </div>
+       </form>
+      </div>
+      <div class="social-icons">
+       <a href="#">
+        <span class="faCircle">
+         <i class="fa fa-facebook">
+         </i>
+        </span>
+       </a>
+       <a href="#">
+        <span class="faCircle">
+         <i class="fa fa-twitter">
+         </i>
+        </span>
+       </a>
+       <a href="#">
+        <span class="faCircle">
+         <i class="fa fa-pinterest-p">
+         </i>
+        </span>
+       </a>
+       <a href="#">
+        <span class="faCircle">
+         <i class="fa fa-google-plus">
+         </i>
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container carousel-section">
+    <div class="row">
+     <div class="col-lg-8 col-md-8 col-sm-12">
+      <div class="owl-carousel owl-theme owl-edited" id="header-carousel">
+       <div class="item">
+        <img alt="Multimedijski centar Zabok3" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=~%2FCms_Data%2FContents%2FPOUZabok%2FFolders%2FSlike%2F~contents%2FF4X2LLCL4QJ9FRM9%2Fcrop-6UQM87C29UGJLXR2PV28MXZZ.jpg&amp;width=750&amp;height=472&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=kKmk%2F6lJfDe2qBfCawuSqRbGYAa8WjkRf%2FTqrZe%2BV97ahsdWjvNySg8WzPzSQEycUOiB8Y6AaB2RGd9lXdg8KjMUKqEUKKiZ21GlEilStW0dnbJw8Zzq42Jbl0Xd4eCAtoU3isvtB0m6f%2BadzRAxrvf7lfPOYurnj8t9GlQ9vdw%3D"/>
+        <div class="carousel-caption caption-position center-block">
+         <h3 class="animated fadeInLeft">
+         </h3>
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="item">
+        <img alt="Multimedijski centar Zabok2" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=~%2FCms_Data%2FContents%2FPOUZabok%2FFolders%2FSlike%2F~contents%2FNJP228BHUXWHCSF2%2Fcrop-G837GG5B48V237FJVDXYNJKV.jpg&amp;width=750&amp;height=472&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=kKmk%2F6lJfDe2qBfCawuSqRbGYAa8WjkRf%2FTqrZe%2BV97ahsdWjvNySg8WzPzSQEycLAafw8Mc8e0USmHRTZwXplTYnQZ2FPyLpL4uip%2FDcFBUgEcCpbIEMSMg3UXzZPXetlXFi7dYWwp%2BjgE%2F4MLYFyxlgL0wuAoVrZKF%2FovKpto%3D"/>
+        <div class="carousel-caption caption-position center-block">
+         <h3 class="animated fadeInLeft">
+         </h3>
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="item">
+        <img alt="Multimedijski centar Zabok" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=~%2FCms_Data%2FContents%2FPOUZabok%2FFolders%2FSlike%2F~contents%2F89SJVPX679FJUSKW%2Fcrop-KCPANHVHDK42L8L3CC3FN29P.JPG&amp;width=750&amp;height=472&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=kKmk%2F6lJfDe2qBfCawuSqRbGYAa8WjkRf%2FTqrZe%2BV97ahsdWjvNySg8WzPzSQEycmC5iWXTCZVS4gqXWoDP0f%2BgphqsCLUvE8HM9WCoHFVdBnC0KIyeJkNqQcPJ17cVrPKNLfbxdIdqYaAkcLX0z6u%2Fp5j8FVGZI0v6xUBEdr9Y%3D"/>
+        <div class="carousel-caption caption-position center-block">
+         <h3 class="animated fadeInLeft">
+         </h3>
+         <p>
+         </p>
+        </div>
+       </div>
+       <div class="item">
+        <img alt="No image" class="img-responsive active odd first" src="https://imgplaceholder.com/750x472"/>
+        <div class="carousel-caption caption-position center-block">
+         <h3 class="animated fadeInLeft">
+         </h3>
+         <p>
+         </p>
+        </div>
+       </div>
+      </div>
+      <script>
+      </script>
+     </div>
+     <div class="hidden-sm hidden-xs">
+      <aside class="sidebarBox col-lg-4 col-md-4 col-sm-12">
+       <div class="sidebarBox-wrap sidebarBox-kino clearfix">
+        <h4 class="mainTitle odd first">
+         <a class="plusBtn" href="/stranica/kino-raspored" title="Raspored projekcija">
+          <i class="fa fa-plus pull-right">
+          </i>
+         </a>
+        </h4>
+        <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 odd first">
+         <div class="row">
+          <div class="col-lg-4 col-md-4">
+           <a href="/film/black-widow">
+            <img alt="BLACK WIDOW" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FYYVJ66TSLBJ25DRSKWUG4DLM.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsomkUdpV94PEClnFPsrw0rcTQSYZatxQD32y4ilQkNQNXOOa893fAWyXJTjqQOXrkEQ%3D"/>
+           </a>
+          </div>
+          <div class="col-lg-8 col-md-8">
+           <a class="title-link" href="/film/black-widow">
+            <h4 class="kinoFilm-naslov odd first">
+            </h4>
+           </a>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionDate">
+            </p>
+            <p class="projectionDay">
+            </p>
+           </div>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionHours">
+            </p>
+            <p class="projectionSati">
+            </p>
+           </div>
+           <div class="">
+            <a href="/film/black-widow">
+             <span class="seemore pull-right">
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+         <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+        </article>
+        <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 even">
+         <div class="row">
+          <div class="col-lg-4 col-md-4">
+           <a href="/film/ledena-cesta">
+            <img alt="LEDENA CESTA" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FZSAL53PR3KP2EGSYZJQ343DG.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsonWzzqzzc56HlJBbuJx7C%2Bv2Ma5GU%2B5lz93u%2FQAYAX0rb%2ByufkMu5WfScnsJ9fzOwE%3D"/>
+           </a>
+          </div>
+          <div class="col-lg-8 col-md-8">
+           <a class="title-link" href="/film/ledena-cesta">
+            <h4 class="kinoFilm-naslov odd first">
+            </h4>
+           </a>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionDate">
+            </p>
+            <p class="projectionDay">
+            </p>
+           </div>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionHours">
+            </p>
+            <p class="projectionSati">
+            </p>
+           </div>
+           <div class="">
+            <a href="/film/ledena-cesta">
+             <span class="seemore pull-right">
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+         <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+        </article>
+        <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 odd last">
+         <div class="row">
+          <div class="col-lg-4 col-md-4">
+           <a href="/film/black-widow">
+            <img alt="BLACK WIDOW" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FYYVJ66TSLBJ25DRSKWUG4DLM.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsomkUdpV94PEClnFPsrw0rcTQSYZatxQD32y4ilQkNQNXOOa893fAWyXJTjqQOXrkEQ%3D"/>
+           </a>
+          </div>
+          <div class="col-lg-8 col-md-8">
+           <a class="title-link" href="/film/black-widow">
+            <h4 class="kinoFilm-naslov odd first">
+            </h4>
+           </a>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionDate">
+            </p>
+            <p class="projectionDay">
+            </p>
+           </div>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+            <p class="projectionHours">
+            </p>
+            <p class="projectionSati">
+            </p>
+           </div>
+           <div class="">
+            <a href="/film/black-widow">
+             <span class="seemore pull-right">
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+         <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+        </article>
+       </div>
+      </aside>
+     </div>
+    </div>
+   </div>
+   <script>
+   </script>
+   <div class="container-fluid menu-fw">
+    <div class="navbar yamm navbar-default container">
+     <div class="row">
+      <div class="col-md-12">
+       <div class="megaMenu-wrapper">
+        <div class="navbar-collapse collapse" id="navbar-collapse-1">
+         <ul class="nav navbar-nav" data-sortable-level-selector=".top-li">
+          <li class="top-li">
+           <a href="/">
+           </a>
+          </li>
+          <li class="top-li">
+           <a href="/stranica/o-nama">
+           </a>
+          </li>
+          <li class="dropdown yamm-fw obrazovanje-list">
+           <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="/stranica/obrazovanje">
+            <b class="caret">
+            </b>
+           </a>
+           <ul class="dropdown-menu">
+            <li>
+             <div class="yamm-content">
+              <ul class="span2 unstyled">
+               <li>
+                <i class="">
+                </i>
+                <a href="/stranica/fakultet-za-manadment-u-turizmu-i-ugostiteljtvu-opatija">
+                 <p>
+                  <strong>
+                  </strong>
+                 </p>
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/raspored-sati">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/predavanja-fmtu-ljetni-semestar">
+                </a>
+               </li>
+              </ul>
+              <ul class="span2 unstyled">
+               <li>
+                <i class="">
+                </i>
+                <a href="/stranica/fakultet-organizacije-i-informatike-varazdin">
+                 <p>
+                  <strong>
+                  </strong>
+                 </p>
+                </a>
+               </li>
+               <li class="">
+                <i class="">
+                </i>
+                <a href="/stranica/raspored-nastave-foi-pitup-zabok">
+                </a>
+               </li>
+               <li class="">
+                <i class="">
+                </i>
+                <a href="/stranica/obavijesti">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/raspored-sati-centar-zabok-5-ciklus">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-align-justify">
+                </i>
+                <a href="/stranica/obavijesti-1">
+                </a>
+               </li>
+              </ul>
+              <ul class="span2 unstyled">
+               <li>
+                <i class="">
+                </i>
+                <a href="/stranica/fakultet-odgojnih-i-obrazovnih-znanosti-osijek">
+                 <p>
+                  <strong>
+                  </strong>
+                 </p>
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/raspored-sati-1">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-align-justify">
+                </i>
+                <a href="/stranica/obavijesti-2">
+                </a>
+               </li>
+              </ul>
+              <ul class="span2 unstyled">
+               <li>
+                <i class="">
+                </i>
+                <a href="/stranica/srednje-obrazovanje">
+                 <p>
+                  <strong>
+                  </strong>
+                 </p>
+                </a>
+               </li>
+               <li class="">
+                <i class="">
+                </i>
+                <a href="/stranica/obavijesti-3">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/vozac-motornih-vozila">
+                </a>
+               </li>
+               <li class="">
+                <i class="fa fa-table">
+                </i>
+                <a href="/stranica/ekonomisti">
+                </a>
+               </li>
+              </ul>
+              <ul class="span2 unstyled">
+               <li>
+                <i class="">
+                </i>
+                <a href="/stranica/skola-stranih-jezika">
+                 <p>
+                  <strong>
+                  </strong>
+                 </p>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </li>
+           </ul>
+          </li>
+          <li class="dropdown top-li">
+           <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="/stranica/multimedijski-centar-zabok">
+            <b class="caret">
+            </b>
+           </a>
+           <ul class="dropdown-menu" role="menu">
+            <li class="">
+             <a href="/stranica/WHITNEY%2015+-1">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/whitney-15">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/vuk-i-sedam-kozlica">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/orasar-i-cetiri-kraljestva">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/Operacija%20Overlord-1">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/vijesti-1">
+              <i class="fa fa-list">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/kino-raspored">
+              <i class="fa fa-table">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/najave-dogadanja-1">
+              <i class="fa fa-calendar-o">
+              </i>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="dropdown top-li">
+           <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="/stranica/gradska-galerija-zabok">
+            <b class="caret">
+            </b>
+           </a>
+           <ul class="dropdown-menu" role="menu">
+            <li class="">
+             <a href="/stranica/vijesti">
+              <i class="fa fa-list">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/najave-dogadanja">
+              <i class="fa fa-calendar-o">
+              </i>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="dropdown top-li">
+           <a aria-expanded="false" class="dropdown-toggle" data-toggle="dropdown" href="/stranica/multimedija">
+            <b class="caret">
+            </b>
+           </a>
+           <ul class="dropdown-menu" role="menu">
+            <li class="">
+             <a href="/stranica/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba">
+              <i class="">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/galerija-slika">
+              <i class="fa fa-camera">
+              </i>
+             </a>
+            </li>
+            <li class="">
+             <a href="/stranica/video-galerija">
+              <i class="fa fa-video-camera">
+              </i>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="search-bar">
+           <form action="/pretraga" id="pretraga" method="get" name="pretraga">
+            <button class="searchBtn">
+             <i class="fa fa-search">
+             </i>
+            </button>
+            <input class="pull-right" id="search-field" name="query" placeholder="pretraži" type="text" value=""/>
+           </form>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script>
+   </script>
+  </header>
+  <div class="container" id="content">
+   <div class="row obrazovanjeRow">
+    <section class="col-lg-8 col-md-8 col-sm-12">
+     <div class="col-lg-12 col-md-12 mainBox clearfix equalHeight">
+      <article class="col-lg-6 col-md-6 col-sm-6 col-xs-12 wrap-istaknuta-obavijest">
+       <div class="istaknuta-obavijest has-image">
+        <img alt="UPIS U PROGRAM: KOMERCIJALIST" class="img-responsive" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FAJKMD5F55JM2RM7FAS34ZBFB.jpg&amp;width=360&amp;height=203&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsonduEofknBrU0J7atpFLtY2GjpDUge%2BSmsf1JnREQokmMsiv50i1AMYZsTQmIDjRMI%3D"/>
+        <div class="text-wrapper">
+         <h4>
+         </h4>
+         <p class="article-text">
+         </p>
+        </div>
+        <div class="istaknuta-obavijest-footer">
+         <a href="/clanak/raspored-kazalista">
+          <span class="seemore">
+          </span>
+         </a>
+         <span class="date date-stamp">
+         </span>
+        </div>
+       </div>
+       <hr class="visible-xs"/>
+      </article>
+      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 wrap-tri-obavijesti">
+       <div class="tri-obavijesti">
+        <div class="row">
+         <article class="small-obavijest col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <a class="title-link" href="/clanak/koncert-u-gradskoj-galeriji">
+           <h5>
+           </h5>
+          </a>
+          <p>
+          </p>
+          <div class="footer">
+           <a href="/clanak/koncert-u-gradskoj-galeriji">
+            <span class="seemore pull-left">
+            </span>
+           </a>
+           <span class="date date-stamp pull-right">
+           </span>
+          </div>
+          <hr class="col-lg-12 col-md-12 col-sm-12 col-xs-12"/>
+         </article>
+         <article class="small-obavijest col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <a class="title-link" href="/clanak/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba">
+           <h5>
+           </h5>
+          </a>
+          <p>
+          </p>
+          <div class="footer">
+           <a href="/clanak/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba">
+            <span class="seemore pull-left">
+            </span>
+           </a>
+           <span class="date date-stamp pull-right">
+           </span>
+          </div>
+          <hr class="col-lg-12 col-md-12 col-sm-12 col-xs-12"/>
+         </article>
+         <article class="small-obavijest col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <a class="title-link" href="/clanak/izlozba-petra-dolica-otvaranje-dana-k-s-gjalskog-2020">
+           <h5>
+           </h5>
+          </a>
+          <p>
+          </p>
+          <div class="footer">
+           <a href="/clanak/izlozba-petra-dolica-otvaranje-dana-k-s-gjalskog-2020">
+            <span class="seemore pull-left">
+            </span>
+           </a>
+           <span class="date date-stamp pull-right">
+           </span>
+          </div>
+          <hr class="col-lg-12 col-md-12 col-sm-12 col-xs-12"/>
+         </article>
+        </div>
+       </div>
+      </div>
+      <script>
+      </script>
+     </div>
+    </section>
+    <div class="hidden-lg hidden-md sidebarBoxSecond">
+     <aside class="sidebarBox col-lg-4 col-md-4 col-sm-12">
+      <div class="sidebarBox-wrap sidebarBox-kino clearfix">
+       <h4 class="mainTitle odd first">
+        <a class="plusBtn" href="/stranica/kino-raspored" title="Raspored projekcija">
+         <i class="fa fa-plus pull-right">
+         </i>
+        </a>
+       </h4>
+       <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 odd first">
+        <div class="row">
+         <div class="col-lg-4 col-md-4">
+          <a href="/film/black-widow">
+           <img alt="BLACK WIDOW" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FYYVJ66TSLBJ25DRSKWUG4DLM.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsomkUdpV94PEClnFPsrw0rcTQSYZatxQD32y4ilQkNQNXOOa893fAWyXJTjqQOXrkEQ%3D"/>
+          </a>
+         </div>
+         <div class="col-lg-8 col-md-8">
+          <a class="title-link" href="/film/black-widow">
+           <h4 class="kinoFilm-naslov odd first">
+           </h4>
+          </a>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionDate">
+           </p>
+           <p class="projectionDay">
+           </p>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionHours">
+           </p>
+           <p class="projectionSati">
+           </p>
+          </div>
+          <div class="">
+           <a href="/film/black-widow">
+            <span class="seemore pull-right">
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+       </article>
+       <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 even">
+        <div class="row">
+         <div class="col-lg-4 col-md-4">
+          <a href="/film/ledena-cesta">
+           <img alt="LEDENA CESTA" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FZSAL53PR3KP2EGSYZJQ343DG.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsonWzzqzzc56HlJBbuJx7C%2Bv2Ma5GU%2B5lz93u%2FQAYAX0rb%2ByufkMu5WfScnsJ9fzOwE%3D"/>
+          </a>
+         </div>
+         <div class="col-lg-8 col-md-8">
+          <a class="title-link" href="/film/ledena-cesta">
+           <h4 class="kinoFilm-naslov odd first">
+           </h4>
+          </a>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionDate">
+           </p>
+           <p class="projectionDay">
+           </p>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionHours">
+           </p>
+           <p class="projectionSati">
+           </p>
+          </div>
+          <div class="">
+           <a href="/film/ledena-cesta">
+            <span class="seemore pull-right">
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+       </article>
+       <article class="najava col-lg-12 col-md-12 col-sm-4 col-xs-6 odd last">
+        <div class="row">
+         <div class="col-lg-4 col-md-4">
+          <a href="/film/black-widow">
+           <img alt="BLACK WIDOW" class="img-responsive center-block odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FYYVJ66TSLBJ25DRSKWUG4DLM.jpg&amp;width=214&amp;height=317&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsomkUdpV94PEClnFPsrw0rcTQSYZatxQD32y4ilQkNQNXOOa893fAWyXJTjqQOXrkEQ%3D"/>
+          </a>
+         </div>
+         <div class="col-lg-8 col-md-8">
+          <a class="title-link" href="/film/black-widow">
+           <h4 class="kinoFilm-naslov odd first">
+           </h4>
+          </a>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionDate">
+           </p>
+           <p class="projectionDay">
+           </p>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+           <p class="projectionHours">
+           </p>
+           <p class="projectionSati">
+           </p>
+          </div>
+          <div class="">
+           <a href="/film/black-widow">
+            <span class="seemore pull-right">
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12 hidden-xs"/>
+       </article>
+      </div>
+     </aside>
+    </div>
+    <aside class="sidebarBox col-lg-4 col-md-4 col-sm-12">
+     <div class="sidebarBox-wrap clearfix equalHeight">
+      <h4 class="mainTitle">
+       <a class="plusBtn" href="/stranica/najave-dogadanja" title="Sve obavijesti">
+        <i class="fa fa-plus pull-right">
+        </i>
+       </a>
+      </h4>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt='KAZALIŠNA PREDSTAVA "HULIGAN"' class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FWYVKE28WQ3X2CJ4EBANSBTHV.png&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsolN3KFRlsFEp3MlMrf%2B3GV6iF3zod2FPlyAXr9F319G4KXLqgqR4ihUTH2KtaR0e0k%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/izlozba-nine-atevic-murtic">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/izlozba-nine-atevic-murtic">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt="KONCERT U GRADSKOJ GALERIJI" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FXHBEV2QCF3Y2FEC8D23G476F.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsoklRIjch7YRprD2QlbWkWqOwJI5u7HojwyyaulwhyaJHFhJGdAMRCC5mUcRdhWMb%2BI%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/koncert-u-gradskoj-galeriji">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/koncert-u-gradskoj-galeriji">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt=" Pedagoško-psihološka i didaktičko-metodička izobrazba " class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2F23LGV5BVTPJ2AL72Y8ET4US9.png&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsomloP2dBNw2t7gaI2ZslcSzf%2BqrR5%2BDqmXQsL09seCh6LSgXGsMfGEx7dYbarhrcjo%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/pedagosko-psiholoska-i-didakticko-metodicka-izobrazba">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt='IZLOŽBA PETRA DOLIĆA - OTVARANJE DANA "K.Š.GJALSKOG" 2020.' class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2F5M7PXX9V2X6JX38M8HZMUSDL.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsolgyBXNy19xNqcNViEhIaailR1lVQZHdv44YukQ9txBbaDT74%2FHwW06jTZ3iOL7vTI%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/izlozba-petra-dolica-otvaranje-dana-k-s-gjalskog-2020">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/izlozba-petra-dolica-otvaranje-dana-k-s-gjalskog-2020">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt="DANI K.Š.GJALSKOG 2020" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FB756MS68BR6JPBAWUV4E7WHQ.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0Usok1%2Ftf%2BdZ1liWoti7lpYcawI084eUOgkh5Ba1IyF9QuMWbDOxfrFrXejySKZvdS7Sc%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/dani-k-s-gjalskog-2020">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt="RASPORED FILMOVA KIKI FESTIVALA 2020." class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FPB5UW4JK557JB6N7WX27JDFQ.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0Uson2g9Q9S01YEqdX937b05GdP0fpIdLSQjrxx02lQwOqpZRciaOUUygZU5r3ofINljM%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/raspored-filmova-kiki-festivala-2020">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <script>
+      </script>
+     </div>
+    </aside>
+   </div>
+   <div class="row obrazovanjeRow">
+    <div class="col-lg-8 col-md-8 col-sm-12">
+     <div class="row match-height">
+      <div class="verticalBox col-lg-4 col-md-4 col-sm-4">
+       <div class="verticalBox-wrap equalHeight">
+        <h4 class="mainTitle">
+         <span>
+         </span>
+         <a class="plusBtn" href="/stranica/obavijesti-1" title="Sve obavijesti">
+          <i class="fa fa-plus pull-right">
+          </i>
+         </a>
+        </h4>
+       </div>
+       <script>
+       </script>
+      </div>
+      <div class="verticalBox col-lg-4 col-md-4 col-sm-4">
+       <div class="verticalBox-wrap equalHeight">
+        <h4 class="mainTitle">
+         <span>
+         </span>
+         <a class="plusBtn" href="/stranica/obavijesti-2" title="Sve obavijesti">
+          <i class="fa fa-plus pull-right">
+          </i>
+         </a>
+        </h4>
+       </div>
+       <script>
+       </script>
+      </div>
+     </div>
+     <div class="row match-height">
+      <div class="verticalBox col-lg-4 col-md-4 col-sm-4">
+       <div class="verticalBox-wrap equalHeight">
+        <h4 class="mainTitle">
+         <span>
+         </span>
+         <a class="plusBtn" href="/stranica/obavijesti-3" title="Sve obavijesti">
+          <i class="fa fa-plus pull-right">
+          </i>
+         </a>
+        </h4>
+       </div>
+       <script>
+       </script>
+      </div>
+     </div>
+    </div>
+    <aside class="sidebarBox sidebarBoxSecond col-lg-4 col-md-4 col-sm-12">
+     <div class="sidebarBoxSecond-wrap clearfix equalHeight">
+      <h4 class="mainTitle even">
+       <a class="plusBtn" href="/stranica/najave-dogadanja-1" title="Sve obavijesti">
+        <i class="fa fa-plus pull-right">
+        </i>
+       </a>
+      </h4>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt="UPIS U PROGRAM: KOMERCIJALIST" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FAJKMD5F55JM2RM7FAS34ZBFB.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsonduEofknBrU0J7atpFLtY2GjpDUge%2BSmtH4DSBgdVB%2F17UWCInXSLQLH1YVeq%2FfsE%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/raspored-kazalista">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/raspored-kazalista">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt='KAZALIŠNA PREDSTAVA "PRVI MUŽEVI SE BACAJU U VODU"' class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FXXXSX8J7W6V2ZPCRHV4E4L84.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsonsfEstRszpwzxLUXG8CyZbM9e8FVr8%2BnQk326fQnT%2FnEPZW%2BYERpMiqKoji6mqp0M%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/kazalisna-predstava-prvi-muzevi-se-bacaju-u-vodu">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/kazalisna-predstava-prvi-muzevi-se-bacaju-u-vodu">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <article class="najava col-lg-12 col-md-12 col-sm-4">
+       <div class="row">
+        <div class="col-lg-4 col-md-4">
+         <img alt="LUTKARSKA SCENA I.B. MAŽURANIĆ - CRVENKAPICA" class="img-responsive odd first" src="/POUZabok/Resource/SmartSize?url=%2FCms_Data%2FContents%2FPOUZabok%2FTemp%2FVMLLFVTGXX52A8F5HN39SKUL.jpg&amp;width=400&amp;height=300&amp;vAlign=top&amp;hAlign=center&amp;quality=95&amp;key=al4dqf%2BsQ6%2FVHkh6SOdlqXsQE%2BiigILQj2ORXq0UsolQz%2BrHrHyZP%2BMvW%2BbKmMwKBikDzG7dT1czq5aPNFpVsYpJ1zfaQMfy%2FIkk0QcNuwY%3D"/>
+        </div>
+        <div class="col-lg-8 col-md-8">
+         <a class="title-link" href="/clanak/lutkarska-scena-i-b-mazuranic-crvenkapica">
+          <h5 class="najava-naslov clearfix">
+          </h5>
+         </a>
+        </div>
+       </div>
+       <footer class="najava-footer clearfix">
+        <span class="eventDate pull-left">
+        </span>
+        <a href="/clanak/lutkarska-scena-i-b-mazuranic-crvenkapica">
+         <span class="seemore pull-right">
+         </span>
+        </a>
+        <hr class="col-lg-12 col-md-12 hidden-sm col-xs-12"/>
+       </footer>
+      </article>
+      <script>
+      </script>
+     </div>
+    </aside>
+   </div>
+  </div>
+  <header class="container-fluid">
+   <div class="row">
+    <h2 class="footer-title">
+    </h2>
+   </div>
+  </header>
+  <div class="container-fluid">
+   <div class="row">
+    <div id="mapWrapper" style="height: 400px;">
+     <iframe height="400px" src="https://www.google.com/maps/d/embed?mid=1YsMToqFS_T9CRXkksh8UEK5ASch1LC5G" width="100%">
+     </iframe>
+    </div>
+   </div>
+  </div>
+  <footer id="footer">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-4">
+      <h3>
+      </h3>
+      <ul class="address-list">
+       <li>
+        <address>
+        </address>
+       </li>
+       <li>
+        <span class="prefix">
+        </span>
+        <a title="oib">
+        </a>
+       </li>
+       <li>
+        <span class="prefix">
+        </span>
+        <a title="iban">
+        </a>
+       </li>
+       <li>
+        <span class="prefix">
+        </span>
+        <a href="tel: +385 49 221 183" title="Nazovite">
+        </a>
+       </li>
+       <li>
+        <span class="prefix">
+        </span>
+        <a href="tel:+385 49 226 910" title="Nazovite">
+        </a>
+       </li>
+      </ul>
+      <div class="workingHours">
+       <h5>
+       </h5>
+       <p>
+       </p>
+      </div>
+     </div>
+     <form action="/kontakt-submit" class="form-area" id="kontakt-forma" method="post" role="form">
+      <input name="__RequestVerificationToken" type="hidden" value="_1SDFYMIRc_JlznkAYgt64vF_LHNpr5FftPNckq8kdNJJvR5t7TlRKVSzD_pHpK3qOmNrsyRrz7VMpfBEg1gDk8GrEHvXHzWx5bfaJ2K7Enl9guYPfyDCdAHEAbcYT24dWX5lQntiMWub7uF7gN_suGnPTM1HkSTuEjxkhqVS681"/>
+      <div class="col-md-4">
+       <div class="form-group">
+        <label for="ime">
+        </label>
+        <input class="form-control" data-val="true" data-val-length="Ovo polje može sadržavati najviše 50 znakova." data-val-length-max="50" data-val-regex-pattern="^\d{1,2}\.\d{1,2}\.\d{4}\.$" data-val-required="Ovo polje je obavezno" id="ime" name="ime" placeholder="Upišite Vaše cijenjeno ime" required="" type="text" value=""/>
+        <span class="field-validation-valid" data-valmsg-for="ime" data-valmsg-replace="true">
+        </span>
+       </div>
+       <div class="form-group">
+        <label for="email">
+        </label>
+        <input class="form-control" data-val="true" data-val-email="Niste upisali ispravnu e-mail adresu" data-val-length="Ovo polje može sadržavati najviše 50 znakova." data-val-length-max="50" data-val-regex-pattern="^\d{1,2}\.\d{1,2}\.\d{4}\.$" data-val-required="Ovo polje je obavezno" id="email" name="email" placeholder="Vaša email adresa" required="" type="email" value=""/>
+        <span class="field-validation-valid" data-valmsg-for="email" data-valmsg-replace="true">
+        </span>
+       </div>
+       <div class="form-group">
+        <label for="telefon">
+        </label>
+        <input class="form-control" data-val="true" data-val-length="Ovo polje može sadržavati najviše 50 znakova." data-val-length-max="50" data-val-regex-pattern="^\d{1,2}\.\d{1,2}\.\d{4}\.$" data-val-required="Ovo polje je obavezno" id="telefon" name="telefon" placeholder="Upišite Vaš kontakt broj" required="" type="text" value=""/>
+        <span class="field-validation-valid" data-valmsg-for="telefon" data-valmsg-replace="true">
+        </span>
+       </div>
+      </div>
+      <div class="col-md-4 hidden-print">
+       <div class="form-group">
+        <label for="poruka">
+        </label>
+        <textarea class="form-control" cols="3" data-val="true" data-val-length="Ovo polje može sadržavati najviše 1000 znakova." data-val-length-max="1000" data-val-regex-pattern="^\d{1,2}\.\d{1,2}\.\d{4}\.$" data-val-required="Ovo polje je obavezno" id="poruka" name="poruka" placeholder="Unesite poruku" required="" rows="6"></textarea>
+        <span class="field-validation-valid" data-valmsg-for="poruka" data-valmsg-replace="true">
+        </span>
+       </div>
+       <div class="result">
+        <a class="btn btn-block btn-sm btn-primary btnSend" id="kontakt-send">
+        </a>
+       </div>
+      </div>
+     </form>
+     <div class="form-submit-response hidden">
+     </div>
+    </div>
+   </div>
+   <hr/>
+   <div class="container bottom-footer">
+    <div class="row">
+     <div class="col-md-11">
+      <span class="small copyright">
+      </span>
+      <span class="small">
+       <a class="footer-links odd first" href="/stranica/privatnost">
+       </a>
+      </span>
+      <span class="small">
+       <a class="footer-links even" href="/stranica/uvjeti-koristenja">
+       </a>
+      </span>
+      <span class="small">
+       <a class="footer-links odd last" href="/stranica/politika-kolacica">
+       </a>
+      </span>
+     </div>
+     <div class="col-md-1 pull-right">
+      <a href="http://www.virtuabit.hr/" target="_blank" title="virtuabit">
+       <strong>
+        <em>
+        </em>
+       </strong>
+      </a>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <a class="cd-top" href="#">
+  </a>
+  <script>
+  </script>
+ </body>
+</html>

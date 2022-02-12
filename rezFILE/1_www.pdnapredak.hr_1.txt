@@ -1,0 +1,539 @@
+<html class="no-js" lang="hr-hr">
+ <head>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <base href="http://www.pdnapredak.hr/"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="Joomla! - Open Source Content Management" name="generator"/>
+  <title>
+  </title>
+  <link href="/templates/shaper_helix_ii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/media/system/css/modal.css" rel="stylesheet" type="text/css"/>
+  <link href="/components/com_imageshow/assets/css/style.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/shaper_helix_ii/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/shaper_helix_ii/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/plugins/system/helix/css/font-awesome.css" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Arial" rel="stylesheet" type="text/css"/>
+  <link href="/plugins/system/helix/css/dropline.css" rel="stylesheet" type="text/css"/>
+  <link href="/plugins/system/helix/css/mobile-menu.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/shaper_helix_ii/css/template.css" rel="stylesheet" type="text/css"/>
+  <link href="/templates/shaper_helix_ii/css/presets/preset1.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/caption.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/modal.js" type="text/javascript">
+  </script>
+  <script src="/components/com_imageshow/assets/js/swfobject.js" type="text/javascript">
+  </script>
+  <script src="/components/com_imageshow/assets/js/jsn_is_extultils.js" type="text/javascript">
+  </script>
+  <script src="/components/com_imageshow/assets/js/jsn_is_imageshow.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/helix/js/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/helix/js/jquery-noconflict.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/helix/js/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/helix/js/modernizr-2.6.2.min.js" type="text/javascript">
+  </script>
+  <script src="/plugins/system/helix/js/helix.core.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+ </head>
+ <body class="featured homepage ltr preset1 menu-homepage responsive bg hfeed clearfix">
+  <div class="body-innerwrapper">
+   <header class="" id="sp-header-wrapper">
+    <div class="container">
+     <div class="row-fluid" id="header">
+      <div class="span12" id="sp-menu">
+       <div class="visible-desktop" id="sp-main-menu">
+        <ul class="sp-menu level-0">
+         <li class="menu-item active first">
+          <a class="menu-item active first" href="http://www.pdnapredak.hr/">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item">
+          <a class="menu-item" href="/index.php/vremenska-prognoza">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item">
+          <a class="menu-item" href="/index.php/plan-izleta">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item parent">
+          <a class="menu-item parent" href="/index.php/galerija">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item">
+          <a class="menu-item" href="/index.php/povijest">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item">
+          <a class="menu-item" href="/index.php/arhiva-pd">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item last parent">
+          <a class="menu-item last parent" href="/index.php/kontakt">
+           <span class="menu">
+            <span class="menu-title">
+            </span>
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <section class="" id="sp-users-wrapper">
+    <div class="container">
+     <div class="row-fluid" id="users">
+      <div class="span3" id="sp-user1">
+       <div class="module">
+        <div class="mod-wrapper clearfix">
+         <div class="mod-content clearfix">
+          <div class="mod-inner clearfix">
+           <div class="custom">
+            <p style="text-align: justify;">
+             <img alt="logo-novi" height="162" src="/images/LOGO/logo-novi.png" width="160"/>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="gap">
+       </div>
+      </div>
+      <div class="span9" id="sp-user4">
+       <div class="module">
+        <div class="mod-wrapper clearfix">
+         <div class="mod-content clearfix">
+          <div class="mod-inner clearfix">
+           <div class="custom">
+            <p style="text-align: center;">
+             <a href="http://www.napredak.hr" title="Hrvatsko Kulturno Društvo Napredak Zagreb">
+              <img alt="logoHKDNZ" height="54" src="/images/logoHKDNZ.png" width="237"/>
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="gap">
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="" id="sp-main-body-wrapper">
+    <div class="container">
+     <div class="row-fluid" id="main-body">
+      <div class="span12" id="sp-message-area">
+       <div id="system-message-container">
+        <div id="system-message">
+        </div>
+       </div>
+       <section class="" id="sp-component-area-wrapper">
+        <div class="row-fluid" id="component-area">
+         <div class="span12" id="sp-component-area">
+          <section id="sp-component-wrapper">
+           <div id="sp-component">
+            <section class="featured">
+             <section class="items-row cols-3 row-0 row-fluid">
+              <div class="item column-1 span4">
+               <article class="post-430 post hentry status-publish category-izleti">
+                <header class="entry-header">
+                 <h2 class="entry-title">
+                  <a href="/index.php/78-izleti/430-japetic-sjecanj-2022-god" rel="bookmark" title="JAPETIĆ SJEČANJ 2022.GOD.">
+                  </a>
+                 </h2>
+                </header>
+                <section class="entry-content">
+                 <p>
+                  <a href="https://photos.app.goo.gl/a7SC11TkwHqVfkwH8">
+                   <img alt="20220109 134946" src="/images/20220109_134946.jpg"/>
+                  </a>
+                 </p>
+                 <p>
+                  <a href="https://photos.app.goo.gl/a7SC11TkwHqVfkwH8">
+                  </a>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                  <span>
+                  </span>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <div id="gtx-trans" style="position: absolute; left: -10px; top: 971px;">
+                 </div>
+                </section>
+                <footer class="entry-meta">
+                </footer>
+               </article>
+              </div>
+              <div class="item column-2 span4">
+               <article class="post-429 post hentry status-publish category-izleti">
+                <header class="entry-header">
+                 <h2 class="entry-title">
+                  <a href="/index.php/78-izleti/429-petrova-gora-prosinac-2021-god" rel="bookmark" title="PETROVA GORA PROSINAC 2021. GOD.">
+                  </a>
+                 </h2>
+                </header>
+                <section class="entry-content">
+                 <p>
+                  <a href="https://photos.app.goo.gl/t1efM3D1cLSLcdyr5">
+                   <img alt="PETROVA GORA PROSINAC 2021. GOD" src="/images/PETROVA_GORA_PROSINAC_2021._GOD.JPG"/>
+                  </a>
+                 </p>
+                 <p>
+                  <a href="https://photos.app.goo.gl/t1efM3D1cLSLcdyr5">
+                  </a>
+                 </p>
+                 <p>
+                  <a href="https://photos.app.goo.gl/kGgDBDdag87WfEfp9">
+                  </a>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                  <span>
+                  </span>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <div id="gtx-trans" style="position: absolute; left: -14px; top: 933px;">
+                 </div>
+                </section>
+                <footer class="entry-meta">
+                </footer>
+               </article>
+              </div>
+              <div class="item column-3 span4">
+               <article class="post-428 post hentry status-publish category-izleti">
+                <header class="entry-header">
+                 <h2 class="entry-title">
+                  <a href="/index.php/78-izleti/428-papuk-prosinac-2021" rel="bookmark" title="PAPUK PROSINAC 2021.">
+                  </a>
+                 </h2>
+                </header>
+                <section class="entry-content">
+                 <p>
+                  <a href="https://photos.app.goo.gl/4qdbm6QSYnQY54YM6">
+                   <img alt="PAPUK PROSINAC 2021" src="/images/PAPUK_PROSINAC_2021.JPG"/>
+                  </a>
+                 </p>
+                 <p>
+                  <a href="https://photos.app.goo.gl/4qdbm6QSYnQY54YM6">
+                  </a>
+                  <a href="https://photos.app.goo.gl/ghqGzSSfJciPCLEo9">
+                  </a>
+                  <a href="https://photos.app.goo.gl/kGgDBDdag87WfEfp9">
+                  </a>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                  <span>
+                  </span>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                 <p>
+                 </p>
+                </section>
+                <footer class="entry-meta">
+                </footer>
+               </article>
+              </div>
+             </section>
+             <section class="items-more">
+              <h3 class="item-title">
+              </h3>
+              <ul>
+               <li>
+                <a href="/index.php/78-izleti/427-zumberak-sopot-studeni-2021-god">
+                </a>
+               </li>
+              </ul>
+             </section>
+             <section class="pagination">
+              <p class="counter">
+              </p>
+              <ul>
+               <li class="pagination-active">
+                <a>
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=3" title="2">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=6" title="3">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=9" title="4">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=12" title="5">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=15" title="6">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=18" title="7">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=21" title="8">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=24" title="9">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=27" title="10">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=3" title="Slijedeće">
+                </a>
+               </li>
+               <li>
+                <a class="" href="/index.php?start=132" title="Kraj">
+                </a>
+               </li>
+              </ul>
+             </section>
+            </section>
+           </div>
+          </section>
+         </div>
+        </div>
+       </section>
+      </div>
+     </div>
+    </div>
+   </section>
+   <footer class="" id="sp-footer-wrapper">
+    <div class="container">
+     <div class="row-fluid" id="footer">
+      <div class="span8" id="sp-footer1">
+       <span class="copyright">
+       </span>
+       <a href="http://www.joomshaper.com" title="joomshaper.com">
+       </a>
+      </div>
+      <div class="span4" id="sp-footer2">
+       <a class="sp-totop" href="javascript:;" rel="nofollow" title="Goto Top">
+        <small>
+        </small>
+        <i class="icon-caret-up">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <a class="hidden-desktop btn btn-inverse sp-main-menu-toggler" data-target=".nav-collapse" data-toggle="collapse" href="#">
+    <i class="icon-align-justify">
+    </i>
+   </a>
+   <div class="hidden-desktop sp-mobile-menu nav-collapse collapse">
+    <ul class="">
+     <li class="menu-item active first">
+      <a class="menu-item active first" href="http://www.pdnapredak.hr/">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+     </li>
+     <li class="menu-item">
+      <a class="menu-item" href="/index.php/vremenska-prognoza">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+     </li>
+     <li class="menu-item">
+      <a class="menu-item" href="/index.php/plan-izleta">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+     </li>
+     <li class="menu-item parent">
+      <a class="menu-item parent" href="/index.php/galerija">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+      <span class="sp-menu-toggler collapsed" data-target=".collapse-478" data-toggle="collapse">
+       <i class="icon-angle-right">
+       </i>
+       <i class="icon-angle-down">
+       </i>
+      </span>
+      <ul class="collapse collapse-478">
+       <li class="menu-item first">
+        <a class="menu-item first" href="https://get.google.com/albumarchive/111596580875669339266">
+         <span class="menu">
+          <span class="menu-title">
+          </span>
+         </span>
+        </a>
+       </li>
+       <li class="menu-item">
+        <a class="menu-item" href="https://get.google.com/albumarchive/110038719646585571485">
+         <span class="menu">
+          <span class="menu-title">
+          </span>
+         </span>
+        </a>
+       </li>
+       <li class="menu-item last">
+        <a class="menu-item last" href="/index.php/galerija/nasi-na-picasi-4">
+         <span class="menu">
+          <span class="menu-title">
+          </span>
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="menu-item">
+      <a class="menu-item" href="/index.php/povijest">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+     </li>
+     <li class="menu-item">
+      <a class="menu-item" href="/index.php/arhiva-pd">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+     </li>
+     <li class="menu-item last parent">
+      <a class="menu-item last parent" href="/index.php/kontakt">
+       <span class="menu">
+        <span class="menu-title">
+        </span>
+       </span>
+      </a>
+      <span class="sp-menu-toggler collapsed" data-target=".collapse-498" data-toggle="collapse">
+       <i class="icon-angle-right">
+       </i>
+       <i class="icon-angle-down">
+       </i>
+      </span>
+      <ul class="collapse collapse-498">
+       <li class="menu-item first">
+        <a class="menu-item first" href="/index.php/kontakt/login">
+         <span class="menu">
+          <span class="menu-title">
+          </span>
+         </span>
+        </a>
+       </li>
+       <li class="menu-item last">
+        <a class="menu-item last" href="/index.php/kontakt/login-2">
+         <span class="menu">
+          <span class="menu-title">
+          </span>
+         </span>
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </body>
+</html>

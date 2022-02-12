@@ -1,0 +1,4325 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://www.os-bobota.skole.hr/rss/rssfeeder.php?rss_kid=1&amp;rss_ct=news&amp;rss_uid=1" rel="alternate" title="" type="application/rss+xml"/>
+  <style type="text/css">
+  </style>
+  <script src="/inc/js/mootools-core-1.4.5-full-nocompat-yc.js?1333452434" type="text/javascript">
+  </script>
+  <script src="/inc/js/mootools-more-1.4.0.1.js?1359987538" type="text/javascript">
+  </script>
+  <script src="/inc/js/mocha/mocha-core-window-modal-mt14.js?1364290017" type="text/javascript">
+  </script>
+  <script src="/inc/js/cms-init1.3.js?1380792939" type="text/javascript">
+  </script>
+  <script src="/inc/js/milkbox2.2-mt1.3patch.js?1308061533" type="text/javascript">
+  </script>
+  <script src="/inc/js/roll_include.js?1333633930" type="text/javascript">
+  </script>
+  <link href="/img/themes/default/strix4-default.css?1319551645" rel="stylesheet" type="text/css"/>
+  <link href="/img/themes/default/Window.css?1308061506" rel="stylesheet" type="text/css"/>
+  <link href="/img/themes/default/milkbox/milkbox.css?1308061506" rel="stylesheet" type="text/css"/>
+  <meta content="HR" http-equiv="Content-Language"/>
+  <meta content="CMS, škole, CARNet " name="keywords"/>
+  <meta content="Hrvatski" name="language"/>
+  <meta content="CARNet / CWM / Robert Rigo" name="author"/>
+  <meta content="Education" name="document-classification"/>
+  <meta content="Public" name="document-type"/>
+  <meta content="Safe for Kids" name="document-rating"/>
+  <meta content="Global" name="document-distribution"/>
+  <link href="/img/themes/default/images/favicon.ico" rel="shortcut icon" type="image/ico"/>
+  <link href="/img/themes/okrugli/4/master.css?1329395826" rel="stylesheet" type="text/css"/>
+ </head>
+ <body onload="">
+  <a class="skipper" href="#content">
+  </a>
+  <div class="okvir">
+   <div class="letva">
+    <h1>
+     <a href="/" style="text-decoration: none; color: black;">
+     </a>
+    </h1>
+    <div class="login">
+     <form action="https://login6.skole.hr/login.php" id="login" method="post" name="login">
+      <img alt="" src="/img/themes/okrugli/4/images/login_pozadina_lev_off.gif"/>
+      <input name="proto" type="hidden" value="http"/>
+      <input name="origin" type="hidden" value="https://os-bobota.skole.hr"/>
+      <input name="redirect" type="hidden" value="/"/>
+      <span class="login_naslov_off">
+      </span>
+      <span class="login_forma">
+       <input id="loginname" name="loginname" size="12" type="text"/>
+       <input id="loginpassw" name="loginpassw" onkeypress="var _e=(String(typeof(event))=='undefined')?self.event:event;var _v=_e?parseInt(_e.which||_e.keyCode||0):0;if(_v==13||_v==10)this.form.submit();else return true;" size="12" type="password"/>
+      </span>
+      <span class="login_gumb_off">
+       <a href="#" onclick="document.login.submit();" title="Uđi">
+       </a>
+      </span>
+      <img alt="" src="/img/themes/okrugli/4/images/login_pozadina_des_off.gif"/>
+     </form>
+    </div>
+    <div class="nav_globalna">
+     <a class="horiz-link" href="http://webmail.skole.hr/" title="Webmail">
+     </a>
+     <a class="horiz-link" href="/skola/knjiznica/" title="Knjižnica">
+     </a>
+     <a class="horiz-link" href="/blue2?userid=-1" title="Spajalica">
+     </a>
+     <a class="horiz-link" href="http://lms.carnet.hr/" title="OnLine tečajevi">
+     </a>
+     <a class="horiz-link" href="/forum" title="Forum">
+     </a>
+     <a class="horiz-link" href="/skola/kontakti" title="Kontakti">
+     </a>
+    </div>
+   </div>
+   <div class="nav_glavna">
+    <div class="nav_glavna_zaglavlje">
+     <br/>
+    </div>
+    <div class="nav_glavna_tijelo" id="navigation">
+     <div class="navigation">
+      <div class="nivo1 selected">
+       <a href="http://os-bobota.skole.hr/">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/skola">
+       </a>
+       <span class="nav open" id="kid-vnav_5254" onclick="InvertVisibility('vnav_5254');UpdateRollPreferences('vnav_5254');$('kid-vnav_5254').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5254" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/povijest">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/lokacija">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/ploca">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/knjiznica">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/kontakti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/ponude">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/natjecaji">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/skola/zaposleni">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/nastava">
+       </a>
+       <span class="nav open" id="kid-vnav_5265" onclick="InvertVisibility('vnav_5265');UpdateRollPreferences('vnav_5265');$('kid-vnav_5265').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5265" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/skola_u_prirodi">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/projekti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/natjecanja">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/aktivnosti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/Priredbe">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/terenska_nastava">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/nastava/kalendar">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/roditelji">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/razmjena">
+       </a>
+       <span class="nav open" id="kid-vnav_5296" onclick="InvertVisibility('vnav_5296');UpdateRollPreferences('vnav_5296');$('kid-vnav_5296').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5296" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/roditelji/informacije">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/roditelji/roditeljski">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/roditelji/forum">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/preferences">
+       </a>
+       <span class="nav open" id="kid-vnav_15" onclick="InvertVisibility('vnav_15');UpdateRollPreferences('vnav_15');$('kid-vnav_15').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_15" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/rjecnik">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/forum">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/fotogalerija">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/dokumenti-skole">
+       </a>
+       <span class="nav open" id="kid-vnav_5617" onclick="InvertVisibility('vnav_5617');UpdateRollPreferences('vnav_5617');$('kid-vnav_5617').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5617" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti-skole/fiskalna_odgovornost">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti-skole/racunovodstveni_dokumenti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti-skole/gdpr">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti-skole/sluzbenik_za_informiranje">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/dokumenti-skole/javna_nabava">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/skolski-odbor">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/vijece_roditelja">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/vijece_ucenika">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-bobota.skole.hr/razredi">
+       </a>
+       <span class="nav open" id="kid-vnav_5540" onclick="InvertVisibility('vnav_5540');UpdateRollPreferences('vnav_5540');$('kid-vnav_5540').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5540" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-bobota.skole.hr/razredi/ostali">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="nav_glavna_podnozje">
+     <br/>
+    </div>
+   </div>
+   <div class="sadrzaj">
+    <div class="sadrzaj_zaglavlje">
+     <div class="banner_header">
+      <div class="b_header">
+       <style type="text/css">
+       </style>
+       <p>
+        <img alt="" src="/upload/os-bobota/images/headers/Image/header-spring.jpg" style="width: 780px; height: 167px;"/>
+       </p>
+      </div>
+      <div style="clear:both">
+      </div>
+     </div>
+     <div class="clearall">
+     </div>
+    </div>
+    <div class="sadrzaj_tijelo" id="content">
+     <div class="putanja">
+      <a href="/">
+      </a>
+     </div>
+     <div class="clanak">
+      <a name="mod_news">
+      </a>
+      <div class="srednji_stupac_naslov mod_news">
+      </div>
+      <div class="srednji_stupac_tijelo mod_news">
+       <div style="margin: 10px;">
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p align="center">
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p align="center">
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p align="center">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=193&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+         </p>
+         <p style="text-align: center;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=192&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=191&amp;mshow=1427#mod_news" title="Javni poziv za nabavku udžbenika za školsku godinu 2021./2022. / &amp;#1032;&amp;#1072;&amp;#1074;&amp;#1085;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1074; &amp;#1079;&amp;#1072; &amp;#1085;&amp;#1072;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1091; &amp;#1091;&amp;#1119;&amp;#1073;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1082;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1091; &amp;#1075;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1085;&amp;#1091; 2021/2022.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=190&amp;mshow=1427#mod_news" title="Popis radnih bilježnica za školsku 2021./2022. godinu / &amp;#1057;&amp;#1087;&amp;#1080;&amp;#1089;&amp;#1072;&amp;#1082; &amp;#1088;&amp;#1072;&amp;#1076;&amp;#1085;&amp;#1080;&amp;#1093; &amp;#1089;&amp;#1074;&amp;#1077;&amp;#1089;&amp;#1082;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1091; 2021/2022. &amp;#1075;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1085;&amp;#1091;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=189&amp;mshow=1427#mod_news" title="Popis udžbenika za školsku 2021/2022.godinu / &amp;#1057;&amp;#1087;&amp;#1080;&amp;#1089;&amp;#1072;&amp;#1082; &amp;#1091;&amp;#1119;&amp;#1073;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1082;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1091; 2021/2022. &amp;#1075;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1085;&amp;#1091;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <img alt="" src="/upload/os-bobota/images/newsimg/188/Image/letnja-skole-kaligrafije.jpg" style="width: 540px; height: 540px;"/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=188&amp;mshow=1427#mod_news" title="Ljetnja škola kaligrafije / &amp;#1051;&amp;#1077;&amp;#1090;&amp;#1114;&amp;#1072; &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1072; &amp;#1082;&amp;#1072;&amp;#1083;&amp;#1080;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1092;&amp;#1080;&amp;#1112;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=187#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/187/206607633_186444230082810_5507668235164982312_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=187&amp;mshow=1427#mod_news" title="Vesilica i čajanka za kraj škole/ &amp;#1042;&amp;#1077;&amp;#1089;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1094;&amp;#1072; &amp;#1080; &amp;#1095;&amp;#1072;&amp;#1112;&amp;#1072;&amp;#1085;&amp;#1082;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1082;&amp;#1088;&amp;#1072;&amp;#1112; &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=186#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/186/204033361_2471546472989191_2889663261197446616_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=186&amp;mshow=1427#mod_news" title="Raspust se bliži.../ &amp;#1056;&amp;#1072;&amp;#1089;&amp;#1087;&amp;#1091;&amp;#1089;&amp;#1090; &amp;#1089;&amp;#1077; &amp;#1073;&amp;#1083;&amp;#1080;&amp;#1078;&amp;#1080;...">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="color:#FF0000;">
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <span style="color:#FF0000;">
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=185&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=183#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/183/IMG_20210615_101125.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=183&amp;mshow=1427#mod_news" title="ČITATELJ MJESECA ZA LIPANJ/ &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1051;&amp;#1040;&amp;#1062; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062;&amp;#1040; &amp;#1047;&amp;#1040; &amp;#1032;&amp;#1059;&amp;#1053;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=182#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/182/IMG_20210520_100827.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=182&amp;mshow=1427#mod_news" title="ČITATELJ MJESECA ZA MJESEC SVIBANJ/ &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1051;&amp;#1040;&amp;#1062; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062;&amp;#1040; &amp;#1047;&amp;#1040; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062; &amp;#1052;&amp;#1040;&amp;#1032;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="font-size:18px;">
+           <span style="color:#FF0000;">
+           </span>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=181&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=180#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/180/179988557_761284764776753_8755862505382501021_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=180&amp;mshow=1427#mod_news" title="Uskrsne radionice/ &amp;#1042;&amp;#1072;&amp;#1089;&amp;#1082;&amp;#1088;&amp;#1096;&amp;#1114;&amp;#1077; &amp;#1088;&amp;#1072;&amp;#1076;&amp;#1080;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1094;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=179&amp;mshow=1427#mod_news" title="Literarni natječaj: LJEKOVITA LEKTIRA/ &amp;#1051;&amp;#1080;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#1072;&amp;#1088;&amp;#1085;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1082;&amp;#1091;&amp;#1088;&amp;#1089;: &amp;#1051;&amp;#1045;&amp;#1050;&amp;#1054;&amp;#1042;&amp;#1048;&amp;#1058;&amp;#1040; &amp;#1051;&amp;#1045;&amp;#1050;&amp;#1058;&amp;#1048;&amp;#1056;&amp;#1040;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=178#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/178/IMG_5812.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=178&amp;mshow=1427#mod_news" title="ČITATELJ MJESECA ZA MJESEC TRAVANJ/ &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1058;&amp;#1051;&amp;#1040;&amp;#1062; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062;&amp;#1040; &amp;#1047;&amp;#1040; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062; &amp;#1040;&amp;#1055;&amp;#1056;&amp;#1048;&amp;#1051;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="color:#FF0000;">
+           <strong>
+           </strong>
+           <strong>
+           </strong>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=177&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=176#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/176/2021_03_17_21_17_43_989.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=176&amp;mshow=1427#mod_news" title='"Bijele poklade"/ &amp;#8222;&amp;#1041;&amp;#1077;&amp;#1083;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1082;&amp;#1083;&amp;#1072;&amp;#1076;&amp;#1077;&amp;#8220;'>
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=175#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/175/2021_03_12_17_45_34_039.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=175&amp;mshow=1427#mod_news" title='9. likovno natjecanje Dukata "Volim mlijeko"/ 9. &amp;#1083;&amp;#1080;&amp;#1082;&amp;#1086;&amp;#1074;&amp;#1085;&amp;#1086; &amp;#1090;&amp;#1072;&amp;#1082;&amp;#1084;&amp;#1080;&amp;#1095;&amp;#1077;&amp;#1114;&amp;#1077; &amp;#1044;&amp;#1091;&amp;#1082;&amp;#1072;&amp;#1090;&amp;#1072; "&amp;#1042;&amp;#1086;&amp;#1083;&amp;#1080;&amp;#1084; &amp;#1084;&amp;#1083;&amp;#1077;&amp;#1082;&amp;#1086;"'>
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=174#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/174/IMG_5679.JPG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=174&amp;mshow=1427#mod_news" title="UČENICI 2. RAZREDA OBILJEŽILI MEĐUNARODNI DAN ŽENA/ &amp;#1059;&amp;#1063;&amp;#1045;&amp;#1053;&amp;#1048;&amp;#1062;&amp;#1048; 2. &amp;#1056;&amp;#1040;&amp;#1047;&amp;#1056;&amp;#1045;&amp;#1044;&amp;#1040; &amp;#1054;&amp;#1041;&amp;#1045;&amp;#1051;&amp;#1045;&amp;#1046;&amp;#1048;&amp;#1051;&amp;#1048; &amp;#1052;&amp;#1045;&amp;#1026;&amp;#1059;&amp;#1053;&amp;#1040;&amp;#1056;&amp;#1054;&amp;#1044;&amp;#1053;&amp;#1048; &amp;#1044;&amp;#1040;&amp;#1053; &amp;#1046;&amp;#1045;&amp;#1053;&amp;#1040;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=173#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/173/slika_projekt.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=173&amp;mshow=1427#mod_news" title="ZAPOČEO ŠKOLSKI PROJEKT POTICANJA NA ČITANJE/ &amp;#1047;&amp;#1040;&amp;#1055;&amp;#1054;&amp;#1063;&amp;#1045;&amp;#1054; &amp;#1064;&amp;#1050;&amp;#1054;&amp;#1051;&amp;#1057;&amp;#1050;&amp;#1048; &amp;#1055;&amp;#1056;&amp;#1054;&amp;#1032;&amp;#1045;&amp;#1050;&amp;#1040;&amp;#1058; &amp;#1055;&amp;#1054;&amp;#1044;&amp;#1057;&amp;#1058;&amp;#1048;&amp;#1062;&amp;#1040;&amp;#1034;&amp;#1040; &amp;#1053;&amp;#1040; &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1034;&amp;#1045;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=172#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/172/slika_mart.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+         </div>
+         <div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+          <div>
+          </div>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=172&amp;mshow=1427#mod_news" title="ČITATELJ MJESECA- 4. RAZRED/ &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1058;&amp;#1051;&amp;#1040;&amp;#1062; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062;&amp;#1040;- 4. &amp;#1056;&amp;#1040;&amp;#1047;&amp;#1056;&amp;#1045;&amp;#1044;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p class="center">
+          <img alt="" src="/upload/os-bobota/images/newsimg/171/Image/Dan-ruzicastih-majica-2021-2.jpg" style="width: 540px; height: 309px; margin:auto;"/>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=171&amp;mshow=1427#mod_news" title="Dan ružičastih majica 2021 / &amp;#1044;&amp;#1072;&amp;#1085; &amp;#1088;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1093; &amp;#1084;&amp;#1072;&amp;#1112;&amp;#1080;&amp;#1094;&amp;#1072; 2021">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=170#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/170/154908067_725436314799600_3607040583300894592_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=170&amp;mshow=1427#mod_news" title="Još jedna nagrada/ &amp;#1032;&amp;#1086;&amp;#1096; &amp;#1112;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1072; &amp;#1085;&amp;#1072;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1076;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="font-size:18px;">
+           <strong>
+           </strong>
+          </span>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <p style="text-align: center;">
+          <span style="font-size:18px;">
+           <strong>
+           </strong>
+          </span>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=168&amp;mshow=1427#mod_news" title="OBAVIJEST- &amp;#1054;&amp;#1041;&amp;#1040;&amp;#1042;&amp;#1045;&amp;#1064;&amp;#1058;&amp;#1045;&amp;#1034;&amp;#1045;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=167#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/167/IMG_5579.JPG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p class="western" style="margin-bottom: 0.35cm">
+          <span lang="sr-RS">
+          </span>
+         </p>
+         <p class="western" lang="sr-RS" style="margin-bottom: 0.35cm">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=167&amp;mshow=1427#mod_news" title="Obilježen Međunarodni dan darivanja knjiga/ &amp;#1054;&amp;#1073;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1078;&amp;#1077;&amp;#1085; &amp;#1052;&amp;#1077;&amp;#1106;&amp;#1091;&amp;#1085;&amp;#1072;&amp;#1088;&amp;#1086;&amp;#1076;&amp;#1085;&amp;#1080; &amp;#1076;&amp;#1072;&amp;#1085; &amp;#1087;&amp;#1086;&amp;#1082;&amp;#1083;&amp;#1072;&amp;#1114;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1082;&amp;#1114;&amp;#1080;&amp;#1075;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=166#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/166/internet.PNG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=166&amp;mshow=1427#mod_news" title="DAN SIGURNIJEG INTERNETA- &amp;#1044;&amp;#1040;&amp;#1053; &amp;#1057;&amp;#1048;&amp;#1043;&amp;#1059;&amp;#1056;&amp;#1053;&amp;#1048;&amp;#1032;&amp;#1045;&amp;#1043; &amp;#1048;&amp;#1053;&amp;#1058;&amp;#1045;&amp;#1056;&amp;#1053;&amp;#1045;&amp;#1058;&amp;#1040;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=165#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/165/IMG_5528.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=165&amp;mshow=1427#mod_news" title="ČITATELJ MJESECA-4. RAZRED/ &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1051;&amp;#1040;&amp;#1062; &amp;#1052;&amp;#1045;&amp;#1057;&amp;#1045;&amp;#1062;&amp;#1040;-4. &amp;#1056;&amp;#1040;&amp;#1047;&amp;#1056;&amp;#1045;&amp;#1044;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: justify;">
+          <br/>
+         </p>
+         <p style="text-align: justify;">
+          <br/>
+         </p>
+         <p style="text-align: right;">
+          <br/>
+         </p>
+         <p style="text-align: justify;">
+          <br/>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: right;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=164&amp;mshow=1427#mod_news" title="Sudjelovanje na 4.FESTIVALU DJEČIJE ILUSTRACIJE SKD Prosvjeta/ &amp;#1059;&amp;#1095;&amp;#1077;&amp;#1096;&amp;#1115;&amp;#1077; &amp;#1085;&amp;#1072; 4. &amp;#1044;&amp;#1045;&amp;#1063;&amp;#1032;&amp;#1045;&amp;#1052; &amp;#1060;&amp;#1045;&amp;#1057;&amp;#1058;&amp;#1048;&amp;#1042;&amp;#1040;&amp;#1051;&amp;#1059; &amp;#1048;&amp;#1051;&amp;#1059;&amp;#1057;&amp;#1058;&amp;#1056;&amp;#1040;&amp;#1062;&amp;#1048;&amp;#1032;&amp;#1045;. &amp;#1057;&amp;#1050;&amp;#1044; &amp;#1055;&amp;#1088;&amp;#1086;&amp;#1089;&amp;#1074;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="display: none;">
+          </span>
+          <span style="color:#B22222;">
+           <strong>
+           </strong>
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <span style="color:#B22222;">
+           <strong>
+           </strong>
+          </span>
+          <span style="display: none;">
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=163&amp;mshow=1427#mod_news" title="OBAVIJEST- &amp;#1054;&amp;#1041;&amp;#1040;&amp;#1042;&amp;#1045;&amp;#1064;&amp;#1058;&amp;#1045;&amp;#1034;&amp;#1045;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p align="center">
+         </p>
+         <p style="text-align: center;">
+          <strong>
+          </strong>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: center;">
+          <strong>
+          </strong>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=162&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="color:#FF0000;">
+           <span style="font-size:14px;">
+           </span>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=160&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=159#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/159/142841780_124604262858246_8862416117535972745_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=159&amp;mshow=1427#mod_news" title="Sveti Sava- školska slava/ &amp;#1057;&amp;#1074;&amp;#1077;&amp;#1090;&amp;#1080; &amp;#1057;&amp;#1072;&amp;#1074;&amp;#1072;- &amp;#1096;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1072; &amp;#1089;&amp;#1083;&amp;#1072;&amp;#1074;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <span style="color:#FF0000;">
+           <strong>
+           </strong>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=158&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/4/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p style="margin-left:247.8pt;">
+         </p>
+         <p style="margin-left:247.8pt;">
+         </p>
+         <p style="text-align: center;">
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p style="margin-left:283.2pt;">
+         </p>
+         <p style="margin-left:247.8pt;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=157&amp;mshow=1427#mod_news" title="Obavijest / &amp;#1054;&amp;#1073;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1096;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=156#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/156/132892698_1576959365839802_8222952502322322835_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+          <font color="#333333">
+           <font face="sans-serif, Arial, Verdana, Trebuchet MS">
+            <font style="font-size: 12pt;">
+            </font>
+           </font>
+          </font>
+         </p>
+         <p ms="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+          <font color="#333333">
+           <font face="sans-serif, Arial, Verdana, Trebuchet MS">
+            <font style="font-size: 12pt;">
+            </font>
+           </font>
+          </font>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=156&amp;mshow=1427#mod_news" title="Novogodišnje i božićne radionice/ &amp;#1053;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1075;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1096;&amp;#1114;&amp;#1077; &amp;#1080; &amp;#1073;&amp;#1086;&amp;#1078;&amp;#1080;&amp;#1115;&amp;#1114;&amp;#1077; &amp;#1088;&amp;#1072;&amp;#1076;&amp;#1080;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1094;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=147#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/147/130919994_394179905131844_952114199730036290_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+          <font face="Liberation Serif, serif">
+           <font size="3" style="font-size: 12pt">
+            <font color="#444444">
+             <font size="2" style="font-size: 11pt">
+              <span style="background: #ffffff">
+              </span>
+             </font>
+            </font>
+            <font color="#444444">
+             <font size="2" style="font-size: 11pt">
+              <span lang="sr-RS">
+               <span style="background: #ffffff">
+               </span>
+              </span>
+             </font>
+            </font>
+            <font color="#444444">
+             <font size="2" style="font-size: 11pt">
+              <span style="background: #ffffff">
+              </span>
+             </font>
+            </font>
+            <font color="#444444">
+             <font size="2" style="font-size: 11pt">
+              <span lang="sr-RS">
+               <span style="background: #ffffff">
+               </span>
+              </span>
+             </font>
+            </font>
+            <font color="#444444">
+             <font size="2" style="font-size: 11pt">
+              <span style="background: #ffffff">
+              </span>
+             </font>
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+             <span style="background: #ffffff">
+             </span>
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+             <span lang="hr-HR">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+             <span style="background: #ffffff">
+             </span>
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%; background: #ffffff">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+            </font>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <span lang="sr-RS">
+            </span>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="hr-HR">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+             <span style="background: #ffffff">
+             </span>
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+             <span style="background: #ffffff">
+             </span>
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 108%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+             <span lang="sr-RS">
+              <span style="background: #ffffff">
+              </span>
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+            <span lang="sr-RS">
+            </span>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <span lang="sr-RS">
+            </span>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+            <font color="#444444">
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+          <font face="Liberation Serif, serif">
+           <font size="2" style="font-size: 11pt">
+            <font color="#444444">
+             <span lang="sr-RS">
+             </span>
+            </font>
+           </font>
+          </font>
+         </p>
+         <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=147&amp;mshow=1427#mod_news" title="Školski medni dan/ &amp;#1064;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1080; &amp;#1084;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1080; &amp;#1076;&amp;#1072;&amp;#1085;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=144#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/144/123865437_1049184702219064_1131276927309564754_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+         </p>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=144&amp;mshow=1427#mod_news" title="Dani zahvalnosti za plodove zemlje i Svjetski dan jabuka/ &amp;#1044;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1079;&amp;#1072;&amp;#1093;&amp;#1074;&amp;#1072;&amp;#1083;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1083;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1074;&amp;#1077; &amp;#1079;&amp;#1077;&amp;#1084;&amp;#1113;&amp;#1077; &amp;#1080; &amp;#1057;&amp;#1074;&amp;#1077;&amp;#1090;&amp;#1089;&amp;#1082;&amp;#1080; &amp;#1076;&amp;#1072;&amp;#1085; &amp;#1112;&amp;#1072;&amp;#1073;&amp;#1091;&amp;#1082;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=548">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=143#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/143/124205009_351032396196485_4792898599962353875_n.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+          <span lang="sr-RS">
+          </span>
+          <span lang="hr-HR">
+          </span>
+          <span lang="hr-HR">
+          </span>
+         </p>
+         <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=143&amp;mshow=1427#mod_news" title="Dani kruha i zahvalnosti za plodove zemlje/ &amp;#1044;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1093;&amp;#1083;&amp;#1077;&amp;#1073;&amp;#1072; &amp;#1080; &amp;#1079;&amp;#1072;&amp;#1093;&amp;#1074;&amp;#1072;&amp;#1083;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1083;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1074;&amp;#1077; &amp;#1079;&amp;#1077;&amp;#1084;&amp;#1113;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+           <img alt="" src="/upload/os-bobota/images/newsimg/136/Image/Izlozba.jpg" style="width: 540px; height: 181px;"/>
+          </a>
+         </p>
+         <div class="obavijest">
+          <p>
+           <br/>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+          </a>
+         </div>
+         <div class="obavijest">
+          <p>
+           <br/>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+          </a>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=136&amp;mshow=1427#mod_news" title="Izložba učeničkih radova OŠ Bobota">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p style="font-weight: bold;">
+           <br/>
+           <br/>
+          </p>
+          <p>
+          </p>
+          <p class="desno">
+           <br/>
+           <span class="potpisano">
+           </span>
+          </p>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p style="font-weight: bold;">
+           <br/>
+           <br/>
+          </p>
+          <p>
+          </p>
+          <p class="desno">
+           <br/>
+           <span class="potpisano">
+           </span>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=135&amp;mshow=1427#mod_news" title="POZIV / &amp;#1055;&amp;#1054;&amp;#1047;&amp;#1048;&amp;#1042;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+           <img alt="" src="/upload/os-bobota/images/newsimg/134/Image/dan-ruzicastih-majica.jpg" style="width: 540px; height: 294px;"/>
+          </a>
+         </p>
+         <div class="obavijest">
+          <h2>
+           <span style="color:#ff0066;">
+           </span>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+           </a>
+          </p>
+         </div>
+         <div class="obavijest">
+          <h2>
+           <span style="color:#ff0066;">
+           </span>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+           </a>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=134&amp;mshow=1427#mod_news" title="Dan ružičastih majica / &amp;#1044;&amp;#1072;&amp;#1085; &amp;#1088;&amp;#1091;&amp;#1078;&amp;#1080;&amp;#1095;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1080;&amp;#1093; &amp;#1084;&amp;#1072;&amp;#1112;&amp;#1080;&amp;#1094;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=366">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=132#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/132/large_img_138152.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=132&amp;mshow=1427#mod_news" title="Školska slava &amp;#8211; Sveti Sava - &amp;#1064;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1072; &amp;#1089;&amp;#1083;&amp;#1072;&amp;#1074;&amp;#1072; &amp;#8211; &amp;#1057;&amp;#1074;&amp;#1077;&amp;#1090;&amp;#1080; &amp;#1057;&amp;#1072;&amp;#1074;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <br/>
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <img alt="" src="/upload/os-bobota/images/newsimg/131/Image/citanje.jpg" style="width: 540px; height: 195px;"/>
+         </p>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=131&amp;mshow=1427#mod_news" title="MEĐUNARODNI DAN ČITANJA NAGLAS  &lt;br/&gt;  &amp;#1052;&amp;#1045;&amp;#1026;&amp;#1059;&amp;#1053;&amp;#1040;&amp;#1056;&amp;#1054;&amp;#1044;&amp;#1053;&amp;#1048; &amp;#1044;&amp;#1040;&amp;#1053; &amp;#1063;&amp;#1048;&amp;#1058;&amp;#1040;&amp;#1034;&amp;#1040; &amp;#1053;&amp;#1040;&amp;#1043;&amp;#1051;&amp;#1040;&amp;#1057;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="text-align: center;">
+         </p>
+         <p>
+         </p>
+         <p style="text-align: center;">
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=130&amp;mshow=1427#mod_news" title="Novogodišnja priredba  - &amp;#1053;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1075;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1096;&amp;#1114;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1073;&amp;#1072; ">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+           <span style="text-decoration: underline; ">
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="https://www.udu-vsz.hr">
+           </a>
+          </p>
+          <p>
+          </p>
+          <p class="desno">
+           <br/>
+           <span class="potpisano">
+           </span>
+          </p>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+           <span style="text-decoration: underline; ">
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="https://www.udu-vsz.hr">
+           </a>
+          </p>
+          <p>
+          </p>
+          <p class="desno">
+           <br/>
+           <span class="potpisano">
+           </span>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=129&amp;mshow=1427#mod_news" title="OBAVIJEST  / &amp;#1054;&amp;#1041;&amp;#1040;&amp;#1042;&amp;#1045;&amp;#1064;&amp;#1058;&amp;#1045;&amp;#1034;&amp;#1045;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=127#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/127/image-0-02-05-254222bc1f995a02f0b5c52e3b7cdccaf3898ac84a7e061ee49ce647fb6aea27-V.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=127&amp;mshow=1427#mod_news" title="Školski medni dan  - &amp;#1064;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1089;&amp;#1082;&amp;#1080; &amp;#1084;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1080; &amp;#1076;&amp;#1072;&amp;#1085; ">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=366">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=126#mod_news">
+          <img align="left" alt="Nemanja Kesonja" class="news_leads_picture_img" src="/upload/os-bobota/images/newsimg/126/Kesonja2.jpg" style="margin: 0 10px 1px 0;" title="Nemanja Kesonja"/>
+         </a>
+         <p align="center">
+         </p>
+         <p>
+         </p>
+         <p align="center">
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=126&amp;mshow=1427#mod_news" title="Djeca, pjesnici roda svoga - &amp;#1044;&amp;#1077;&amp;#1094;&amp;#1072;, &amp;#1087;&amp;#1077;&amp;#1089;&amp;#1085;&amp;#1080;&amp;#1094;&amp;#1080; &amp;#1088;&amp;#1086;&amp;#1076;&amp;#1072; &amp;#1089;&amp;#1074;&amp;#1086;&amp;#1075;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=367">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=125&amp;mshow=1427#mod_news" title="Natjecanje iz povijesti - &amp;#1058;&amp;#1072;&amp;#1082;&amp;#1084;&amp;#1080;&amp;#1095;&amp;#1077;&amp;#1114;&amp;#1077; &amp;#1080;&amp;#1079; &amp;#1080;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1112;&amp;#1077;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p align="center" style="margin-bottom:9.0pt;text-align:center">
+          <strong>
+           <span style="font-size:10.0pt;font-family:" verdana="">
+           </span>
+          </strong>
+          <span style="font-size:10.0pt;font-family:" verdana="">
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <p style="margin-bottom:9.0pt;text-align:justify;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px">
+          <span style="font-size:10.0pt;font-family:" verdana="">
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <p style="margin-bottom: 9pt; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; text-align: center;">
+          <strong>
+           <span style="font-size:10.0pt;font-family:" verdana="">
+           </span>
+          </strong>
+          <span style="font-size:10.0pt;font-family:" verdana="">
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <p style="margin-bottom:9.0pt;text-align:justify;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px">
+          <span style="font-size:10.0pt;font-family:" verdana="">
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=124&amp;mshow=1427#mod_news" title="Dani kruha - &amp;#1044;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1093;&amp;#1083;&amp;#1077;&amp;#1073;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+           <img alt="" src="/upload/os-bobota/images/newsimg/122/Image/drina2.jpg" style="width: 540px; height: 304px;"/>
+          </a>
+         </p>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+           </a>
+          </p>
+         </div>
+         <p>
+          <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+           <img alt="" src="/upload/os-bobota/images/newsimg/122/Image/kucica.jpg" style="width: 540px; height: 246px;"/>
+          </a>
+         </p>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+           <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+           </a>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=122&amp;mshow=1427#mod_news" title="Bili smo na Tari / &amp;#1041;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1089;&amp;#1084;&amp;#1086; &amp;#1085;&amp;#1072; &amp;#1058;&amp;#1072;&amp;#1088;&amp;#1080;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=366">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=121&amp;mshow=1427#mod_news" title="Smotra recitatora - &amp;#1057;&amp;#1084;&amp;#1086;&amp;#1090;&amp;#1088;&amp;#1072; &amp;#1088;&amp;#1077;&amp;#1094;&amp;#1080;&amp;#1090;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1072;">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=215">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+         <div class="obavijest">
+          <h2>
+          </h2>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+         <a href="/?news_hk=1&amp;news_id=120&amp;mshow=1427#mod_news" title="PONOSNO SE HVALIMO! / &amp;#1055;&amp;#1054;&amp;#1053;&amp;#1054;&amp;#1057;&amp;#1053;&amp;#1054; &amp;#1057;&amp;#1045; &amp;#1061;&amp;#1042;&amp;#1040;&amp;#1051;&amp;#1048;&amp;#1052;&amp;#1054;!">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="text" style="clear: both; padding-top: 15px;">
+        </div>
+        <a href="/?news_archive_view=1&amp;mshow=1427#mod_news">
+        </a>
+        <div style="float:right;line-height:140%;">
+         <a href="/rss/rssfeeder.php?rss_kid=1&amp;rss_ct=news&amp;rss_uid=1" style="background-image: url(/img/themes/okrugli/4/images/icons/feed.gif);background-repeat:no-repeat;background-position: right;padding:4px 0px 0px 15px;text-decoration:none;" title="Preuzmi RSS">
+         </a>
+        </div>
+        <br/>
+        <br/>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1790" name="s3-1790">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1790_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1790/attachment/Ugovor_za_skolsku_prehranu.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1788" name="s3-1788">
+        </a>
+        <p>
+         <img alt="" src="/upload/os-bobota/images/static3/1788/Image/casopisi.jpg" style="width: 530px; height: 200px;"/>
+        </p>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+        </div>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+        </div>
+        <div id="st3_documents_52_1788_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1786" name="s3-1786">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1786_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1786/attachment/Obavijest_o_testiranju_za_ucitelja-ice__glazbene_kulture.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1785" name="s3-1785">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <div id="st3_documents_52_1785_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1785/attachment/Zahtjev.docx">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1779" name="s3-1779">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1779_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1779/attachment/Obavijest_o_testiranju.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1775" name="s3-1775">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1775_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1775/attachment/Interni_protokol_OS_Bobota.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1775/attachment/Upute_vrtici_i_skole_24_08_2020_HZJZ-1.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1775/attachment/Pranje_ruku_.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1775/attachment/Mogucnosti-izvo_enja-izvanucionicke-nastave-vezano-uz-pandemiju-COVID-19.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1775/attachment/Preporuke-za-rad-u-djelatnosti-prijevoza-putnika-autobusima-tijekom-epidemije-koronavirusa-COVID-19.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1773" name="s3-1773">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1773_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <div id="st3_documents_52_1772_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1772/attachment/Odluka_o_odabiru_najpovoljnije_ponude.PDF">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1771" name="s3-1771">
+        </a>
+        <p>
+        </p>
+        <div id="st3_documents_52_1771_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1771/attachment/Javni_poziv_za_nabavku_udzbenika.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1771/attachment/PONUDBENI_LIST_za_udzbenike_2020.-2021..docx">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1771/attachment/Troskovnik_Udzbenika_OS_BOBOTA_2020-2021_novo.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1771/attachment/Katalog_udzbenika_OS_BOBOTA_2020-2021.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1770" name="s3-1770">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1770_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1770/attachment/Popis_drugih_obrazovnih_materijala_za_skolsku_godinu_2020.-2021._godinu_u_OS_Bobota.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1769" name="s3-1769">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_46_910.html">
+         </a>
+        </p>
+        <ul>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_46_910.html">
+         </a>
+        </p>
+        <ul>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1769_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1769/attachment/Odluka_o_odabiru_ucenika.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1769/attachment/Katalog_udzbenika_OS_BOBOTA_2020-2021.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1686" name="s3-1686">
+        </a>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1686_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1681" name="s3-1681">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <em>
+         </em>
+         <em>
+         </em>
+         <em>
+         </em>
+         <strong>
+          <em>
+          </em>
+          <em>
+          </em>
+         </strong>
+         <strong>
+         </strong>
+         <em>
+         </em>
+         <strong>
+         </strong>
+        </p>
+        <p>
+         <strong>
+          <em>
+          </em>
+          <em>
+          </em>
+         </strong>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <strong>
+         </strong>
+        </p>
+        <ul>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+        </ul>
+        <p style="margin-left:36.0pt;">
+        </p>
+        <ul>
+         <li>
+          <strong>
+           <em>
+           </em>
+           <em>
+           </em>
+          </strong>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+         <strong>
+         </strong>
+        </div>
+        <div>
+        </div>
+        <div>
+         <strong>
+         </strong>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+         <strong>
+         </strong>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+        </div>
+        <div>
+        </div>
+        <div>
+         <span style="white-space:pre">
+         </span>
+         <strong>
+         </strong>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <div>
+        </div>
+        <p>
+        </p>
+        <div id="st3_documents_52_1681_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1681/attachment/Nove_preporuke_za_organizaciju_nastave_razredne_nastave_od_25.5..pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1681/attachment/Upute_vrtici_skole.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1625" name="s3-1625">
+        </a>
+        <p>
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <ol>
+         <li style="text-align: justify;">
+         </li>
+         <li style="text-align: justify;">
+          <u>
+           <a href="mailto:ured@os-bobota.skole.hr">
+           </a>
+          </u>
+         </li>
+         <li style="text-align: justify;">
+         </li>
+        </ol>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+         <strong>
+         </strong>
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <p style="text-align: justify;">
+        </p>
+        <div id="st3_documents_52_1625_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1625/attachment/IZJAVA_RODITELJA,_SKRBNIKA__SKOLA.doc">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1625/attachment/Preporuke_za_organizaciju_rada_u_razrednoj_nastavi_i_upute_za_vrednovanje_i_ocjenjivanje_u_mjesovitom_modelu_nastave.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1625/attachment/Upute_za_sprijecavanje_i_suzbijanje_epidemije_COVID-19.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1583" name="s3-1583">
+        </a>
+        <p>
+         <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+          <img alt="" src="/upload/os-bobota/images/newsimg/136/Image/Izlozba.jpg" style="width: 540px; height: 181px;"/>
+         </a>
+        </p>
+        <div class="obavijest">
+         <p>
+          <br/>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+         </a>
+        </div>
+        <div class="obavijest">
+         <p>
+          <br/>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+         </a>
+        </div>
+        <div id="st3_documents_52_1583_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1512" name="s3-1512">
+        </a>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p class="desno">
+          <br/>
+          <span class="potpisano">
+          </span>
+         </p>
+        </div>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p class="desno">
+          <br/>
+          <span class="potpisano">
+          </span>
+         </p>
+        </div>
+        <div id="st3_documents_52_1512_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1501" name="s3-1501">
+        </a>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <h2>
+         </h2>
+         <p>
+         </p>
+        </div>
+        <div class="obavijest">
+         <h2>
+         </h2>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <h2>
+         </h2>
+         <p>
+         </p>
+        </div>
+        <div id="st3_documents_52_1501_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1459" name="s3-1459">
+        </a>
+        <p>
+         <a href="http://bit.ly/osbobotauvod">
+         </a>
+        </p>
+        <p>
+        </p>
+        <div id="st3_documents_52_1459_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <div id="st3_documents_52_1448_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1448/attachment/Preporuke_odgojno-obrazovne_ustanove.docx">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1448/attachment/MZO_26_02_2020.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1456" name="s3-1456">
+        </a>
+        <div class="obavijest">
+         <h2 style="color: red;">
+         </h2>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p class="desno">
+          <br/>
+          <span class="potpisano">
+          </span>
+         </p>
+        </div>
+        <div class="obavijest">
+         <h2 style="color: red;">
+         </h2>
+         <p>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p class="desno">
+          <br/>
+          <span class="potpisano">
+          </span>
+         </p>
+        </div>
+        <div id="st3_documents_52_1456_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1456/attachment/Obavijest.PDF">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1456/attachment/Obavestenje.PDF">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1456/attachment/Upute_MZO-a_13_03_2020.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <div id="st3_documents_52_1409_0">
+         <div class="clearall">
+         </div>
+         <div class="static3_documents">
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1409/attachment/PONUDBENI_LIST_Udzbenici_za_skolsku_godinu_2019-2020_OS_Bobota.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1409/attachment/Javni_poziv_2019-2020_OS_Bobota.pdf">
+          </a>
+          <br/>
+          <a href="/upload/os-bobota/images/static3/1409/attachment/Udzbenici_OS_BOBOTA_bez_1_i_5.pdf">
+          </a>
+          <br/>
+          <br/>
+         </div>
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1408" name="s3-1408">
+        </a>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_46_910.html">
+         </a>
+        </p>
+        <ul>
+         <li>
+          <strong>
+          </strong>
+         </li>
+         <li>
+          <strong>
+          </strong>
+         </li>
+         <li>
+          <strong>
+          </strong>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_46_910.html">
+         </a>
+        </p>
+        <ul>
+         <li>
+         </li>
+         <li>
+         </li>
+         <li>
+         </li>
+        </ul>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+        <p>
+         <a href="/upload/os-bobota/images/static3/1408/File/OS%20Bobota%20popis%20udzbenika%20i%20drugih%20nast%20mat%20za%202019-2020.pdf" target="_blank">
+         </a>
+        </p>
+        <div id="st3_documents_52_1408_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1406" name="s3-1406">
+        </a>
+        <p>
+         <img alt="" src="/upload/os-bobota/images/static3/1406/Image/Odluka%20o%20pocetku%20i%20zavrsetku%202019-2020.jpg" style="width: 550px; height: 778px;"/>
+        </p>
+        <div id="st3_documents_52_1406_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1405" name="s3-1405">
+        </a>
+        <p>
+         <a href="http://os-bobota.skole.hr/upload/os-bobota/images/static3/1404/File/Kalendar%20nastave%20VS%C5%BD%20VU%20VK.pdf">
+         </a>
+        </p>
+        <p>
+         <a href="http://os-bobota.skole.hr/upload/os-bobota/images/static3/1404/File/Odluka%20o%20po%C4%8Detku%20i%20zavr%C5%A1etku%20nastavne%20godine.pdf">
+         </a>
+        </p>
+        <div id="st3_documents_52_1405_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="srednji_stupac_naslov mod_static3">
+      </div>
+      <div class="srednji_stupac_tijelo mod_static3">
+       <div style="margin: 10px;">
+        <a id="s3-1407" name="s3-1407">
+        </a>
+        <div>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+           <strong>
+            <u>
+            </u>
+           </strong>
+           <u>
+            <strong>
+            </strong>
+           </u>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <ul>
+          <li>
+           <strong>
+            <strong>
+            </strong>
+           </strong>
+          </li>
+          <li>
+           <strong>
+            <strong>
+            </strong>
+           </strong>
+          </li>
+         </ul>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+           <strong>
+           </strong>
+          </strong>
+         </p>
+         <p>
+          <strong>
+          </strong>
+         </p>
+         <ul>
+          <li>
+           <strong>
+            <strong>
+            </strong>
+            <strong>
+            </strong>
+           </strong>
+          </li>
+          <li>
+           <strong>
+            <strong>
+            </strong>
+            <strong>
+            </strong>
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <div id="st3_documents_52_1407_0">
+        </div>
+        <div class="clearall">
+        </div>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+     </div>
+     <div class="moduli">
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-1079" name="s3-1079">
+       </a>
+       <p style="margin: auto; text-align: center;">
+        <img alt="" src="/upload/os-bobota/images/static3/1079/Image/kuvarica.jpg" style="width: 98px; height: 160px;"/>
+       </p>
+       <p class="button-link">
+        <span style="font-size:10px;">
+         <a href="/upload/os-bobota/images/static3/1312/attachment/Jelovnik_lipanj_2021.pdf">
+         </a>
+        </span>
+       </p>
+       <p class="button-link">
+        <span style="font-size:10px;">
+         <a href="/upload/os-bobota/images/static3/1312/attachment/Jelovnik_jun_2021..pdf">
+         </a>
+        </span>
+       </p>
+       <div id="st3_documents_52_1079_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_calendar">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <script type="text/javascript">
+       </script>
+       <table class="cal-month m-small" width="100%">
+        <tr class="monthTitle">
+         <td colspan="7">
+          <a href="/?cal_ts=1627768800#mod_calendar">
+          </a>
+          <a href="" onclick="neww = window.open('/200?cal_vkat=1&amp;cal_view=month', 'calpopup', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=yes,width=600,height=520');neww.focus();return false;">
+          </a>
+          <a href="/?cal_ts=1633039200#mod_calendar">
+          </a>
+         </td>
+        </tr>
+        <tr class="weekday">
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_danas">
+          <span class="mod_tijelo_kalendar_danas">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+        </tr>
+       </table>
+       <div class="mod_gumbici" style="width:100%;">
+        <a href="#" onclick="InvertVisibility('roll_cal_setdisp');UpdateRollPreferences('roll_cal_setdisp');return false;">
+        </a>
+        <div id="roll_cal_setdisp" style="display:none;">
+         <div class="clearall">
+         </div>
+         <form action="/#mod_calendar" class="cal-show" method="post">
+          <fieldset>
+           <input name="cal_shown[_tempered]" type="hidden" value="true"/>
+           <input name="cal_shown[local]" type="hidden" value="true"/>
+           <input id="frm-cal-shown-all" name="cal_shown[all]" onclick="this.form.submit()" type="checkbox"/>
+           <label for="frm-cal-shown-all">
+           </label>
+          </fieldset>
+         </form>
+        </div>
+       </div>
+       <br/>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_links2">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div class="mod_tijelo_linkovi">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_0link2331" onclick="InvertVisibility('roll_0link2331');SwapImage('/img/themes/okrugli/4', 'roll_img_0link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_0link2331');return false;" src="/img/themes/okrugli/4/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_0link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=9&amp;url=http%3A%2F%2Fwww.skole.hr" target="_blank" title="Portal za škole">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=11&amp;url=http%3A%2F%2Fwww.carnet.hr" target="_blank" title="Carnet">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=12&amp;url=https%3A%2F%2Flms.carnet.hr" target="_blank" title="Nacionalni portal za učenje na daljinu">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=13&amp;url=https%3A%2F%2Fe-dnevnik.skole.hr%2Fmain%2Flogin" target="_blank" title="e-Dnevnik">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=15&amp;url=https%3A%2F%2Focjene.skole.hr" target="_blank" title="E-dnevnik za učenike i roditelje">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=16&amp;url=https%3A%2F%2Fwww.upisi.hr%2Fupisi%2F" target="_blank" title="Upisi u srednje škole">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=17&amp;url=http%3A%2F%2Fwww.cisok.hr%2Faktivnosti-u-centrima" target="_blank" title="Cisok - Vukovar">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=18&amp;url=https%3A%2F%2Fe-usmjeravanje.hzz.hr%2F" target="_blank" title="E-usmjeravanje">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=19&amp;url=http%3A%2F%2Fwww.hzz.hr%2F" target="_blank" title="Hrvatski zavod za zapošljavanje">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/4/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_hitcounter">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div id="hitcounter">
+        <br/>
+        <br/>
+        <span>
+        </span>
+        <br/>
+        <span>
+        </span>
+        <br/>
+        <span>
+        </span>
+        <br/>
+        <span>
+        </span>
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_search3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <form action="/search" id="search_form" method="get" name="search_form">
+        <input name="s3_nr" type="hidden" value="25"/>
+        <input name="s3_skip" type="hidden" value="1"/>
+        <div class="mod_tijelo_trazilica">
+         <input id="trazilica" name="s3q" type="text"/>
+         <br/>
+         <a href="/search" title="Napredno pretraživanje sadržaja školskog weba">
+         </a>
+        </div>
+        <span class="mod_gumbici">
+         <a href="#" onclick="document.search_form.submit();">
+         </a>
+        </span>
+       </form>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="nav_glavna2">
+    <div class="moduli-lijevo">
+     <a name="mod_static3">
+     </a>
+     <div class="mod_zaglavlje_lijevo">
+     </div>
+     <div class="mod_tijelo_lijevo">
+      <a id="s3-1891" name="s3-1891">
+      </a>
+      <p style="margin: auto; text-align: center;">
+       <a href="http://os-bobota.skole.hr/COVID-19">
+        <img alt="" src="/upload/os-bobota/images/static3/1891/Image/COVID-19.jpg" style="width: 136px; height: 140px;"/>
+       </a>
+      </p>
+      <div id="st3_documents_52_1891_1">
+      </div>
+      <div class="clearall">
+      </div>
+     </div>
+     <div>
+      <div class="mod_podnozje_lijevo">
+      </div>
+     </div>
+     <a name="mod_static3">
+     </a>
+     <div class="mod_zaglavlje_lijevo">
+     </div>
+     <div class="mod_tijelo_lijevo">
+      <a id="s3-1890" name="s3-1890">
+      </a>
+      <p style="margin: auto; text-align: center;">
+       <img alt="" src="/upload/os-bobota/images/static3/1890/Image/skolsko-zvono.jpg" style="width: 140px; height: 80px;"/>
+      </p>
+      <p class="button-link">
+       <span style="font-size:11px;">
+        <a href="http://os-bobota.skole.hr/upload/os-bobota/images/static3/1312/attachment/Raspored_zvonjenja_Predmetna_nastava.pdf">
+        </a>
+       </span>
+      </p>
+      <p class="button-link">
+       <span style="font-size:11px;">
+        <a href="http://os-bobota.skole.hr/upload/os-bobota/images/static3/1312/attachment/Raspored_zvonjenja_Razredna_nastava-redovna_nastava.pdf">
+         <br/>
+         <span style="font-size:8px;">
+         </span>
+        </a>
+       </span>
+      </p>
+      <p class="button-link">
+       <span style="font-size:11px;">
+        <a href="http://os-bobota.skole.hr/upload/os-bobota/images/static3/1312/attachment/Raspored_zvonjenja_Razredna_nastava_-_za_vrijeme_pandemije.pdf">
+         <br/>
+         <span style="font-size:8px;">
+          <br/>
+         </span>
+        </a>
+       </span>
+      </p>
+      <div id="st3_documents_52_1890_1">
+      </div>
+      <div class="clearall">
+      </div>
+     </div>
+     <div>
+      <div class="mod_podnozje_lijevo">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="potpis" style="line-height:47px;">
+    <div style="float:right;">
+     <a href="http://www.carnet.hr/cms_za_skole" target="_blank">
+      <img alt="CMS za škole logo" src="/img/themes/default/images/cms-logo.png"/>
+     </a>
+    </div>
+    <a href="http://os-bobota.skole.hr/">
+    </a>
+    <a href="mailto:ured@os-bobota.skole.hr">
+    </a>
+   </div>
+  </div>
+  <a class="skipper" href="#navigation">
+  </a>
+  <script>
+  </script>
+ </body>
+</html>

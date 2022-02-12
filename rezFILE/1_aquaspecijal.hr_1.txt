@@ -1,0 +1,296 @@
+<html>
+ <body>
+  <feed xml:base="http://aquaspecijal.hr/wp-atom.php" xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0">
+   <title type="text">
+   </title>
+   <subtitle type="text">
+   </subtitle>
+   <updated>
+   </updated>
+   <link href="http://aquaspecijal.hr" rel="alternate" type="text/html"/>
+   <id>
+   </id>
+   <link href="http://aquaspecijal.hr/feed/atom/" rel="self" type="application/atom+xml"/>
+   <generator uri="http://wordpress.org/" version="3.3.1">
+   </generator>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/smanjenje-gubitaka-u-vodoopskrbnom-sustavu-klinca-sela-s-58-na-28/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/smanjenje-gubitaka-u-vodoopskrbnom-sustavu-klinca-sela-s-58-na-28/">
+     <p>
+     </p>
+     <p>
+      <a href="http://aquaspecijal.hr/wp-content/uploads/2021/05/hr_vodoprivreda-235_web_21-26-29.pdf">
+      </a>
+     </p>
+    </content>
+    <link href="http://aquaspecijal.hr/smanjenje-gubitaka-u-vodoopskrbnom-sustavu-klinca-sela-s-58-na-28/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/smanjenje-gubitaka-u-vodoopskrbnom-sustavu-klinca-sela-s-58-na-28/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/program-smanjenja-gubitaka-u-vodovodima/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/program-smanjenja-gubitaka-u-vodovodima/">
+     <strong>
+     </strong>
+    </content>
+    <link href="http://aquaspecijal.hr/program-smanjenja-gubitaka-u-vodovodima/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/program-smanjenja-gubitaka-u-vodovodima/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/sudjelovanje-u-programu-dubinskih-pregleda-potrosaca/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/sudjelovanje-u-programu-dubinskih-pregleda-potrosaca/">
+     <strong>
+     </strong>
+    </content>
+    <link href="http://aquaspecijal.hr/sudjelovanje-u-programu-dubinskih-pregleda-potrosaca/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/sudjelovanje-u-programu-dubinskih-pregleda-potrosaca/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/izrada-hidrotehnickih-projekata/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/izrada-hidrotehnickih-projekata/">
+    </content>
+    <link href="http://aquaspecijal.hr/izrada-hidrotehnickih-projekata/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/izrada-hidrotehnickih-projekata/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/upravljanje-projektima-smanjenja-gubitaka-u-vodoopskrbnim-sustavima/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/upravljanje-projektima-smanjenja-gubitaka-u-vodoopskrbnim-sustavima/">
+     <strong>
+      <a href="http://aquaspecijal.hr/upravljanje-projektima/" title="Upravljanje projektima smanjenja gubitaka u vodoopskrbnim sustavima">
+      </a>
+     </strong>
+    </content>
+    <link href="http://aquaspecijal.hr/upravljanje-projektima-smanjenja-gubitaka-u-vodoopskrbnim-sustavima/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/upravljanje-projektima-smanjenja-gubitaka-u-vodoopskrbnim-sustavima/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/sustavno-gospodarenje-energijom-i-isge-tecajevi-za-energetske-savjetnike-i-suradnike/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/sustavno-gospodarenje-energijom-i-isge-tecajevi-za-energetske-savjetnike-i-suradnike/">
+     <p>
+     </p>
+     <p>
+      <a href="http://www.isge.hr/seminar">
+      </a>
+     </p>
+     <p>
+      <a href="http://www.apn.hr/novosti/tecajevi-za-energetske-savjetnike-i-suradnike-4/">
+      </a>
+     </p>
+    </content>
+    <link href="http://aquaspecijal.hr/sustavno-gospodarenje-energijom-i-isge-tecajevi-za-energetske-savjetnike-i-suradnike/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/sustavno-gospodarenje-energijom-i-isge-tecajevi-za-energetske-savjetnike-i-suradnike/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/glavni-i-izvedbeni-projekt-sustava-vodoopskrbe-i-odvodnje/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/glavni-i-izvedbeni-projekt-sustava-vodoopskrbe-i-odvodnje/">
+    </content>
+    <link href="http://aquaspecijal.hr/glavni-i-izvedbeni-projekt-sustava-vodoopskrbe-i-odvodnje/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/glavni-i-izvedbeni-projekt-sustava-vodoopskrbe-i-odvodnje/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/analiza-potrosnje-vode-ustanova-gospodarske-i-drustvene-namjene/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/analiza-potrosnje-vode-ustanova-gospodarske-i-drustvene-namjene/">
+    </content>
+    <link href="http://aquaspecijal.hr/analiza-potrosnje-vode-ustanova-gospodarske-i-drustvene-namjene/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/analiza-potrosnje-vode-ustanova-gospodarske-i-drustvene-namjene/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/mjeraci-protoka-u-kanalizacijskim-sustavima-i-ostalim-otvorenim-kanalima/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/mjeraci-protoka-u-kanalizacijskim-sustavima-i-ostalim-otvorenim-kanalima/">
+     <a href="http://aquaspecijal.hr/kontakti/" title="Kontakti">
+     </a>
+    </content>
+    <link href="http://aquaspecijal.hr/mjeraci-protoka-u-kanalizacijskim-sustavima-i-ostalim-otvorenim-kanalima/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/mjeraci-protoka-u-kanalizacijskim-sustavima-i-ostalim-otvorenim-kanalima/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+   <entry>
+    <author>
+     <name>
+     </name>
+    </author>
+    <title type="html">
+    </title>
+    <link href="http://aquaspecijal.hr/optimizacija-kanalizacijskih-sustava/" rel="alternate" type="text/html"/>
+    <id>
+    </id>
+    <updated>
+    </updated>
+    <published>
+    </published>
+    <category scheme="http://aquaspecijal.hr" term="Nekategorizirano">
+    </category>
+    <summary type="html">
+    </summary>
+    <content type="html" xml:base="http://aquaspecijal.hr/optimizacija-kanalizacijskih-sustava/">
+     <a href="http://aquaspecijal.hr/kontakti/" title="Kontakti">
+     </a>
+    </content>
+    <link href="http://aquaspecijal.hr/optimizacija-kanalizacijskih-sustava/#comments" rel="replies" thr:count="0" type="text/html"/>
+    <link href="http://aquaspecijal.hr/optimizacija-kanalizacijskih-sustava/feed/atom/" rel="replies" thr:count="0" type="application/atom+xml"/>
+    <thr:total>
+    </thr:total>
+   </entry>
+  </feed>
+ </body>
+</html>

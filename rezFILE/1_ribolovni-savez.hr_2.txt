@@ -1,0 +1,12 @@
+<html>
+ <body>
+  <p>
+  </p>
+  <blockquote class='\"wp-embedded-content\"'>
+   <a href='\"http:\/\/ribolovni-savez.hr\/\"'>
+    <script type="text\/javascript">
+    </script>
+   </a>
+  </blockquote>
+ </body>
+</html>

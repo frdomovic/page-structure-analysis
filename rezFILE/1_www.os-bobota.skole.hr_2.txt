@@ -1,0 +1,1380 @@
+<html>
+ <body>
+  <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+    <link/>
+    <description>
+    </description>
+    <pubdate>
+    </pubdate>
+    <lastbuilddate>
+    </lastbuilddate>
+    <generator>
+    </generator>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <img alt="" src="/upload/os-bobota/images/newsimg/188/Image/letnja-skole-kaligrafije.jpg" style="width: 540px; height: 540px;"/>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: justify;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="color:#FF0000;">
+      </span>
+      <p style="text-align: center;">
+       <span style="color:#FF0000;">
+       </span>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p>
+       <br/>
+      </p>
+      <p>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+      <p>
+       <br/>
+       <br/>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <br/>
+      <p>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="font-size:18px;">
+       <span style="color:#FF0000;">
+       </span>
+      </span>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <p>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="color:#FF0000;">
+       <strong>
+       </strong>
+       <strong>
+       </strong>
+      </span>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+      </div>
+      <div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+       <div>
+       </div>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <img alt="" src="/upload/os-bobota/images/newsimg/171/Image/Dan-ruzicastih-majica-2021-2.jpg" style="width: 540px; height: 309px; margin:auto;"/>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="font-size:18px;">
+       <strong>
+       </strong>
+      </span>
+      <p style="text-align: justify;">
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p style="text-align: right;">
+      </p>
+      <p style="text-align: right;">
+      </p>
+      <p style="text-align: center;">
+       <span style="font-size:18px;">
+        <strong>
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p style="text-align: right;">
+      </p>
+      <p style="text-align: right;">
+      </p>
+      <p style="text-align: right;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span lang="sr-RS">
+      </span>
+      <p class="western" lang="sr-RS" style="margin-bottom: 0.35cm">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p style="text-align: justify;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <br/>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <br/>
+      <p style="text-align: justify;">
+       <br/>
+      </p>
+      <p style="text-align: right;">
+       <br/>
+      </p>
+      <p style="text-align: justify;">
+       <br/>
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: right;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="display: none;">
+      </span>
+      <span style="color:#B22222;">
+       <strong>
+       </strong>
+      </span>
+      <p style="text-align: center;">
+       <span style="color:#B22222;">
+        <strong>
+        </strong>
+       </span>
+       <span style="display: none;">
+       </span>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p style="text-align: center;">
+       <strong>
+       </strong>
+      </p>
+      <p style="text-align: justify;">
+      </p>
+      <p style="text-align: center;">
+       <strong>
+       </strong>
+      </p>
+      <p style="text-align: justify;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="color:#FF0000;">
+       <span style="font-size:14px;">
+       </span>
+      </span>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span style="color:#FF0000;">
+       <strong>
+       </strong>
+      </span>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <strong>
+      </strong>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p style="margin-left:247.8pt;">
+      </p>
+      <p style="margin-left:247.8pt;">
+      </p>
+      <p style="text-align: center;">
+       <strong>
+       </strong>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p style="margin-left:283.2pt;">
+      </p>
+      <p style="margin-left:247.8pt;">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <font color="#333333">
+       <font face="sans-serif, Arial, Verdana, Trebuchet MS">
+        <font style="font-size: 12pt;">
+        </font>
+       </font>
+      </font>
+      <p ms="" style="color: rgb(51, 51, 51); font-family: sans-serif, Arial, Verdana, " trebuchet="">
+       <font color="#333333">
+        <font face="sans-serif, Arial, Verdana, Trebuchet MS">
+         <font style="font-size: 12pt;">
+         </font>
+        </font>
+       </font>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+       <font face="Liberation Serif, serif">
+        <font size="3" style="font-size: 12pt">
+         <font color="#444444">
+          <font size="2" style="font-size: 11pt">
+           <span style="background: #ffffff">
+           </span>
+          </font>
+         </font>
+         <font color="#444444">
+          <font size="2" style="font-size: 11pt">
+           <span lang="sr-RS">
+            <span style="background: #ffffff">
+            </span>
+           </span>
+          </font>
+         </font>
+         <font color="#444444">
+          <font size="2" style="font-size: 11pt">
+           <span style="background: #ffffff">
+           </span>
+          </font>
+         </font>
+         <font color="#444444">
+          <font size="2" style="font-size: 11pt">
+           <span lang="sr-RS">
+            <span style="background: #ffffff">
+            </span>
+           </span>
+          </font>
+         </font>
+         <font color="#444444">
+          <font size="2" style="font-size: 11pt">
+           <span style="background: #ffffff">
+           </span>
+          </font>
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+          <span style="background: #ffffff">
+          </span>
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+          <span lang="hr-HR">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+          <span style="background: #ffffff">
+          </span>
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" style="margin-bottom: 0cm; line-height: 100%; background: #ffffff">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+         </font>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <span lang="sr-RS">
+         </span>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="hr-HR">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+          <span style="background: #ffffff">
+          </span>
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+          <span style="background: #ffffff">
+          </span>
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 108%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+          <span lang="sr-RS">
+           <span style="background: #ffffff">
+           </span>
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+         <span lang="sr-RS">
+         </span>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <span lang="sr-RS">
+         </span>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+         <font color="#444444">
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0.28cm; line-height: 108%">
+       <font face="Liberation Serif, serif">
+        <font size="2" style="font-size: 11pt">
+         <font color="#444444">
+          <span lang="sr-RS">
+          </span>
+         </font>
+        </font>
+       </font>
+      </p>
+      <p align="justify" class="western" style="margin-bottom: 0cm; line-height: 100%">
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <span lang="sr-RS">
+      </span>
+      <span lang="hr-HR">
+      </span>
+      <span lang="hr-HR">
+      </span>
+      <p align="justify" style="margin-bottom: 0cm; line-height: 100%">
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+       <img alt="" src="/upload/os-bobota/images/newsimg/136/Image/Izlozba.jpg" style="width: 540px; height: 181px;"/>
+      </a>
+      <div class="obavijest">
+       <p>
+        <br/>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+       </a>
+      </div>
+      <div class="obavijest">
+       <p>
+        <br/>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=140&amp;limit=&amp;curr_page=1">
+       </a>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <h2>
+      </h2>
+      <p>
+      </p>
+      <p style="font-weight: bold;">
+       <br/>
+       <br/>
+      </p>
+      <p>
+      </p>
+      <p class="desno">
+       <br/>
+       <span class="potpisano">
+       </span>
+      </p>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p style="font-weight: bold;">
+        <br/>
+        <br/>
+       </p>
+       <p>
+       </p>
+       <p class="desno">
+        <br/>
+        <span class="potpisano">
+        </span>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+       <img alt="" src="/upload/os-bobota/images/newsimg/134/Image/dan-ruzicastih-majica.jpg" style="width: 540px; height: 294px;"/>
+      </a>
+      <div class="obavijest">
+       <h2>
+        <span style="color:#ff0066;">
+        </span>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+        </a>
+       </p>
+      </div>
+      <div class="obavijest">
+       <h2>
+        <span style="color:#ff0066;">
+        </span>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=139">
+        </a>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+      <br/>
+     </title>
+     <link/>
+     <description>
+      <img alt="" src="/upload/os-bobota/images/newsimg/131/Image/citanje.jpg" style="width: 540px; height: 195px;"/>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+      </div>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p style="text-align: center;">
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <h2>
+      </h2>
+      <p>
+      </p>
+      <p>
+       <span style="text-decoration: underline; ">
+       </span>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="https://www.udu-vsz.hr">
+       </a>
+      </p>
+      <p>
+      </p>
+      <p class="desno">
+       <br/>
+       <span class="potpisano">
+       </span>
+      </p>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+        <span style="text-decoration: underline; ">
+        </span>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="https://www.udu-vsz.hr">
+        </a>
+       </p>
+       <p>
+       </p>
+       <p class="desno">
+        <br/>
+        <span class="potpisano">
+        </span>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p align="center">
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <strong>
+       <span style="font-size:10.0pt;font-family:" verdana="">
+       </span>
+      </strong>
+      <span style="font-size:10.0pt;font-family:" verdana="">
+       <o:p>
+       </o:p>
+      </span>
+      <p style="margin-bottom:9.0pt;text-align:justify;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px">
+       <span style="font-size:10.0pt;font-family:" verdana="">
+        <o:p>
+        </o:p>
+       </span>
+      </p>
+      <p style="margin-bottom: 9pt; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; text-align: center;">
+       <strong>
+        <span style="font-size:10.0pt;font-family:" verdana="">
+        </span>
+       </strong>
+       <span style="font-size:10.0pt;font-family:" verdana="">
+        <o:p>
+        </o:p>
+       </span>
+      </p>
+      <p style="margin-bottom:9.0pt;text-align:justify;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px">
+       <span style="font-size:10.0pt;font-family:" verdana="">
+        <o:p>
+        </o:p>
+       </span>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+       <img alt="" src="/upload/os-bobota/images/newsimg/122/Image/drina2.jpg" style="width: 540px; height: 304px;"/>
+      </a>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+        </a>
+       </p>
+      </div>
+      <p>
+       <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+        <img alt="" src="/upload/os-bobota/images/newsimg/122/Image/kucica.jpg" style="width: 540px; height: 246px;"/>
+       </a>
+      </p>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://os-bobota.skole.hr/fotogalerija?show=album&amp;id=134">
+        </a>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+    <item>
+     <title>
+     </title>
+     <link/>
+     <description>
+      <h2>
+      </h2>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <div class="obavijest">
+       <h2>
+       </h2>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+      </div>
+     </description>
+     <pubdate>
+     </pubdate>
+    </item>
+   </channel>
+  </rss>
+ </body>
+</html>

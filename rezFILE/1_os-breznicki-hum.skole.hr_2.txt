@@ -1,0 +1,2350 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="http://www.os-breznicki-hum.skole.hr/rss/rssfeeder.php?rss_kid=1&amp;rss_ct=news&amp;rss_uid=1" rel="alternate" title="" type="application/rss+xml"/>
+  <link href="http://www.os-breznicki-hum.skole.hr/rss/rssfeeder.php?rss_kid=5277&amp;rss_ct=foru&amp;rss_uid=1" rel="alternate" title="" type="application/rss+xml"/>
+  <style type="text/css">
+  </style>
+  <script src="/inc/js/mootools-core-1.4.5-full-nocompat-yc.js?1333452434" type="text/javascript">
+  </script>
+  <script src="/inc/js/mootools-more-1.4.0.1.js?1359987538" type="text/javascript">
+  </script>
+  <script src="/inc/js/mocha/mocha-core-window-modal-mt14.js?1364290017" type="text/javascript">
+  </script>
+  <script src="/inc/js/cms-init1.3.js?1380792939" type="text/javascript">
+  </script>
+  <script src="/inc/js/milkbox2.2-mt1.3patch.js?1308061533" type="text/javascript">
+  </script>
+  <script src="/inc/js/roll_include.js?1333633930" type="text/javascript">
+  </script>
+  <link href="/img/themes/default/strix4-default.css?1319551645" rel="stylesheet" type="text/css"/>
+  <link href="/img/themes/default/Window.css?1308061506" rel="stylesheet" type="text/css"/>
+  <link href="/img/themes/default/milkbox/milkbox.css?1308061506" rel="stylesheet" type="text/css"/>
+  <meta content="HR" http-equiv="Content-Language"/>
+  <meta content="CMS, škole, CARNet " name="keywords"/>
+  <meta content="Hrvatski" name="language"/>
+  <meta content="CARNet / CWM / Robert Rigo" name="author"/>
+  <meta content="Education" name="document-classification"/>
+  <meta content="Public" name="document-type"/>
+  <meta content="Safe for Kids" name="document-rating"/>
+  <meta content="Global" name="document-distribution"/>
+  <link href="/img/themes/default/images/favicon.ico" rel="shortcut icon" type="image/ico"/>
+  <link href="/img/themes/okrugli/2/master.css?1329395826" rel="stylesheet" type="text/css"/>
+ </head>
+ <body onload="">
+  <a class="skipper" href="#content">
+  </a>
+  <div class="okvir">
+   <div class="letva">
+    <h1>
+     <a href="/" style="text-decoration: none; color: black;">
+     </a>
+    </h1>
+    <div class="login">
+     <form action="https://login5.skole.hr/login.php" id="login" method="post" name="login">
+      <img alt="" src="/img/themes/okrugli/2/images/login_pozadina_lev_off.gif"/>
+      <input name="proto" type="hidden" value="http"/>
+      <input name="origin" type="hidden" value="https://os-breznicki-hum.skole.hr"/>
+      <input name="redirect" type="hidden" value="/"/>
+      <span class="login_naslov_off">
+      </span>
+      <span class="login_forma">
+       <input id="loginname" name="loginname" size="12" type="text"/>
+       <input id="loginpassw" name="loginpassw" onkeypress="var _e=(String(typeof(event))=='undefined')?self.event:event;var _v=_e?parseInt(_e.which||_e.keyCode||0):0;if(_v==13||_v==10)this.form.submit();else return true;" size="12" type="password"/>
+      </span>
+      <span class="login_gumb_off">
+       <a href="#" onclick="document.login.submit();" title="Uđi">
+       </a>
+      </span>
+      <img alt="" src="/img/themes/okrugli/2/images/login_pozadina_des_off.gif"/>
+     </form>
+    </div>
+    <div class="nav_globalna">
+     <a class="horiz-link" href="https://ocjene.skole.hr" title="e-dnevnik za učenike">
+     </a>
+     <a class="horiz-link" href="https://ec.europa.eu/croatia/education/what_is_safety_on_internet_and_how_to_protect_personal_data_online_hr" title="sigurnost na internetu">
+     </a>
+     <a class="horiz-link" href="http://ucitelji.hr/" title="učitelji.hr">
+     </a>
+     <a class="horiz-link" href="http://lms.carnet.hr/" title="OnLine tečajevi">
+     </a>
+    </div>
+   </div>
+   <div class="nav_glavna">
+    <div class="nav_glavna_zaglavlje">
+     <br/>
+    </div>
+    <div class="nav_glavna_tijelo" id="navigation">
+     <div class="navigation">
+      <div class="nivo1 selected">
+       <a href="http://os-breznicki-hum.skole.hr/">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/nastava_na_daljinu">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola">
+       </a>
+       <span class="nav open" id="kid-vnav_5254" onclick="InvertVisibility('vnav_5254');UpdateRollPreferences('vnav_5254');$('kid-vnav_5254').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5254" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/povijest">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/djelatnici">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/kontakti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/knjiznica">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/nastava">
+       </a>
+       <span class="nav open" id="kid-vnav_5265" onclick="InvertVisibility('vnav_5265');UpdateRollPreferences('vnav_5265');$('kid-vnav_5265').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5265" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/nastava/predmeti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/razredna_nastava">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/razredi">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/nastava/predmeti/razredna_nastava">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/podrucna_skola">
+       </a>
+       <span class="nav open" id="kid-vnav_5359" onclick="InvertVisibility('vnav_5359');UpdateRollPreferences('vnav_5359');$('kid-vnav_5359').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5359" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/podrucna_skola/u_iteljice">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/podrucna_skola/raspored">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/terenska_nastava">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/projekti">
+       </a>
+       <span class="nav open" id="kid-vnav_5263" onclick="InvertVisibility('vnav_5263');UpdateRollPreferences('vnav_5263');$('kid-vnav_5263').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5263" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/projekti/odnos">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/projekti/ljekovito_bilje">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/projekti/kuharica">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/projekti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/projekti/zdrava_prehrana">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/nastava/natjecanja">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/nastava/aktivnosti">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/skolska_zadruga">
+       </a>
+       <span class="nav open" id="kid-vnav_5357" onclick="InvertVisibility('vnav_5357');UpdateRollPreferences('vnav_5357');$('kid-vnav_5357').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5357" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skolsa/povijest">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/dokumentacija">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/sekcije">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/katalog_proizvoda">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/novine">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/oglasna_ploca">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/informaticki_kutak">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/tehnicki_kutak/">
+       </a>
+       <span class="nav open" id="kid-vnav_5438" onclick="InvertVisibility('vnav_5438');UpdateRollPreferences('vnav_5438');$('kid-vnav_5438').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5438" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/tehnicki_kutak/prometna_grupa/">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/pedagoski_kutak">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/jezicni_kutak">
+       </a>
+       <span class="nav open" id="kid-vnav_5429" onclick="InvertVisibility('vnav_5429');UpdateRollPreferences('vnav_5429');$('kid-vnav_5429').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5429" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/sprichst_du_deutsch">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/Do_you_speak_english">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/hablas_espanol">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/ekologija">
+       </a>
+       <span class="nav open" id="kid-vnav_5384" onclick="InvertVisibility('vnav_5384');UpdateRollPreferences('vnav_5384');$('kid-vnav_5384').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5384" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/ekologija/program_eko_kole">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/plan_djelovanja">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/ocjena_stanja_okoli_a">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/eko_odbor">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/eko_patrola">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/eko_kodeks">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/eko_himna">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/razmjena_znanja/ECDL">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/kutak_za_roditelje">
+       </a>
+       <span class="nav open" id="kid-vnav_5442" onclick="InvertVisibility('vnav_5442');UpdateRollPreferences('vnav_5442');$('kid-vnav_5442').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5442" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/raspored">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/informacije">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/roditeljski">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/vijece">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/povjerenstvo">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/jelovnik">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/Roditelji/raspored">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/vozni_red">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/forum">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/roditelji/zastita">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/razmjena">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/fotogalerija">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/forum">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/preferences">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/popis_udzbenika">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/upis">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/donacije">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/pravo_na_pristup_informacijama">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/zaposljavanje">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/plan_nabave">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/dokumenti">
+       </a>
+       <span class="nav open" id="kid-vnav_5424" onclick="InvertVisibility('vnav_5424');UpdateRollPreferences('vnav_5424');$('kid-vnav_5424').toggleClass('open');return false;">
+       </span>
+      </div>
+      <div id="vnav_5424" style="display:none;">
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/dokumenti/opci_akti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/dokumenti/sluzbeni_akti">
+        </a>
+       </div>
+       <div class="nivo2">
+        <a href="http://os-breznicki-hum.skole.hr/skola/dokumenti/skolski_odbor/">
+        </a>
+       </div>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/javni_poziv_za_ponude">
+       </a>
+      </div>
+      <div class="nivo1">
+       <a href="http://os-breznicki-hum.skole.hr/skola/zastita_osobnih_podataka">
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="nav_glavna_podnozje">
+     <br/>
+    </div>
+   </div>
+   <div class="sadrzaj">
+    <div class="sadrzaj_zaglavlje">
+     <div class="banner_header">
+      <div class="b_header">
+       <p>
+       </p>
+       <p>
+        <img alt="" src="/upload/os-breznicki-hum/images/headers/Image/DSCF5138%5B1%5D.jpg" style="width: 190px; height: 175px;"/>
+        <img alt="" src="/upload/os-breznicki-hum/images/headers/Image/okolis2.jpg" style="width: 180px; height: 175px;"/>
+        <img alt="" src="/upload/os-breznicki-hum/images/headers/Image/DSCF5142%5B1%5D.png" style="width: 180px; height: 175px;"/>
+        <img alt="" src="/upload/os-breznicki-hum/images/headers/Image/okolis4.jpg" style="height: 175px; width: 190px;"/>
+       </p>
+      </div>
+      <div style="clear:both">
+      </div>
+     </div>
+     <div class="clearall">
+     </div>
+    </div>
+    <div class="sadrzaj_tijelo" id="content">
+     <div class="putanja">
+      <a href="/">
+      </a>
+     </div>
+     <div class="clanak">
+      <a name="mod_news">
+      </a>
+      <div class="srednji_stupac_naslov mod_news">
+      </div>
+      <div class="srednji_stupac_tijelo mod_news">
+       <div style="margin: 10px;">
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1587#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1587/preuzmi_(2).jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1587&amp;mshow=290#mod_news" title="OBAVIJEST">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1586#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1586/1.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1586&amp;mshow=290#mod_news" title="Dan sjećanja (18.11.1991. - 18.11.2021.)">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1585#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1585/IMG_20211117_084527.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1585&amp;mshow=290#mod_news" title="Luka Vuglač dobitnik glavne nagrade Nacionalnog kviza za poticanje  čitanja">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1584#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1584/IMG-20211116-WA0009.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <em>
+          </em>
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1584&amp;mshow=290#mod_news" title="Kako biti tolerantan">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1583#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1583/2.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p style="text-align: justify;">
+          <a href="http://os-breznicki-hum.skole.hr/upload/os-breznicki-hum/newsattach/1582/Upute-za-sprjecavanje-i-suzbijanje-epidemije-bolesti-COVID-19-vezano-uz-rad-predskolskih-ustanova-osnovnih-i-srednjih-skola-u-skolskoj-godini-2021.-2022..pdf" style="color: rgb(21, 127, 255); outline: 0px; font-family: verdana, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">
+          </a>
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1583&amp;mshow=290#mod_news" title="Nove Upute HZJZ-a od 8. studenoga 2021.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1582#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1582/preuzmi.jfif" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+          <strong>
+          </strong>
+         </p>
+         <p style="text-align: justify;">
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1582&amp;mshow=290#mod_news" title="OBAVIJEST O JESENSKOM ODMORU">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1581#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1581/IMG_20211029_100320.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1581&amp;mshow=290#mod_news" title="Šetnja do utvrde Paka">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1580#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1580/images.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1580&amp;mshow=290#mod_news" title="Uzbudljivi Brijuni ">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=258">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p>
+          <big>
+           <span style="font-size:12px;">
+            <span style="font-family:arial,helvetica,sans-serif;">
+             <span style="color: rgb(0, 0, 0);">
+             </span>
+             <span style="color: rgb(0, 0, 0);">
+             </span>
+             <span style="color: rgb(0, 0, 0);">
+             </span>
+            </span>
+           </span>
+          </big>
+         </p>
+         <p align="center">
+          <img alt="europski dan jezika" height="200px" src="https://ckbuzim.ba/wp-content/uploads/2017/09/Europski-dan-jezika-2016-800x533.jpg" width="300px"/>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1579&amp;mshow=290#mod_news" title="Europski dan jezika">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1577#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1577/IMG_0245.JPG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1577&amp;mshow=290#mod_news" title="Solidarnost na djelu 2021.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1576#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1576/Zec-i-lisica-Bruno-Hadrovic-e1634422856876.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1576&amp;mshow=290#mod_news" title="Basna je priča prava ">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1575#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1575/razredna-300x300.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1575&amp;mshow=290#mod_news" title="Treći razred na radionici &amp;#8222;Trag&amp;#8220; u Zoološkom vrtu Zagreb">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1574#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1574/IMG-605d749cf8d8075eb865da56349dd3c9-V.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1574&amp;mshow=290#mod_news" title="Vozimo se vlakom">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1570#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1570/IMG_20211022_133452.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1570&amp;mshow=290#mod_news" title="Jabuka - kraljica voća">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1569#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1569/P1010207.JPG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p>
+          <a href="http://os-breznicki-hum.skole.hr/upload/os-breznicki-hum/newsattach/1569/Dan_kravate_.pdf" style="color: rgb(21, 127, 255); outline: 0px; font-family: verdana, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">
+          </a>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1569&amp;mshow=290#mod_news" title="Dan kravate">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1568#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1568/zbirka_(medium).jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p class="Default" style="line-height: 150%; text-align: justify;">
+          <span style="background:white">
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1568&amp;mshow=290#mod_news" title="Na Zboru malih pjesnika u Zlataru">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1564#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1564/preuzmi_(2).jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <em>
+          </em>
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1564&amp;mshow=290#mod_news" title="Tjedan školskog doručka">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1555#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1555/Slika_1.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <em>
+          </em>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1555&amp;mshow=290#mod_news" title="3. Festival kinča">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+         </p>
+         <p>
+          <a href="http://os-breznicki-hum.skole.hr/upload/os-breznicki-hum/newsattach/1552/Postupanje-s-oboljelima-bliskim-kontaktima-oboljelih-i-prekid-izolacije-i-karantene-8.pdf">
+          </a>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1552&amp;mshow=290#mod_news" title="Preporuke za postupanje s oboljelima, bliskim kontaktima oboljelih i prekid izolacije i karantene">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1551#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1551/CI.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p>
+          <a href="http://os-breznicki-hum.skole.hr/upload/os-breznicki-hum/newsattach/1551/TERMINI_TESTIRANJA.docx" style="color: rgb(21, 127, 255); outline: 0px; font-family: verdana, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">
+          </a>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1551&amp;mshow=290#mod_news" title="Obavijest o terminima testiranja za Centre izvrsnosti 2021./22.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1550#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1550/Slika_6.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1550&amp;mshow=290#mod_news" title='Europski dan jezika: "Englisch ist ein Muss, Deutsch ist ein Plus!"'>
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1549#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1549/f28dc7fa344edd15130d1603cb5d97d2993a1c10.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p>
+         </p>
+         <p style="text-align: justify;">
+          <strong>
+           <em>
+           </em>
+          </strong>
+          <a data-saferedirecturl="https://www.google.com/url?q=https://potvrde.skole.hr/login&amp;source=gmail&amp;ust=1632938687238000&amp;usg=AFQjCNE_PtqQNShb3sYlyJHKqm-Ox9NeXw" href="https://potvrde.skole.hr/login" rel="noreferrer" target="_blank">
+          </a>
+         </p>
+         <p>
+          <a href="http://os-breznicki-hum.skole.hr/upload/os-breznicki-hum/newsattach/1549/Upute_za_potvrde_(1).pdf">
+          </a>
+         </p>
+         <p>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1549&amp;mshow=290#mod_news" title="Obavijest o mogućnosti izdavanja potvrda za učenike putem sustava e-Građanin">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1548#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1548/preuzmi_(1).jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="background:white">
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+           <a href="http://os-ljubescica.skole.hr/upload/os-ljubescica/images/newsimg/852/File/CIVZ_brosura-2021.pdf">
+           </a>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <p style="background:white">
+          <strong>
+           <span style='font-size:10.0pt;font-family:
+"Verdana",sans-serif;color:black'>
+            <a href="https://docs.google.com/forms/d/1Cjej6kSUG4TR5VYGirI8fBl-PYAWNiZ5JJmkoh9GiWw/edit?usp=sharing">
+             <span style="color:#157FFF">
+             </span>
+            </a>
+           </span>
+          </strong>
+          <span style='font-size:10.0pt;font-family:"Verdana",sans-serif;color:black'>
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <p style="background:white">
+          <span style='font-size:10.0pt;font-family:"Verdana",sans-serif;
+color:black'>
+           <o:p>
+           </o:p>
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1548&amp;mshow=290#mod_news" title="Prijave za Centre izvrsnosti 2021./22.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1547#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1547/IMG_20210903_144930.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1547&amp;mshow=290#mod_news" title="Kako smo počeli">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+            <a href="/blue2/?userid=258">
+            </a>
+           </h4>
+          </div>
+         </div>
+         <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 25px; line-height: 1.3em; font-size: 42px; font-family: Poppins, sans-serif; color: rgb(59, 71, 87); outline: none !important;">
+          <span style="font-size: 20px;">
+          </span>
+         </p>
+         <p>
+          <span style="font-size: 14px;">
+          </span>
+         </p>
+         <p>
+          <span style="font-size: 14px;">
+          </span>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1546&amp;mshow=290#mod_news" title="OBAVIJEST RODITELJIMA/SKRBNICIMA">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+             <img alt="Vijest ima dokument u privitku" src="/img/themes/okrugli/2/images/icons/icon_attach.gif" title="Vijest ima dokument u privitku"/>
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1545#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1545/preuzmi_(2).jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <p style="text-align: justify;">
+          <strong>
+          </strong>
+          <a href="http://os-breznicki-hum.skole.hr/?news_hk=1&amp;news_id=1545&amp;mshow=290#mod_news" style="color: rgb(21, 127, 255); outline: 0px; font-family: verdana, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);" title="OBAVIJEST ZA UČENIKE I RODITELJE O PRVOM DANU NASTAVE U ŠKOLSKOJ GODINI 2021./2022.">
+          </a>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1545&amp;mshow=290#mod_news" title="OBAVIJEST ZA UČENIKE I RODITELJE O PRVOM DANU NASTAVE U ŠKOLSKOJ GODINI 2021./2022.">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1544#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1544/resize.aspx.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1544&amp;mshow=290#mod_news" title="&amp;#8222;Za svako dijete &amp;#8211; osmijeh&amp;#8220; ">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1541#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1541/mala1.png" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1541&amp;mshow=290#mod_news" title="Štedi, štedi jer energija puno vrijedi!">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1540#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1540/IMG_20210831_111800.jpg" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+          <strong>
+          </strong>
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1540&amp;mshow=290#mod_news" title="Zaslužena mirovina za kolegicu Ružu Futač">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="news_leads">
+         <div class="news_leads_news_title">
+          <div class="news_leads_adress_title">
+           <div style="clear: both;">
+            <h2 class="text">
+            </h2>
+           </div>
+           <h4 class="text">
+           </h4>
+          </div>
+         </div>
+         <a href="/?news_id=1539#mod_news">
+          <img align="left" alt="" class="news_leads_picture_img" src="/upload/os-breznicki-hum/images/newsimg/1539/IMG_0128.JPG" style="margin: 0 10px 1px 0;" title=""/>
+         </a>
+         <p style="text-align: justify;">
+         </p>
+         <a href="/?news_hk=1&amp;news_id=1539&amp;mshow=290#mod_news" title="Završna podjela svjedodžbi">
+         </a>
+         <div class="news_leads_admin">
+          <br/>
+         </div>
+        </div>
+        <div class="text" style="clear: both; padding-top: 15px;">
+        </div>
+        <a href="/?news_archive_view=1&amp;mshow=290#mod_news">
+        </a>
+        <div style="float:right;line-height:140%;">
+         <a href="/rss/rssfeeder.php?rss_kid=1&amp;rss_ct=news&amp;rss_uid=1" style="background-image: url(/img/themes/okrugli/2/images/icons/feed.gif);background-repeat:no-repeat;background-position: right;padding:4px 0px 0px 15px;text-decoration:none;" title="Preuzmi RSS">
+         </a>
+        </div>
+        <br/>
+        <br/>
+       </div>
+      </div>
+      <div class="srednji_stupac_podnozje">
+       <br/>
+      </div>
+     </div>
+     <div class="moduli">
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-701" name="s3-701">
+       </a>
+       <a href="https://time.is/Novi_Marof" id="time_is_link" rel="nofollow" style="font-size:15px">
+       </a>
+       <span id="Novi_Marof_z734" style="font-size:15px">
+       </span>
+       <script src="//widget.time.is/hr.js">
+       </script>
+       <script>
+       </script>
+       <div id="st3_documents_52_701_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-813" name="s3-813">
+       </a>
+       <p>
+        <span style="font-size:12px;">
+         <strong>
+         </strong>
+        </span>
+       </p>
+       <p>
+        <a href="https://www.youtube.com/watch?v=H0iSPst6w-E">
+         <img alt="" src="/upload/os-breznicki-hum/images/static3/813/Image/izgradi%20%C5%A1areno2.png" style="width: 110px; height: 88px;"/>
+        </a>
+       </p>
+       <div id="st3_documents_52_813_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div id="st3_documents_52_793_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-690" name="s3-690">
+       </a>
+       <p>
+        <span style="color: #009966">
+         <span style="font-size: 14px">
+          <strong>
+           <span style="font-family: comic sans ms, cursive">
+           </span>
+          </strong>
+         </span>
+        </span>
+        <span style="font-size: 14px">
+         <strong>
+          <span style="font-family: comic sans ms, cursive">
+          </span>
+         </strong>
+        </span>
+        <img alt="" height="100" src="/upload/os-breznicki-hum/images/static3/690/Image/2009.jpg" style="width: 134px; height: 100px" width="134"/>
+       </p>
+       <p>
+        <a href="http://www.hrt.hr/index.php?id=323&amp;tx_ttnews%5BbackPid%5D=23&amp;tx_ttnews%5Btt_news%5D=53055&amp;cHash=b208de8e43">
+        </a>
+       </p>
+       <p>
+        <a href="http://www.hrt.hr/index.php?id=323&amp;tx_ttnews%5BbackPid%5D=23&amp;tx">
+         <span style="display: none">
+         </span>
+        </a>
+       </p>
+       <div id="st3_documents_52_690_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-794" name="s3-794">
+       </a>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <img alt="" src="/upload/os-breznicki-hum/images/static3/794/Image/slu%C5%A1aj%20kako%20zemlja%20di%C5%A1e.jpg" style="width: 150px; height: 84px;"/>
+       </p>
+       <p>
+        <a href="http://radio.hrt.hr/ep/slusaj-kako-zemlja-dise/137943/">
+        </a>
+       </p>
+       <div id="st3_documents_52_794_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-800" name="s3-800">
+       </a>
+       <p>
+        <img alt="" src="/upload/os-breznicki-hum/images/static3/800/Image/indeksiraj.jpg" style="width: 120px; height: 90px;"/>
+       </p>
+       <p>
+        <span style="font-size:11px;">
+         <a href="https://www.youtube.com/watch?v=NL63uJ--68E">
+         </a>
+        </span>
+       </p>
+       <div id="st3_documents_52_800_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-676" name="s3-676">
+       </a>
+       <p>
+        <a href="http://www.cutercounter.com/" target="_blank">
+         <img alt="Free Web Hit Counter" border="0" src="http://www.cutercounter.com/hit.php?id=4484&amp;nd=6&amp;style=50"/>
+        </a>
+       </p>
+       <div id="st3_documents_52_676_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div id="st3_documents_52_734_1">
+        <div class="clearall">
+        </div>
+        <div class="static3_documents">
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Pravilnik_o_kucnom_redu_OS_Breznicki_Hum-_2018..PDF">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/KRITERIJI_ZA_OCJENU_VLADANJA.pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Odluka_o_pocetku_i_zavrsetku_nastavne_godine_2021.-2022..pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Kriteriji_vrednovanja_-_Razredna_nastava.pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Kriteriji_vrednovanja-Predmetna_nastava.pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Vrednovanje_nastave_na_daljinu_predmetna_nastava.pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/KRITERIJI_VREDNOVANJA_TIJEKOM_NASTAVE_NA_DALJINU,_RAZREDNA_NASTAVA.pdf">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/Prijava_na_office_365-Teams.docx">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/RADNO__VRIJEME__(1).docx">
+         </a>
+         <br/>
+         <a href="/upload/os-breznicki-hum/images/static3/734/attachment/RAZVOJNI_PLAN_2021.-2022..docx">
+         </a>
+         <br/>
+         <br/>
+        </div>
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-754" name="s3-754">
+       </a>
+       <p>
+        <a href="http://www.skole.hr">
+         <img alt="" src="/upload/os-breznicki-hum/images/static3/754/Image/portal zaškole.jpg" style="width: 184px; height: 46px;"/>
+        </a>
+       </p>
+       <hr/>
+       <p>
+        <a href="https://matice.mzos.hr/login.aspx?ReturnUrl=%2fdefault.aspx">
+         <img alt="" src="data:image/png;base64,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" style="width: 168px; height: 138px;"/>
+        </a>
+       </p>
+       <hr/>
+       <p>
+        <a href="https://ucilica.skole.hr/Prometna/">
+         <img alt="" height="124" src="/upload/os-breznicki-hum/images/static3/754/Image/image_axd.jpg" width="135"/>
+        </a>
+       </p>
+       <hr/>
+       <p>
+        <a href="https://e-dnevnik.skole.hr/main/login">
+         <img alt="" src="/upload/os-breznicki-hum/images/static3/754/Image/e-dnevnik.png" style="width: 135px; height: 61px;"/>
+        </a>
+       </p>
+       <hr/>
+       <p>
+        <a href="http://www.dislajkammrznju.hr/">
+         <img alt="" height="101" src="/upload/os-breznicki-hum/images/static3/754/Image/images4.jpg" width="134"/>
+        </a>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://www.duzs.hr/cpage.aspx?page=glasilo.aspx&amp;PageID=442">
+         <img alt="" src="/upload/os-breznicki-hum/images/static3/754/Image/112.png" style="width: 135px; height: 135px;"/>
+        </a>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="https://loomen.carnet.hr/course/view.php?id=7144">
+         <img alt="" src="/upload/os-breznicki-hum/images/static3/754/Image/Dabrova%20%C5%A1kola%20-%20velika.png" style="width: 180px; height: 176px;"/>
+        </a>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <div id="st3_documents_52_754_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_links2">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div class="mod_tijelo_linkovi">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_0link2331" onclick="InvertVisibility('roll_0link2331');SwapImage('/img/themes/okrugli/2', 'roll_img_0link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_0link2331');return false;" src="/img/themes/okrugli/2/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_0link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=27&amp;url=http%3A%2F%2Fsjedi5.com%2F" target="_blank" title="Portal Sjedi 5">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/2/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_1link2331" onclick="InvertVisibility('roll_1link2331');SwapImage('/img/themes/okrugli/2', 'roll_img_1link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_1link2331');return false;" src="/img/themes/okrugli/2/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_1link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=10&amp;url=http%3A%2F%2Fwww.mzos.hr" target="_blank" title="MZOS">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=11&amp;url=http%3A%2F%2Fwww.azoo.hr" target="_blank" title="AZOO">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=12&amp;url=https%3A%2F%2Fmatice.mzos.hr%2Flogin.aspx%3FReturnUrl%3D%252fdefault.aspx" target="_blank" title="MATICA MZOS">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/2/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_2link2331" onclick="InvertVisibility('roll_2link2331');SwapImage('/img/themes/okrugli/2', 'roll_img_2link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_2link2331');return false;" src="/img/themes/okrugli/2/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_2link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=1&amp;url=http%3A%2F%2Fwww.vecernji-list.hr" target="_blank" title="Večernji list">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=2&amp;url=http%3A%2F%2Fwww.jutarnji.hr" target="_blank" title="Jutarnji list">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=14&amp;url=http%3A%2F%2Fwww.24sata.hr" target="_blank" title="24 sata">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/2/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_3link2331" onclick="InvertVisibility('roll_3link2331');SwapImage('/img/themes/okrugli/2', 'roll_img_3link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_3link2331');return false;" src="/img/themes/okrugli/2/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_3link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=15&amp;url=http%3A%2F%2Fwww.bug.hr" target="_blank" title="BUG">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=16&amp;url=http%3A%2F%2Fwww.enter.bug.hr" target="_blank" title="ENTER">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=17&amp;url=http%3A%2F%2Fwww.pcchip.hr" target="_blank" title="PC CHIP">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/2/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td class="links-bar">
+           <strong>
+           </strong>
+          </td>
+          <td align="center" class="links-bar" width="12">
+           <img alt="" id="roll_img_4link2331" onclick="InvertVisibility('roll_4link2331');SwapImage('/img/themes/okrugli/2', 'roll_img_4link2331', 'icons/maximize.gif', 'icons/minimize.gif');UpdateRollPreferences('roll_4link2331');return false;" src="/img/themes/okrugli/2/images/icons/minimize.gif"/>
+          </td>
+         </tr>
+        </table>
+        <div id="roll_4link2331" style="display:block;">
+         <table border="0" cellpadding="2" cellspacing="1" width="100%">
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=18&amp;url=http%3A%2F%2Fwww.sysprint.hr%2Fdrvo%2F" target="_blank" title="Drvo znanja">
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <a href="/redir_links2.php?l_id=19&amp;url=http%3A%2F%2Fwww.nationalgeographic.com.hr" target="_blank" title="National Geographic">
+            </a>
+           </td>
+          </tr>
+         </table>
+        </div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+         <tr>
+          <td>
+           <img alt="" border="0" height="4" src="/img/themes/okrugli/2/images/spacer.gif" width="100"/>
+           <br/>
+          </td>
+         </tr>
+        </table>
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-798" name="s3-798">
+       </a>
+       <p>
+       </p>
+       <p>
+        <span style="font-size:9px;">
+         <a href="https://goo.gl/forms/OEk0oh1n3IekPF1d2">
+         </a>
+        </span>
+       </p>
+       <div id="st3_documents_52_798_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_static3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <a id="s3-788" name="s3-788">
+       </a>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+       </p>
+       <p>
+        <a href="http://youtu.be/t7AtZVTtz0k">
+         <img alt="" height="88" src="/upload/os-breznicki-hum/images/static3/788/Image/prica.png" width="118"/>
+        </a>
+       </p>
+       <div id="st3_documents_52_788_1">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_calendar">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <script type="text/javascript">
+       </script>
+       <table class="cal-month m-small" width="100%">
+        <tr class="monthTitle">
+         <td colspan="7">
+          <a href="/?cal_ts=1633039200#mod_calendar">
+          </a>
+          <a href="" onclick="neww = window.open('/200?cal_vkat=60&amp;cal_view=month', 'calpopup', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=yes,width=600,height=520');neww.focus();return false;">
+          </a>
+          <a href="/?cal_ts=1638313200#mod_calendar">
+          </a>
+         </td>
+        </tr>
+        <tr class="weekday">
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_danas">
+          <span class="mod_tijelo_kalendar_danas">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+         <td class="cal_weekend">
+          <span class="">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="">
+          <span class="">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+        </tr>
+        <tr class="days">
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+         <td class="mod_tijelo_kalendar_prosli cal_weekend">
+          <span class="mod_tijelo_kalendar_prosli">
+          </span>
+         </td>
+        </tr>
+       </table>
+       <div class="mod_gumbici" style="width:100%;">
+        <a href="#" onclick="InvertVisibility('roll_cal_setdisp');UpdateRollPreferences('roll_cal_setdisp');return false;">
+        </a>
+        <div id="roll_cal_setdisp" style="display:none;">
+         <div class="clearall">
+         </div>
+         <form action="/#mod_calendar" class="cal-show" method="post">
+          <fieldset>
+           <input name="cal_shown[_tempered]" type="hidden" value="true"/>
+           <input name="cal_shown[local]" type="hidden" value="true"/>
+           <input id="frm-cal-shown-all" name="cal_shown[all]" onclick="this.form.submit()" type="checkbox"/>
+           <label for="frm-cal-shown-all">
+           </label>
+          </fieldset>
+         </form>
+        </div>
+       </div>
+       <br/>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_search3">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <form action="/search" id="search_form" method="get" name="search_form">
+        <input name="s3_nr" type="hidden" value="25"/>
+        <input name="s3_skip" type="hidden" value="1"/>
+        <div class="mod_tijelo_trazilica">
+         <input id="trazilica" name="s3q" type="text"/>
+         <br/>
+         <a href="/search" title="Napredno pretraživanje sadržaja školskog weba">
+         </a>
+        </div>
+        <span class="mod_gumbici">
+         <a href="#" onclick="document.search_form.submit();">
+         </a>
+        </span>
+       </form>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_rss">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div style="align: center;">
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_anketa">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div class="anketa-wrapper">
+        <strong>
+        </strong>
+        <form action="/?ank_action=vote" id="anketa_forma_330" method="post">
+         <fieldset>
+          <input name="anketa_id" type="hidden" value="6"/>
+          <input name="layout_id" type="hidden" value="330"/>
+          <input id="ankid-18" name="radiobutton_glasaj" type="radio" value="18"/>
+          <label for="ankid-18">
+          </label>
+          <br/>
+          <input id="ankid-19" name="radiobutton_glasaj" type="radio" value="19"/>
+          <label for="ankid-19">
+          </label>
+          <br/>
+          <div class="gumbi">
+           <input class="gumb" name="anketaGlasaj" type="submit" value="Glasaj"/>
+           <span class="s1">
+           </span>
+           <a class="strix-popup gumb" href="/?only_mod_instance=71_330_1&amp;ank_action=results&amp;anketa_id=6" rel="{method:'iframe',width:600,height:200}" title="Rezultati ankete">
+           </a>
+           <span class="s2">
+           </span>
+           <a class="strix-popup gumb" href="/?only_mod_instance=71_330_1&amp;ank_action=archive" rel="{method:'iframe',width:600,height:300}" title="Prijašnje ankete">
+           </a>
+          </div>
+         </fieldset>
+        </form>
+       </div>
+       <br/>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+      <a name="mod_rss">
+      </a>
+      <div class="mod_zaglavlje">
+      </div>
+      <div class="mod_tijelo">
+       <div class="mod_tijelo_forum">
+        <ul>
+         <li>
+          <a href="http://www.os-breznicki-hum.skole.hr/forum?f3[action]=topic-show&amp;f3[tid]=22&amp;f3[pid]=100#f3_msg_22_100" title="Hadrović Danijel, 10.09.2013. 17:17">
+          </a>
+         </li>
+         <li>
+          <a href="http://www.os-breznicki-hum.skole.hr/forum?f3[action]=topic-show&amp;f3[tid]=25&amp;f3[pid]=96#f3_msg_25_96" title="Inkret-Martinčević Ljiljana, 07.11.2011. 07:05">
+          </a>
+         </li>
+         <li>
+          <a href="http://www.os-breznicki-hum.skole.hr/forum?f3[action]=topic-show&amp;f3[tid]=16&amp;f3[pid]=87#f3_msg_16_87" title="Inkret-Martinčević Ljiljana, 30.04.2009. 11:54">
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="mod_gumbici">
+        <a href="http://www.os-breznicki-hum.skole.hr/forum">
+        </a>
+       </div>
+       <div class="clearall">
+       </div>
+      </div>
+      <div>
+       <div class="mod_podnozje">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="nav_glavna2">
+    <div class="moduli-lijevo">
+     <a name="mod_static3">
+     </a>
+     <div class="mod_zaglavlje_lijevo">
+     </div>
+     <div class="mod_tijelo_lijevo">
+      <a id="s3-743" name="s3-743">
+      </a>
+      <p>
+      </p>
+      <p>
+       <span style="font-size: 9px">
+        <strong>
+        </strong>
+       </span>
+       <span style="font-size:10px;">
+        <strong>
+        </strong>
+       </span>
+      </p>
+      <p>
+       <a href="http://online.fliphtml5.com/dsbw/nxcc/">
+        <img alt="" src="/upload/os-breznicki-hum/images/static3/743/Image/preuzmi.jpg" style="width: 100px; height: 141px;"/>
+       </a>
+      </p>
+      <p>
+      </p>
+      <div id="st3_documents_52_743_1">
+       <div class="clearall">
+       </div>
+       <div class="static3_documents">
+        <br/>
+        <a href="/upload/os-breznicki-hum/images/static3/743/attachment/Nacionalni_okvirni_kurikulum_web_listopad_2011.pdf">
+        </a>
+        <br/>
+        <br/>
+       </div>
+      </div>
+      <div class="clearall">
+      </div>
+     </div>
+     <div>
+      <div class="mod_podnozje_lijevo">
+      </div>
+     </div>
+     <a name="mod_static3">
+     </a>
+     <div class="mod_zaglavlje_lijevo">
+     </div>
+     <div class="mod_tijelo_lijevo">
+      <a id="s3-765" name="s3-765">
+      </a>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/eko-skole.bmp" style="width: 80px; height: 100px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" height="113" src="/upload/os-breznicki-hum/images/static3/765/Image/logo_fee_thumb.jpg" width="75"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" height="99" src="/upload/os-breznicki-hum/images/static3/765/Image/ULN_-_izduzeni.jpg" width="155"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/headers/Image/eko škola.JPG" style="width: 140px; height: 129px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/kolska%20shema.jpg"/>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/kolska%20shemaNOvo.jpg" style="width: 120px;"/>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/mlijeko%20i%20vo%C4%87e.jpg" style="width: 120px; height: 195px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/Capture%20ja%20mogu.PNG" style="width: 120px; height: 195px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/RH.png" style="width: 104px; height: 27px;"/>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/zajedno.jpg" style="width: 120px; height: 70px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+       <span style="font-size:11px;">
+        <a href="https://strukturnifondovi.hr/dokumenti/?doc_id=533&amp;fondovi=esi_fondovi">
+        </a>
+       </span>
+      </p>
+      <p>
+       <span style="font-size:11px;">
+        <a href="https://strukturnifondovi.hr/dokumenti/?doc_id=533&amp;fondovi=esi_fondovi">
+        </a>
+       </span>
+      </p>
+      <p>
+       <span style="font-size:11px;">
+        <a href="https://strukturnifondovi.hr/dokumenti/?doc_id=533&amp;fondovi=esi_fondovi">
+        </a>
+       </span>
+      </p>
+      <p>
+       <span style="font-size:11px;">
+        <a href="https://strukturnifondovi.hr/dokumenti/?doc_id=533&amp;fondovi=esi_fondovi">
+        </a>
+       </span>
+      </p>
+      <p>
+       <span style="font-size:11px;">
+       </span>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/UZINA_plakat.jpg" style="width: 120px; height: 167px;"/>
+      </p>
+      <p>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/U%C5%BEina%20za%20sve%202%20plakat.jpg" style="width: 120px; height: 150px;"/>
+      </p>
+      <p>
+       <img alt="" src="/upload/os-breznicki-hum/images/static3/765/Image/IMG_20210602_083349.jpg" style="width: 120px; height: 170px;"/>
+      </p>
+      <p>
+      </p>
+      <div id="st3_documents_52_765_1">
+       <div class="clearall">
+       </div>
+       <div class="static3_documents">
+        <br/>
+        <a href="/upload/os-breznicki-hum/images/static3/765/attachment/Sazetak_projekta__Uzina_za_sve_.docx">
+        </a>
+        <br/>
+        <a href="/upload/os-breznicki-hum/images/static3/765/attachment/Sazetak_projekta__Uzina_za_sve_II_.docx">
+        </a>
+        <br/>
+        <a href="/upload/os-breznicki-hum/images/static3/765/attachment/Sazetak_projekta__Uzina_za_sve_III__za_web_skola.docx">
+        </a>
+        <br/>
+        <br/>
+       </div>
+      </div>
+      <div class="clearall">
+      </div>
+     </div>
+     <div>
+      <div class="mod_podnozje_lijevo">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="potpis" style="line-height:47px;">
+    <div style="float:right;">
+     <a href="http://www.carnet.hr/cms_za_skole" target="_blank">
+      <img alt="CMS za škole logo" src="/img/themes/default/images/cms-logo.png"/>
+     </a>
+    </div>
+    <a href="http://os-breznicki-hum.skole.hr/">
+    </a>
+    <a href="mailto:ured@os-breznicki-hum.skole.hr">
+    </a>
+   </div>
+  </div>
+  <a class="skipper" href="#navigation">
+  </a>
+  <script>
+  </script>
+ </body>
+</html>

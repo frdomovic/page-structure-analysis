@@ -1,0 +1,362 @@
+<html lang="hr-hr">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+  </title>
+  <link href="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/favicon.ico" rel="shortcut icon"/>
+  <link href="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/style.css" rel="stylesheet"/>
+  <link href="http://amd-inzinjering.hr/xmlrpc.php" rel="pingback"/>
+  <link href="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/css/.css" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css"/>
+  <link href="http://amd-inzinjering.hr/feed/" rel="alternate" title="AMD-Inžinjering » Feed" type="application/rss+xml"/>
+  <link href="http://amd-inzinjering.hr/comments/feed/" rel="alternate" title="AMD-Inžinjering » Comments Feed" type="application/rss+xml"/>
+  <link href="http://amd-inzinjering.hr/naslovna/feed/" rel="alternate" title="AMD-Inžinjering » Naslovna Comments Feed" type="application/rss+xml"/>
+  <link href="http://amd-inzinjering.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://amd-inzinjering.hr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.css?ver=1.5.6" id="fancybox-css" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js?ver=3.8.35" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-includes/js/comment-reply.min.js?ver=3.8.35" type="text/javascript">
+  </script>
+  <link href="http://amd-inzinjering.hr/servis-racunala/" rel="next" title="Servis računala"/>
+  <link href="http://amd-inzinjering.hr/?p=7" rel="shortlink"/>
+  <meta content="hr-hr" http-equiv="Content-Language"/>
+  <style media="screen" type="text/css">
+  </style>
+  <link href="http://amd-inzinjering.hr/en/" hreflang="en" rel="alternate"/>
+  <meta content="servis računala, web dizajn, online marketing, facebook marketing" name="description"/>
+  <meta content="web, internet, stranice, izrada, web stranice, dizajn, web dizajn, programiranje, php, javascript, ajax, html, css, cms, joomla, wordpress, webshop, online trgovina, seo, optimizacija, marketing, online marketing, oglašavanje, facebook, twitter, google plus, hosting, domena, savjetovanje, konzultacije, izrada internet stranica, održavanje internet stranica, online aplikacije, web aplikacije, grafički dizajn, društvene mreže, profili, vizitke, plakati, reklame, logotip, grafička priprema,optimizacija računala, sklapanje računala, dizajn internet stranica, optimizacija stranica,seo optimizacija cijena, web stranice izrada, čišćenje kompjutera od virusa, optimizacija internet stranica, izrada web stranica rijeka, dizajn web stranice, optimizacija za tražilice, seo analiza, izrada internet stranice, web izrada, dizajn web stranica, izrada internet stranica, izrada web stranice,web dizajn,web stranice,servis računala,izrada web stranica,jeftina izrada web stranica,jeftin web dizajn, održavanje računala,popravak računala, jeftin servis računala, umrežavanje računala, izrada web stranica cijena, web dizajn cijena, ugovorno održavanje računala" name="keywords"/>
+  <link href="http://amd-inzinjering.hr/" rel="canonical"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+ </head>
+ <body class="home page page-id-7 page-template page-template-templateshomepage-php">
+  <script src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/js/servis.js" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/js/slider.js" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/js/radovi.js" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/js/jquery.sharrre.js" type="text/javascript">
+  </script>
+  <div id="page-wrap">
+   <div id="header">
+    <div id="logo">
+     <a href="http://amd-inzinjering.hr">
+      <img alt="AMD-Inžinjering" class="logo_img" src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/logo.png"/>
+     </a>
+    </div>
+    <div id="title">
+     <h1>
+      <a href="http://amd-inzinjering.hr/">
+      </a>
+     </h1>
+     <h1>
+      <a href="http://amd-inzinjering.hr/">
+      </a>
+     </h1>
+    </div>
+    <div id="podaci">
+     <span class="border_right">
+     </span>
+     <span class="border_right">
+      <a href="mailto:info@amd-inzinjering.hr">
+      </a>
+     </span>
+     <span>
+      <aside>
+       <div class="widget widget_qtranslate" id="qtranslate-2">
+        <h2>
+        </h2>
+        <ul class="qtrans_language_chooser" id="qtranslate-2-chooser">
+         <li class="lang-hr active">
+          <a href="http://amd-inzinjering.hr/" hreflang="hr" title="Hrvatski">
+           <span>
+           </span>
+          </a>
+         </li>
+         <li class="lang-en">
+          <a href="http://amd-inzinjering.hr/en/" hreflang="en" title="English">
+           <span>
+           </span>
+          </a>
+         </li>
+        </ul>
+        <div class="qtrans_widget_end">
+        </div>
+       </div>
+      </aside>
+     </span>
+    </div>
+    <nav>
+     <div class="menu-main-nav-menu-container">
+      <ul class="menu" id="menu-main-nav-menu">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-665" id="menu-item-665">
+        <a href="http://amd-inzinjering.hr/">
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-666" id="menu-item-666">
+        <a href="http://amd-inzinjering.hr/servis-racunala/">
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669" id="menu-item-669">
+          <a href="http://amd-inzinjering.hr/servis-racunala/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667" id="menu-item-667">
+          <a href="http://amd-inzinjering.hr/servis-racunala/mrezna-rjesenja/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-668" id="menu-item-668">
+          <a href="http://amd-inzinjering.hr/servis-racunala/ugovorno-odrzavanje-racunala/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-672" id="menu-item-672">
+          <a href="http://amd-inzinjering.hr/servis-racunala/preuzimanje-i-isporuka/">
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-670" id="menu-item-670">
+        <a href="http://amd-inzinjering.hr/izrada-web-stranica/">
+        </a>
+        <ul class="sub-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673" id="menu-item-673">
+          <a href="http://amd-inzinjering.hr/izrada-web-stranica/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671" id="menu-item-671">
+          <a href="http://amd-inzinjering.hr/izrada-web-stranica/aplikacije-po-mjeri/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688" id="menu-item-688">
+          <a href="http://amd-inzinjering.hr/izrada-web-stranica/seo-optimizacija-i-web-marketing/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687" id="menu-item-687">
+          <a href="http://amd-inzinjering.hr/izrada-web-stranica/drustvene-mreze/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-689" id="menu-item-689">
+          <a href="http://amd-inzinjering.hr/izrada-web-stranica/zatrazite-ponudu/">
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-675" id="menu-item-675">
+        <a href="http://amd-inzinjering.hr/nasi-radovi/">
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-740" id="menu-item-740">
+        <a href="http://amd-inzinjering.hr/blog/">
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-674" id="menu-item-674">
+        <a href="http://amd-inzinjering.hr/kontakt/">
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+   <div class="slider">
+    <div class="slide" id="1">
+     <div class="image">
+      <img src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/slide1.png"/>
+     </div>
+     <div class="naslov">
+      <h2>
+      </h2>
+      <h3>
+      </h3>
+      <p>
+      </p>
+      <a href="servis-racunala/" title="AMD-Inžinjering -servis računala">
+       <span class="button">
+        <span>
+        </span>
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="slide" id="2">
+     <div class="image">
+      <img src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/slide2.png"/>
+     </div>
+     <div class="naslov">
+      <h2>
+      </h2>
+      <h3>
+      </h3>
+      <p>
+      </p>
+      <a href="izrada-web-stranica/" title="AMD-Inžinjering - izrada internet stranica">
+       <span class="button">
+        <span>
+        </span>
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="slide" id="3">
+     <div class="image">
+      <img src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/slide3.png"/>
+     </div>
+     <div class="naslov">
+      <h2>
+      </h2>
+      <h3>
+      </h3>
+      <p>
+      </p>
+      <a href="servis-racunala/mrezna-rjesenja/" title="AMD-Inžinjering - mrežna rješenja">
+       <span class="button">
+        <span>
+        </span>
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="slide" id="4">
+     <div class="image">
+      <img src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/slide4.png"/>
+     </div>
+     <div class="naslov">
+      <h2>
+      </h2>
+      <h3>
+      </h3>
+      <p>
+      </p>
+      <a href="izrada-web-stranica/aplikacije-po-mjeri/#webshop" title="AMD-Inžinjering - mrežna rješenja">
+       <span class="button">
+        <span>
+        </span>
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="slide" id="5">
+     <div class="image">
+      <img src="http://amd-inzinjering.hr/wp-content/themes/amdinzinjering/images/slide5.png"/>
+     </div>
+     <div class="naslov">
+      <h2>
+      </h2>
+      <h3>
+      </h3>
+      <p>
+      </p>
+      <a href="izrada-web-stranica/drustvene-mreze/#facebook_apps" title="AMD-Inžinjering - izrada Facebook aplikacija">
+       <span class="button">
+        <span>
+        </span>
+       </span>
+      </a>
+     </div>
+    </div>
+    <div class="previous">
+    </div>
+    <div class="next">
+    </div>
+   </div>
+   <div id="content">
+    <div class="post" id="post-7">
+     <div class="entry">
+      <div class="col1">
+       <div class="full">
+        <div class="left">
+         <h1>
+         </h1>
+         <h2>
+         </h2>
+         <h3>
+         </h3>
+        </div>
+        <div class="right">
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <div class="full">
+     <div class="quarter">
+      <a href="http://www.amd-inzinjering.hr/servis-racunala/" title="AMD-Inžinjering - servis računala">
+      </a>
+      <br/>
+      <a href="http://www.amd-inzinjering.hr/servis-racunala/mrezna-rjesenja/" title="AMD-Inžinjering - mrežna rješenja">
+      </a>
+      <br/>
+      <a href="http://www.amd-inzinjering.hr/servis-racunala/ugovorno-odrzavanje-racunala/" title="AMD-Inžinjering - ugovorno održavanje">
+      </a>
+      <br/>
+      <a href="http://www.amd-inzinjering.hr/servis-racunala/preuzimanje-i-isporuka/" title="AMD-Inžinjering - preuzimanje i isporuka">
+      </a>
+     </div>
+     <div class="quarter">
+      <a href="http://www.amd-inzinjering.hr/izrada-web-stranica/" title="AMD-Inžinjering - izrada internet stranica">
+       <br/>
+      </a>
+      <a href="http://www.amd-inzinjering.hr/izrada-web-stranica/aplikacije-po-mjeri/#cms" title="AMD-Inžinjering - CMS sustavi">
+      </a>
+      <br/>
+      <a href="http://www.amd-inzinjering.hr/izrada-web-stranica/aplikacije-po-mjeri/#webshop" title="AMD-Inžinjering - web trgovina">
+      </a>
+      <br/>
+      <a href="http://www.amd-inzinjering.hr/izrada-web-stranica/drustvene-mreze/" title="AMD-Inžinjering - facebook aplikacije">
+      </a>
+      <br/>
+     </div>
+     <div class="quarter social">
+      <br/>
+      <div class="facebook" onclick="window.open('https://www.facebook.com/web.dizajn.amd.inzinjering','_blank')">
+      </div>
+      <div class="twitter" onclick="window.open('https://twitter.com/Amdinzinjering','_blank')">
+      </div>
+      <div class="google" onclick="window.open('https://plus.google.com/u/0/108353255693064757873/posts','_blank')">
+      </div>
+      <div class="youtube" onclick="window.open('http://www.youtube.com/channel/UCI5fPMwxBE2j9-wwXqIBiLg','_blank')">
+      </div>
+     </div>
+     <div class="quarter end">
+      <br/>
+      <a href="mailto:info@amd-inzinjering.hr">
+      </a>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+     </div>
+    </div>
+    <div class="full second center">
+    </div>
+   </div>
+  </div>
+  <script src="http://amd-inzinjering.hr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.6.pack.js?ver=1.5.6" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3" type="text/javascript">
+  </script>
+  <script src="http://amd-inzinjering.hr/wp-content/plugins/easy-fancybox/jquery.mousewheel.pack.js?ver=3.1.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+ </body>
+ <script>
+ </script>
+</html>

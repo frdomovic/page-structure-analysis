@@ -1,0 +1,549 @@
+<html dir="ltr" lang="en" xml:lang="en">
+ <head>
+  <title>
+  </title>
+  <link href="http://newton.fizika.unios.hr/theme/image.php/clean/theme/1478165079/favicon" rel="shortcut icon"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="moodle, Newton - on line sustav za e-učenje" name="keywords"/>
+  <link href="http://newton.fizika.unios.hr/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" rel="stylesheet" type="text/css"/>
+  <script id="firstthemesheet" type="text/css">
+  </script>
+  <link href="http://newton.fizika.unios.hr/theme/styles.php/clean/1478165079/all" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+  </script>
+  <meta content="Newton je sustav za e-učenje uspostavljen kao platforma za projekte primjene e-učenja, odnosno izvođenje kolegija preddiplomskog i diplomskog studija uz primjenu tehnologija e-učenja. Newton se temelji na sustavu otvorenog koda Moodle koji je dodatno razrađen i prilagođen potrebama korisnika." name="description"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+ </head>
+ <body class="format-site course path-site gecko dir-ltr lang-en yui-skin-sam yui3-skin-sam newton-fizika-unios-hr pagelayout-frontpage course-1 context-2 notloggedin has-region-side-pre used-region-side-pre has-region-side-post used-region-side-post layout-option-nonavbar" id="page-site-index">
+  <div class="skiplinks">
+   <a class="skip" href="#maincontent">
+   </a>
+  </div>
+  <script src="http://newton.fizika.unios.hr/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js&amp;rollup/1478165079/mcore-min.js" type="text/javascript">
+  </script>
+  <script src="http://newton.fizika.unios.hr/lib/javascript.php/1478165079/lib/javascript-static.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <header class="navbar navbar-fixed-top moodle-has-zindex" role="banner">
+   <nav class="navbar-inner" role="navigation">
+    <div class="container-fluid">
+     <a class="brand" href="http://newton.fizika.unios.hr" title="Home">
+     </a>
+     <a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse">
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </a>
+     <div class="usermenu">
+      <span class="login">
+       <a href="http://newton.fizika.unios.hr/login/index.php">
+       </a>
+      </span>
+     </div>
+     <div class="nav-collapse collapse">
+      <ul class="nav">
+       <li class="dropdown langmenu">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#" title="Language">
+         <b class="caret">
+         </b>
+        </a>
+        <ul class="dropdown-menu">
+         <li>
+          <a href="http://newton.fizika.unios.hr/?lang=en" title="English ‎(en)‎">
+          </a>
+         </li>
+         <li>
+          <a href="http://newton.fizika.unios.hr/?lang=hr" title="Hrvatski ‎(hr)‎">
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <ul class="nav pull-right">
+       <li>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <div class="container-fluid" id="page">
+   <header class="clearfix" id="page-header">
+    <div class="page-context-header">
+     <div class="page-header-headings">
+      <h1>
+      </h1>
+     </div>
+    </div>
+    <div class="clearfix" id="page-navbar">
+     <div class="breadcrumb-nav">
+      <span class="accesshide" id="navbar-label">
+      </span>
+      <nav aria-labelledby="navbar-label">
+       <ul class="breadcrumb">
+        <li>
+         <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+          <a href="http://newton.fizika.unios.hr/" itemprop="url">
+           <span itemprop="title">
+           </span>
+          </a>
+         </span>
+        </li>
+       </ul>
+      </nav>
+     </div>
+     <div class="breadcrumb-button">
+     </div>
+    </div>
+    <div id="course-header">
+    </div>
+   </header>
+   <div class="row-fluid" id="page-content">
+    <div class="span9 desktop-first-column" id="region-main-box">
+     <div class="row-fluid">
+      <section class="span8 pull-right" id="region-main">
+       <span class="notifications" id="user-notifications">
+       </span>
+       <div role="main">
+        <span id="maincontent">
+        </span>
+        <a class="skip skip-block" href="#skipcategories">
+        </a>
+        <div id="frontpage-category-names">
+         <h2>
+         </h2>
+         <div class="course_category_tree clearfix frontpage-category-names">
+          <div class="collapsible-actions">
+           <a class="collapseexpand collapse-all" href="#">
+           </a>
+          </div>
+          <div class="content">
+           <div class="subcategories">
+            <div class="category loaded with_children" data-categoryid="2" data-depth="1" data-showcourses="5" data-type="0">
+             <div class="info">
+              <h3 class="categoryname">
+               <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=2">
+               </a>
+              </h3>
+             </div>
+             <div class="content">
+              <div class="subcategories">
+               <div class="category notloaded with_children collapsed" data-categoryid="5" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=5">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded with_children collapsed" data-categoryid="6" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=6">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded with_children collapsed" data-categoryid="7" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=7">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="category loaded with_children" data-categoryid="3" data-depth="1" data-showcourses="5" data-type="0">
+             <div class="info">
+              <h3 class="categoryname">
+               <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=3">
+               </a>
+              </h3>
+             </div>
+             <div class="content">
+              <div class="subcategories">
+               <div class="category notloaded with_children collapsed" data-categoryid="8" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=8">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded with_children collapsed" data-categoryid="4" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=4">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="category loaded with_children" data-categoryid="9" data-depth="1" data-showcourses="5" data-type="0">
+             <div class="info">
+              <h3 class="categoryname">
+               <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=9">
+               </a>
+               <span class="numberofcourse" title="Number of courses">
+               </span>
+              </h3>
+             </div>
+             <div class="content">
+              <div class="subcategories">
+               <div class="category notloaded" data-categoryid="10" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=10">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded" data-categoryid="11" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=11">
+                  </a>
+                  <span class="numberofcourse" title="Number of courses">
+                  </span>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded" data-categoryid="12" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=12">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded" data-categoryid="13" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=13">
+                  </a>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+               <div class="category notloaded" data-categoryid="14" data-depth="2" data-showcourses="5" data-type="0">
+                <div class="info">
+                 <h4 class="categoryname">
+                  <a href="http://newton.fizika.unios.hr/course/index.php?categoryid=14">
+                  </a>
+                  <span class="numberofcourse" title="Number of courses">
+                  </span>
+                 </h4>
+                </div>
+                <div class="content">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <span class="skip-block-to" id="skipcategories">
+        </span>
+        <br/>
+       </div>
+      </section>
+      <aside class="span4 desktop-first-column block-region" data-blockregion="side-pre" data-droptarget="1" id="block-region-side-pre">
+       <a class="skip skip-block" href="#sb-2" id="fsb-2">
+       </a>
+       <div aria-labelledby="instance-4-header" class="block_navigation block" data-block="navigation" data-dockable="1" data-instanceid="4" id="inst4" role="navigation">
+        <div class="header">
+         <div class="title">
+          <div class="block_action">
+          </div>
+          <h2 id="instance-4-header">
+          </h2>
+         </div>
+        </div>
+        <div class="content">
+         <ul class="block_tree list" data-ajax-loader="block_navigation/nav_loader" role="tree">
+          <li aria-labelledby="label_1_1" class="type_unknown depth_1 contains_branch current_branch">
+           <p aria-expanded="true" aria-owns="random60f80fe015eb71_group" class="tree_item branch active_tree_node canexpand navigation_node" data-collapsible="false" role="treeitem">
+            <a href="http://newton.fizika.unios.hr/" id="label_1_1" tabindex="-1">
+            </a>
+           </p>
+           <ul id="random60f80fe015eb71_group" role="group">
+            <li aria-labelledby="label_2_3" class="type_system depth_2 contains_branch">
+             <p aria-expanded="false" class="tree_item branch" data-loaded="false" data-node-id="expandable_branch_0_courses" data-node-key="courses" data-node-type="0" data-requires-ajax="true" id="expandable_branch_0_courses" role="treeitem">
+              <a href="http://newton.fizika.unios.hr/course/index.php" id="label_2_3" tabindex="-1">
+              </a>
+             </p>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <span class="skip-block-to" id="sb-2">
+       </span>
+       <a class="skip skip-block" href="#sb-4" id="fsb-4">
+       </a>
+       <div aria-labelledby="instance-21-header" class="block_login_sso block" data-block="login_sso" data-dockable="1" data-instanceid="21" id="inst21" role="complementary">
+        <div class="header">
+         <div class="title">
+          <div class="block_action">
+          </div>
+          <h2 id="instance-21-header">
+          </h2>
+         </div>
+        </div>
+        <div class="content">
+         <a href="/auth/simplesaml/index.php">
+          <img alt="AAI@EduHr prijava" border="0" src="http://newton.fizika.unios.hr/auth/simplesaml/aai.png" style="width: 160px; max-width: 100%;height: auto;margin-left: auto;margin-right: auto;display: block; margin-top: 5px; margin-bottom: 5px;"/>
+         </a>
+         <a href="/auth/simplesaml/index.php">
+         </a>
+         <br/>
+         <form action="/login/index.php" method="post" name="guestlogin">
+          <input name="username" type="hidden" value="guest"/>
+          <input name="password" type="hidden" value="guest"/>
+          <a href="#" onclick="document.guestlogin.submit();">
+          </a>
+         </form>
+        </div>
+       </div>
+       <span class="skip-block-to" id="sb-4">
+       </span>
+      </aside>
+     </div>
+    </div>
+    <aside class="span3 pull-right block-region" data-blockregion="side-post" data-droptarget="1" id="block-region-side-post">
+     <div aria-label="Course/site summary" class="block_course_summary block no-header" data-block="course_summary" data-instanceid="2" id="inst2" role="complementary">
+      <div class="content">
+       <div class="block_action notitle">
+       </div>
+       <div class="no-overflow">
+        <div class="text_to_html">
+         <p>
+         </p>
+         <p>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <a class="skip skip-block" href="#sb-6" id="fsb-6">
+     </a>
+     <div aria-labelledby="instance-3-header" class="block_calendar_month block" data-block="calendar_month" data-dockable="1" data-instanceid="3" id="inst3" role="complementary">
+      <div class="header">
+       <div class="title">
+        <div class="block_action">
+        </div>
+        <h2 id="instance-3-header">
+        </h2>
+       </div>
+      </div>
+      <div class="content">
+       <table class="minicalendar calendartable" summary="July 2021 Calendar">
+        <caption>
+         <div class="calendar-controls">
+          <a class="arrow_link previous" href="http://newton.fizika.unios.hr/?time=1622498400" title="Previous month">
+           <span class="arrow">
+           </span>
+           <span class="accesshide">
+            <span class="arrow_text">
+            </span>
+           </span>
+          </a>
+          <span class="hide">
+          </span>
+          <span class="current">
+           <a href="http://newton.fizika.unios.hr/calendar/view.php?view=month&amp;time=1626869728&amp;course=1" title="This month">
+           </a>
+          </span>
+          <span class="hide">
+          </span>
+          <a class="arrow_link next" href="http://newton.fizika.unios.hr/?time=1627768800" title="Next month">
+           <span class="accesshide">
+            <span class="arrow_text">
+            </span>
+           </span>
+           <span class="arrow">
+           </span>
+          </a>
+          <span class="clearer">
+          </span>
+         </div>
+        </caption>
+        <tr class="weekdays">
+         <th scope="col">
+          <abbr title="Sunday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Monday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Tuesday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Wednesday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Thursday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Friday">
+          </abbr>
+         </th>
+         <th scope="col">
+          <abbr title="Saturday">
+          </abbr>
+         </th>
+        </tr>
+        <tr>
+         <td class="dayblank">
+         </td>
+         <td class="dayblank">
+         </td>
+         <td class="dayblank">
+         </td>
+         <td class="dayblank">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="weekend day">
+         </td>
+        </tr>
+        <tr>
+         <td class="weekend day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="weekend day">
+         </td>
+        </tr>
+        <tr>
+         <td class="weekend day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="weekend day">
+         </td>
+        </tr>
+        <tr>
+         <td class="weekend day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day today eventnone" data-core_calendar-popupcontent="No events" data-core_calendar-title="Today Wednesday, 21 July">
+          <span class="accesshide">
+          </span>
+          <a href="#">
+          </a>
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="weekend day">
+         </td>
+        </tr>
+        <tr>
+         <td class="weekend day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="day">
+         </td>
+         <td class="weekend day">
+         </td>
+        </tr>
+       </table>
+      </div>
+     </div>
+     <span class="skip-block-to" id="sb-6">
+     </span>
+    </aside>
+   </div>
+   <footer id="page-footer">
+    <div id="course-footer">
+    </div>
+    <p class="helplink">
+    </p>
+    <div class="logininfo">
+     <a href="http://newton.fizika.unios.hr/login/index.php">
+     </a>
+    </div>
+    <div class="sitelink">
+     <a href="http://moodle.org/" title="Moodle">
+      <img alt="Moodle logo" src="http://newton.fizika.unios.hr/theme/image.php/clean/core/1478165079/moodlelogo"/>
+     </a>
+    </div>
+   </footer>
+   <script type="text/javascript">
+   </script>
+   <script src="http://newton.fizika.unios.hr/lib/javascript.php/1478165079/lib/requirejs/require.min.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script src="http://newton.fizika.unios.hr/theme/javascript.php/clean/1478165079/footer" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+  </div>
+ </body>
+</html>

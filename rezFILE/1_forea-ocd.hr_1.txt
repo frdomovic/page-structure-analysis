@@ -1,0 +1,1157 @@
+<html class="firefox firefox84 linux journal-desktop is-guest skin-105 responsive-layout bottom-menu-bar infinite-scroll center-header mega-header lang-flag lang-flag-mobile no-secondary-on-mobile collapse-footer-columns extended-layout header-center header-sticky sticky-menu backface product-grid-second-image product-list-second-image hide-cart layout-4 route-error-not_found oc2 oc23 no-language" data-j2v="2.16.8" dir="ltr" lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <title>
+  </title>
+  <base href="https://forea-ocd.hr/"/>
+  <meta content="Forea OCD" property="og:title"/>
+  <meta content="Forea OCD" property="og:site_name"/>
+  <meta content="https://forea-ocd.hr/" property="og:url"/>
+  <meta content="Online trgovina najboljom auto kozmetikom!..." property="og:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://forea-ocd.hr/image/cache/logo_text-only-600x315.png" property="og:image"/>
+  <meta content="600" property="og:image:width"/>
+  <meta content="315" property="og:image:height"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Forea OCD" name="twitter:title"/>
+  <meta content="Online trgovina najboljom auto kozmetikom!..." name="twitter:description"/>
+  <meta content="https://forea-ocd.hr/image/cache/logo_text-only-200x200.png" name="twitter:image"/>
+  <meta content="200" name="twitter:image:width"/>
+  <meta content="200" name="twitter:image:height"/>
+  <link href="https://forea-ocd.hr/image/Forea-Thumb-black.png" rel="icon"/>
+  <link href="//fonts.googleapis.com/css?family=Oswald:regular,600&amp;subset=latin" rel="stylesheet"/>
+  <link href="https://forea-ocd.hr/journal-cache/_70b26ea06f235e662c1b196d684f01b2.css" rel="stylesheet"/>
+  <script src="https://forea-ocd.hr/journal-cache/_c40736db90c80cce55d3079cff9c6a45.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-143784681-1">
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+  <script>
+  </script>
+ </head>
+ <body>
+  <script>
+  </script>
+  <header class="journal-header-center journal-header-mega">
+   <div class="header">
+    <div class="journal-top-header j-min z-1">
+    </div>
+    <div class="journal-menu-bg z-0">
+    </div>
+    <div class="journal-center-bg j-100 z-0">
+    </div>
+    <div class="journal-header z-2" id="header">
+     <div class="header-assets top-bar">
+      <div class="journal-links j-min xs-100 sm-100 md-50 lg-50 xl-50" style="width:40%">
+       <div class="links j-min">
+        <ul class="top-menu">
+         <li>
+          <a class="m-item hide-on-phone" href="https://www.facebook.com/foreaocd" target="_blank">
+           <i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 15px">
+           </i>
+           <span class="top-menu-link">
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="m-item hide-on-phone" href="https://www.instagram.com/forea_ocd/" target="_blank">
+           <i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 15px">
+           </i>
+           <span class="top-menu-link">
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="journal-currency j-min">
+       <form action="https://forea-ocd.hr/index.php?route=common/currency/currency" enctype="multipart/form-data" method="post">
+        <div class="" id="currency">
+         <div class="btn-group">
+          <button class="dropdown-toggle" data-hover="dropdown" type="button">
+           <div>
+           </div>
+          </button>
+          <ul class="dropdown-menu">
+           <li>
+            <a onclick="$(this).closest('form').find('input[name=\'code\']').val('EUR'); $(this).closest('form').submit();">
+            </a>
+           </li>
+           <li>
+            <a onclick="$(this).closest('form').find('input[name=\'code\']').val('HRK'); $(this).closest('form').submit();">
+            </a>
+           </li>
+          </ul>
+         </div>
+         <input name="code" type="hidden" value=""/>
+         <input name="redirect" type="hidden" value="https://forea-ocd.hr/index.php?route=error/not_found"/>
+        </div>
+       </form>
+      </div>
+      <div class="journal-secondary j-min xs-100 sm-100 md-50 lg-50 xl-50" style="width:60%">
+       <div class="links j-min">
+        <ul class="top-menu">
+         <li>
+          <span class="m-item no-link">
+           <span>
+           </span>
+          </span>
+         </li>
+         <li>
+          <span class="m-item hide-on-phone no-link">
+           <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 12px">
+           </i>
+           <span>
+           </span>
+          </span>
+         </li>
+         <li>
+          <span class="m-item hide-on-phone no-link">
+           <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 12px">
+           </i>
+           <span>
+           </span>
+          </span>
+         </li>
+         <li>
+          <span class="m-item no-link">
+           <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 15px">
+           </i>
+           <span>
+           </span>
+          </span>
+         </li>
+         <li>
+          <span class="m-item no-link">
+           <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 15px">
+           </i>
+           <span>
+           </span>
+          </span>
+         </li>
+         <li>
+          <a class="m-item" href="tel:00385954072481">
+           <i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 15px">
+           </i>
+           <span class="top-menu-link">
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="m-item" href="mailto:info@forea-ocd.hr">
+           <i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 15px">
+           </i>
+           <span class="top-menu-link">
+           </span>
+          </a>
+         </li>
+         <li>
+          <a class="m-item" href="javascript:Journal.openPopup('267')">
+           <i data-icon="" style="margin-right: 5px; color: rgb(0, 0, 0); font-size: 15px">
+           </i>
+           <span class="top-menu-link">
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="header-assets">
+      <div class="journal-logo j-100 xs-100 sm-100 md-30 lg-30 xl-30">
+       <div id="logo">
+        <a href="https://forea-ocd.hr/">
+         <img alt="Forea OCD" class="logo-1x" height="25" src="https://forea-ocd.hr/image/cache/logo_text-only-250x25.png" title="Forea OCD" width="250"/>
+        </a>
+       </div>
+      </div>
+      <div class="journal-search j-min xs-100 sm-50 md-45 lg-45 xl-45">
+       <div class="input-group j-min" id="search">
+        <input autocomplete="off" class="form-control input-lg" name="search" placeholder="Želim..." type="text" value=""/>
+        <div class="button-search">
+         <button type="button">
+          <i>
+          </i>
+         </button>
+        </div>
+       </div>
+      </div>
+      <div class="journal-cart j-min xs-100 sm-50 md-25 lg-25 xl-25">
+       <div class="btn-group btn-block" id="cart">
+        <button class="btn btn-inverse btn-block btn-lg dropdown-toggle heading" data-toggle="dropdown" type="button">
+         <a>
+          <span data-loading-text="Učitavanje...  " id="cart-total">
+           <e style="display:none">
+           </e>
+          </span>
+          <i>
+          </i>
+         </a>
+        </button>
+        <div class="content">
+         <ul class="cart-wrapper">
+          <li>
+           <p class="text-center empty">
+           </p>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="journal-menu j-min xs-100 sm-100 md-100 lg-100 xl-100">
+      <style>
+      </style>
+      <div class="mobile-trigger">
+      </div>
+      <ul class="super-menu mobile-menu menu-table" style="table-layout: fixed">
+       <li class="drop-down hide-on-phone" id="main-menu-item-1">
+        <a href="https://forea-ocd.hr/interijer">
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="https://forea-ocd.hr/interijer/plastike-i-kederi">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/interijer/tkanina-i-tapecirung">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/interijer/koza">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/interijer/osvjezivaci-zraka">
+          </a>
+         </li>
+        </ul>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="drop-down hide-on-phone" id="main-menu-item-2">
+        <a href="https://forea-ocd.hr/eskterijer">
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/predpranje">
+           <i class="menu-plus">
+           </i>
+          </a>
+          <span class="mobile-plus">
+          </span>
+          <ul>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/predpranje/aktivna-pjena">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/predpranje/pjenomati-foam-lance">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/pranje-i-susenje">
+           <i class="menu-plus">
+           </i>
+          </a>
+          <span class="mobile-plus">
+          </span>
+          <ul>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/pranje-i-susenje/samponi-i-rukavice">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/pranje-i-susenje/susenje-eksterijera">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/pranje-i-susenje/staklene-povrsine">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/pranje-i-susenje/motorni-prostor">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/felge-i-gume">
+           <i class="menu-plus">
+           </i>
+          </a>
+          <span class="mobile-plus">
+          </span>
+          <ul>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/felge-i-gume/ciscenje-felgi-i-guma">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/felge-i-gume/zastita-za-felge">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/felge-i-gume/premazi-za-gume">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/dekontaminacija">
+           <i class="menu-plus">
+           </i>
+          </a>
+          <span class="mobile-plus">
+          </span>
+          <ul>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/dekontaminacija/kukci-smola-ljepilo">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/dekontaminacija/cestice-metala">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/dekontaminacija/vodeni-kamenac">
+            </a>
+           </li>
+           <li>
+            <a href="https://forea-ocd.hr/eskterijer/dekontaminacija/visenamjenski-cistaci">
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/plastike-eksterijera">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/voskovi">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/quick-detaileri">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/sealant-i-glaze">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/eskterijer/dugotrajna-zastita">
+          </a>
+         </li>
+        </ul>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="drop-down hide-on-phone" id="main-menu-item-3">
+        <a href="https://forea-ocd.hr/poliranje">
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/paste-za-poliranje">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/spuzve-za-poliranje">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/masine-i-podlosci">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/odmaivanje-laka">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/brusenje-laka">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/poliranje/farovi-i-staklo">
+          </a>
+         </li>
+        </ul>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="drop-down hide-on-phone" id="main-menu-item-4">
+        <a href="https://forea-ocd.hr/dodatna-oprema">
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/krpe-od-mikrofibre">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/kistovi-i-cetke">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/boce-i-rasprsivaci">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/aplikatori-i-trake">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/kante-i-grit guard">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/odjeca">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/dodatna-oprema/rasvjeta-i-oprema">
+          </a>
+         </li>
+        </ul>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="mega-menu-brands hide-on-phone" id="main-menu-item-5">
+        <a>
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <div class="mega-menu">
+         <div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Labocosmetica">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/bigboi-hrvatska">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Blue-Technology">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/bouncers">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/california-scents">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/chemical-guys">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/clean-fellas">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/colourlock">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/flex-tools">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Flexipads-world-class">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Fresso">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/f">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/k2-pro-detailing">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Krauss">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/kwazar">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Ma-fra">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Monster-Shine">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/poka-premium">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/proxxon">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/paul-willems-products">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/rupes">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/scangrip">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/servfaces-hrvatska">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/Soft99">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/ValetPro">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/work-stuff-hrvatska">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+          <div class="mega-menu-item xs-50 sm-50 md-25 lg-25 xl-25">
+           <div>
+            <h3>
+             <a href="https://forea-ocd.hr/zvizzer-hrvatska">
+             </a>
+            </h3>
+            <div>
+             <ul>
+             </ul>
+            </div>
+            <span class="clearfix">
+            </span>
+           </div>
+          </div>
+         </div>
+         <span class="clearfix">
+         </span>
+        </div>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="mega-menu-mixed hide-on-phone" id="main-menu-item-6">
+        <a href="https://forea-ocd.hr/blog">
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <span class="mobile-plus">
+        </span>
+       </li>
+       <li class="drop-down hide-on-phone" id="main-menu-item-7">
+        <a href="https://forea-ocd.hr/index.php?route=account/account">
+         <i data-icon="" style="margin-right: 5px; font-size: 24px">
+         </i>
+         <span class="main-menu-text">
+         </span>
+        </a>
+        <ul>
+         <li>
+          <a href="https://forea-ocd.hr/index.php?route=account/login">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/index.php?route=account/wishlist">
+          </a>
+         </li>
+         <li>
+          <a href="index.php?route=product/compare">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/index.php?route=account/order">
+          </a>
+         </li>
+         <li>
+          <a href="https://forea-ocd.hr/index.php?route=account/register">
+          </a>
+         </li>
+        </ul>
+        <span class="mobile-plus">
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="extended-container">
+   <div class="container j-container not-found-page" id="container">
+    <ul class="breadcrumb">
+     <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="https://forea-ocd.hr/index.php?route=common/home" itemprop="url">
+       <span itemprop="title">
+       </span>
+      </a>
+     </li>
+     <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="https://forea-ocd.hr/index.php?route=error/not_found" itemprop="url">
+       <span itemprop="title">
+       </span>
+      </a>
+     </li>
+    </ul>
+    <div class="row">
+     <div class="col-sm-12" id="content">
+      <h1 class="heading-title" style="line-height: 20px !Important">
+      </h1>
+      <p>
+      </p>
+      <p>
+      </p>
+      <h2>
+      </h2>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <p>
+      </p>
+      <h2>
+      </h2>
+      <p>
+      </p>
+      <p>
+       <a href="#" onclick="history.go(-1); return false;" style="font-weight:bold; font-style:italic">
+       </a>
+      </p>
+      <p>
+      </p>
+      <p>
+       <a href="http://forea-ocd.hr" style="font-weight:bold; font-style:italic" target="_self">
+       </a>
+      </p>
+      <div class="buttons">
+       <div class="pull-right">
+        <a class="btn btn-primary button" href="https://forea-ocd.hr/index.php?route=common/home">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="fullwidth-footer">
+   <div id="footer">
+    <div class="row columns" style="background-color: rgb(0, 0, 0); color: rgb(153, 153, 153)">
+     <div class="column text xs-100 sm-50 md-50 lg-33 xl-33">
+      <h3>
+      </h3>
+      <div class="column-text-wrap block-icon-left" style="">
+       <span>
+        <p>
+         <br/>
+         <br/>
+         <br/>
+         <br/>
+         <br/>
+        </p>
+       </span>
+      </div>
+     </div>
+     <div class="column menu xs-100 sm-50 md-50 lg-33 xl-33">
+      <h3>
+      </h3>
+      <div class="column-menu-wrap" style="">
+       <ul>
+        <li>
+         <a class="m-item" href="https://forea-ocd.hr/o-nama">
+          <i data-icon="" style="margin-right: 5px; ">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="https://forea-ocd.hr/dostava">
+          <i data-icon="" style="margin-right: 5px; font-size: 14px">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="https://forea-ocd.hr/placanje-sigurnost-privatnost">
+          <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="https://forea-ocd.hr/uvjeti-koristenja">
+          <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="https://forea-ocd.hr/izjava-o-sigurnosti-on-line-placanja">
+          <i data-icon="" style="margin-right: 5px; color: rgb(255, 255, 255); font-size: 14px">
+          </i>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="column menu xs-100 sm-50 md-50 lg-33 xl-33">
+      <h3>
+      </h3>
+      <div class="column-menu-wrap" style="">
+       <ul>
+        <li>
+        </li>
+        <li>
+         <a class="m-item" href="https://www.google.com/maps/place/Forea+OCD/@45.8265845,16.0439877,17z/data=!4m8!1m2!3m1!2sForea+OCD!3m4!1s0x0:0x11cede0a51a3a3e7!8m2!3d45.8271419!4d16.0438518" target="_blank">
+          <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 16px">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="tel:0954072481">
+          <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 16px">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a class="m-item" href="mailto:info@forea-ocd.hr">
+          <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 16px">
+          </i>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="row contacts" style="background-color: rgb(0, 0, 0)">
+     <div class="contacts-left">
+      <span class="hint--top has-tooltip" data-hint="Facebook">
+       <a class="contact-icon" href="https://www.facebook.com/foreaocd" target="_blank">
+        <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 18px">
+        </i>
+       </a>
+       <a href="https://www.facebook.com/foreaocd" target="_blank">
+        <span class="contacts-text">
+        </span>
+       </a>
+      </span>
+      <span class="hint--top has-tooltip" data-hint="Instagram">
+       <a class="contact-icon" href="https://www.instagram.com/forea_ocd" target="_blank">
+        <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 18px">
+        </i>
+       </a>
+       <a href="https://www.instagram.com/forea_ocd" target="_blank">
+        <span class="contacts-text">
+        </span>
+       </a>
+      </span>
+      <span class="hint--top has-tooltip" data-hint="Youtube">
+       <a class="contact-icon" href="https://www.youtube.com/channel/UC4vXJSQh9P5YsSu0811NpJw" target="_blank">
+        <i data-icon="" style="margin-right: 5px; color: rgb(153, 153, 153); font-size: 18px">
+        </i>
+       </a>
+       <a href="https://www.youtube.com/channel/UC4vXJSQh9P5YsSu0811NpJw" target="_blank">
+        <span class="contacts-text">
+        </span>
+       </a>
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="bottom-footer boxed-bar">
+    <div class="">
+     <div class="copyright">
+     </div>
+     <div class="payments">
+      <img alt="Visa" height="32" src="https://forea-ocd.hr/image/cache/data/journal2/cards/visa-51x32.png" width="51"/>
+      <img alt="MasterCard" height="32" src="https://forea-ocd.hr/image/cache/data/journal2/cards/mc-51x32.png" width="51"/>
+      <img alt="Maestro" height="32" src="https://forea-ocd.hr/image/cache/data/journal2/cards/maestro-51x32.png" width="51"/>
+      <img alt="Discover" height="32" src="https://forea-ocd.hr/image/cache/data/journal2/cards/disc-51x32.png" width="51"/>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="https://cc.cdn.civiccomputing.com/8.0/cookieControl-8.0.min.js">
+  </script>
+  <script>
+  </script>
+  <div class="scroll-top">
+  </div>
+  <script defer="" src="https://forea-ocd.hr/journal-cache/_94c050131b94dc477886ead44c9f7830.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <style type="text/css">
+  </style>
+  <script type="text/javascript">
+  </script>
+  <div id="mi-modal-overlay" onclick="$(this).fadeOut().next().fadeOut()">
+  </div>
+  <div class="mailchimp-integration box" id="mi1455160330">
+   <div class="box-heading">
+    <h3>
+    </h3>
+   </div>
+   <div class="box-content">
+    <div class="mi-message">
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="email" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="firstname" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="lastname" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="telephone" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="address" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="city" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <input class="form-control" name="postcode" onkeydown="if (event.keyCode == 13) miSubscribe1455160330($(this))" type="text"/>
+    </div>
+    <div class="mi-block">
+     <h4>
+      <span class="mi-required">
+      </span>
+     </h4>
+     <select class="form-control" name="list">
+      <option value="01ef9212e6">
+      </option>
+     </select>
+    </div>
+    <div class="mi-block mi-button">
+     <a class="button btn btn-primary" onclick="miSubscribe1455160330($(this))">
+     </a>
+    </div>
+   </div>
+  </div>
+  <script>
+  </script>
+ </body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+ <body>
+  <oembed>
+   <version>
+   </version>
+   <provider_name>
+   </provider_name>
+   <provider_url>
+   </provider_url>
+   <title>
+   </title>
+   <type>
+   </type>
+   <width>
+   </width>
+   <height>
+   </height>
+  </oembed>
+ </body>
+</html>

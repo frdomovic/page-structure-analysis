@@ -1,0 +1,199 @@
+<html lang="hr">
+ <head>
+  <title>
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="all,index,follow" name="robots"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="Umjetnički fotograf Goran Vranić surađujući s istaknutim hrvatskim povjesničarima umjetnosti svojim snimkama je opremio brojna kataloška i monografska izdanja brojnih ustanova i nakladnika diljem Hrvatske.." name="description"/>
+  <meta content="goran vranić, umjetnički fotograf, fotografija, izložbena djelatnost, kataloška izdanja fotografija, monografska izdanja, samostalni umjetnik, zagreb" name="keywords"/>
+  <link href="http://www.goran-vranic.com.hr/" rel="canonical"/>
+  <link href="http://www.goran-vranic.com.hr/theme/GoranVranic/css/main.css" rel="stylesheet"/>
+  <link href="http://fonts.googleapis.com/css?family=Bitter:400,700&amp;subset=latin,latin-ext" rel="stylesheet"/>
+ </head>
+ <body>
+  <div class="grid">
+   <div class="wrapp">
+    <aside class="sidebar">
+     <div class="logo_cnt">
+      <div class="title">
+       <h1 tkey="title">
+       </h1>
+       <h2 tkey="subtitle">
+       </h2>
+      </div>
+      <div class="lang">
+       <ul>
+        <li>
+         <a class="hrv" href="index.php">
+         </a>
+        </li>
+        <li>
+         <a class="eng" href="#">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <img alt="" height="500" src="http://www.goran-vranic.com.hr/theme/GoranVranic/img/logo_cnt.jpg" width="350"/>
+     </div>
+     <nav class="nav">
+      <ul>
+       <li class="index current active">
+        <a href="http://www.goran-vranic.com.hr/" title="Naslovna">
+        </a>
+       </li>
+       <li class="o_autoru">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=o_autoru" title="O autoru">
+        </a>
+       </li>
+       <li class="izlozbe">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=izlozbe" title="Izložbe">
+        </a>
+       </li>
+       <li class="kulturna_bastina">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=kulturna_bastina" title="Kulturna baština">
+        </a>
+       </li>
+       <li class="arhitektura_interijeri_i_eksterijeri">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=arhitektura_interijeri_i_eksterijeri" title="Arhitektura interijeri i eksterijeri">
+        </a>
+       </li>
+       <li class="muzejska_bastina">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=muzejska_bastina" title="Muzejska baština">
+        </a>
+       </li>
+       <li class="monografija_i_katalozi">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=monografija_i_katalozi" title="Monografija i katalozi">
+        </a>
+       </li>
+       <li class="suvremena_hrvatska_umjetnost">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=suvremena_hrvatska_umjetnost" title="Suvremena hrvatska umjetnost">
+        </a>
+       </li>
+       <li class="opremanje_interijera">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=opremanje_interijera" title="Opremanje interijera">
+        </a>
+       </li>
+       <li class="novosti">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=novosti" title="Novosti">
+        </a>
+       </li>
+       <li class="kontakt">
+        <a href="http://www.goran-vranic.com.hr/index.php?id=kontakt" title="Kontakt">
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <footer class="footer col-1-1">
+      <div class="row_one">
+       <div class="socials">
+        <span tkey="socials">
+        </span>
+        <a class="linkedin sprite" href="#">
+        </a>
+        <a class="facebook sprite" href="https://www.facebook.com/pages/Goran-Vrani%C4%87/355655467915359">
+        </a>
+       </div>
+      </div>
+      <div class="row_two">
+       <div class="copyrights">
+       </div>
+       <div class="powered">
+        <a href="http://www.rvdizajn.com">
+        </a>
+       </div>
+      </div>
+     </footer>
+    </aside>
+    <div class="content home">
+     <article class="article">
+      <a href="index.php?id=pasmanske_cipke" title="Pašmanske čipke">
+       <img alt="Pašmanske čipke" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/pasmanska_cipka/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=uresi_suterena" title="Uresi suterena">
+       <img alt="Uresi suterena" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/uresi_suterena/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=prove_topljeno_sidro_bacena_krajna" title="Prove, topljeno sidro, bačena krajna">
+       <img alt="Prove, topljeno sidro, bačena krajna" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/prove_topljeno_sidro_bacena_krajna/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=dubrovnik_kroz_godinu" title="Dubrovnik kroz godinu">
+       <img alt="Dubrovnik kroz godinu" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/dubrovnik_kroz_godinu/thumb_wide.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=uktovljena_sjecanja_carobne_jadranske_duse" title="Ukotvljena sjećanja">
+       <img alt="Ukotvljena sjećanja" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/uktovljena_sjecanja_carobne_jadranske_duse/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=koprivnica_uresi_grada" title="Koprivnica uresi grada">
+       <img alt="Koprivnica uresi grada" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/koprivnica_uresi_grada/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=portret_grada_zvijezde" title="Portret grada zvijezde">
+       <img alt="Portret grada zvijezde" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/portret_grada_zvijezde/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=arhajski_ritmovi" title="Arhajski ritmovi">
+       <img alt="Arhajski ritmovi" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/arhajski_ritmovi/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=sjene" title="Sjene">
+       <img alt="Sjene" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/sjene/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=poetika_zarobljenog_objektiva" title="Poetika zarobljenog objektiva">
+       <img alt="Poetika zarobljenog objektiva" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/poetika_zarobljenog_objektiva/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=medijalni_sumovi_u_mrezama" title="Medijalni šumovi u mrežama">
+       <img alt="Medijalni šumovi u mrežama" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/medijalni_sumovi_u_mrezama/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=biljezi_ponosnog_zida_lipik_pakrac" title="Biljezi ponosnog ziđa">
+       <img alt="Biljezi ponosnog ziđa" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/biljezi_ponosnog_zida_lipik_pakrac/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=refleksije" title="Refleksije">
+       <img alt="Refleksije" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/refleksije/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=piturane_prove" title="Piturane prove">
+       <img alt="Piturane prove" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/piturane_prove/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=dubrovnik_kroz_godinu" title="Dubrovnik kroz godinu">
+       <img alt="Dubrovnik kroz godinu" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/dubrovnik_kroz_godinu/thumb.jpg"/>
+      </a>
+     </article>
+     <article class="article">
+      <a href="index.php?id=izlozba_mustaci" title="Mustači">
+       <img alt="Mustači" src="http://www.goran-vranic.com.hr/theme/GoranVranic/izlozbe/mustaci/thumb.jpg"/>
+      </a>
+     </article>
+    </div>
+   </div>
+  </div>
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js">
+  </script>
+  <script src="http://www.goran-vranic.com.hr/theme/GoranVranic/js/plugins.min.js">
+  </script>
+  <script src="http://www.goran-vranic.com.hr/theme/GoranVranic/js/tweaks.js">
+  </script>
+ </body>
+</html>

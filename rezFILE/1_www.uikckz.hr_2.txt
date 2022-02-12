@@ -1,0 +1,852 @@
+<html dir="ltr" lang="hr-hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <base href="http://uikckz.hr/"/>
+  <meta content="udruga invalida, uikc, uikckz" name="keywords"/>
+  <meta content="Joomla! - Open Source Content Management" name="generator"/>
+  <title>
+  </title>
+  <link href="/templates/tk_medi_free/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/AdmirorGallery.css" rel="stylesheet" type="text/css"/>
+  <link href="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/templates/classic/template.css" rel="stylesheet" type="text/css"/>
+  <link href="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/templates/classic/albums/albums.css" rel="stylesheet" type="text/css"/>
+  <link href="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/templates/classic/pagination/pagination.css" rel="stylesheet" type="text/css"/>
+  <link href="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/popups/fancybox/css/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css"/>
+  <link href="/cache/widgetkit/widgetkit-05d28011.css" rel="stylesheet" type="text/css"/>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/core.js" type="text/javascript">
+  </script>
+  <script src="/media/system/js/caption.js" type="text/javascript">
+  </script>
+  <script src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/AG_jQuery.js" type="text/javascript">
+  </script>
+  <script src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/popups/fancybox/js/jquery.fancybox-1.3.1.pack.js" type="text/javascript">
+  </script>
+  <script src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/popups/fancybox/js/jquery.easing-1.3.pack.js" type="text/javascript">
+  </script>
+  <script src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/popups/fancybox/js/jquery.mousewheel-3.0.2.pack.js" type="text/javascript">
+  </script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript">
+  </script>
+  <script src="/cache/widgetkit/widgetkit-82c47395.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <link href="/templates/tk_medi_free/apple_touch_icon.png" rel="apple-touch-icon-precomposed"/>
+  <link href="/templates/tk_medi_free/css/base.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/layout.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/menus.css" rel="stylesheet"/>
+  <style>
+  </style>
+  <link href="/templates/tk_medi_free/css/modules.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/tools.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/system.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/extensions.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/custom.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/color2/blue.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/font1/lucida.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/font2/droidsans.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/font3/kreon.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/style.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/responsive.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/css/print.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/fonts/droidsans.css" rel="stylesheet"/>
+  <link href="/templates/tk_medi_free/fonts/kreon.css" rel="stylesheet"/>
+  <script src="/templates/tk_medi_free/warp/js/warp.js">
+  </script>
+  <script src="/templates/tk_medi_free/warp/js/responsive.js">
+  </script>
+  <script src="/templates/tk_medi_free/warp/js/accordionmenu.js">
+  </script>
+  <script src="/templates/tk_medi_free/warp/js/dropdownmenu.js">
+  </script>
+  <script src="/templates/tk_medi_free/js/template.js">
+  </script>
+ </head>
+ <body class="page sidebar-a-left sidebar-b-right sidebars-2 isblog" data-config='{"twitter":0,"plusone":0,"facebook":0}' id="page">
+  <div id="block-header">
+   <div class="wrapper clearfix">
+    <header id="header">
+     <div class="clearfix" id="toolbar">
+     </div>
+     <div class="clearfix" id="headerbar">
+     </div>
+    </header>
+   </div>
+  </div>
+  <div id="block-menu">
+   <div class="wrapper clearfix">
+    <div id="menubar">
+     <div>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="block-top-a">
+   <div>
+    <div>
+     <section class="wrapper grid-block" id="top-a">
+      <div class="grid-box width100 grid-v">
+       <div class="module mod-box deepest">
+        <p>
+         <img alt="NOVA 2" height="219" src="/images/NOVA_2.jpg" width="1178"/>
+        </p>
+       </div>
+      </div>
+     </section>
+    </div>
+   </div>
+  </div>
+  <div id="block-main">
+   <div class="wrapper grid-block" id="main">
+    <div class="grid-box" id="maininner">
+     <section class="grid-block" id="innertop">
+      <div class="grid-box width100 grid-h">
+       <div class="module mod-box deepest">
+        <div class="wk-slideshow wk-slideshow-default" data-options='{"style":"default","autoplay":1,"interval":6000,"width":"auto","height":"auto","duration":5000,"index":0,"order":"default","navigation":0,"buttons":0,"slices":20,"animated":"fade","caption_animation_duration":250}' data-widgetkit="slideshow" id="slideshow-1-60f6c1b462543">
+         <div>
+          <ul class="slides">
+           <li>
+            <article class="wk-content clearfix">
+             <br/>
+             <img alt="14359221 1014954055280582 8515798387361379162 n" src="/images/14359221_1014954055280582_8515798387361379162_n.jpg"/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="10553419 267459306785326 6150651191752931083 n" data-src="/images/10553419_267459306785326_6150651191752931083_n.jpg" height="480" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" width="647"/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="11705099 392136854317570 847867320327168392 n" data-src="/images/11705099_392136854317570_847867320327168392_n.jpg" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw=="/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="2014/07/16 00015" data-src="/images/2014-07-16_00015.jpg" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw=="/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="67536465 2177895605655229 2940486446525448192 n" data-src="/images/67536465_2177895605655229_2940486446525448192_n.jpg" height="406" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" width="568"/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="14446049 1014954148613906 1917567619792411288 n" data-src="/images/14446049_1014954148613906_1917567619792411288_n.jpg" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw=="/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="14390847 1014953451947309 1756637267204742195 n" data-src="/images/14390847_1014953451947309_1756637267204742195_n.jpg" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw=="/>
+            </article>
+           </li>
+           <li>
+            <article class="wk-content clearfix">
+             <img alt="67363576 2177895938988529 7096303764277035008 n" data-src="/images/67363576_2177895938988529_7096303764277035008_n.jpg" height="489" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" width="652"/>
+            </article>
+           </li>
+          </ul>
+          <div class="caption">
+          </div>
+          <ul class="captions">
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+           <li>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+     <section class="grid-block" id="content">
+      <div id="system-message-container">
+      </div>
+      <div id="system">
+       <div class="items items-col-1 grid-block">
+        <div class="grid-box width100 leading">
+         <article class="item" data-permalink="http://uikckz.hr/index.php/78-vijesti/541-2021-04-02-13-51-46">
+          <header>
+           <h1 class="title">
+            <a href="/index.php/78-vijesti/541-2021-04-02-13-51-46" title="PPIPREME ZA USKRS S GERONTODOMAĆICAMA I OSOBNIM ASISTENTICAMA">
+            </a>
+           </h1>
+          </header>
+          <div class="content clearfix">
+           <div>
+           </div>
+           <div>
+            <br/>
+            <br/>
+            <br/>
+           </div>
+           <div>
+            <div style="clear:both">
+            </div>
+            <style type="text/css">
+            </style>
+            <div class="ag_reseter AG_classic" id="AG_01">
+             <table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+               <tr>
+                <td>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167499352_3631635566947885_1446936256905073345_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167499352_3631635566947885_1446936256905073345_n.jpg">
+                   <img alt="167499352_3631635566947885_1446936256905073345_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167499352_3631635566947885_1446936256905073345_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167509644_3631641106947331_5835396091808374871_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167509644_3631641106947331_5835396091808374871_n.jpg">
+                   <img alt="167509644_3631641106947331_5835396091808374871_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167509644_3631641106947331_5835396091808374871_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167661345_3631638073614301_8752878910757869317_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167661345_3631638073614301_8752878910757869317_n.jpg">
+                   <img alt="167661345_3631638073614301_8752878910757869317_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167661345_3631638073614301_8752878910757869317_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167675555_3631636330281142_8026592781998322621_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167675555_3631636330281142_8026592781998322621_n.jpg">
+                   <img alt="167675555_3631636330281142_8026592781998322621_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167675555_3631636330281142_8026592781998322621_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167675555_3631638726947569_6558132354160718666_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167675555_3631638726947569_6558132354160718666_n.jpg">
+                   <img alt="167675555_3631638726947569_6558132354160718666_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167675555_3631638726947569_6558132354160718666_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167724201_3631640293614079_8686227298473750362_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167724201_3631640293614079_8686227298473750362_n.jpg">
+                   <img alt="167724201_3631640293614079_8686227298473750362_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167724201_3631640293614079_8686227298473750362_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167733532_3631642366947205_6931831057267672107_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167733532_3631642366947205_6931831057267672107_n.jpg">
+                   <img alt="167733532_3631642366947205_6931831057267672107_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167733532_3631642366947205_6931831057267672107_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167761999_3631638056947636_8638914408904864423_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167761999_3631638056947636_8638914408904864423_n.jpg">
+                   <img alt="167761999_3631638056947636_8638914408904864423_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167761999_3631638056947636_8638914408904864423_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167800388_3631640220280753_4711280716623876328_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167800388_3631640220280753_4711280716623876328_n.jpg">
+                   <img alt="167800388_3631640220280753_4711280716623876328_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167800388_3631640220280753_4711280716623876328_n.jpg"/>
+                  </a>
+                 </span>
+                 <span class="ag_thumbclassic">
+                  <a class="" href="http://uikckz.hr/images/sampledata/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167807945_3631640350280740_9040799821778949275_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167807945_3631640350280740_9040799821778949275_n.jpg">
+                   <img alt="167807945_3631640350280740_9040799821778949275_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA/167807945_3631640350280740_9040799821778949275_n.jpg"/>
+                  </a>
+                 </span>
+                </td>
+               </tr>
+              </tbody>
+             </table>
+             <div class="AG_pagin_wrap">
+              <span class="AG_pagin_current">
+              </span>
+              <a class="AG_pagin_link" href="/" onclick="AG_form_submit_1(0,2,'PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA',this);return false;">
+              </a>
+              <a class="AG_pagin_link" href="/" onclick="AG_form_submit_1(0,3,'PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA',this);return false;">
+              </a>
+              <a class="AG_pagin_next" href="/" onclick="AG_form_submit_1(0,2,'PPIPREME-ZA-USKRS-S-GERONTODOMAĆICAMA-I-OSOBNIM-ASISTENTICAMA'); return false;">
+              </a>
+              <br style="clear:both"/>
+             </div>
+            </div>
+            <script charset="utf-8" type="text/javascript">
+            </script>
+           </div>
+           <script type="text/javascript">
+           </script>
+           <span class="ag_hidden_ID" id="1">
+           </span>
+           <div style="display:block; font-size:10px;">
+            <br/>
+            <a href="http://www.admiror-design-studio.com/en/joomla-extensions" target="_blank">
+            </a>
+            <a href="http://www.vasiljevski.com/" target="_blank">
+            </a>
+            <a href="http://www.admiror-design-studio.com" target="_blank">
+            </a>
+            <br/>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="grid-box width100">
+         <article class="item" data-permalink="http://uikckz.hr/index.php/78-vijesti/538-podrska-opcine-delekovec-i-opcine-gola">
+          <header>
+           <h1 class="title">
+            <a href="/index.php/78-vijesti/538-podrska-opcine-delekovec-i-opcine-gola" title="PODRŠKA OPĆINE ĐELEKOVEC I OPĆINE GOLA">
+            </a>
+           </h1>
+          </header>
+          <div class="content clearfix">
+           <p>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+           </p>
+           <p>
+           </p>
+           <div style="clear:both">
+           </div>
+           <style type="text/css">
+           </style>
+           <div class="ag_reseter AG_classic" id="AG_01">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td>
+                <span class="ag_thumbclassic">
+                 <a class="" href="http://uikckz.hr/images/sampledata/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/166946572_3626268944151214_4465597298411448943_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="166946572_3626268944151214_4465597298411448943_n.jpg">
+                  <img alt="166946572_3626268944151214_4465597298411448943_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/166946572_3626268944151214_4465597298411448943_n.jpg"/>
+                 </a>
+                </span>
+                <span class="ag_thumbclassic">
+                 <a class="" href="http://uikckz.hr/images/sampledata/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/166964928_3626268747484567_7298423069703127859_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="166964928_3626268747484567_7298423069703127859_n.jpg">
+                  <img alt="166964928_3626268747484567_7298423069703127859_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/166964928_3626268747484567_7298423069703127859_n.jpg"/>
+                 </a>
+                </span>
+                <span class="ag_thumbclassic">
+                 <a class="" href="http://uikckz.hr/images/sampledata/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/167037536_3626269240817851_2915184568356852017_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167037536_3626269240817851_2915184568356852017_n.jpg">
+                  <img alt="167037536_3626269240817851_2915184568356852017_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/167037536_3626269240817851_2915184568356852017_n.jpg"/>
+                 </a>
+                </span>
+                <span class="ag_thumbclassic">
+                 <a class="" href="http://uikckz.hr/images/sampledata/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/167634320_3626269554151153_5810435613931107890_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167634320_3626269554151153_5810435613931107890_n.jpg">
+                  <img alt="167634320_3626269554151153_5810435613931107890_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/PODRŠKA-OPĆINE-ĐELEKOVEC-I-OPĆINE-GOLA/167634320_3626269554151153_5810435613931107890_n.jpg"/>
+                 </a>
+                </span>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+           <script charset="utf-8" type="text/javascript">
+           </script>
+           <script type="text/javascript">
+           </script>
+           <span class="ag_hidden_ID" id="1">
+           </span>
+           <div style="display:block; font-size:10px;">
+            <br/>
+            <a href="http://www.admiror-design-studio.com/en/joomla-extensions" target="_blank">
+            </a>
+            <a href="http://www.vasiljevski.com/" target="_blank">
+            </a>
+            <a href="http://www.admiror-design-studio.com" target="_blank">
+            </a>
+            <br/>
+           </div>
+          </div>
+         </article>
+         <article class="item" data-permalink="http://uikckz.hr/index.php/78-vijesti/537-stizem-po-tebe-nisi-sam-3-odlicna-suradnja-s-opcinama">
+          <header>
+           <h1 class="title">
+            <a href="/index.php/78-vijesti/537-stizem-po-tebe-nisi-sam-3-odlicna-suradnja-s-opcinama" title="STIŽEM PO TEBE, NISI SAM 3 – ODLIČNA SURADNJA S OPĆINAMA!">
+            </a>
+           </h1>
+          </header>
+          <div class="content clearfix">
+           <p>
+            <br/>
+            <br/>
+           </p>
+           <p>
+           </p>
+           <div style="clear:both">
+           </div>
+           <style type="text/css">
+           </style>
+           <div class="ag_reseter AG_classic" id="AG_01">
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td>
+                <span class="ag_thumbclassic">
+                 <a class="" href="http://uikckz.hr/images/sampledata/STIŽEM-PO-TEBE,-NISI-SAM-3-–-ODLIČNA-SURADNJA-S-OPĆINAMA!/167087970_3623673804410728_2320124999723974875_n.jpg" rel="fancybox[AdmirorGallery01]" target="_blank" title="167087970_3623673804410728_2320124999723974875_n.jpg">
+                  <img alt="167087970_3623673804410728_2320124999723974875_n.jpg" class="ag_imageThumb" src="http://uikckz.hr/plugins/content/admirorgallery/admirorgallery/thumbs/STIŽEM-PO-TEBE,-NISI-SAM-3-–-ODLIČNA-SURADNJA-S-OPĆINAMA!/167087970_3623673804410728_2320124999723974875_n.jpg"/>
+                 </a>
+                </span>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+           <script charset="utf-8" type="text/javascript">
+           </script>
+           <script type="text/javascript">
+           </script>
+           <span class="ag_hidden_ID" id="1">
+           </span>
+           <div style="display:block; font-size:10px;">
+            <br/>
+            <a href="http://www.admiror-design-studio.com/en/joomla-extensions" target="_blank">
+            </a>
+            <a href="http://www.vasiljevski.com/" target="_blank">
+            </a>
+            <a href="http://www.admiror-design-studio.com" target="_blank">
+            </a>
+            <br/>
+           </div>
+          </div>
+         </article>
+        </div>
+       </div>
+       <div class="item-list">
+        <h3>
+        </h3>
+        <ul>
+         <li>
+          <a href="/index.php/78-vijesti/536-institucionalna-podrska-nacionalna-zaklada-za-razvoj-civilnoga-drustva">
+          </a>
+         </li>
+         <li>
+          <a href="/index.php/78-vijesti/535-donacija-tvrtka-marvin-d-o-o-koprivnica">
+          </a>
+         </li>
+         <li>
+          <a href="/index.php/78-vijesti/534-odrzan-sastanak-s-gerontodomacicama">
+          </a>
+         </li>
+         <li>
+          <a href="/index.php/78-vijesti/533-odrzana-elektronicka-redovna-izvjestajna-godisnja-skupstina-udruge-platforma-zoom">
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="pagination">
+        <strong>
+        </strong>
+        <a class="" href="/index.php?start=3" title="2">
+        </a>
+        <a class="" href="/index.php?start=6" title="3">
+        </a>
+        <a class="" href="/index.php?start=9" title="4">
+        </a>
+        <a class="" href="/index.php?start=12" title="5">
+        </a>
+        <a class="" href="/index.php?start=15" title="6">
+        </a>
+        <a class="" href="/index.php?start=18" title="7">
+        </a>
+        <a class="" href="/index.php?start=21" title="8">
+        </a>
+        <a class="" href="/index.php?start=24" title="9">
+        </a>
+        <a class="" href="/index.php?start=27" title="10">
+        </a>
+        <a class="next" href="/index.php?start=3" title="»">
+        </a>
+        <a class="last" href="/index.php?start=372" title="Kraj">
+        </a>
+       </div>
+      </div>
+     </section>
+    </div>
+    <aside class="grid-box" id="sidebar-a">
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+       </h3>
+       <ul class="menu menu-sidebar">
+        <li class="level1 item435">
+         <a class="level1" href="/index.php/homepage">
+          <span>
+          </span>
+         </a>
+        </li>
+        <li class="level1 item473 active current">
+         <a class="level1 active current" href="/">
+          <span>
+          </span>
+         </a>
+        </li>
+        <li class="level1 item474">
+         <a class="level1" href="/index.php/o-udruzi">
+          <span>
+          </span>
+         </a>
+        </li>
+        <li class="level1 item487">
+         <a class="level1" href="/index.php/kontakt">
+          <span>
+          </span>
+         </a>
+        </li>
+        <li class="level1 item475 parent">
+         <a class="level1 parent" href="/index.php/obracanje-javnosti">
+          <span>
+          </span>
+         </a>
+        </li>
+        <li class="level1 item480 parent">
+         <a class="level1 parent" href="/index.php/aktivnosti-clanova">
+          <span>
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+        <a href="/images/sampledata/letak1.pdf" target="_blank">
+         <img alt="l1" height="448" src="/images/sampledata/l1.JPG" width="235"/>
+        </a>
+       </p>
+       <p>
+        <a href="/images/sampledata/letak2.pdf" target="_blank">
+         <img alt="l2" height="446" src="/images/sampledata/l2.JPG" width="238"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+       </h3>
+       <p>
+        <a href="/images/logo_foot.jpg">
+         <img alt="logo foot" height="119" src="/images/logo_foot.jpg" width="234"/>
+        </a>
+        <a href="http://civilnodrustvo.hr/" style="color: #99c730; text-decoration: none; font-family: Verdana, sans-serif; line-height: 23px; text-align: center;" target="_blank" title="http://civilnodrustvo.hr">
+        </a>
+        <a href="http://civilnodrustvo.hr/" style="color: #99c730; text-decoration: none; font-family: Verdana, sans-serif; line-height: 23px; text-align: center;" target="_blank" title="http://civilnodrustvo.hr">
+        </a>
+        <a href="/images/logo_foot.jpg" style="font-size: 16.015998840332px;">
+         <img alt="logo head" height="119" src="/images/logo_head.jpg" width="233"/>
+        </a>
+       </p>
+       <p>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+        <iframe allowfullscreen="allowfullscreen" height="186" src="https://www.youtube.com/embed/RnkudMH5OHE" width="248">
+        </iframe>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+       </p>
+       <p>
+        <a href="https://udruge.gov.hr/">
+         <img alt="ured-udruge" height="81" src="/images/ured-udruge.png" width="256"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p style="text-align: left;">
+        <span>
+         <span>
+          <img alt="unnamed" src="/images/unnamed.jpg"/>
+         </span>
+        </span>
+        <a href="http://zaklada.civilnodrustvo.hr/frontpage">
+         <img alt="Nacionalna zaklada za razvoj civilnog društva" height="203" src="/images/Nacionalna_zaklada_za_razvoj_civilnog_društva.jpg" style="font-size: 16.016px;" width="228"/>
+        </a>
+        <span style="font-size: 16.016px;">
+        </span>
+       </p>
+       <p style="text-align: left;">
+        <span style="font-size: 16.016px;">
+         <span style="vertical-align: inherit;">
+          <span style="vertical-align: inherit;">
+           <span style="vertical-align: inherit;">
+            <span style="vertical-align: inherit;">
+             <span style="vertical-align: inherit;">
+              <span style="vertical-align: inherit;">
+              </span>
+             </span>
+            </span>
+           </span>
+          </span>
+         </span>
+        </span>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+       </p>
+       <p>
+        <a href="/images/sampledata/2020-2025.pdf">
+         <img alt="0002" height="161" src="/images/sampledata/0002.png" width="257"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+        <img alt="Untitled002" height="185" src="/images/Untitled002.png" width="259"/>
+        <a href="/images/pdf_version/LOGOJI_ZA_ŠEVKA.pdf">
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/pdf_version/Financijski%20izvjetaji%20za%202020.%20godinu.pdf">
+         <img alt="2020" height="194" src="/images/2020.png" width="257"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+        <a href="/images/sampledata/%20%20.pdf">
+         <img alt="Untitled 001" height="205" src="/images/Untitled_001.png" width="260"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <p>
+        <span style="text-decoration: underline;">
+         <span style="font-size: 10pt; background-color: #008000;">
+          <em>
+           <strong>
+            <span style="background-color: #ffffff;">
+             <span>
+              <span>
+              </span>
+             </span>
+            </span>
+           </strong>
+          </em>
+         </span>
+        </span>
+       </p>
+       <p>
+        <a href="/images/13029691_879406545504148_8217542505301152025_o.pdf">
+         <img alt="13029691 879406545504148 8217542505301152025 o" height="229" src="/images/13029691_879406545504148_8217542505301152025_o.jpg" width="237"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/pdf_version/Statut%20-%20NN74_14.pdf">
+         <img alt="STATUT UDRUGE" height="246" src="/images/STATUT_UDRUGE.png" width="251"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/Financijski%20plan%20UIKCKUP%20za%202021.%20godinu.pdf">
+        </a>
+        <a href="/images/pdf_version/Financijski%20plan%20UIKCKUP%20za%202021.%20godinu.pdf">
+         <img alt="Untitled" height="201" src="/images/pdf_version/Untitled.png" width="253"/>
+        </a>
+        <a href="/images/Financijski%20plan%20UIKCKUP%20za%202021.%20godinu.pdf">
+         <br/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/Financijski%20izvjetaji%20za%202019.%20godinu.pdf">
+         <img alt="0001" height="207" src="/images/sampledata/0001.png" width="257"/>
+        </a>
+       </p>
+      </div>
+     </div>
+    </aside>
+    <aside class="grid-box" id="sidebar-b">
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/index.php/component/content/article/80-udruga/90-radovi-filmske-grupe-nautilus">
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/pdf_version/Izvjetaj%20o%20radu%20za%202020.%20godinu%201.pdf">
+         <img alt="IZVJEŠĆE" height="170" src="/images/IZVJEŠĆE.png" width="246"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/pdf_version/bilten%202020.pdf">
+         <img alt="129483729 3318077921636986 3014559202135582829 o 1" height="263" src="/images/129483729_3318077921636986_3014559202135582829_o_1.jpg" width="243"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <div align="center">
+        <a href="http://www.simplehitcounter.com" target="_blank">
+         <img alt="web counter" border="0" height="18" src="http://simplehitcounter.com/hit.php?uid=1907204&amp;f=16777215&amp;b=0" width="83"/>
+        </a>
+        <br/>
+        <a href="http://www.simplehitcounter.com" style="text-decoration: none;" target="_blank">
+        </a>
+       </div>
+       <p>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/pdf_version/Plan%20rada%20UIKCKUP%20za%202021.%20godinu.pdf">
+         <img alt="plan 2021" height="179" src="/images/plan_2021.png" width="259"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+       </h3>
+       <p>
+        <a href="http://www.zosi.hr/">
+         <img alt="logo" height="176" src="/images/logo.gif" width="185"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="/images/sampledata/dobro-je-znati-web.pdf" target="_blank">
+         <img alt="Dobro" height="230" src="/images/sampledata/dobro.jpg" width="243"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+        <a href="http://www.ottobock.hr/" style="font-size: 16.016px;">
+         <img alt="164" height="236" src="/images/164.jpg" width="256"/>
+        </a>
+       </p>
+      </div>
+     </div>
+     <div class="grid-box width100 grid-v">
+      <div class="module mod-box deepest">
+       <h3 class="module-title">
+        <span class="color">
+        </span>
+       </h3>
+       <p>
+       </p>
+       <p>
+        <a href="/images/sampledata/Izvještaj_o_radu_za_2019._godinu.pdf">
+         <img alt="IZVJEŠTAJI UDRUGE" height="183" src="/images/IZVJEŠTAJI_UDRUGE.png" width="262"/>
+        </a>
+       </p>
+      </div>
+     </div>
+    </aside>
+   </div>
+  </div>
+ </body>
+</html>

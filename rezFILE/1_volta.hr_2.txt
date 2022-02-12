@@ -1,0 +1,448 @@
+<html lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://volta.hr/xmlrpc.php" rel="pingback"/>
+  <title>
+  </title>
+  <meta content="noindex,follow" name="robots"/>
+  <link href="//www.google.com" rel="dns-prefetch"/>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://volta.hr/feed/" rel="alternate" title="VOLTA Zagreb » Kanal" type="application/rss+xml"/>
+  <link href="http://volta.hr/comments/feed/" rel="alternate" title="VOLTA Zagreb » Kanal komentara" type="application/rss+xml"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <link href="http://volta.hr/wp-content/themes/astrid/css/bootstrap/bootstrap.min.css?ver=1" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-includes/css/dist/block-library/style.min.css?ver=5.1.10" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/themes/astrid/style.css?ver=5.1.10" id="astrid-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="astrid-style-inline-css" type="text/css">
+  </style>
+  <link href="//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C600%2C600italic&amp;ver=5.1.10" id="astrid-body-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Josefin+Sans%3A300italic%2C300&amp;ver=5.1.10" id="astrid-headings-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.2.0" id="elementor-icons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.4.7" id="elementor-animations-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.4.7" id="elementor-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://volta.hr/wp-content/uploads/elementor/css/global.css?ver=1551270806" id="elementor-global-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.1.10" id="google-fonts-1-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://volta.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <link href="http://volta.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://volta.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://volta.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.1.10" name="generator"/>
+  <link href="http://volta.hr/" rel="canonical"/>
+  <link href="http://volta.hr/" rel="shortlink"/>
+  <link href="http://volta.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvolta.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://volta.hr/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvolta.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <link href="http://volta.hr/wp-content/uploads/2019/02/cropped-volta-logo-3-2-32x32.png" rel="icon" sizes="32x32"/>
+  <link href="http://volta.hr/wp-content/uploads/2019/02/cropped-volta-logo-3-2-192x192.png" rel="icon" sizes="192x192"/>
+  <link href="http://volta.hr/wp-content/uploads/2019/02/cropped-volta-logo-3-2-180x180.png" rel="apple-touch-icon-precomposed"/>
+  <meta content="http://volta.hr/wp-content/uploads/2019/02/cropped-volta-logo-3-2-270x270.png" name="msapplication-TileImage"/>
+  <style id="wp-custom-css" type="text/css">
+  </style>
+ </head>
+ <body class="home page-template page-template-page-templates page-template-page_fullwidth page-template-page-templatespage_fullwidth-php page page-id-8 elementor-default elementor-page elementor-page-8">
+  <div class="preloader">
+   <div class="preloader-inner">
+    <ul>
+     <li>
+     </li>
+     <li>
+     </li>
+     <li>
+     </li>
+     <li>
+     </li>
+     <li>
+     </li>
+     <li>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="site" id="page">
+   <a class="skip-link screen-reader-text" href="#content">
+   </a>
+   <header class="site-header has-video" id="masthead" role="banner">
+    <div class="container">
+     <div class="site-branding col-md-4 col-sm-6 col-xs-12">
+      <p class="site-title">
+       <a href="http://volta.hr/" rel="home">
+       </a>
+      </p>
+      <p class="site-description">
+      </p>
+     </div>
+     <div class="btn-menu col-md-8 col-sm-6 col-xs-12">
+      <i class="fa fa-navicon">
+      </i>
+     </div>
+     <nav class="main-navigation col-md-8 col-sm-6 col-xs-12" id="mainnav" role="navigation">
+      <div class="menu-menu_glavni-container">
+       <ul class="menu" id="primary-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-109" id="menu-item-109">
+         <a aria-current="page" href="http://volta.hr/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-108" id="menu-item-108">
+         <a href="http://volta.hr/o-nama/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105" id="menu-item-105">
+           <a href="http://volta.hr/proizvodni-program/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-112" id="menu-item-112">
+         <a href="http://volta.hr/proizvodnja/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212" id="menu-item-212">
+           <a href="http://volta.hr/jednofazni-transformatori/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207" id="menu-item-207">
+           <a href="http://volta.hr/trofazni-transformatori/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206" id="menu-item-206">
+           <a href="http://volta.hr/strujni-transformatori/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205" id="menu-item-205">
+           <a href="http://volta.hr/prigusnice/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204" id="menu-item-204">
+           <a href="http://volta.hr/popravci/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202" id="menu-item-202">
+           <a href="http://volta.hr/rtv/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203" id="menu-item-203">
+           <a href="http://volta.hr/gun-1000/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201" id="menu-item-201">
+           <a href="http://volta.hr/rst/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200" id="menu-item-200">
+           <a href="http://volta.hr/magnetski-monitoring/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-115" id="menu-item-115">
+         <a href="http://volta.hr/2019/02/27/cjenik/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106" id="menu-item-106">
+         <a href="http://volta.hr/kontakt/">
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+   </header>
+   <div class="wp-custom-header" id="wp-custom-header">
+    <img alt="VOLTA Zagreb" height="1079" sizes="(max-width: 1920px) 100vw, 1920px" src="http://volta.adviser-group.hr/wp-content/uploads/2019/02/cropped-Volta_banner.jpg" srcset="http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner.jpg 1920w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-300x169.jpg 300w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-768x432.jpg 768w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-1024x575.jpg 1024w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-700x393.jpg 700w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-520x292.jpg 520w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-360x202.jpg 360w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-250x140.jpg 250w, http://volta.hr/wp-content/uploads/2019/02/cropped-Volta_banner-100x56.jpg 100w" width="1920"/>
+   </div>
+   <div class="site-content" id="content">
+    <div class="container">
+     <div class="content-area fullwidth" id="primary">
+      <main class="site-main" id="main" role="main">
+       <article class="post-8 page type-page status-publish hentry clearfix" id="post-8">
+        <header class="entry-header">
+         <h1 class="entry-title">
+         </h1>
+        </header>
+        <div class="entry-content">
+         <div class="elementor elementor-8" data-elementor-id="8" data-elementor-settings="[]" data-elementor-type="post">
+          <div class="elementor-inner">
+           <div class="elementor-section-wrap">
+            <section class="elementor-element elementor-element-7617f553 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section" data-id="7617f553">
+             <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+               <div class="elementor-element elementor-element-2766aab1 elementor-column elementor-col-100 elementor-top-column" data-element_type="column" data-id="2766aab1">
+                <div class="elementor-column-wrap elementor-element-populated">
+                 <div class="elementor-widget-wrap">
+                  <div class="elementor-element elementor-element-519cb538 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default" data-id="519cb538">
+                   <div class="elementor-widget-container">
+                    <div class="elementor-text-editor elementor-clearfix">
+                     <div class="wp-block-columns has-3-columns">
+                      <div class="wp-block-column">
+                       <h2>
+                       </h2>
+                       <p>
+                       </p>
+                       <p>
+                       </p>
+                       <div class="wp-block-button is-style-default">
+                        <a class="wp-block-button__link has-text-color has-luminous-vivid-orange-color has-background" style="background-color: #ffffff;">
+                         <strong>
+                         </strong>
+                        </a>
+                       </div>
+                       <p>
+                       </p>
+                      </div>
+                      <div class="wp-block-column">
+                       <h2>
+                       </h2>
+                       <p>
+                       </p>
+                       <div class="wp-block-button">
+                        <a class="wp-block-button__link has-text-color has-luminous-vivid-orange-color has-background" style="background-color: #ffffff;">
+                         <strong>
+                         </strong>
+                        </a>
+                       </div>
+                      </div>
+                      <div class="wp-block-column">
+                       <h2>
+                       </h2>
+                       <p>
+                       </p>
+                       <div class="wp-block-button">
+                        <a class="wp-block-button__link has-text-color has-luminous-vivid-orange-color has-background" style="background-color: #ffffff;">
+                         <strong>
+                         </strong>
+                        </a>
+                       </div>
+                      </div>
+                     </div>
+                     <hr class="wp-block-separator is-style-default"/>
+                     <div class="wp-block-columns has-2-columns">
+                      <div class="wp-block-column">
+                       <h2>
+                       </h2>
+                       <p style="text-align: left;">
+                        <br/>
+                        <br/>
+                        <em>
+                        </em>
+                       </p>
+                       <p>
+                       </p>
+                      </div>
+                      <div class="wp-block-column">
+                       <div aria-hidden="true" class="wp-block-spacer" style="height: 51px;">
+                       </div>
+                       <figure class="wp-block-image is-resized">
+                        <img alt="" class="wp-image-360" height="437" sizes="(max-width: 656px) 100vw, 656px" src="https://volta.adviser-group.hr/wp-content/uploads/2019/03/strommast-3664559_640.jpg" srcset="http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640.jpg 640w, http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640-300x200.jpg 300w, http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640-520x346.jpg 520w, http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640-360x240.jpg 360w, http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640-250x166.jpg 250w, http://volta.hr/wp-content/uploads/2019/03/strommast-3664559_640-100x67.jpg 100w" width="656"/>
+                       </figure>
+                      </div>
+                     </div>
+                     <div class="wp-block-columns has-2-columns">
+                      <div class="wp-block-column">
+                       <div class="wp-block-button aligncenter is-style-outline">
+                        <a class="wp-block-button__link has-text-color has-luminous-vivid-orange-color has-background" href="https://volta.hr/o-nama/" style="background-color: #ffffff;">
+                        </a>
+                       </div>
+                      </div>
+                      <div class="wp-block-column">
+                      </div>
+                     </div>
+                     <div aria-hidden="true" class="wp-block-spacer" style="height: 51px;">
+                     </div>
+                     <p class="has-text-color has-background has-medium-font-size has-luminous-vivid-orange-background-color" style="color: #ffffff; text-align: center;">
+                      <strong>
+                      </strong>
+                     </p>
+                     <table class="wp-block-table alignfull has-fixed-layout is-style-stripes">
+                      <tbody>
+                       <tr>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                        <td>
+                         <strong>
+                         </strong>
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                     <div class="wp-block-button aligncenter">
+                      <a class="wp-block-button__link has-text-color has-background has-luminous-vivid-orange-background-color" href="https://volta.hr/proizvodnja/" style="color: #ffffff;">
+                       <strong>
+                       </strong>
+                      </a>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </section>
+           </div>
+          </div>
+         </div>
+        </div>
+        <footer class="entry-footer">
+        </footer>
+       </article>
+      </main>
+     </div>
+    </div>
+   </div>
+   <div class="footer-wrapper">
+    <div class="footer-info">
+     <div class="container">
+      <div class="footer-branding">
+       <h2 class="site-title-footer">
+        <a href="http://volta.hr/" rel="home">
+        </a>
+       </h2>
+      </div>
+      <div class="footer-contact">
+       <div class="footer-contact-block">
+        <i class="fa fa-home">
+        </i>
+        <span>
+        </span>
+       </div>
+       <div class="footer-contact-block">
+        <i class="fa fa-envelope">
+        </i>
+        <span>
+         <a href="mailto:01/ 48 19 802">
+         </a>
+        </span>
+       </div>
+       <div class="footer-contact-block">
+        <i class="fa fa-phone">
+        </i>
+        <span>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer class="site-footer" id="colophon" role="contentinfo">
+     <div class="site-info container">
+      <nav class="footer-navigation" id="footernav" role="navigation">
+       <div class="menu-menu_glavni-container">
+        <ul class="menu" id="footer-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-109">
+          <a aria-current="page" href="http://volta.hr/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-108">
+          <a href="http://volta.hr/o-nama/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-112">
+          <a href="http://volta.hr/proizvodnja/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-115">
+          <a href="http://volta.hr/2019/02/27/cjenik/">
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106">
+          <a href="http://volta.hr/kontakt/">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+      <div class="site-copyright">
+       <a href="https://wordpress.org/">
+       </a>
+       <span class="sep">
+       </span>
+       <a href="http://athemes.com/theme/astrid" rel="designer">
+       </a>
+      </div>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <script>
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=914680585405980&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-150427584-1">
+  </script>
+  <script>
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3" type="text/javascript">
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Lf8DLAUAAAAALoYo5WFzB7l4rV817FrJzWA83bw&amp;ver=3.0" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/themes/astrid/js/main.js?ver=5.1.10" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/themes/astrid/js/scripts.min.js?ver=5.1.10" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-includes/js/wp-embed.min.js?ver=5.1.10" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=2.4.7" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://volta.hr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.4.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1116 @@
+<html class="html_stretched responsive av-preloader-active av-preloader-enabled av-default-lightbox html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking_disabled html_header_transparency html_header_with_border html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top html_header_stretch_disabled html_minimal_header html_minimal_header_shadow html_elegant-blog html_av-overlay-side html_av-overlay-side-minimal html_av-submenu-noclone html_entry_id_212 av-cookies-no-cookie-consent av-no-preview html_text_menu_active" lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+  </title>
+  <meta content="index, follow" name="robots"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+  <link href="http://www.luna.com.hr/?page_id=212" rel="canonical"/>
+  <meta content="hr_HR" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Početna - Luna band: vaš band za svadbe i svečanosti" property="og:title"/>
+  <meta content="http://www.luna.com.hr/?page_id=212" property="og:url"/>
+  <meta content="Luna band: vaš band za svadbe i svečanosti" property="og:site_name"/>
+  <meta content="https://web.facebook.com/darioluna.bend" property="article:publisher"/>
+  <meta content="https://web.facebook.com/darioluna.bend" property="article:author"/>
+  <meta content="2020-06-23T08:45:05+00:00" property="article:modified_time"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@dsimag" name="twitter:creator"/>
+  <meta content="@dsimag" name="twitter:site"/>
+  <script class="yoast-schema-graph" type="application/ld+json">
+  </script>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://www.luna.com.hr/?feed=rss2" rel="alternate" title="Luna band: vaš band za svadbe i svečanosti » Kanal" type="application/rss+xml"/>
+  <link href="http://www.luna.com.hr/?feed=comments-rss2" rel="alternate" title="Luna band: vaš band za svadbe i svečanosti » Kanal komentara" type="application/rss+xml"/>
+  <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/vendor/wdt-emoji/wdt-emoji-bundle.css?ver=8.1.7" id="wplc-admin-style-emoji-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/css/wplc_styles_pro.css?ver=5.4.4" id="wplc-user-pro-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/css/fontawesome-all.min.css?ver=8.1.7" id="wplc-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css?ver=8.1.7" id="wplc-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="wplc-style-inline-css" type="text/css">
+  </style>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/css/themes/modern.css?ver=8.1.7" id="wplc-theme-modern-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/css/themes/position-bottom-right.css?ver=8.1.7" id="wplc-theme-position-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/includes/blocks/wplc-chat-box/wplc_gutenberg_template_styles.css?ver=8.1.7" id="wplc-gutenberg-template-styles-user-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.4" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.luna.com.hr/wp-content/uploads/dynamic_avia/avia-merged-styles-9e329449fefb4f116f1981bb95f3760b---5eb53663b17dd.css" id="avia-merged-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_server.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/vendor/wdt-emoji/wdt-emoji-concat.min.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <link href="http://www.luna.com.hr/index.php?rest_route=/" rel="https://api.w.org/"/>
+  <link href="http://www.luna.com.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.luna.com.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 5.4.4" name="generator"/>
+  <link href="http://www.luna.com.hr/" rel="shortlink"/>
+  <link href="http://www.luna.com.hr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.luna.com.hr%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://www.luna.com.hr/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.luna.com.hr%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <script type="text/javascript">
+  </script>
+  <style>
+  </style>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://www.luna.com.hr/?feed=rss2" rel="alternate" title="Luna band: vaš band za svadbe i svečanosti RSS2 Feed" type="application/rss+xml"/>
+  <link href="http://www.luna.com.hr/xmlrpc.php" rel="pingback"/>
+  <style media="screen" type="text/css">
+  </style>
+  <link href="http://www.luna.com.hr/wp-content/uploads/2020/05/luna_bend_logo.jpg" rel="icon" type="image/x-icon"/>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+  </style>
+ </head>
+ <body class="home page-template-default page page-id-212 rtl_columns stretched oswald lato no_sidebar_border" id="top" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <div class="av-siteloader-wrap av-transition-enabled">
+   <div class="av-siteloader-inner">
+    <div class="av-siteloader-cell">
+     <div class="av-siteloader">
+      <div class="av-siteloader-extra">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="wrap_all">
+   <header class="all_colors header_color dark_bg_color av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_tablet av_header_transparency av_header_with_border av_header_searchicon av_header_unstick_top av_seperator_small_border av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled" id="header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+    <div class="container_wrap container_wrap_logo" id="header_main">
+     <div class="container av-logo-container">
+      <div class="inner-container">
+       <span class="logo">
+        <a href="http://www.luna.com.hr/">
+         <img alt="Luna band: vaš band za svadbe i svečanosti" height="100" src="http://www.luna.com.hr/wp-content/uploads/2020/05/luna_bend_logo.jpg" title="" width="300"/>
+        </a>
+       </span>
+       <nav class="main_menu" data-selectname="Select a page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+        <div class="avia-menu av-main-nav-wrap av_menu_icon_beside">
+         <ul class="menu av-main-nav" id="avia-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-212 current_page_item menu-item-top-level menu-item-top-level-1" id="menu-item-484">
+           <a href="http://www.luna.com.hr/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2" id="menu-item-490">
+           <a href="http://www.luna.com.hr/?page_id=343" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3" id="menu-item-491">
+           <a href="http://www.luna.com.hr/?page_id=340" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4" id="menu-item-750">
+           <a href="http://www.luna.com.hr/?page_id=747" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5" id="menu-item-489">
+           <a href="http://www.luna.com.hr/?page_id=349" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6" id="menu-item-763">
+           <a href="http://www.luna.com.hr/?page_id=760" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7" id="menu-item-493">
+           <a href="http://www.luna.com.hr/?page_id=356" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" id="menu-item-search">
+           <a aria-hidden="false" aria-label="Search" data-av_icon="" data-av_iconfont="entypo-fontello" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;http://www.luna.com.hr/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" href="?s=" rel="nofollow">
+            <span class="avia_hidden_link_text">
+            </span>
+           </a>
+          </li>
+          <li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon">
+           <a aria-hidden="false" aria-label="Menu" href="#">
+            <span class="av-hamburger av-hamburger--spin av-js-hamburger">
+             <span class="av-hamburger-box">
+              <span class="av-hamburger-inner">
+              </span>
+              <strong>
+              </strong>
+             </span>
+            </span>
+            <span class="avia_hidden_link_text">
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+        <ul class="noLightbox social_bookmarks icon_count_7">
+         <li class="social_bookmarks_twitter av-social-link-twitter social_icon_1">
+          <a aria-hidden="false" aria-label="Link to Twitter" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://twitter.com/dsimag" rel="noopener noreferrer" target="_blank" title="Twitter">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_facebook av-social-link-facebook social_icon_2">
+          <a aria-hidden="false" aria-label="Link to Facebook" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.facebook.com/LUNAbend/" rel="noopener noreferrer" target="_blank" title="Facebook">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_youtube av-social-link-youtube social_icon_3">
+          <a aria-hidden="false" aria-label="Link to Youtube" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.youtube.com/user/dsimag/featured?disable_polymer=1" rel="noopener noreferrer" target="_blank" title="Youtube">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_facebook av-social-link-facebook social_icon_4">
+          <a aria-hidden="false" aria-label="Link to Facebook" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.facebook.com/groups/luna.bend/" rel="noopener noreferrer" target="_blank" title="Facebook">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_instagram av-social-link-instagram social_icon_5">
+          <a aria-hidden="false" aria-label="Link to Instagram" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.instagram.com/lunabend/" rel="noopener noreferrer" target="_blank" title="Instagram">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_rss av-social-link-rss social_icon_6">
+          <a aria-hidden="false" aria-label="Link to Rss" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://soundcloud.com/dario-imag" rel="noopener noreferrer" target="_blank" title="Rss">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+         <li class="social_bookmarks_whatsapp av-social-link-whatsapp social_icon_7">
+          <a aria-hidden="false" aria-label="Link to WhatsApp" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://api.whatsapp.com/send?phone=38598604604&amp;text=Luna%20bend:%20va%C5%A1%20bend%20za%20svadbe%20i%20sve%20ostale%20sve%C4%8Danosti!" rel="noopener noreferrer" target="_blank" title="WhatsApp">
+           <span class="avia_hidden_link_text">
+           </span>
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+    </div>
+    <div class="header_bg">
+    </div>
+   </header>
+   <div class="all_colors" data-scroll-offset="85" id="main">
+    <div class="avia-fullwidth-slider main_color avia-shadow avia-builder-el-0 el_before_av_section avia-builder-el-first container_wrap fullsize" id="full_slider_1" style=" ">
+     <div class="avia-slideshow avia-slideshow-1 av-control-hidden av-default-height-applied avia-slideshow-featured_large av_slideshow_full avia-fade-slider" data-animation="fade" data-attach="scroll" data-autoplay="false" data-autoplay_stopper="" data-bg_slider="false" data-class=" " data-conditional_play="" data-control_layout="av-control-hidden" data-css_id="" data-custom_markup="" data-default-height="42" data-el_id="" data-handle="av_slideshow_full" data-ids="" data-image_attachment="" data-interval="5" data-lightbox_size="large" data-min_height="600px" data-perma_caption="aviaTBperma_caption" data-position="top left" data-repeat="no-repeat" data-scroll_down="" data-size="featured_large" data-slide_height="" data-src="" data-stretch="" data-video_counter="1" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+      <ul class="avia-slideshow-inner" style="padding-bottom: 42%;">
+       <li class="av-video-slide av-video-service-youtube av-hide-video-controls av-mute-video av-loop-video av-mobile-fallback-image av-video-stretch av-single-slide slide-1" data-controls="aviaTBaviaTBvideo_controls" data-disable-autoplay="" data-fallback-link="https://" data-loop="aviaTBaviaTBvideo_loop" data-mobile-img="" data-mute="aviaTBaviaTBvideo_mute" data-video-height="134" data-video-ratio="2.3809523809524" data-video-toppos="-17">
+        <div class="avia-slide-wrap" data-rel="slideshow-1" style='background-image:url("");'>
+         <div class="av-click-overlay">
+         </div>
+         <div class="mejs-mediaelement">
+          <div class="av_youtube_frame" data-autohide="1" data-autoplay="0" data-color="white" data-controls="0" data-hd="1" data-iv_load_policy="3" data-loop="0" data-original_url="https://www.youtube.com/watch?v=EEwv43LHtCY" data-playlist="player_212_1652697714_973980469" data-rel="0" data-showinfo="0" data-version="3" data-videoid="EEwv43LHtCY" data-wmode="opaque" height="1600" id="player_212_1652697714_973980469" width="900">
+          </div>
+         </div>
+         <div class="av-section-color-overlay" style="opacity: 0.7; background-color: #000000; ">
+         </div>
+         <div class="av-click-to-play-overlay">
+          <div class="avia_playpause_icon">
+          </div>
+         </div>
+        </div>
+       </li>
+      </ul>
+      <div class="caption_fullwidth av-slideshow-caption caption_center">
+       <div class="container caption_container">
+        <div class="slideshow_caption">
+         <div class="slideshow_inner_caption">
+          <div class="slideshow_align_caption">
+           <h2 class="avia-caption-title" itemprop="name" style="font-size:90px; ">
+           </h2>
+           <div class="avia-caption-content av_inherit_color" itemprop="description" style="font-size:30px; ">
+            <p>
+            </p>
+           </div>
+           <a class="avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button" data-duration="800" data-easing="easeInOutQuad" href="http://www.luna.com.hr/?page_id=343">
+           </a>
+           <a class="avia-slideshow-button avia-button avia-color-red avia-multi-slideshow-button avia-slideshow-button-2" data-duration="800" data-easing="easeInOutQuad" href="http://www.luna.com.hr/?page_id=340">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-section main_color avia-section-huge avia-no-border-styling av-section-color-overlay-active avia-bg-style-scroll avia-builder-el-1 el_after_av_slideshow_full el_before_av_section av-arrow-down-section container_wrap fullsize" id="av_section_1" style=" ">
+     <div class="av-section-color-overlay-wrap">
+      <div class="av-section-color-overlay" style="opacity: 0.5; background-color: #000000; background-image: url(http://www.luna.com.hr/wp-content/themes/enfold/images/background-images/grunge-light.png); background-repeat: repeat;">
+      </div>
+      <div class="container">
+       <div class="template-page content av-content-full alpha units">
+        <div class="post-entry post-entry-type-page post-entry-212">
+         <div class="entry-content-wrapper clearfix">
+          <div class="av-special-heading av-special-heading-h3 blockquote modern-quote modern-centered avia-builder-el-2 el_before_av_hr avia-builder-el-first av-inherit-size" style="padding-bottom:0px; font-size:50px;">
+           <h3 class="av-special-heading-tag" itemprop="headline">
+           </h3>
+           <div class="special-heading-border">
+            <div class="special-heading-inner-border">
+            </div>
+           </div>
+          </div>
+          <div class="hr hr-custom hr-center hr-icon-yes avia-builder-el-3 el_after_av_heading el_before_av_blog" style=" margin-top:15px; margin-bottom:20px;">
+           <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:#ffffff; max-width:45%;">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+           <span aria-hidden="true" class="av-seperator-icon" data-av_icon="" data-av_iconfont="entypo-fontello" style="color:#d63e2d;">
+           </span>
+           <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:#ffffff; max-width:45%;">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+          </div>
+          <div class="avia-content-slider avia-content-grid-active avia-content-slider1 avia-content-slider-odd avia-builder-el-4 el_after_av_hr avia-builder-el-last" data-animation="fade" data-autoplay="" data-interval="5" data-show_slide_delay="90" itemscope="itemscope" itemtype="https://schema.org/Blog">
+           <div class="avia-content-slider-inner">
+            <div class="slide-entry-wrap">
+             <article class="slide-entry flex_column post-entry post-entry-68 slide-entry-overview slide-loop-1 slide-parity-odd av_one_third first real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+              <a class="slide-image" data-rel="slide-1" href="http://www.luna.com.hr/?p=68" title="Fotografije sa nastupa">
+               <img alt="" class="attachment-masonry size-masonry wp-post-image" height="705" src="http://www.luna.com.hr/wp-content/uploads/2020/05/NZS2.jpg" width="705"/>
+              </a>
+              <div class="slide-content">
+               <header class="entry-content-header">
+                <span class="blog-categories minor-meta">
+                 <a href="http://www.luna.com.hr/?cat=3" rel="tag">
+                 </a>
+                </span>
+                <h3 class="slide-entry-title entry-title" itemprop="headline">
+                 <a href="http://www.luna.com.hr/?p=68" title="Fotografije sa nastupa">
+                 </a>
+                </h3>
+                <span class="av-vertical-delimiter">
+                </span>
+               </header>
+               <div class="slide-entry-excerpt entry-content" itemprop="text">
+               </div>
+              </div>
+              <footer class="entry-footer">
+               <div class="slide-meta">
+                <div class="slide-meta-comments">
+                 <a href="http://www.luna.com.hr/?p=68#comments">
+                 </a>
+                </div>
+                <div class="slide-meta-del">
+                </div>
+                <time class="slide-meta-time updated" datetime="2020-05-04T18:56:00+02:00" itemprop="datePublished">
+                </time>
+               </div>
+              </footer>
+              <span class="hidden">
+               <span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+                <span itemprop="url">
+                </span>
+                <span itemprop="height">
+                </span>
+                <span itemprop="width">
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+                <span itemprop="name">
+                </span>
+                <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                 <span itemprop="url">
+                 </span>
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+                <span itemprop="name">
+                </span>
+               </span>
+               <span class="av-structured-data" datetime="2020-05-05T14:50:10+02:00" itemprop="datePublished">
+               </span>
+               <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+               </span>
+               <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+                <span itemprop="name">
+                </span>
+               </span>
+              </span>
+             </article>
+             <article class="slide-entry flex_column post-entry post-entry-51 slide-entry-overview slide-loop-2 slide-parity-even av_one_third real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+              <a class="slide-image" data-rel="slide-1" href="http://www.luna.com.hr/?p=51" title="Video isječci">
+               <img alt="" class="attachment-masonry size-masonry wp-post-image" height="471" src="http://www.luna.com.hr/wp-content/uploads/2020/05/Bandsvi.jpg" width="705"/>
+              </a>
+              <div class="big-preview single-big audio-preview">
+               <audio class="wp-audio-shortcode" controls="controls" id="audio-212-1" preload="auto" style="width: 100%;">
+                <source src="http://www.luna.com.hr/wp-content/uploads/2020/05/Što-to-biješe-ljubav-LUNA-BEND-LIVE.mp3?_=1" type="audio/mpeg"/>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Što-to-biješe-ljubav-LUNA-BEND-LIVE.mp3">
+                </a>
+               </audio>
+              </div>
+              <div class="slide-content">
+               <header class="entry-content-header">
+                <span class="blog-categories minor-meta">
+                 <a href="http://www.luna.com.hr/?cat=3" rel="tag">
+                 </a>
+                 <a href="http://www.luna.com.hr/?cat=4" rel="tag">
+                 </a>
+                </span>
+                <h3 class="slide-entry-title entry-title" itemprop="headline">
+                 <a href="http://www.luna.com.hr/?p=51" title="Video isječci">
+                 </a>
+                </h3>
+                <span class="av-vertical-delimiter">
+                </span>
+               </header>
+               <div class="slide-entry-excerpt entry-content" itemprop="text">
+               </div>
+              </div>
+              <footer class="entry-footer">
+               <div class="slide-meta">
+                <div class="slide-meta-comments">
+                 <a href="http://www.luna.com.hr/?p=51#respond">
+                 </a>
+                </div>
+                <div class="slide-meta-del">
+                </div>
+                <time class="slide-meta-time updated" datetime="2020-05-04T18:55:00+02:00" itemprop="datePublished">
+                </time>
+               </div>
+              </footer>
+              <span class="hidden">
+               <span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+                <span itemprop="url">
+                </span>
+                <span itemprop="height">
+                </span>
+                <span itemprop="width">
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+                <span itemprop="name">
+                </span>
+                <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                 <span itemprop="url">
+                 </span>
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+                <span itemprop="name">
+                </span>
+               </span>
+               <span class="av-structured-data" datetime="2020-05-05T14:50:10+02:00" itemprop="datePublished">
+               </span>
+               <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+               </span>
+               <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+                <span itemprop="name">
+                </span>
+               </span>
+              </span>
+             </article>
+             <article class="slide-entry flex_column post-entry post-entry-40 slide-entry-overview slide-loop-3 slide-parity-odd post-entry-last av_one_third real-thumbnail" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+              <a class="slide-image" data-rel="slide-1" href="http://www.luna.com.hr/?p=40" title="Galerija fotografija">
+               <img alt="" class="attachment-masonry size-masonry wp-post-image" height="705" src="http://www.luna.com.hr/wp-content/uploads/2020/05/Dariozid.jpg" width="705"/>
+              </a>
+              <div class="slide-content">
+               <header class="entry-content-header">
+                <span class="blog-categories minor-meta">
+                 <a href="http://www.luna.com.hr/?cat=3" rel="tag">
+                 </a>
+                 <a href="http://www.luna.com.hr/?cat=4" rel="tag">
+                 </a>
+                </span>
+                <h3 class="slide-entry-title entry-title" itemprop="headline">
+                 <a href="http://www.luna.com.hr/?p=40" title="Galerija fotografija">
+                 </a>
+                </h3>
+                <span class="av-vertical-delimiter">
+                </span>
+               </header>
+               <div class="slide-entry-excerpt entry-content" itemprop="text">
+               </div>
+              </div>
+              <footer class="entry-footer">
+               <div class="slide-meta">
+                <div class="slide-meta-comments">
+                 <a href="http://www.luna.com.hr/?p=40#respond">
+                 </a>
+                </div>
+                <div class="slide-meta-del">
+                </div>
+                <time class="slide-meta-time updated" datetime="2020-05-04T18:20:00+02:00" itemprop="datePublished">
+                </time>
+               </div>
+              </footer>
+              <span class="hidden">
+               <span class="av-structured-data" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+                <span itemprop="url">
+                </span>
+                <span itemprop="height">
+                </span>
+                <span itemprop="width">
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+                <span itemprop="name">
+                </span>
+                <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                 <span itemprop="url">
+                 </span>
+                </span>
+               </span>
+               <span class="av-structured-data" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">
+                <span itemprop="name">
+                </span>
+               </span>
+               <span class="av-structured-data" datetime="2020-05-05T14:50:10+02:00" itemprop="datePublished">
+               </span>
+               <span class="av-structured-data" itemprop="dateModified" itemtype="https://schema.org/dateModified">
+               </span>
+               <span class="av-structured-data" itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage">
+                <span itemprop="name">
+                </span>
+               </span>
+              </span>
+             </article>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="av-extra-border-element border-extra-arrow-down">
+       <div class="av-extra-border-outer">
+        <div class="av-extra-border-inner" style="background-color:#111111;">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-section alternate_color avia-section-huge avia-no-border-styling avia-bg-style-scroll avia-builder-el-5 el_after_av_section el_before_av_section av-arrow-down-section container_wrap fullsize" id="av_section_2" style=" ">
+     <div class="container">
+      <div class="template-page content av-content-full alpha units">
+       <div class="post-entry post-entry-type-page post-entry-212">
+        <div class="entry-content-wrapper clearfix">
+         <div class="av-special-heading av-special-heading-h3 blockquote modern-quote modern-centered avia-builder-el-6 el_before_av_hr avia-builder-el-first av-inherit-size" style="padding-bottom:0px; font-size:50px;">
+          <h3 class="av-special-heading-tag" itemprop="headline">
+          </h3>
+          <div class="special-heading-border">
+           <div class="special-heading-inner-border">
+           </div>
+          </div>
+         </div>
+         <div class="hr hr-custom hr-center hr-icon-yes avia-builder-el-7 el_after_av_heading el_before_av_one_fourth" style=" margin-top:15px; margin-bottom:40px;">
+          <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:#000000; max-width:45%;">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+          <span aria-hidden="true" class="av-seperator-icon" data-av_icon="" data-av_iconfont="entypo-fontello" style="color:#d63e2d;">
+          </span>
+          <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:#000000; max-width:45%;">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="flex_column av_one_fourth flex_column_div av-zero-column-padding first avia-builder-el-8 el_after_av_hr el_before_av_one_half" style="border-radius:0px; ">
+          <div class="avia-image-container av-styling- avia-builder-el-9 avia-builder-el-no-sibling avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+           <div class="avia-image-container-inner">
+            <div class="avia-image-overlay-wrap">
+             <a class="avia_image" href="http://www.luna.com.hr/?page_id=349">
+              <img alt="" class="avia_image" itemprop="thumbnailUrl" src="http://www.luna.com.hr/wp-content/uploads/2020/05/Svi3.jpg" title="Svi3"/>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="flex_column av_one_half flex_column_div av-zero-column-padding avia-builder-el-10 el_after_av_one_fourth el_before_av_one_fourth" style="border-radius:0px; ">
+          <div class="av-player av-player-container avia-builder-el-11 el_before_av_hr avia-builder-el-first first avia-playerstyle-minimal avia-playlist-hide-cover" id="av_player-0">
+           <div class="av-player-player-container">
+            <div class="wp-playlist wp-audio-playlist wp-playlist-light">
+             <div class="wp-playlist-current-item">
+             </div>
+             <audio controls="controls" preload="none" width="
+				1478	">
+             </audio>
+             <div class="wp-playlist-next">
+             </div>
+             <div class="wp-playlist-prev">
+             </div>
+             <noscript>
+              <ol>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Što-to-biješe-ljubav-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Nije-vrijedno-sine-moj-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Cant-Take-My-Eyes-Off-You-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Samo-je-ljubav-tajna-dvaju-svjetova-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Suspicion-minds-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/To-all-the-girls-i-love-before.wav">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/I-will-survive-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+               <li>
+                <a href="http://www.luna.com.hr/wp-content/uploads/2020/05/Jedna-noć-LUNA-BEND-LIVE.mp3">
+                 <img alt="" class="attachment-thumbnail size-thumbnail" height="34" src="http://www.luna.com.hr/wp-content/uploads/2015/01/Baner.jpg" width="80"/>
+                </a>
+               </li>
+              </ol>
+             </noscript>
+             <script class="wp-playlist-script" type="application/json">
+             </script>
+            </div>
+           </div>
+          </div>
+          <div class="hr hr-invisible avia-builder-el-12 el_after_av_player el_before_av_button" style="height:20px">
+           <span class="hr-inner">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+          </div>
+          <div class="avia-button-wrap avia-button-center avia-builder-el-13 el_after_av_hr avia-builder-el-last">
+           <a class="avia-button avia-icon_select-no avia-color-theme-color avia-size-large avia-position-center" href="http://www.luna.com.hr/?page_id=346">
+            <span class="avia_iconbox_title">
+            </span>
+           </a>
+          </div>
+         </div>
+         <div class="flex_column av_one_fourth flex_column_div av-zero-column-padding avia-builder-el-14 el_after_av_one_half avia-builder-el-last" style="border-radius:0px; ">
+          <section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+           <div class="avia_textblock" itemprop="text" style="font-size:20px; ">
+            <p>
+             <strong>
+             </strong>
+            </p>
+           </div>
+          </section>
+          <section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+           <div class="avia_textblock" itemprop="text">
+            <p>
+            </p>
+           </div>
+          </section>
+          <span class="av_font_icon avia_animate_when_visible avia-icon-animate av-icon-style- avia-icon-pos-left" style="color:#d63e2d; border-color:#d63e2d;">
+           <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+           </span>
+          </span>
+          <span class="av_font_icon avia_animate_when_visible avia-icon-animate av-icon-style- avia-icon-pos-left" style="color:#d63e2d; border-color:#d63e2d;">
+           <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+           </span>
+          </span>
+          <span class="av_font_icon avia_animate_when_visible avia-icon-animate av-icon-style- avia-icon-pos-left" style="color:#d63e2d; border-color:#d63e2d;">
+           <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+           </span>
+          </span>
+          <span class="av_font_icon avia_animate_when_visible avia-icon-animate av-icon-style- avia-icon-pos-left" style="color:#d63e2d; border-color:#d63e2d;">
+           <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+           </span>
+          </span>
+          <span class="av_font_icon avia_animate_when_visible avia-icon-animate av-icon-style- avia-icon-pos-left" style="color:#d63e2d; border-color:#d63e2d;">
+           <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+           </span>
+          </span>
+          <div class="hr hr-invisible avia-builder-el-22 el_after_av_font_icon avia-builder-el-last" style="height:10px">
+           <span class="hr-inner">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="av-extra-border-element border-extra-arrow-down">
+      <div class="av-extra-border-outer">
+       <div class="av-extra-border-inner" style="background-color:#ffffff;">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-section main_color avia-section-huge avia-no-border-styling av-section-color-overlay-active avia-bg-style-fixed avia-builder-el-23 el_after_av_section el_before_av_section av-arrow-down-section container_wrap fullsize" id="av_section_3" style="background-color: #c34234;  ">
+     <div class="av-section-color-overlay-wrap">
+      <div class="av-section-color-overlay" style="opacity: 0.9; background-color: #d63e2d; background-image: url(http://www.luna.com.hr/wp-content/themes/enfold/images/background-images/grunge-big-light.png); background-repeat: repeat;">
+      </div>
+      <div class="container">
+       <div class="template-page content av-content-full alpha units">
+        <div class="post-entry post-entry-type-page post-entry-212">
+         <div class="entry-content-wrapper clearfix">
+          <div class="av-special-heading av-special-heading-h3 blockquote modern-quote modern-centered avia-builder-el-24 el_before_av_hr avia-builder-el-first av-inherit-size" style="padding-bottom:0px; font-size:50px;">
+           <h3 class="av-special-heading-tag" itemprop="headline">
+           </h3>
+           <div class="special-heading-border">
+            <div class="special-heading-inner-border">
+            </div>
+           </div>
+          </div>
+          <div class="hr hr-custom hr-center hr-icon-yes avia-builder-el-25 el_after_av_heading el_before_av_two_third" style=" margin-top:15px; margin-bottom:20px;">
+           <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:rgba(255,255,255,0.44); max-width:45%;">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+           <span aria-hidden="true" class="av-seperator-icon" data-av_icon="" data-av_iconfont="entypo-fontello" style="color:#ffffff;">
+           </span>
+           <span class="hr-inner inner-border-av-border-fat" style=" width:50px; border-color:rgba(255,255,255,0.44); max-width:45%;">
+            <span class="hr-inner-style">
+            </span>
+           </span>
+          </div>
+          <div class="flex_column av_two_third flex_column_div av-zero-column-padding first avia-builder-el-26 el_after_av_hr el_before_av_one_third" style="border-radius:0px; ">
+           <div class="togglecontainer av-minimal-toggle toggle_close_all avia-builder-el-27 el_before_av_hr avia-builder-el-first">
+            <section class="av_toggle_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+             <div class="single_toggle" data-tags="{All} " role="tablist">
+              <p aria-controls="toggle-id-1-container" class="toggler hasCustomColor av-inherit-font-color av-inherit-border-color" data-fake-id="#toggle-id-1" itemprop="headline" role="tab" style="background-color: rgba(0,0,0,0.5); color: #ffffff; border-color: rgba(10,10,10,0.58); " tabindex="0">
+               <span class="toggle_icon" style="border-color:#ffffff;">
+                <span class="vert_icon">
+                </span>
+                <span class="hor_icon">
+                </span>
+               </span>
+              </p>
+              <div class="toggle_wrap" id="toggle-id-1-container">
+               <div class="toggle_content invers-color av-inherit-font-color av-inherit-border-color" itemprop="text" style="background-color: rgba(0,0,0,0.5); color: #ffffff; border-color: rgba(10,10,10,0.58); ">
+               </div>
+              </div>
+             </div>
+            </section>
+            <section class="av_toggle_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+             <div class="single_toggle" data-tags="{All} " role="tablist">
+              <p aria-controls="toggle-id-2-container" class="toggler hasCustomColor av-inherit-font-color av-inherit-border-color" data-fake-id="#toggle-id-2" itemprop="headline" role="tab" style="background-color: rgba(0,0,0,0.5); color: #ffffff; border-color: rgba(10,10,10,0.58); " tabindex="0">
+               <span class="toggle_icon" style="border-color:#ffffff;">
+                <span class="vert_icon">
+                </span>
+                <span class="hor_icon">
+                </span>
+               </span>
+              </p>
+              <div class="toggle_wrap" id="toggle-id-2-container">
+               <div class="toggle_content invers-color av-inherit-font-color av-inherit-border-color" itemprop="text" style="background-color: rgba(0,0,0,0.5); color: #ffffff; border-color: rgba(10,10,10,0.58); ">
+                <p>
+                </p>
+               </div>
+              </div>
+             </div>
+            </section>
+           </div>
+           <div class="hr hr-invisible avia-builder-el-28 el_after_av_toggle_container el_before_av_button" style="height:20px">
+            <span class="hr-inner">
+             <span class="hr-inner-style">
+             </span>
+            </span>
+           </div>
+           <div class="avia-button-wrap avia-button-center avia-builder-el-29 el_after_av_hr avia-builder-el-last">
+            <a class="avia-button avia-icon_select-no avia-color-light avia-size-large avia-position-center" href="http://www.luna.com.hr/?page_id=343">
+             <span class="avia_iconbox_title">
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="flex_column av_one_third flex_column_div av-zero-column-padding avia-builder-el-30 el_after_av_two_third avia-builder-el-last" style="border-radius:0px; ">
+           <div class="avia-image-container av-styling- avia-builder-el-31 el_before_av_textblock avia-builder-el-first avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+            <div class="avia-image-container-inner">
+             <div class="avia-image-overlay-wrap">
+              <img alt="" class="avia_image" itemprop="thumbnailUrl" src="http://www.luna.com.hr/wp-content/uploads/2020/05/Bandsvi-1.jpg" title=""/>
+             </div>
+            </div>
+           </div>
+           <section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+            <div class="avia_textblock av_inherit_color" itemprop="text" style="font-size:20px; color:#ffffff; ">
+             <p>
+              <strong>
+              </strong>
+             </p>
+            </div>
+           </section>
+           <section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+            <div class="avia_textblock av_inherit_color" itemprop="text" style="color:#ffffff; ">
+             <p>
+             </p>
+            </div>
+           </section>
+           <div class="avia-button-wrap avia-button-center avia-builder-el-34 el_after_av_textblock avia-builder-el-last">
+            <a class="avia-button avia-icon_select-no avia-color-light avia-size-large avia-position-center" href="http://www.luna.com.hr/?page_id=356">
+             <span class="avia_iconbox_title">
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="av-extra-border-element border-extra-arrow-down">
+       <div class="av-extra-border-outer">
+        <div class="av-extra-border-inner" style="background-color:#c34234;">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="avia-section main_color avia-section-huge avia-no-border-styling av-section-color-overlay-active avia-bg-style-scroll avia-builder-el-35 el_after_av_section avia-builder-el-last container_wrap fullsize" id="newsletter" style=" ">
+     <div class="av-section-color-overlay-wrap">
+      <div class="av-section-color-overlay" style="opacity: 0.5; background-image: url(http://www.luna.com.hr/wp-content/themes/enfold/images/background-images/grunge-big-light.png); background-repeat: repeat;">
+      </div>
+      <div class="container">
+       <div class="template-page content av-content-full alpha units">
+        <div class="post-entry post-entry-type-page post-entry-212">
+         <div class="entry-content-wrapper clearfix">
+          <div class="av-special-heading av-special-heading-h3 blockquote modern-quote modern-centered avia-builder-el-36 el_before_av_one_fifth avia-builder-el-first av-inherit-size" style="padding-bottom:40px; font-size:50px;">
+           <h3 class="av-special-heading-tag" itemprop="headline">
+           </h3>
+           <div class="special-heading-border">
+            <div class="special-heading-inner-border">
+            </div>
+           </div>
+          </div>
+          <div class="flex_column av_one_fifth flex_column_div av-zero-column-padding first avia-builder-el-37 el_after_av_heading el_before_av_three_fifth" style="border-radius:0px; ">
+          </div>
+          <div class="flex_column av_three_fifth flex_column_div av-zero-column-padding avia-builder-el-38 el_after_av_one_fifth el_before_av_one_fifth" style="border-radius:0px; ">
+           <form action="http://www.luna.com.hr/" class="avia_ajax_form av-form-labels-hidden avia-builder-el-39 avia-builder-el-no-sibling av-centered-form" data-avia-form-id="1" data-avia-redirect="" method="post">
+            <fieldset>
+             <p class="first_form form_element form_element_third" id="element_avia_1_1">
+              <label for="avia_1_1">
+               <abbr class="required" title="required">
+               </abbr>
+              </label>
+              <input class="text_input is_empty" id="avia_1_1" name="avia_1_1" placeholder="Ime*" type="text" value=""/>
+             </p>
+             <p class="form_element form_element_third av-last-visible-form-element" id="element_avia_2_1">
+              <label for="avia_2_1">
+               <abbr class="required" title="required">
+               </abbr>
+              </label>
+              <input class="text_input is_email" id="avia_2_1" name="avia_2_1" placeholder="Adresa e-pošte*" type="text" value=""/>
+             </p>
+             <p class="hidden">
+              <input class="hidden" id="avia_3_1" name="avia_3_1" type="text" value=""/>
+             </p>
+             <p class="form_element form_element_third modified_width">
+              <input name="avia_generated_form1" type="hidden" value="1"/>
+              <input class="button" data-sending-label="Sending" type="submit" value="Pretplati se"/>
+             </p>
+            </fieldset>
+           </form>
+           <div class="ajaxresponse ajaxresponse_1 hidden" id="ajaxresponse_1">
+           </div>
+          </div>
+          <div class="flex_column av_one_fifth flex_column_div av-zero-column-padding avia-builder-el-40 el_after_av_three_fifth avia-builder-el-last" style="border-radius:0px; ">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container_wrap footer_color" id="footer">
+     <div class="container">
+      <div class="flex_column av_one_third first el_before_av_one_third">
+       <section class="widget clearfix widget_text" id="text-2">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="textwidget">
+         <p>
+         </p>
+         <p>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_third el_after_av_one_third el_before_av_one_third">
+       <section class="widget clearfix widget_text" id="text-3">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="textwidget">
+         <p>
+         </p>
+         <p>
+          <br/>
+          <br/>
+          <a href="mailto:info@luna.com.hr">
+          </a>
+         </p>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_third el_after_av_one_third el_before_av_one_third">
+       <section class="widget clearfix avia-instagram-feed" id="avia-instagram-feed-2">
+        <h3 class="widgettitle">
+        </h3>
+        <div class="av-instagram-pics av-instagram-size-thumbnail">
+         <div class="av-instagram-row">
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_150934131_1659520597587921_2123564883116538107_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_150934131_1659520597587921_2123564883116538107_n.jpg);" target="" title="#lunaband
+#scandalli">
+           </a>
+          </div>
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_150817551_523298191971544_5929445054001325222_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_150817551_523298191971544_5929445054001325222_n.jpg);" target="" title="Instagram Image">
+           </a>
+          </div>
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_118777334_325149645427361_5069303942211506452_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_118777334_325149645427361_5069303942211506452_n.jpg);" target="" title="#lunaband">
+           </a>
+          </div>
+         </div>
+         <div class="av-instagram-row">
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_118651624_153526416420000_873905684127083425_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_118651624_153526416420000_873905684127083425_n.jpg);" target="" title="#lunaband #samoveselo #svadba">
+           </a>
+          </div>
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_118781820_250650856072962_1877071774663023073_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_118781820_250650856072962_1877071774663023073_n.jpg);" target="" title="#Privlaka ❤️
+#Najljepšipogled">
+           </a>
+          </div>
+          <div class="av-instagram-item">
+           <a class="" href="http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/original_118705793_173005780986381_861786796167325795_n.jpg" style="background-image:url(http://www.luna.com.hr/wp-content/uploads/avia_instagram_cache/2-instagram/thumbnail_118705793_173005780986381_861786796167325795_n.jpg);" target="" title="#lunaband #samoveselo #svadba">
+           </a>
+          </div>
+         </div>
+        </div>
+        <a class="av-instagram-follow avia-button" href="https://instagram.com/lunabend" rel="me" target="lightbox">
+        </a>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+     </div>
+    </div>
+    <footer class="container_wrap socket_color" id="socket" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+     <div class="container">
+      <span class="copyright">
+       <a href="https://kriesi.at">
+       </a>
+      </span>
+      <ul class="noLightbox social_bookmarks icon_count_7">
+       <li class="social_bookmarks_twitter av-social-link-twitter social_icon_1">
+        <a aria-hidden="false" aria-label="Link to Twitter" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://twitter.com/dsimag" rel="noopener noreferrer" target="_blank" title="Twitter">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_facebook av-social-link-facebook social_icon_2">
+        <a aria-hidden="false" aria-label="Link to Facebook" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.facebook.com/LUNAbend/" rel="noopener noreferrer" target="_blank" title="Facebook">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_youtube av-social-link-youtube social_icon_3">
+        <a aria-hidden="false" aria-label="Link to Youtube" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.youtube.com/user/dsimag/featured?disable_polymer=1" rel="noopener noreferrer" target="_blank" title="Youtube">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_facebook av-social-link-facebook social_icon_4">
+        <a aria-hidden="false" aria-label="Link to Facebook" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.facebook.com/groups/luna.bend/" rel="noopener noreferrer" target="_blank" title="Facebook">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_instagram av-social-link-instagram social_icon_5">
+        <a aria-hidden="false" aria-label="Link to Instagram" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.instagram.com/lunabend/" rel="noopener noreferrer" target="_blank" title="Instagram">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_rss av-social-link-rss social_icon_6">
+        <a aria-hidden="false" aria-label="Link to Rss" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://soundcloud.com/dario-imag" rel="noopener noreferrer" target="_blank" title="Rss">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+       <li class="social_bookmarks_whatsapp av-social-link-whatsapp social_icon_7">
+        <a aria-hidden="false" aria-label="Link to WhatsApp" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://api.whatsapp.com/send?phone=38598604604&amp;text=Luna%20bend:%20va%C5%A1%20bend%20za%20svadbe%20i%20sve%20ostale%20sve%C4%8Danosti!" rel="noopener noreferrer" target="_blank" title="WhatsApp">
+         <span class="avia_hidden_link_text">
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </footer>
+   </div>
+  </div>
+  <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#top" id="scroll-top-link" title="Scroll to top">
+   <span class="avia_hidden_link_text">
+   </span>
+  </a>
+  <div id="fb-root">
+  </div>
+  <script id="tmpl-wp-playlist-current-item" type="text/html">
+  </script>
+  <script id="tmpl-wp-playlist-item" type="text/html">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/jquery-cookie.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_common_node.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_u.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/md5.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/vendor/sockets.io/socket.io.slim.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_node.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_u_node_events.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/themes/modern.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/tcx_action_events.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_pro_features.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_u_node_pro_events.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/plugins/wp-live-chat-support/js/wplc_u_editor.js?ver=8.1.7" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.4" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/wp-embed.min.js?ver=5.4.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/underscore.min.js?ver=1.8.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/wp-util.min.js?ver=5.4.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/backbone.min.js?ver=1.4.0" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-includes/js/mediaelement/wp-playlist.min.js?ver=5.4.4" type="text/javascript">
+  </script>
+  <script src="http://www.luna.com.hr/wp-content/uploads/dynamic_avia/avia-footer-scripts-8d0c77aee41847cbdb51b53323487aa2---5eb536654b519.js" type="text/javascript">
+  </script>
+ </body>
+</html>

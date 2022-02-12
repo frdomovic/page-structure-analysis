@@ -1,0 +1,32 @@
+<html>
+ <body>
+  <oembed>
+   <version>
+   </version>
+   <provider_name>
+   </provider_name>
+   <provider_url>
+   </provider_url>
+   <author_name>
+   </author_name>
+   <author_url>
+   </author_url>
+   <title>
+   </title>
+   <type>
+   </type>
+   <width>
+   </width>
+   <height>
+   </height>
+   <thumbnail_url>
+   </thumbnail_url>
+   <thumbnail_width>
+   </thumbnail_width>
+   <thumbnail_height>
+   </thumbnail_height>
+   <description>
+   </description>
+  </oembed>
+ </body>
+</html>

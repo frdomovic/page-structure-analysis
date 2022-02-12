@@ -1,0 +1,488 @@
+<html lang="hr" prefix="og: http://ogp.me/ns#">
+ <head>
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700%7CRoboto+Slab:100,300,regular,700%7COpen+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=cyrillic,greek,vietnamese,latin,greek-ext,latin-ext,cyrillic-ext" rel="stylesheet"/>
+  <link data-minify="1" href="http://japa.com.hr/wp-content/cache/min/1/0aab7f2f83fa824cde3b49e9fce9a8bc.css" rel="stylesheet"/>
+  <script data-minify="1" src="http://japa.com.hr/wp-content/cache/min/1/e3b6298d5f527b252390bc214e3d9647.js">
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <link href="http://japa.com.hr/xmlrpc.php" rel="pingback"/>
+  <script type="text/javascript">
+  </script>
+  <script>
+  </script>
+  <title>
+  </title>
+  <meta content="Japa domovi za starije i nemoćne nalaze se u Štrigovi i Murskom Središću, a nude smještaj, medicinsku njegu, prijevoz i nabavu lijekova." name="description"/>
+  <link href="http://japa.com.hr/" rel="canonical"/>
+  <meta content="hr_HR" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Japa - dom za starije i nemoćne u Štrigovi i Murskom Središću" property="og:title"/>
+  <meta content="Japa domovi za starije i nemoćne nalaze se u Štrigovi i Murskom Središću, a nude smještaj, medicinsku njegu, prijevoz i nabavu lijekova." property="og:description"/>
+  <meta content="http://japa.com.hr/" property="og:url"/>
+  <meta content="Japa Dom za starije i nemoćne " property="og:site_name"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Japa domovi za starije i nemoćne nalaze se u Štrigovi i Murskom Središću, a nude smještaj, medicinsku njegu, prijevoz i nabavu lijekova." name="twitter:description"/>
+  <meta content="Japa - dom za starije i nemoćne u Štrigovi i Murskom Središću" name="twitter:title"/>
+  <script type="application/ld+json">
+  </script>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://japa.com.hr/feed/" rel="alternate" title="Japa Dom za starije i nemoćne  » Kanal" type="application/rss+xml"/>
+  <link href="http://japa.com.hr/comments/feed/" rel="alternate" title="Japa Dom za starije i nemoćne  » Kanal komentara" type="application/rss+xml"/>
+  <meta content="bideja v.1.0.0" name="generator"/>
+  <style type="text/css">
+  </style>
+  <link href="http://japa.com.hr/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://japa.com.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://japa.com.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://japa.com.hr/" rel="shortlink"/>
+  <style id="et-social-custom-css" type="text/css">
+  </style>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <script data-cfasync="false" data-no-minify="1">
+  </script>
+  <link href="http://japa.com.hr/wp-content/themes/bideja/css/fonts/font-awesome.min.css" rel="stylesheet"/>
+ </head>
+ <body class="home page-template-default page page-id-88 et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns3 et_header_style_split et_pb_pagebuilder_layout et_smooth_scroll et_right_sidebar et_divi_theme et_minified_js et_minified_css">
+  <div id="page-container">
+   <header data-height-onload="85" id="main-header">
+    <div class="container clearfix et_menu_container">
+     <div class="logo_container">
+      <span class="logo_helper">
+      </span>
+      <a href="http://japa.com.hr/">
+       <img alt="Japa Dom za starije i nemoćne " data-height-percentage="80" id="logo" src="http://japa.com.hr/wp-content/uploads/2018/02/japa-logo.png"/>
+      </a>
+     </div>
+     <div data-fixed-height="40" data-height="85" id="et-top-navigation">
+      <nav id="top-menu-nav">
+       <ul class="nav et_disable_top_tier" id="top-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-88 current_page_item menu-item-409" id="menu-item-409">
+         <a href="http://japa.com.hr/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110" id="menu-item-110">
+         <a href="http://japa.com.hr/o-nama/">
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-301" id="menu-item-301">
+         <a href="http://japa.com.hr/domovi/">
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414" id="menu-item-414">
+           <a href="http://japa.com.hr/domovi/mursko-sredisce/">
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415" id="menu-item-415">
+           <a href="http://japa.com.hr/domovi/strigova/">
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105" id="menu-item-105">
+         <a href="http://japa.com.hr/kontakt/">
+         </a>
+        </li>
+       </ul>
+      </nav>
+      <div id="et_mobile_nav_menu">
+       <div class="mobile_nav closed">
+        <span class="select_page">
+        </span>
+        <span class="mobile_menu_bar mobile_menu_bar_toggle">
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="et_search_outer">
+     <div class="container et_search_form_container">
+      <form action="http://japa.com.hr/" class="et-search-form" method="get" role="search">
+       <input class="et-search-field" name="s" placeholder="Traži..." title="Search for:" type="search" value=""/>
+      </form>
+      <span class="et_close_search_field">
+      </span>
+     </div>
+    </div>
+   </header>
+   <div id="et-main-area">
+    <div id="main-content">
+     <article class="post-88 page type-page status-publish hentry" id="post-88">
+      <div class="entry-content">
+       <div class="et_pb_section et_pb_fullwidth_section et_pb_section_0 et_section_regular">
+        <div class="et_pb_module et_pb_slider et_pb_fullwidth_slider_0" id="home-slider">
+         <div class="et_pb_slides">
+          <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_0 et-pb-active-slide et_pb_section_parallax">
+           <span class="et_parallax_bg et_pb_parallax_css" style="background-image: url(http://japa.com.hr/wp-content/uploads/2018/04/IMG_9052a.jpg);">
+           </span>
+           <div class="et_pb_container clearfix">
+            <div class="et_pb_slider_container_inner">
+             <div class="et_pb_slide_description">
+              <h2 class="et_pb_slide_title">
+               <a href="/domovi/mursko-sredisce/">
+               </a>
+              </h2>
+              <div class="et_pb_slide_content">
+              </div>
+              <div class="et_pb_button_wrapper">
+               <a class="et_pb_more_button et_pb_button" href="/domovi/mursko-sredisce/">
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_1 et_pb_section_parallax">
+           <span class="et_parallax_bg et_pb_parallax_css" style="background-image: url(http://japa.com.hr/wp-content/uploads/2018/02/strigova-staracki-3-1.jpg);">
+           </span>
+           <div class="et_pb_container clearfix">
+            <div class="et_pb_slider_container_inner">
+             <div class="et_pb_slide_description">
+              <h2 class="et_pb_slide_title">
+               <a href="/domovi/strigova/">
+               </a>
+              </h2>
+              <div class="et_pb_slide_content">
+              </div>
+              <div class="et_pb_button_wrapper">
+               <a class="et_pb_more_button et_pb_button" href="/domovi/strigova/">
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_1 et_section_regular">
+        <div class="et_pb_row et_pb_row_0">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_0 et-last-child">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_0">
+           <div class="et_pb_text_inner">
+            <h2>
+            </h2>
+            <p style="text-align: center;">
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_1 et_pb_row_fullwidth">
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_1">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_blurb_0 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <span class="et-pb-icon et-waypoint et_pb_animation_off" style="color: #b43c14;">
+              </span>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4 class="et_pb_module_header">
+             </h4>
+             <div class="et_pb_blurb_description">
+              <p>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_2">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_1 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <span class="et-pb-icon et-waypoint et_pb_animation_off" style="color: #b43c14;">
+              </span>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4 class="et_pb_module_header">
+             </h4>
+             <div class="et_pb_blurb_description">
+              <p>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_3">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_2 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <span class="et-pb-icon et-waypoint et_pb_animation_off" style="color: #b43c14;">
+              </span>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4 class="et_pb_module_header">
+             </h4>
+             <div class="et_pb_blurb_description">
+              <p>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_4 et-last-child">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_3 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <span class="et-pb-icon et-waypoint et_pb_animation_off" style="color: #b43c14;">
+              </span>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4 class="et_pb_module_header">
+             </h4>
+             <div class="et_pb_blurb_description">
+              <p>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+        <div class="et_pb_row et_pb_row_2">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_5 et-last-child">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_left et_pb_text_1">
+           <div class="et_pb_text_inner">
+            <div class="bideja-aktivnosti_naslov">
+             <h2>
+             </h2>
+             <p>
+             </p>
+            </div>
+            <p>
+            </p>
+            <div class="bideja-aktivnosti_items">
+             <i class="fa fa-check">
+             </i>
+             <br/>
+             <i class="fa fa-check">
+             </i>
+             <br/>
+             <i class="fa fa-check">
+             </i>
+            </div>
+            <div class="bideja-aktivnosti_items">
+             <i class="fa fa-check">
+             </i>
+             <br/>
+             <i class="fa fa-check">
+             </i>
+             <br/>
+             <i class="fa fa-check">
+             </i>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_3 et_section_regular">
+        <div class="et_pb_row et_pb_row_3">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_6 et-last-child">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_2">
+           <div class="et_pb_text_inner">
+            <h2 style="text-align: center;">
+            </h2>
+            <p style="text-align: center;">
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="et_pb_row et_pb_row_4 et_pb_gutters1 et_pb_row_fullwidth" id="bideja-lokacije">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_7">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left blurbtastic et_pb_blurb_4 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <img alt="" class="et-waypoint et_pb_animation_top" data-lazy-src="http://japa.com.hr/wp-content/uploads/2018/02/IMG_5527.jpg" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+              <noscript>
+               <img alt="" class="et-waypoint et_pb_animation_top" src="http://japa.com.hr/wp-content/uploads/2018/02/IMG_5527.jpg"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <div class="et_pb_blurb_description">
+              <h2 style="color:#ffffff !important; font-weight:700;">
+              </h2>
+              <p>
+               <a class="btn-red" href="domovi/mursko-sredisce" style="display: block; margin: 0 auto; text-align: center;">
+               </a>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_8 et-last-child">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_left blurbtastic et_pb_blurb_5 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <span class="et_pb_image_wrap">
+              <img alt="" class="et-waypoint et_pb_animation_top" data-lazy-src="http://japa.com.hr/wp-content/uploads/2018/10/japa-strigova.jpg" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+              <noscript>
+               <img alt="" class="et-waypoint et_pb_animation_top" src="http://japa.com.hr/wp-content/uploads/2018/10/japa-strigova.jpg"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="et_pb_blurb_container">
+             <div class="et_pb_blurb_description">
+              <h2 style="color:#ffffff !important; font-weight:700; text-align:center;">
+              </h2>
+              <p>
+               <a class="btn-red" href="domovi/strigova" style="display: block; margin: 0 auto; text-align: center;">
+               </a>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
+        <div class="et_pb_row et_pb_row_5">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_9 et-last-child">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_3">
+           <div class="et_pb_text_inner">
+            <blockquote>
+             <p>
+              <br/>
+              <cite class="author">
+              </cite>
+             </p>
+            </blockquote>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_5 et_section_regular">
+        <div class="et_pb_row et_pb_row_6 et_pb_gutters1 et_pb_row_fullwidth">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_10 et-last-child">
+          <div class="et_pb_code et_pb_module et_pb_code_0">
+           <div class="et_pb_code_inner">
+            <div id="google-karta-fancy">
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </div>
+    <span class="et_pb_scroll_top et-pb-icon">
+    </span>
+    <footer id="main-footer">
+     <div class="container">
+      <div class="clearfix" id="footer-widgets">
+       <div class="footer-widget">
+        <div class="fwidget et_pb_widget widget_nav_menu" id="nav_menu-2">
+         <h4 class="title">
+         </h4>
+         <div class="menu-izbornik-footer-container">
+          <ul class="menu" id="menu-izbornik-footer">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-88 current_page_item menu-item-223" id="menu-item-223">
+            <a href="http://japa.com.hr/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222" id="menu-item-222">
+            <a href="http://japa.com.hr/o-nama/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455" id="menu-item-455">
+            <a href="http://japa.com.hr/domovi/">
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218" id="menu-item-218">
+            <a href="http://japa.com.hr/kontakt/">
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="footer-widget">
+        <div class="fwidget et_pb_widget widget_text" id="text-8">
+         <h4 class="title">
+         </h4>
+         <div class="textwidget">
+          <p>
+           <i class="fa fa-map-marker" style="padding-right: 15px;">
+           </i>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <i class="fa fa-envelope-o" style="padding-right: 15px;">
+           </i>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <i class="fa fa-phone" style="padding-right: 15px;">
+           </i>
+           <strong>
+           </strong>
+          </p>
+          <p>
+           <i class="fa fa-phone" style="padding-right: 15px;">
+           </i>
+           <strong>
+           </strong>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="bi-remove cookie-notice" id="bideja-cookie-notice">
+      <div class="cookie-message">
+      </div>
+      <button class="et_pb_more_button et_pb_button" id="accept-cookie">
+      </button>
+     </div>
+     <div id="footer-bottom">
+      <div class="container clearfix">
+       <div id="footer-info">
+        <div class="left">
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+   </div>
+   <script type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDeYijLGsSLVjzqcvs5HAyomvk1G0Cy0hU&amp;ver=4.9.18" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <script data-minify="1" src="http://japa.com.hr/wp-content/cache/min/1/6ca105ce2fb6b69f9235c41dc2002230.js">
+   </script>
+   <script data-minify="1" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDeYijLGsSLVjzqcvs5HAyomvk1G0Cy0hU">
+   </script>
+   <script data-minify="1" src="http://japa.com.hr/wp-content/cache/min/1/deaa7625c1970803cc5f904b44a4da2b.js">
+   </script>
+  </div>
+ </body>
+</html>

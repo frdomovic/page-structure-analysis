@@ -1,0 +1,1976 @@
+<html class="no-js" dir="ltr" lang="de">
+ <head>
+  <title>
+  </title>
+  <meta charset="utf-8"/>
+  <link href="//www.google-analytics.com" rel="dns-prefetch"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width,initial-scale=1.0,user-scalable=yes" name="viewport"/>
+  <meta content="" name="description"/>
+  <link href="http://www.savezosit.hr/xmlrpc.php" rel="pingback"/>
+  <link href="https://www.savezosit.hr/de/feed/" rel="alternate" title="Kroatische Vereinigung der Menschen mit geistiger Behinderung » Feed" type="application/rss+xml"/>
+  <link href="https://www.savezosit.hr/de/comments/feed/" rel="alternate" title="Kroatische Vereinigung der Menschen mit geistiger Behinderung » Comments Feed" type="application/rss+xml"/>
+  <link href="https://www.savezosit.hr/de/pocetna/feed/" rel="alternate" title="Kroatische Vereinigung der Menschen mit geistiger Behinderung » Nach Hause Comments Feed" type="application/rss+xml"/>
+  <link href="https://www.savezosit.hr/wp-content/plugins/inoplugs-font-resizer/css/inofontresizer.css?ver=4.1.5" id="inofontresizer-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/shatner-name-your-own-price-for-woocommerce/custom_styles.css?ver=1.0.1" id="donation_css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.4" id="cookielawinfo-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/easing-slider/css/easingslider.min.css?ver=2.2.1.1" id="easingslider-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.2.15" id="bwg_frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.css?ver=4.2.0" id="bwg_font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.css?ver=1.2.15" id="bwg_mCustomScrollbar-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.10" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.10" id="woocommerce-smallscreen-css" media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css"/>
+  <link href="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.10" id="woocommerce-general-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/wp-flexible-map/css/styles.css?ver=1.9.1" id="flxmap-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/easy-facebook-likebox/public/assets/css/public.css?ver=2.1.0" id="easy-facebook-likebox-plugin-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/plugins/easy-facebook-likebox/public/assets/popup/magnific-popup.css?ver=2.1.0" id="easy-facebook-likebox-popup-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/flexslider/flexslider-custom.css?ver=1.13.0" id="vwcss-flexslider-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/font-icons/social-icons/css/zocial.css?ver=1.13.0" id="vwcss-icon-social-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/font-icons/entypo/css/entypo.css?ver=1.13.0" id="vwcss-icon-entypo-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/font-icons/symbol/css/symbol.css?ver=1.13.0" id="vwcss-icon-symbol-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/swipebox/swipebox.css?ver=1.13.0" id="vwcss-swipebox-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/framework/bootstrap/css/bootstrap.css?ver=1.13.0" id="vwcss-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.savezosit.hr/wp-content/themes/presso/css/theme.css?ver=1.13.0" id="vwcss-theme-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/jquery.js?ver=1.11.1" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/shatner-name-your-own-price-for-woocommerce/shatner.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="https://www.savezosit.hr/wp-content/plugins/inoplugs-font-resizer/js/jquery.cookie.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="https://www.savezosit.hr/wp-content/plugins/inoplugs-font-resizer/js/jquery.fontsize.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.4" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/easing-slider/js/jquery.easingslider.min.js?ver=2.2.1.1" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.2.15" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/js/jquery.mobile.js?ver=1.2.15" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.2.15" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.js?ver=0.4.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.2.15" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/easy-facebook-likebox/public/assets/popup/jquery.magnific-popup.min.js?ver=2.1.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/easy-facebook-likebox/public/assets/js/public.js?ver=2.1.0" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/framework/instant-search/instant-search.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="https://www.savezosit.hr/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js?ver=0.9.6" type="text/javascript">
+  </script>
+  <link href="http://www.savezosit.hr/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.savezosit.hr/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.1.5" name="generator"/>
+  <meta content="WooCommerce 2.2.10" name="generator"/>
+  <link href="https://www.savezosit.hr/de/" rel="canonical"/>
+  <link href="https://www.savezosit.hr/" rel="shortlink"/>
+  <script>
+  </script>
+  <link href="/" hreflang="hr" rel="alternate"/>
+  <link href="/en/" hreflang="en" rel="alternate"/>
+  <link href="/fr/" hreflang="fr" rel="alternate"/>
+  <link href="/it/" hreflang="it" rel="alternate"/>
+  <link href="http://fonts.googleapis.com/css?family=Oswald:400,400italic,700,700italic,400,400italic|Open+Sans:400,400italic,700,700italic,400,400italic&amp;subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+  </style>
+  <meta content='{"total_phrases":740,"translated_phrases":720,"human_translated_phrases":null,"hidden_phrases":378,"hidden_translated_phrases":366,"hidden_translateable_phrases":2,"meta_phrases":12,"meta_translated_phrases":8,"time":"0.217"}' name="translation-stats"/>
+ </head>
+ <body class="home page page-id-36 page-template page-template-page_composer page-template-page_composer-php site-layout-full-large site-enable-post-box-effects" id="top">
+  <nav id="mobile-nav-wrapper" role="navigation">
+  </nav>
+  <div id="off-canvas-body-inner">
+   <div class="top-bar" id="top-bar">
+    <div class="container">
+     <div class="row">
+      <div class="col-sm-12">
+       <div class="top-bar-right">
+        <a class="site-social-icon" href="https://www.facebook.com/savezosit/" target="_blank" title="Facebook">
+         <i class="icon-social-facebook">
+         </i>
+        </a>
+        <a class="site-social-icon" href="https://twitter.com/savez_osit" target="_blank" title="Zwitschern">
+         <i class="icon-social-twitter">
+         </i>
+        </a>
+        <a class="instant-search-icon" href="#menu1">
+         <i class="icon-entypo-search">
+         </i>
+        </a>
+       </div>
+       <a href="#mobile-nav" id="open-mobile-nav" title="Suche">
+        <i class="icon-entypo-menu">
+        </i>
+       </a>
+       <nav id="top-nav-wrapper">
+       </nav>
+      </div>
+     </div>
+    </div>
+   </div>
+   <header class="main-bar header-layout-left-logo">
+    <div class="container">
+     <div class="row">
+      <div class="col-sm-12">
+       <div class="" id="logo">
+        <a href="https://www.savezosit.hr/de/">
+         <img alt="Hrvatski savez udruga osoba s intelektualnim teškoćama" class="logo-original" src="https://www.savezosit.hr/wp-content/uploads/2021/02/Savez-IT-Hr-Eng-logo.jpg"/>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div class="main-nav-bar header-layout-left-logo">
+    <div class="container">
+     <div class="row">
+      <div class="col-sm-12">
+       <nav id="main-nav-wrapper">
+        <ul class="main-nav list-unstyled" id="menu-gornji-menu">
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-36 current_page_item" id="nav-menu-item-519">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/">
+           <span>
+           </span>
+          </a>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-520">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/o-savezu/">
+           <span>
+           </span>
+          </a>
+          <ul class="sub-menu menu-odd menu-depth-1">
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-523">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/misija-i-vizija/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-524">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/organizacija-saveza/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-525">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/pogodnosti-clanstva/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-563">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/udruge-clanice/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-843">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/udruge-clanice/popis-udruga-clanica/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-918">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/udruge-clanice/aktivnosti-udruga-clanica/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-1145">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/klubovi/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-1363">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/klubovi/pregled-svih-klubova/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-1146">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/klubovi/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-1011">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/galerija/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-929">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/o-savezu/kalendar-objava/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-550">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/izvjesca-o-radu/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-2232">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/dokumenti-saveza/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom" id="nav-menu-item-2233">
+            <a class="menu-link sub-menu-link" href="http://www.savezosit.hr/statut-hrvatskog-saveza-udruga-osoba-s-intelektualnim-teskocama-2/">
+             <span>
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-526">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/category/novosti/">
+           <span>
+           </span>
+          </a>
+          <div class="sub-menu-container">
+           <ul class="sub-posts">
+            <li class="col-sm-4">
+             <article class="post-4513 post-box post-box-large-thumbnail">
+              <div class="post-box-inner">
+               <h3 class="title">
+                <a href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+                </a>
+               </h3>
+               <div class="post-meta header-font">
+                <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+                <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+                </a>
+                <span class="post-meta-separator">
+                </span>
+                <a class="post-date" href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+                </a>
+               </div>
+              </div>
+             </article>
+            </li>
+            <li class="col-sm-4">
+             <article class="post-4458 post-box post-box-large-thumbnail">
+              <div class="post-thumbnail-wrapper">
+               <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+                <img alt="img_20210611_113937" class="attachment-vw_small wp-post-image" height="200" src="https://www.savezosit.hr/wp-content/uploads/2021/06/IMG_20210611_113937-360x200.jpg" width="360"/>
+               </a>
+              </div>
+              <div class="post-box-inner">
+               <h3 class="title">
+                <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+                </a>
+               </h3>
+               <div class="post-meta header-font">
+                <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+                <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+                </a>
+                <span class="post-meta-separator">
+                </span>
+                <a class="post-date" href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+                </a>
+               </div>
+              </div>
+             </article>
+            </li>
+            <li class="col-sm-4">
+             <article class="post-4396 post-box post-box-large-thumbnail">
+              <div class="post-thumbnail-wrapper">
+               <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+                <img alt="img_20210522_123632" class="attachment-vw_small wp-post-image" height="200" src="https://www.savezosit.hr/wp-content/uploads/2021/05/IMG_20210522_123632-360x200.jpg" width="360"/>
+               </a>
+              </div>
+              <div class="post-box-inner">
+               <h3 class="title">
+                <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+                </a>
+               </h3>
+               <div class="post-meta header-font">
+                <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+                <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+                </a>
+                <span class="post-meta-separator">
+                </span>
+                <a class="post-date" href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+                </a>
+               </div>
+              </div>
+             </article>
+            </li>
+           </ul>
+          </div>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-528">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/inelektualne-teskoce/">
+           <span>
+           </span>
+          </a>
+          <ul class="sub-menu menu-odd menu-depth-1">
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-531">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/inelektualne-teskoce/epidemiologija/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-532">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/inelektualne-teskoce/etiologija/">
+             <span>
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-548">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/savjetovalista/">
+           <span>
+           </span>
+          </a>
+          <ul class="sub-menu menu-odd menu-depth-1">
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-536">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/savjetovalista/pravno-savjetovaliste/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-592">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/savjetovalista/psiholosko-savjetovaliste/">
+             <span>
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-1435">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/projekti/">
+           <span>
+           </span>
+          </a>
+          <ul class="sub-menu menu-odd menu-depth-1">
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-823">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/projekti/eu-projekti/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-825">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/projekti/programi-i-projekti/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-824">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/projekti/natjecaji/">
+             <span>
+             </span>
+            </a>
+           </li>
+           <li class="sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category" id="nav-menu-item-1870">
+            <a class="menu-link sub-menu-link" href="https://www.savezosit.hr/de/category/projekti/medunarodna-aktivnost/">
+             <span>
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-742">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/donacije/">
+           <span>
+           </span>
+          </a>
+         </li>
+         <li class="main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-535">
+          <a class="menu-link main-menu-link" href="https://www.savezosit.hr/de/kontakt/">
+           <span>
+           </span>
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container" id="page-wrapper">
+    <div class="row vwpc-row">
+     <div class="vwpc-section-custom_content">
+      <div class="col-sm-12">
+       <hr class="section-hr"/>
+       <noscript>
+        <style type="text/css">
+        </style>
+       </noscript>
+       <div class="easingslider easingslider-1438 no-js use-fade" data-options='{"general":{"randomize":false},"dimensions":{"width":1140,"height":400,"responsive":true,"full_width":false,"image_resizing":false,"keep_ratio":true,"background_images":false},"transitions":{"effect":"fade","duration":400},"navigation":{"arrows":true,"arrows_hover":false,"arrows_position":"inside","pagination":true,"pagination_hover":false,"pagination_position":"inside","pagination_location":"bottom-center"},"playback":{"enabled":true,"pause":4000}}' style="max-width: 1140px !important; max-height: 400px !important;">
+        <div class="easingslider-preload">
+        </div>
+        <div class="easingslider-viewport" style="height: 400px;max-height: 400px;">
+         <div class="easingslider-slide easingslider-slide-1 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A216.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-2 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A217.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-3 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A219.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-4 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A2201.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-5 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A221.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-6 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A211.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-7 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A212.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-8 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A213.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-9 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A214.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-10 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A215.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-11 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A2871.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-12 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A2a.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-13 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A29.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-14 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A210.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-15 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-novo1.jpg" title="Bildung und Gruppenberatung"/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-16 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-novo2.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-17 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A23.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-18 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A24.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-19 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A25.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-20 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2017/09/slider-A2.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-21 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2018/05/DSCN4313.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-22 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2018/05/DSCN4725.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-23 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2018/05/DSCN4731.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-24 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2018/05/DSCN48031.jpg" title=""/>
+         </div>
+         <div class="easingslider-slide easingslider-slide-25 easingslider-image-slide" style="-webkit-animation-duration: 400ms; -moz-animation-duration: 400ms; -ms-animation-duration: 400ms; -o-animation-duration: 400ms; animation-duration: 400ms;">
+          <img alt="" class="easingslider-image" src="https://www.savezosit.hr/wp-content/uploads/2018/05/DSCN4813.jpg" title=""/>
+         </div>
+        </div>
+        <div class="easingslider-arrows easingslider-next inside" style="display: none;">
+        </div>
+        <div class="easingslider-arrows easingslider-prev inside" style="display: none;">
+        </div>
+        <div class="easingslider-pagination inside bottom-center" style="display: none;">
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+         <div class="easingslider-icon">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row vwpc-row">
+     <div class="vwpc-section-latest_category">
+      <div class="col-sm-7 col-md-8">
+       <hr class="section-hr"/>
+       <h1 class="section-title title title-large">
+       </h1>
+       <p class="section-description">
+       </p>
+       <div class="row post-box-list">
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4513 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/izvjesca-o-radu/" rel="category" title="Lesen Sie alle Kommentare in Über die Arbeit">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/godisnje-izvjesce-o-radu-za-2020-godinu/#comments" rel="bookmark" title="Permalink zu Godišnje izvješće o radu za 2020. Jahr">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4458 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+            <img alt="img_20210611_113937" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2021/06/IMG_20210611_113937-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/" rel="category" title="Lesen Sie alle Kommentare in Galerie">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/#comments" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4396 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+            <img alt="img_20210522_123632" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2021/05/IMG_20210522_123632-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/" rel="category" title="Lesen Sie alle Kommentare in Galerie">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/#comments" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4390 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/nacionalni-dan-osoba-s-intelektualnim-teskocama-16-5-2021/" rel="bookmark" title="Permalink zu Nacionalni dan osoba s intelektualnim teškoćama – 16.5.2021.">
+            <img alt="20210517_152507" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2021/05/20210517_152507-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/nacionalni-dan-osoba-s-intelektualnim-teskocama-16-5-2021/" rel="bookmark" title="Permalink zu Nacionalni dan osoba s intelektualnim teškoćama – 16.5.2021.">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/nacionalni-dan-osoba-s-intelektualnim-teskocama-16-5-2021/" rel="bookmark" title="Permalink zu Nacionalni dan osoba s intelektualnim teškoćama – 16.5.2021.">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/nacionalni-dan-osoba-s-intelektualnim-teskocama-16-5-2021/" rel="bookmark" title="Permalink zu Nacionalni dan osoba s intelektualnim teškoćama – 16.5.2021.">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/nacionalni-dan-osoba-s-intelektualnim-teskocama-16-5-2021/#comments" rel="bookmark" title="Permalink zu Nacionalni dan osoba s intelektualnim teškoćama – 16.5.2021.">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4379 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/udruge-clanice/aktivnosti-udruga-clanica/" rel="category" title="Lesen Sie alle Kommentare in Aktivitäten Vereinigung Staats">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/udruge-clanice/" rel="category" title="Lesen Sie alle Kommentare in Verbandsmitglieder">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/okrugli-stol-ukljucivanje-osoba-s-intelektualnim-teskocama-u-drustvenu-zajednicu/" rel="bookmark" title="Permalink zu Okrugli STOL: UKLJUČIVANJE OSOBA S INTELEKTUALNIM TEŠKOĆAMA U DRUŠTVENU ZAJEDNICU">
+             <span class="tr_" data-source="1" data-token="VUtMSlXEjElWQU5KRSBPU09CQSBTIElOVEVMRUtUVUFMTklNIFRFxaBLT8SGQU1BIFUgRFJVxaBUVkVOVSBaQUpFRE5JQ1U," id="tr_0">
+             </span>
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/okrugli-stol-ukljucivanje-osoba-s-intelektualnim-teskocama-u-drustvenu-zajednicu/" rel="bookmark" title="Permalink zu Okrugli STOL: UKLJUČIVANJE OSOBA S INTELEKTUALNIM TEŠKOĆAMA U DRUŠTVENU ZAJEDNICU">
+            </a>
+            <span class="tr_" data-hidden="y" data-orig="UKLJUČIVANJE OSOBA S INTELEKTUALNIM TEŠKOĆAMA U DRUŠTVENU ZAJEDNICU" data-source="1" data-token="VUtMSlXEjElWQU5KRSBPU09CQSBTIElOVEVMRUtUVUFMTklNIFRFxaBLT8SGQU1BIFUgRFJVxaBUVkVOVSBaQUpFRE5JQ1U," id="tr_4">
+            </span>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/okrugli-stol-ukljucivanje-osoba-s-intelektualnim-teskocama-u-drustvenu-zajednicu/" rel="bookmark" title="Permalink zu Okrugli STOL: UKLJUČIVANJE OSOBA S INTELEKTUALNIM TEŠKOĆAMA U DRUŠTVENU ZAJEDNICU">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/okrugli-stol-ukljucivanje-osoba-s-intelektualnim-teskocama-u-drustvenu-zajednicu/#comments" rel="bookmark" title="Permalink zu Okrugli STOL: UKLJUČIVANJE OSOBA S INTELEKTUALNIM TEŠKOĆAMA U DRUŠTVENU ZAJEDNICU">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4370 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+            <img alt="untitled" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2021/02/Untitled-750x420.jpg" width="750"/>
+           </a>
+           <span class="tr_" data-hidden="y" data-orig="Održana edukacija za osobne asistente" data-source="1" data-token="T2Ryxb5hbmEgZWR1a2FjaWphIHphIG9zb2JuZSBhc2lzdGVudGU," id="tr_5">
+           </span>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/eu-projekti/" rel="category" title="Lesen Sie alle Kommentare in EU projekti">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/" rel="category" title="Lesen Sie alle Kommentare in Projekt">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+             <span class="tr_" data-source="1" data-token="T2Ryxb5hbmEgZWR1a2FjaWphIHphIG9zb2JuZSBhc2lzdGVudGU," id="tr_1">
+             </span>
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/#comments" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-4359 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/dokumenti-saveza/" rel="category" title="Lesen Sie alle Kommentare in Dokumente Bund">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/revizorsko-izvjesce-za-2019-godinu/" rel="bookmark" title="Permalink zu Prüfungsbericht für,,hr,ARBEITSPLAN,,hr,OPERATIVER PLAN UND FINANZPLAN FÜR,,hr 2019. Jahr">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/revizorsko-izvjesce-za-2019-godinu/" rel="bookmark" title="Permalink zu Prüfungsbericht für,,hr,ARBEITSPLAN,,hr,OPERATIVER PLAN UND FINANZPLAN FÜR,,hr 2019. Jahr">
+            </a>
+           </div>
+           <div class="post-excerpt">
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/revizorsko-izvjesce-za-2019-godinu/" rel="bookmark" title="Permalink zu Prüfungsbericht für,,hr,ARBEITSPLAN,,hr,OPERATIVER PLAN UND FINANZPLAN FÜR,,hr 2019. Jahr">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/revizorsko-izvjesce-za-2019-godinu/#comments" rel="bookmark" title="Permalink zu Prüfungsbericht für,,hr,ARBEITSPLAN,,hr,OPERATIVER PLAN UND FINANZPLAN FÜR,,hr 2019. Jahr">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+       </div>
+      </div>
+      <div class="col-sm-5 col-md-4">
+       <aside class="sidebar-wrapper">
+        <div class="sidebar-inner">
+         <hr class="section-hr"/>
+         <div class="widget vw-sidebar-custom-Homepage1 inofontresizer_widget" id="inofontresizer_widget-3">
+          <h3 class="widget-title">
+          </h3>
+          <div class="nofontResizer_container">
+           <span class="inofontResizer_wrap">
+            <a class="inofontResizer_minus" style="font-size: 20px;" title="Schriftgröße verkleinern">
+            </a>
+            <a class="inofontResizer_reset" style="font-size: 30px;" title="Zurücksetzen Schriftgröße">
+            </a>
+            <a class="inofontResizer_add" style="font-size: 40px;" title="Schrift vergrößern">
+            </a>
+            <input id="inofontResizer_element" type="hidden" value="body"/>
+            <input id="inofontResizer_instance" type="hidden" value="inofontresizer"/>
+            <input id="inofontResizer_resizeSteps" type="hidden" value="2"/>
+            <input id="inofontResizer_cookieTime" type="hidden" value="31"/>
+           </span>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_text" id="text-12">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <a href="http://www.savezosit.hr/category/jednostavno-citanje/">
+            <img alt="Jednostavno čitanje" src="http://www.savezosit.hr/wp-content/uploads/2016/02/easy-read-logo.jpg" width="300"/>
+           </a>
+           <a href="http://www.savezosit.hr/category/jednostavno-citanje/">
+           </a>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_transposh" id="transposh-3">
+          <h3 class="widget-title">
+          </h3>
+          <span class="no_translate">
+           <select name="lang" onchange="document.location.href=this.options[this.selectedIndex].value;">
+            <option value="/">
+            </option>
+            <option value="/en/">
+            </option>
+            <option value="/fr/">
+            </option>
+            <option selected="selected" value="/de/">
+            </option>
+            <option value="/it/">
+            </option>
+           </select>
+           <br/>
+          </span>
+          <input name="tpedit" onclick="document.location.href='/de/?tpedit=1';" type="checkbox" value="1"/>
+          <div id="tr_credit">
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_search" id="search-4">
+          <h3 class="widget-title">
+          </h3>
+          <form action="https://www.savezosit.hr/" class="searchform" id="searchform" method="get">
+           <input autocomplete="off" id="s" name="s" onblur="if(this.value=='')this.value='Search';" onfocus="if(this.value=='Search')this.value='';" type="text" value="Search"/>
+           <button class="search-button">
+            <i class="icon-entypo-search">
+            </i>
+           </button>
+          </form>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_text" id="text-13">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <center>
+            <img src="https://www.savezosit.hr/wp-content/uploads/2021/02/logo-1.jpg" width="200"/>
+            <br/>
+            <img src="https://www.savezosit.hr/wp-content/uploads/2021/02/logo-2.jpg" width="300"/>
+            <br/>
+            <br/>
+            <center>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2017/11/NZ1-1024x730_novi.jpg" width="300"/>
+             <br/>
+             <br/>
+             <br/>
+             <a href="http://www.savezosit.hr/baza-znanja/">
+              <img src="http://www.savezosit.hr/wp-content/uploads/2019/06/baza_znanja-za-drustveni-razvoj-logo-final.jpg" width="300"/>
+             </a>
+             <br/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2015/08/366px-Coat_of_arms_of_Zagreb.svg.png" width="100"/>
+             <br/>
+             <br/>
+             <br/>
+             <a href="http://www.posi.hr/" target="_blank">
+              <img src="http://www.savezosit.hr/wp-content/uploads/2018/05/Logo_posi_10_godina.jpg"/>
+             </a>
+             <br/>
+             <br/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2019/05/Kraš.png" width="200"/>
+             <br/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2019/05/zamp.jpg" width="200"/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2019/05/klara.jpg" width="200"/>
+             <br/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2018/09/ZGH_logotip-veci.jpg" width="200"/>
+             <br/>
+             <br/>
+             <img src="http://www.savezosit.hr/wp-content/uploads/2020/06/TopChair_logo_BEZ-PODLOGE.png" width="200"/>
+             <br/>
+            </center>
+           </center>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_vw_widget_latest_category" id="vw_widget_latest_category-3">
+          <h3 class="widget-title">
+          </h3>
+          <div class="post-box-list">
+           <article class="post-4370 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+              <img alt="untitled" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2021/02/Untitled-360x360.jpg" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+              <span class="tr_" data-source="1" data-token="T2Ryxb5hbmEgZWR1a2FjaWphIHphIG9zb2JuZSBhc2lzdGVudGU," id="tr_2">
+              </span>
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente-unaprjedenje-kvalitete-rada-osobnih-asistenata/" rel="bookmark" title="Permalink zu Održana edukacija za osobne asistente: “Verbesserung der Arbeitsqualität persönlicher Assistenten,hr”">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/eu-projekti/" rel="category" title="Lesen Sie alle Kommentare in EU projekti">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/" rel="category" title="Lesen Sie alle Kommentare in Projekt">
+             </a>
+            </div>
+           </article>
+           <article class="post-4350 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente/" rel="bookmark" title="Permalink zu Es wurde eine Einführungsschulung für persönliche Assistenten durchgeführt,bs">
+              <img alt="untitled" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2021/02/Untitled-360x360.jpg" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente/" rel="bookmark" title="Permalink zu Es wurde eine Einführungsschulung für persönliche Assistenten durchgeführt,bs">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/odrzana-edukacija-za-osobne-asistente/" rel="bookmark" title="Permalink zu Es wurde eine Einführungsschulung für persönliche Assistenten durchgeführt,bs">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/eu-projekti/" rel="category" title="Lesen Sie alle Kommentare in EU projekti">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/" rel="category" title="Lesen Sie alle Kommentare in Projekt">
+             </a>
+            </div>
+           </article>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage1 widget_text" id="text-14">
+          <div class="textwidget">
+           <center>
+            <a href="http://www.inclusion-europe.eu/" target="_blank">
+             <img src="http://www.savezosit.hr/wp-content/uploads/2019/06/IE_logo_original_RGB.jpg" width="255"/>
+            </a>
+            <br/>
+            <br/>
+           </center>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+    </div>
+    <div class="row vwpc-row">
+     <div class="vwpc-section-custom_content">
+      <div class="col-sm-7 col-md-8">
+       <hr class="section-hr"/>
+       <h1 class="section-title title title-large">
+       </h1>
+       <div class="two_third column_shortcode">
+        <p align="justify">
+         <br/>
+        </p>
+       </div>
+       <div class="one_third last column_shortcode">
+        <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/logo_SAVEZA1.png" width="150"/>
+       </div>
+       <div class="clearfix">
+       </div>
+       <p align="justify">
+       </p>
+       <ul>
+        <li>
+        </li>
+        <li>
+        </li>
+       </ul>
+       <p>
+        <br/>
+       </p>
+      </div>
+      <div class="col-sm-5 col-md-4">
+       <aside class="sidebar-wrapper">
+        <div class="sidebar-inner">
+         <hr class="section-hr"/>
+         <div class="widget vw-sidebar-custom-Homepage2 widget_text" id="text-7">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <a href="http://www.savezosit.hr/donacija/donirajte-putem-kartica/">
+            <img alt="donirajte savez" src="http://www.savezosit.hr/wp-content/uploads/2015/01/Donacije_Intelektualne_teskoce.jpg" width="300"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+    </div>
+    <div class="row vwpc-row">
+     <div class="vwpc-section-latest_category">
+      <div class="col-sm-7 col-md-8">
+       <hr class="section-hr"/>
+       <h1 class="section-title title title-large">
+       </h1>
+       <div class="row vw-isotope post-box-list">
+        <div class="post-box-wrapper col-sm-6">
+         <article class="post-1059 post-box fly-in animated-content post-box-large-thumbnail">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/osobna-invalidnina-2/" rel="bookmark" title="Permalink zu Persönliche Behinderung">
+            <img alt="ČAŠE-MUZEJ 442" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2015/01/ČAŠE-MUZEJ-442-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/pravno-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Rechtsberatung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/zakoni/" rel="category" title="Lesen Sie alle Kommentare in Gesetze und Vorschriften">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/osobna-invalidnina-2/" rel="bookmark" title="Permalink zu Persönliche Behinderung">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/osobna-invalidnina-2/" rel="bookmark" title="Permalink zu Persönliche Behinderung">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/osobna-invalidnina-2/" rel="bookmark" title="Permalink zu Persönliche Behinderung">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/osobna-invalidnina-2/#comments" rel="bookmark" title="Permalink zu Persönliche Behinderung">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-6">
+         <article class="post-1063 post-box fly-in animated-content post-box-large-thumbnail">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/doplatak-za-djecu/" rel="bookmark" title="Permalink zu Ermäßigung für Kinder">
+            <img alt="ČAŠE-MUZEJ 336" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2015/01/ČAŠE-MUZEJ-336-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/pravno-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Rechtsberatung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/zakoni/" rel="category" title="Lesen Sie alle Kommentare in Gesetze und Vorschriften">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/doplatak-za-djecu/" rel="bookmark" title="Permalink zu Ermäßigung für Kinder">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/doplatak-za-djecu/" rel="bookmark" title="Permalink zu Ermäßigung für Kinder">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/doplatak-za-djecu/" rel="bookmark" title="Permalink zu Ermäßigung für Kinder">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/doplatak-za-djecu/#comments" rel="bookmark" title="Permalink zu Ermäßigung für Kinder">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-6">
+         <article class="post-1061 post-box fly-in animated-content post-box-large-thumbnail">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/naknada-do-zaposlenja-2/" rel="bookmark" title="Permalink zu Arbeitslosengeld">
+            <img alt="ČAŠE-MUZEJ 326" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2015/01/ČAŠE-MUZEJ-326-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/pravno-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Rechtsberatung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/zakoni/" rel="category" title="Lesen Sie alle Kommentare in Gesetze und Vorschriften">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/naknada-do-zaposlenja-2/" rel="bookmark" title="Permalink zu Arbeitslosengeld">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/naknada-do-zaposlenja-2/" rel="bookmark" title="Permalink zu Arbeitslosengeld">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/naknada-do-zaposlenja-2/" rel="bookmark" title="Permalink zu Arbeitslosengeld">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/naknada-do-zaposlenja-2/#comments" rel="bookmark" title="Permalink zu Arbeitslosengeld">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-6">
+         <article class="post-1476 post-box fly-in animated-content post-box-large-thumbnail">
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/pravno-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Rechtsberatung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/zakoni/" rel="category" title="Lesen Sie alle Kommentare in Gesetze und Vorschriften">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/doplatak-za-pomoc-i-njegu-2/" rel="bookmark" title="Permalink zu ENTSCHÄDIGUNG FÜR HILFE UND PFLEGE">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/doplatak-za-pomoc-i-njegu-2/" rel="bookmark" title="Permalink zu ENTSCHÄDIGUNG FÜR HILFE UND PFLEGE">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/doplatak-za-pomoc-i-njegu-2/" rel="bookmark" title="Permalink zu ENTSCHÄDIGUNG FÜR HILFE UND PFLEGE">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/doplatak-za-pomoc-i-njegu-2/#comments" rel="bookmark" title="Permalink zu ENTSCHÄDIGUNG FÜR HILFE UND PFLEGE">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+       </div>
+      </div>
+      <div class="col-sm-5 col-md-4">
+       <aside class="sidebar-wrapper">
+        <div class="sidebar-inner">
+         <hr class="section-hr"/>
+         <div class="widget vw-sidebar-custom-Homepage3 widget_text" id="text-8">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <div class="fb-page" data-height="550" data-hide-cover="false" data-href="https://www.facebook.com/savezosit" data-show-facepile="true" data-show-posts="true">
+            <div class="fb-xfbml-parse-ignore">
+             <blockquote cite="https://www.facebook.com/savezosit.hr">
+              <a href="https://www.facebook.com/savezosit.hr">
+              </a>
+             </blockquote>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage3 widget_easy_racebook_likebox" id="easy_racebook_likebox-3">
+          <div id="fb-root">
+          </div>
+          <script>
+          </script>
+          <div class="fb-like-box" data-colorscheme="light" data-header="true" data-height="" data-href="https://www.facebook.com/" data-show-border="true" data-show-faces="true" data-stream="false" data-width="250">
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage3 widget_vw_widget_latest_category" id="vw_widget_latest_category-8">
+          <h3 class="widget-title">
+          </h3>
+          <div class="post-box-list">
+           <article class="post-4458 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+              <img alt="img_20210611_113937" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2021/06/IMG_20210611_113937-360x360.jpg" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/likovna-kolonija-kreativni-zajedno-ii-u-orahovici-2021/" rel="bookmark" title='Permalink zu KUNSTKOLONIE "KREATIV ZUSAMMEN II" IN ORAHOVICA,hr 2021.'>
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/" rel="category" title="Lesen Sie alle Kommentare in Galerie">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+             </a>
+            </div>
+           </article>
+           <article class="post-4396 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+              <img alt="img_20210522_123632" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2021/05/IMG_20210522_123632-360x360.jpg" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/kamp-u-tuheljskim-toplicama-od-20-do-23-svibnja-2021-godine/" rel="bookmark" title="Permalink zu CAMP IN TUHELJSKE TOPLICE VON F,hr 20. DIE 23. SVIBNJA 2021. JAHR">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/" rel="category" title="Lesen Sie alle Kommentare in Galerie">
+             </a>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+             </a>
+            </div>
+           </article>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage3 widget_vw_widget_latest_category" id="vw_widget_latest_category-9">
+          <h3 class="widget-title">
+          </h3>
+          <div class="post-box-list">
+           <article class="post-820 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/kampanja-bijele-vrpce-2/" rel="bookmark" title="Permalink zu WEISSE BAND KAMPAGNE">
+              <img alt="Bijele vrpce" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2015/01/Bijele-vrpce-360x360.bmp" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/kampanja-bijele-vrpce-2/" rel="bookmark" title="Permalink zu WEISSE BAND KAMPAGNE">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/kampanja-bijele-vrpce-2/" rel="bookmark" title="Permalink zu WEISSE BAND KAMPAGNE">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <div class="label label-light label-small" title="Video Post">
+              <i class="icon-entypo-play">
+              </i>
+             </div>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/video-zapisi/" rel="category" title="Lesen Sie alle Kommentare in Video zapisi">
+             </a>
+            </div>
+           </article>
+           <article class="post-818 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <div class="post-thumbnail-wrapper">
+             <a href="https://www.savezosit.hr/de/kamp-tuhelj/" rel="bookmark" title="Permalink zu KAMP TUHELJ">
+              <img alt="Kamp Tuhelj" class="attachment-vw_square_small wp-post-image" height="360" src="https://www.savezosit.hr/wp-content/uploads/2015/01/Tuhelj-360x360.bmp" width="360"/>
+             </a>
+            </div>
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/kamp-tuhelj/" rel="bookmark" title="Permalink zu KAMP TUHELJ">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/kamp-tuhelj/" rel="bookmark" title="Permalink zu KAMP TUHELJ">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <div class="label label-light label-small" title="Video Post">
+              <i class="icon-entypo-play">
+              </i>
+             </div>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/galerija/video-zapisi/" rel="category" title="Lesen Sie alle Kommentare in Video zapisi">
+             </a>
+            </div>
+           </article>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+    </div>
+    <div class="row vwpc-row">
+     <div class="vwpc-section-latest_category">
+      <div class="col-sm-7 col-md-8">
+       <hr class="section-hr"/>
+       <h1 class="section-title title title-large">
+       </h1>
+       <div class="row post-box-list">
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-2755 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/novosti/" rel="category" title="Lesen Sie alle Kommentare in Nachrichten">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/pravno-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Rechtsberatung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/programi-i-projekti/" rel="category" title="Lesen Sie alle Kommentare in Programme und Projekte">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/projekti/" rel="category" title="Lesen Sie alle Kommentare in Projekt">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/psiholosko-savjetovaliste/" rel="category" title="Lesen Sie alle Kommentare in Psychologische Beratung">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/zakoni/" rel="category" title="Lesen Sie alle Kommentare in Gesetze und Vorschriften">
+            </a>
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/psiholosko-savjetovaliste/zanimljivosti-iz-svijeta-psihologije/" rel="category" title="Lesen Sie alle Kommentare in Wissenswertes aus der Welt der Psychologie">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/uspjesno-zavrsen-projekt-osnazivanje-i-edukacija-roditelja-u-prvim-fazama-suocavanja-s-izazovima-odgoja-djece-s-teskocama-u-razvoju/" rel="bookmark" title="Permalink zu Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/707bdd7b5734dc91b2c8b92da6a9d1b1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/savezosit/" title="Alle Beiträge kroatische Verband der Menschen mit geistiger Behinderung">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/uspjesno-zavrsen-projekt-osnazivanje-i-edukacija-roditelja-u-prvim-fazama-suocavanja-s-izazovima-odgoja-djece-s-teskocama-u-razvoju/" rel="bookmark" title="Permalink zu Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/uspjesno-zavrsen-projekt-osnazivanje-i-edukacija-roditelja-u-prvim-fazama-suocavanja-s-izazovima-odgoja-djece-s-teskocama-u-razvoju/" rel="bookmark" title="Permalink zu Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/uspjesno-zavrsen-projekt-osnazivanje-i-edukacija-roditelja-u-prvim-fazama-suocavanja-s-izazovima-odgoja-djece-s-teskocama-u-razvoju/#comments" rel="bookmark" title="Permalink zu Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr,Katalog von Kindern mit Entwicklungsschwierigkeiten und psychologische Unterstützung für Eltern,,hr">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-468 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/popis-psiholoskih-savjetovalista/" rel="bookmark" title="Permalink zu LISTE DER Psychologische Beratung">
+            <img alt="ČAŠE-MUZEJ 136" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2014/12/ČAŠE-MUZEJ-136-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/psiholosko-savjetovaliste/zanimljivosti-iz-svijeta-psihologije/" rel="category" title="Lesen Sie alle Kommentare in Wissenswertes aus der Welt der Psychologie">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/popis-psiholoskih-savjetovalista/" rel="bookmark" title="Permalink zu LISTE DER Psychologische Beratung">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/popis-psiholoskih-savjetovalista/" rel="bookmark" title="Permalink zu LISTE DER Psychologische Beratung">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/popis-psiholoskih-savjetovalista/" rel="bookmark" title="Permalink zu LISTE DER Psychologische Beratung">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/popis-psiholoskih-savjetovalista/#comments" rel="bookmark" title="Permalink zu LISTE DER Psychologische Beratung">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+        <div class="post-box-wrapper col-sm-12">
+         <article class="post-466 post-box fly-in animated-content post-box-classic clearfix">
+          <div class="post-thumbnail-wrapper">
+           <a href="https://www.savezosit.hr/de/korisni-linkovi/" rel="bookmark" title="Permalink zu NÜTZLICHE LINKS (psychologische Themen und Tipps)">
+            <img alt="ČAŠE-MUZEJ 160" class="attachment-vw_medium wp-post-image" height="420" src="https://www.savezosit.hr/wp-content/uploads/2014/12/ČAŠE-MUZEJ-160-750x420.jpg" width="750"/>
+           </a>
+          </div>
+          <div class="post-box-inner">
+           <div class="post-categories clearfix">
+            <a class="label label-small" href="https://www.savezosit.hr/de/category/psiholosko-savjetovaliste/zanimljivosti-iz-svijeta-psihologije/" rel="category" title="Lesen Sie alle Kommentare in Wissenswertes aus der Welt der Psychologie">
+            </a>
+           </div>
+           <h3 class="title">
+            <a href="https://www.savezosit.hr/de/korisni-linkovi/" rel="bookmark" title="Permalink zu NÜTZLICHE LINKS (psychologische Themen und Tipps)">
+            </a>
+           </h3>
+           <div class="post-meta header-font">
+            <img alt="" class="avatar avatar-32 photo" height="32" src="http://1.gravatar.com/avatar/be39633ef3d562aa45ca0fe779f7b9ce?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" width="32"/>
+            <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+            </a>
+            <span class="post-meta-separator">
+            </span>
+            <a class="post-date" href="https://www.savezosit.hr/de/korisni-linkovi/" rel="bookmark" title="Permalink zu NÜTZLICHE LINKS (psychologische Themen und Tipps)">
+            </a>
+           </div>
+           <div class="post-excerpt">
+            <p>
+            </p>
+           </div>
+           <div class="post-box-footer clearfix">
+            <a class="read-more" href="https://www.savezosit.hr/de/korisni-linkovi/" rel="bookmark" title="Permalink zu NÜTZLICHE LINKS (psychologische Themen und Tipps)">
+             <i class="icon-entypo-right-open">
+             </i>
+            </a>
+            <a class="comment-count" href="https://www.savezosit.hr/de/korisni-linkovi/#comments" rel="bookmark" title="Permalink zu NÜTZLICHE LINKS (psychologische Themen und Tipps)">
+             <i class="icon-entypo-comment">
+             </i>
+            </a>
+           </div>
+          </div>
+         </article>
+        </div>
+       </div>
+      </div>
+      <div class="col-sm-5 col-md-4">
+       <aside class="sidebar-wrapper">
+        <div class="sidebar-inner">
+         <hr class="section-hr"/>
+         <div class="widget vw-sidebar-custom-Homepage4 widget_text" id="text-3">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <br/>
+           <br/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/Erset_banka.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/Gradska_plinara_zagreb.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/ILI_NET_sponzor.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/Radio_istra.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/Vetropack.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2014/11/Zaklada_Zvonimir_maric.jpg" width="150"/>
+           <img src="http://www.savezosit.hr/wp-content/uploads/2015/01/logo.jpg" width="150"/>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage4 widget_vw_widget_latest_category" id="vw_widget_latest_category-2">
+          <h3 class="widget-title">
+          </h3>
+          <div class="post-box-list">
+           <article class="post-1446 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/izdavastvo-2015/" rel="bookmark" title="Permalink zu Verlagswesen 2015">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/izdavastvo-2015/" rel="bookmark" title="Permalink zu Verlagswesen 2015">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <div class="label label-light label-small" title="Video Post">
+              <i class="icon-entypo-play">
+              </i>
+             </div>
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/izdavastvo/" rel="category" title="Lesen Sie alle Kommentare in Verlagswesen">
+             </a>
+            </div>
+           </article>
+           <article class="post-279 post-box fly-in animated-content post-box-small-thumbnail clearfix">
+            <h3 class="title title-small">
+             <a href="https://www.savezosit.hr/de/izdavastvo-2010/" rel="bookmark" title="Permalink zu Verlagswesen 2010">
+             </a>
+            </h3>
+            <div class="post-meta header-font">
+             <a class="author-name" href="https://www.savezosit.hr/de/author/ilinet/" title="Alle Beiträge ilinet">
+             </a>
+             <span class="post-meta-separator">
+             </span>
+             <a class="post-date" href="https://www.savezosit.hr/de/izdavastvo-2010/" rel="bookmark" title="Permalink zu Verlagswesen 2010">
+             </a>
+            </div>
+            <div class="post-categories clearfix">
+             <a class="label label-small" href="https://www.savezosit.hr/de/category/izdavastvo/" rel="category" title="Lesen Sie alle Kommentare in Verlagswesen">
+             </a>
+            </div>
+           </article>
+          </div>
+         </div>
+         <div class="widget vw-sidebar-custom-Homepage4 widget_text" id="text-11">
+          <h3 class="widget-title">
+          </h3>
+          <div class="textwidget">
+           <p>
+           </p>
+           <p>
+           </p>
+           <p>
+            <a href="mailto:savezosit@savezosit.hr">
+            </a>
+            <br/>
+           </p>
+           <p>
+           </p>
+           <p>
+            <img alt="volonteri" src="http://www.savezosit.hr/wp-content/uploads/2015/01/Volonteri.jpg" width="300"/>
+           </p>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer id="footer">
+    <div class="footer-sidebar">
+     <div class="container">
+      <div class="row">
+       <div class="footer-sidebar-1 widget-area col-sm-4" role="complementary">
+        <div class="widget vw-sidebar-footer-1 widget_text" id="text-4">
+         <h3 class="widget-title">
+          <span class="tr_" data-source="1" data-token="UFJPUElTSQ,," id="tr_3">
+          </span>
+         </h3>
+         <div class="textwidget">
+          <p align="justify">
+          </p>
+          <ul>
+           <li>
+            <a href="http://www.zakon.hr/z/88/Obiteljski-zakon" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/222/Zakon-o-socijalnoj-skrbi" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/493/Zakon-o-profesionalnoj-rehabilitaciji-i-zapo%C5%A1ljavanju-osoba-s-invaliditetom" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/91/Zakon-o-mirovinskom-osiguranju" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/190/Zakon-o-zdravstvenoj-za%C5%A1titi" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/255/Zakon-o-za%C5%A1titi-prava-pacijenata" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://narodne-novine.nn.hr/clanci/medunarodni/2007_06_6_80.html" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/731/Zakon-o-jedinstvenom-tijelu-vje%C5%A1ta%C4%8Denja" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/64/Zakon-o-udrugama" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/475/zakon-o-doplatku-za-djecu" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.zakon.hr/z/214/Zakon-o-rodiljnim-i-roditeljskim-potporama" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="https://zakon.hr/z/861/Zakon-o-psiholo%C5%A1koj-djelatnosti" target="_blank">
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="footer-sidebar-2 widget-area col-sm-4" role="complementary">
+        <div class="widget vw-sidebar-footer-2 widget_text" id="text-5">
+         <h3 class="widget-title">
+         </h3>
+         <div class="textwidget">
+          <p align="justify">
+          </p>
+          <ul>
+           <li>
+            <a href="http://www.uzuvrh.hr/defaulthrv.aspx" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.mspm.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.mrrfeu.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.posi.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://zaklada.civilnodrustvo.hr/frontpage" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.ipa-equality.eu/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.inclusion-europe.org/hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.soih.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.erf.unizg.hr/hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="http://www.psiholoska-komora.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href="https://strukturnifondovi.hr/" target="_blank">
+            </a>
+           </li>
+           <li>
+            <a href=" https://strukturnifondovi.hr/eu-fondovi/esi-fondovi-2014-2020/op-ucinkoviti-ljudski-potencijali-2014-2020/" target="_blank">
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="footer-sidebar-3 widget-area col-sm-4" role="complementary">
+        <div class="widget vw-sidebar-footer-3 bwp_gallery" id="bwp_gallery-3">
+         <h3 class="widget-title">
+         </h3>
+         <style>
+         </style>
+         <div id="bwg_container1_0">
+          <div id="bwg_container2_0">
+           <form action="#" id="gal_front_form_0" method="post">
+            <div class="bwg_back_0">
+            </div>
+            <div style="background-color:rgba(0, 0, 0, 0); text-align: center; width:100%; position: relative;">
+             <div id="ajax_loading_0" style="position:absolute;width: 100%; z-index: 115; text-align: center; height: 100%; vertical-align: middle; display:none;">
+              <div style="display: table; vertical-align: middle; width: 100%; height: 100%; background-color: #FFFFFF; opacity: 0.7; filter: Alpha(opacity=70);">
+               <div style="display: table-cell; text-align: center; position: relative; vertical-align: middle;">
+                <div id="loading_div_0" style="display: inline-block; text-align:center; position:relative; vertical-align: middle;">
+                 <img class="spider_ajax_loading" src="http://www.savezosit.hr/wp-content/plugins/photo-gallery/images/ajax_loader.png" style="float: none; width:50px;"/>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="bwg_standart_thumbnails_0" id="bwg_standart_thumbnails_0">
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/DSCN0455.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=91&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="DSCN0455" class="bwg_standart_thumb_img_0" id="91" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/DSCN0455.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:133.33333333333px; height:100px; margin-left: -16.666666666667px; margin-top: 0px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/DSCN0575.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=98&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="DSCN0575" class="bwg_standart_thumb_img_0" id="98" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/DSCN0575.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:100px; height:133.33333333333px; margin-left: 0px; margin-top: -16.666666666667px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/strateško_svi_časopis.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=99&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="strateško_svi_časopis" class="bwg_standart_thumb_img_0" id="99" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/strateško_svi_časopis.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:133.33333333333px; height:100px; margin-left: -16.666666666667px; margin-top: 0px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/DSCN0506.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=94&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="DSCN0506" class="bwg_standart_thumb_img_0" id="94" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/DSCN0506.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:133.33333333333px; height:100px; margin-left: -16.666666666667px; margin-top: 0px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/DSCN0477.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=93&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="DSCN0477" class="bwg_standart_thumb_img_0" id="93" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/DSCN0477.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:133.33333333333px; height:100px; margin-left: -16.666666666667px; margin-top: 0px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+              <a href="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/DSCN0513.jpg" onclick="spider_createpopup('https://www.savezosit.hr/wp-admin/admin-ajax.php?tag_id=0&amp;action=GalleryBox&amp;current_view=0&amp;image_id=95&amp;gallery_id=5&amp;theme_id=1&amp;thumb_width=100&amp;thumb_height=100&amp;open_with_fullscreen=0&amp;open_with_autoplay=0&amp;image_width=800&amp;image_height=500&amp;image_effect=fade&amp;wd_sor=order&amp;wd_ord=  asc  &amp;enable_image_filmstrip=1&amp;image_filmstrip_height=50&amp;enable_image_ctrl_btn=0&amp;enable_image_fullscreen=1&amp;popup_enable_info=1&amp;popup_info_always_show=0&amp;popup_info_full_width=0&amp;popup_hit_counter=0&amp;popup_enable_rate=0&amp;slideshow_interval=5&amp;enable_comment_social=1&amp;enable_image_facebook=1&amp;enable_image_twitter=1&amp;enable_image_google=1&amp;enable_image_pinterest=0&amp;enable_image_tumblr=0&amp;watermark_type=none&amp;current_url', 0, 800, 500, 1, 'testpopup', 5); return false;" style="font-size: 0;">
+               <span class="bwg_standart_thumb_0">
+                <span class="bwg_standart_thumb_spun1_0">
+                 <span class="bwg_standart_thumb_spun2_0">
+                  <img alt="DSCN0513" class="bwg_standart_thumb_img_0" id="95" src="http://www.savezosit.hr/wp-content/uploads/photo-gallery/strateski plan/thumb/DSCN0513.jpg" style="max-height: none !important;  max-width: none !important; padding: 0 !important; width:133.33333333333px; height:100px; margin-left: -16.666666666667px; margin-top: 0px;"/>
+                 </span>
+                </span>
+               </span>
+              </a>
+             </div>
+            </div>
+           </form>
+           <div class="spider_popup_loading" id="spider_popup_loading_0">
+           </div>
+           <div class="spider_popup_overlay" id="spider_popup_overlay_0" onclick="spider_destroypopup(1000)">
+           </div>
+          </div>
+         </div>
+         <script>
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="copyright">
+     <div class="container">
+      <div class="row">
+       <div class="col-sm-6 copyright-left">
+        <a href="http://webdizajn-ili.net" target="_blank" title="Web-Design oder NET">
+        </a>
+       </div>
+       <div class="col-sm-6 copyright-right">
+        <a class="back-to-top" href="#top">
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script>
+  </script>
+  <script type="text/javascript">
+  </script>
+  <div id="cookie-law-info-bar">
+   <span>
+    <a class="medium cli-plugin-button cli-plugin-main-button" href="#" id="cookie_action_close_header">
+    </a>
+    <a class="cli-plugin-main-link" href="http://www.savezosit.hr/izjava-o-koristenju-kolacica/" id="CONSTANT_OPEN_URL" target="_blank">
+    </a>
+   </span>
+  </div>
+  <script type="text/javascript">
+  </script>
+  <div style="display: none;">
+   <a href="http://inoplugs.com">
+   </a>
+   <a href="http://schoenmann.at/">
+   </a>
+  </div>
+  <link href="http://www.savezosit.hr/wp-content/plugins/lightbox/css/frontend/colorbox-1.css?ver=4.1.5" id="style-name-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.savezosit.hr/wp-includes/js/comment-reply.min.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.10" type="text/javascript">
+  </script>
+  <script src="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.10" type="text/javascript">
+  </script>
+  <script src="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script src="//www.savezosit.hr/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.10" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/presso-shortcodes/js/presso-shortcodes.js" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/js/jquery.fitvids.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/js/jquery.isotope.min.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/framework/flexslider/jquery.flexslider.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/framework/swipebox/jquery.swipebox.min.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/js/asset.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/themes/presso/js/main.js?ver=1.13.0" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/lightbox/js/frontend/custom.js?ver=4.1.5" type="text/javascript">
+  </script>
+  <script src="http://www.savezosit.hr/wp-content/plugins/lightbox/js/frontend/jquery.colorbox.js?ver=4.1.5" type="text/javascript">
+  </script>
+ </body>
+</html>
